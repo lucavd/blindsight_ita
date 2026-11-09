@@ -75,3 +75,11 @@ Decisione: nel testo del romanzo le lineette sono ammesse e si usano dove le usa
 Motivazione: la regola del PI riguarda i testi scritti dall'agente, non la resa di un autore che fa delle lineette un tratto del suo ritmo; sostituirle cambierebbe lo stile dell'originale.
 
 Deciso da: PI. Data: 2026-11-09. Stato: valida.
+
+## D-09 La sessione sulla sorgente (S0) si fa con Fable 5.2 invece di Sonnet
+
+Decisione: la sessione che scarica la sorgente e la divide in blocchi (S0) si esegue con Fable 5.2, il modello della chat in cui il PI l'ha aperta, e non con Sonnet 5.5 come previsto dalla decisione sui modelli (D-05). È una deroga alla regola sul modello previsto e vale solo per S0: per tutte le altre sessioni resta il modello scritto in `docs/state.tsv`. Se S0 si interrompe, si può riprendere con Fable 5.2 o con Sonnet 5.5.
+
+Motivazione: S0 non scrive una riga di italiano (scarica, divide, conta), quindi il modello non può cambiare la voce della traduzione, che è la ragione della regola. Il costo è un consumo maggiore dei limiti d'uso rispetto a Sonnet.
+
+Deciso da: PI. Data: 2026-11-09. Stato: valida.
