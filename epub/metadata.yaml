@@ -1,0 +1,16 @@
+---
+# EPUB metadata. Title and translator credit are confirmed in session S1.
+title: Blindsight
+creator:
+  - role: author
+    text: Peter Watts
+contributor:
+  - role: trl
+    text: Traduzione italiana non ufficiale, per uso personale
+lang: it-IT
+date: "2026"
+rights: >-
+  Testo originale di Peter Watts (2006), distribuito dall'autore con licenza
+  Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo.
+  Traduzione non ufficiale, non autorizzata né rivista dall'autore.
+---

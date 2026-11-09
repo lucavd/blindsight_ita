@@ -1,0 +1,46 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Test novel</title>
+<style>p { margin: 0 }</style>
+<script>var x = "not text";</script>
+</head>
+<body bgcolor="#ffffff">
+<!-- a comment that must not be counted -->
+<p><font size="-1">Download notice: this page is also available as PDF and RTF. Thanks to the volunteers.</font></p>
+<h1>Test Novel</h1>
+<p align="center"><b>A. N. Author</b></p>
+<p align="center"><i>For Somebody</i></p>
+<blockquote><p>Two lines of an invented epigraph,<br>
+split by a single break.</p>
+<p align="right">&mdash;Imaginary Person, <i>Invented Book</i></p></blockquote>
+<h2>Prologue</h2>
+<p>It started with a sentence that had <i>italic words </i>and a trailing space inside the tag.</p>
+<p>"Dialogue in straight quotes," she said&mdash;and stopped.&nbsp;Then she went on.</p>
+<p>1984. This line starts with a number and a period, which pandoc would read as a list.</p>
+<p># This one starts with a hash.</p>
+<p>Special characters: an asterisk * in the middle, an_underscore, a dollar $5 and $6, an @handle, a [bracket].</p>
+<p align="center">*</p>
+<div>A run of text directly inside a div,
+with a line break<br>and then a double break<br><br>which makes a new paragraph with <em>emphasis
+across a newline</em>.</div>
+<center>* * *</center>
+<p>Final paragraph of the prologue with nested <b>bold and <i>italic</i></b> text and a superscript x<sup>2</sup>.</p>
+<h2>Theseus</h2>
+<blockquote><p>An epigraph quoting a song by a real author.<br>Second line of the song.</p></blockquote>
+<p>First paragraph of the second part. It is long enough to compute a length ratio, because the check ignores paragraphs shorter than eighty characters.</p>
+<p>Second paragraph, with a list-like opening on a new line<br>a) like this one,<br>(1) and this one.</p>
+<hr>
+<p>After a horizontal rule. More text to make the part long enough to be split into more than one chunk if the target is small.</p>
+<p>Yet another paragraph in the second part, with enough words to push the counter over the small target used in the test.</p>
+<p align="center"><img src="rorschach.gif" alt="Rorschach"></p>
+<blockquote><p>An invented epigraph opening a chapter of the third part.</p></blockquote>
+<p>Text of the third part, whose title exists only as an image in the original page, so it has to be added by hand from a small table of headings.</p>
+<blockquote><p>A second invented epigraph opening the next chapter, without any heading.</p></blockquote>
+<p>Text of the next chapter, long enough to make the chapter rule cut the chunk here when the target is small enough for this fixture.</p>
+<h2>Notes and References</h2>
+<p>Smith, J. (2001). An invented paper title. <i>Journal of Invention</i> 12: 34-56.</p>
+<p><font size="-2">Website footer: back to the main page.</font></p>
+</body>
+</html>

@@ -1,0 +1,40 @@
+{
+  "_comment": "Thresholds and forbidden characters used by 'check'. The forbidden characters follow the typographic decisions taken in S1 (docs/style-guide.md). Do not change after S2 without a recorded decision.",
+  "forbidden_chars": {
+    "\u2014": "lineetta lunga (nel libro si usa solo la lineetta media, U+2013)",
+    "\"": "virgolette dritte (i dialoghi vanno tra caporali)",
+    "\u2026": "puntini come carattere unico (nei file di lavoro si usano tre punti)"
+  },
+  "ratio_bounds": [
+    0.75,
+    1.8
+  ],
+  "ratio_min_chars": 80,
+  "ratio_median_expected": [
+    1.0,
+    1.35
+  ],
+  "english_markers": [
+    "the",
+    "and",
+    "of",
+    "that",
+    "with",
+    "was",
+    "were",
+    "his",
+    "her",
+    "they",
+    "this",
+    "from",
+    "which",
+    "would",
+    "could",
+    "there",
+    "what",
+    "into",
+    "been",
+    "you"
+  ],
+  "english_flag_threshold": 3
+}

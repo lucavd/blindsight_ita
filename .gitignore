@@ -1,0 +1,7 @@
+build/
+scratch/
+__pycache__/
+*.pyc
+.claude/settings.local.json
+comparison/.key.json
+.DS_Store
