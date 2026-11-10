@@ -56,7 +56,9 @@ Limite visto in apertura: il riassunto del pilota, che il PI ha letto, citava tr
 
 Ogni sotto-agente della prova B riceve nel prompt il divieto di aprire `translation/`, `review/`, `checks/`, `build/`, `docs/sessions/`, `docs/decisions.md` e `docs/log.md`, che contengono la versione A o ne citano le rese: la prova B deve essere indipendente.
 
-Il controllo sui blocchi della prova B si lancia senza `--save`: con `--save` lo script scrive in `checks/` con lo stesso nome dei risultati della versione A e li sovrascriverebbe. L'output si conserva in `trial-b/checks/`.
+Il controllo sui blocchi della prova B, lanciato con `--save`, scriveva in `checks/` con lo stesso nome dei risultati della versione A e li avrebbe sovrascritti. Corretto prima del primo controllo: con la cartella alternativa i risultati vanno in `trial-b/checks/` (decisione sui risultati dei controlli della prova B, D-32). I due EPUB anonimi hanno un titolo proprio, per distinguerli nel lettore (decisione sul titolo dei due EPUB del confronto, D-31).
+
+Il PI ha precisato durante il lavoro di non avere scaricato nessun EPUB: i due file del confronto gli si consegnano entrambi in questa chat.
 
 # In breve
 

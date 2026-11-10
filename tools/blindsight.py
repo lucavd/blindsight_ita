@@ -886,8 +886,11 @@ def cmd_check(args):
         if res.get("ratio_median"):
             medians.append(res["ratio_median"])
         if args.save:
-            p["checks"].mkdir(parents=True, exist_ok=True)
-            out = p["checks"] / ("%s-%s.json" % (cid, args.stage))
+            # with --dir (pilot B) the results go next to that directory, so that
+            # they never overwrite the results of the main translation in checks/
+            cdir = (Path(args.dir).parent / "checks") if args.dir else p["checks"]
+            cdir.mkdir(parents=True, exist_ok=True)
+            out = cdir / ("%s-%s.json" % (cid, args.stage))
             out.write_text(json.dumps(res, ensure_ascii=False, indent=1), encoding="utf-8")
     if len(cids) > 1:
         lo, hi = cfg.get("ratio_median_expected", [1.0, 1.35])

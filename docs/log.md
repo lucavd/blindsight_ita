@@ -10,6 +10,8 @@ generated:
 
 ## 2026-11-10
 
+I risultati dei controlli sulla prova B si salvano in `trial-b/checks/` e non sovrascrivono più quelli della versione A (decisione sui risultati dei controlli della prova B, D-32). Collaudo degli script superato, 44 controlli.
+
 I due EPUB del confronto alla cieca hanno ora un titolo proprio, «Blindsight (pilota X)» e «Blindsight (pilota Y)», per distinguerli nella libreria del lettore (decisione sul titolo dei due EPUB del confronto, D-31). Collaudo degli script superato, con un controllo in più.
 
 Aperto il confronto alla cieca (S2b) sui blocchi 01 e 18, con Fable 5.2, nella chat cloud svuotata e sul ramo `sessione-S2b` (decisione sulla chat cloud riaperta, D-27). Sorgente integra (50 file), epubcheck 4.2.6 presente, pull request del pilota già unita. Guida di stile, glossario e scheda dei personaggi non sono cambiati dopo la chiusura del pilota (ultimo commit che li tocca: 30b27e6, dentro il pilota).

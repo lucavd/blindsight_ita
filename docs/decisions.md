@@ -267,3 +267,11 @@ Decisione: il comando che costruisce le due versioni anonime scrive nei metadati
 Motivazione: i due file avevano lo stesso titolo e la stessa copertina, quindi nella libreria di un lettore di EPUB non si distinguevano e il PI non avrebbe saputo quale dei due stava leggendo. L'etichetta è quella del nome del file e non dice nulla su chi ha tradotto. Il titolo dell'EPUB del libro intero non cambia.
 
 Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-32 I risultati dei controlli sulla prova B si salvano accanto alla sua cartella
+
+Decisione: quando il controllo di un blocco riceve una cartella alternativa e l'opzione di salvataggio, scrive i risultati nella cartella `checks` accanto a quella alternativa (per la prova B: `trial-b/checks/`) e non in `checks/`. Il collaudo degli script ha due controlli in più: questo, e il calcolo della quota di paragrafi cambiati sulla prima stesura della cartella alternativa.
+
+Motivazione: con la cartella alternativa lo script salvava in `checks/` con lo stesso nome dei risultati della versione A e li avrebbe sovrascritti. La procedura del confronto evitava il problema solo perché non usa il salvataggio; così i numeri della prova B restano in un file, come quelli della versione A, senza toccare i suoi.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
