@@ -443,3 +443,11 @@ Decisione: entrano nel glossario, approvate dall'agente, tre voci per termini de
 Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Tutto nominale è un calco del gergo aerospaziale inglese, e il blocco 18 rivisto ha già scelto nella norma per la stessa espressione. Cryptic vuol dire enigmatico e non ha a che fare con la cripta: l'espressione di ricerca precedente produceva falsi allarmi (due nel blocco 16). Nessuna resa tocca il senso.
 
 Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-54 La forma sciolta di TAT e una voce nuova del glossario dai termini del blocco 17
+
+Decisione: la sigla TAT resta TAT, al maschile, e la forma sciolta nel blocco 17 (p01575) è «Tocco Attitudinale Transitorio», la resa del traduttore; la nota della voce sui ritocchi (G056) lo registra, e la segnalazione del controllo su Tweak e su transient (voce sulle orche, G117) è un falso allarme. Entra nel glossario, approvata dall'agente, G178 functional cluster (blocchi 17 e 35): aggregato funzionale. Gli altri termini proposti dal traduttore del blocco 17 compaiono solo lì (mu-ops, kitchen-catcher, Sax, skullcap, glial jumpstarts): restano la sua scelta.
+
+Motivazione: la voce sui ritocchi chiede che la forma sciolta ricrei la sigla, e il blocco 18 rivisto ha un TAT al maschile. Tocco tiene il piccolo aggiustamento di tweak e richiama il ritoccato del paragrafo dopo. Attitudinale in italiano vale di solito relativo alle attitudini, ma il calco circola nel gergo del marketing e qui suona come il nome commerciale di un trattamento, che è ciò che Chelsea offre; l'alternativa Tocco d'Atteggiamento Transitorio è più esatta e più pesante, e resta annotata per la revisione. Per functional cluster due ricerche in rete non hanno trovato una forma italiana consolidata della teoria di Tononi ed Edelman: aggregato funzionale è italiano trasparente e tiene uguali i due blocchi; il revisore del blocco 35 può riconsiderarlo se trova una forma standard.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
