@@ -886,8 +886,11 @@ def cmd_check(args):
         if res.get("ratio_median"):
             medians.append(res["ratio_median"])
         if args.save:
-            p["checks"].mkdir(parents=True, exist_ok=True)
-            out = p["checks"] / ("%s-%s.json" % (cid, args.stage))
+            # with --dir (pilot B) the results go next to that directory, so that
+            # they never overwrite the results of the main translation in checks/
+            cdir = (Path(args.dir).parent / "checks") if args.dir else p["checks"]
+            cdir.mkdir(parents=True, exist_ok=True)
+            out = cdir / ("%s-%s.json" % (cid, args.stage))
             out.write_text(json.dumps(res, ensure_ascii=False, indent=1), encoding="utf-8")
     if len(cids) > 1:
         lo, hi = cfg.get("ratio_median_expected", [1.0, 1.35])
@@ -1100,7 +1103,7 @@ def assemble(p, cids, translation_dir, allow_draft, cfg, glossary):
     return "\n".join(lines)
 
 
-def run_pandoc(book_md, out, p):
+def run_pandoc(book_md, out, p, title=None):
     if not shutil.which("pandoc"):
         die("pandoc non installato")
     ver = subprocess.run(["pandoc", "--version"], capture_output=True, text=True).stdout
@@ -1119,6 +1122,9 @@ def run_pandoc(book_md, out, p):
         cmd += ["--metadata-file", str(meta)]
     if css.exists():
         cmd += ["--css", str(css)]
+    if title:
+        # -M wins over --metadata-file: the two blind EPUBs must be told apart in a reader's library
+        cmd += ["-M", "title=" + title]
     r = subprocess.run(cmd, capture_output=True, text=True)
     if r.returncode != 0:
         print(r.stderr)
@@ -1187,7 +1193,8 @@ def cmd_blind(args):
         book = assemble(p, cids, d, False, cfg, glossary)
         md = p["build"] / ("pilota-%s.md" % label)
         md.write_text(book, encoding="utf-8")
-        run_pandoc(md, p["build"] / ("pilota-%s.epub" % label), p)
+        run_pandoc(md, p["build"] / ("pilota-%s.epub" % label), p,
+                   title="Blindsight (pilota %s)" % label)
     key_path.write_text(json.dumps(mapping, indent=1), encoding="utf-8")
     print("Scritti build/pilota-X.epub e build/pilota-Y.epub. La chiave è in "
           "comparison/.key.json: non aprirla prima di aver scelto.")

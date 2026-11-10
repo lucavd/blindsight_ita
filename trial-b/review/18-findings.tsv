@@ -1,0 +1,214 @@
+pid	verdict	type	severity	problem	proposal
+p01633	ok
+p01634	issue	doubt	low	Parere sul dubbio 1: confermo «Vecchio proverbio degli ecologi». Il modello è Old Chinese Proverb e il singolare con apostrofo vale come generico. Lineetta media e spazio sono conformi alla decisione del PI.	– Vecchio proverbio degli ecologi
+p01635	ok
+p01636	ok
+p01637	ok
+p01638	ok
+p01639	ok
+p01640	issue	doubt	low	Parere sul dubbio 8 (tutto il blocco): confermo. Punto fermo dentro le caporali per la battuta completa e virgola fuori per l'inciso sono applicati in modo coerente in tutto il blocco, e la virgola segue l'esempio della guida. Il primo caso va scritto nella guida perché valga per tutti i blocchi.	«Non credo.»
+p01641	ok
+p01642	ok
+p01643	issue	register	low	«È una follia» alza il registro di That's crazy, che in bocca a Szpindel è colloquiale. Una resa parlata tiene anche il senso clinico ripreso in p01644.	«È roba da matti, eh?»
+p01644	issue	register	low	Dipende da p01643: se lì la parola cambia, l'eco di Define crazy va tenuta con la stessa parola.	«Definisci *matti*.»
+p01645	issue	doubt	low	Parere sul dubbio 2: confermo «gomito a gomito dietro Szpindel». Fa leggere la Banda come più persone pigiate, che è il doppio senso di cheek-to-jowl; «a ridosso di Szpindel» perderebbe il gioco.	La Banda fluttuava in silenzio, gomito a gomito dietro Szpindel nell'involucro angusto.
+p01645	issue	calque	low	«ossessionarsi con la gamba» ricalca obsessing about: il riflessivo in italiano è forzato.	Cruncher aveva smesso di essere ossessionato dalla gamba appena ci eravamo sigillati dentro.
+p01646	ok
+p01647	ok
+p01648	ok
+p01649	issue	doubt	medium	Parere sul dubbio 3: la voce del glossario su pod riguarda le capsule di risveglio e mediche; qui pod è il sensore applicato alla tenda (sensor pod, p01542). «Capsula» da sola, in un blocco dove le capsule sono quelle della cripta, confonde il lettore. Propongo «sensore», da allineare alla resa finale di p01542.	La mano di Szpindel si fermò al di qua della parete, di fronte al sensore.
+p01649	issue	calque	low	«numeri vibrati lungo il suo braccio» usa vibrare come transitivo, ricalcando vibrated down his arm.	Il mio HUD fu inondato di numeri di seconda mano, scesi in vibrazioni lungo il suo braccio e ritrasmessi alle nostre tute.
+p01650	issue	doubt	low	Parere sul dubbio 4: confermo «transitorio», aggettivo comune e non l'ecotipo del glossario (falso allarme del controllo). L'ordine «un qualche transitorio fronte» ricalca però la sequenza inglese degli aggettivi: meglio posporre.	mentre un qualche fronte transitorio di bassa pressione passava oltre.
+p01651	ok
+p01652	ok
+p01653	ok
+p01654	ok
+p01655	issue	omission	high	Manca for it di You reached for it: la mano che va verso la batteria è il punto dell'argomento di Siri. Omissione piccola, ma di contenuto, e per questo classificata alta.	«Hai allungato la mano per prenderla. L'hai quasi presa.
+p01655	issue	doubt	low	Parere sul dubbio 5: il gioco caso cieco e visione cieca va tenuto come indica il glossario, ma «un caso cieco» con l'indeterminativo si legge come un caso fra tanti e non come il caso. Con il determinativo l'eco con p01656 resta intatta.	Non è stato il caso cieco.»
+p01656	issue	doubt	low	Parere sul dubbio 5: confermo «Caso cieco no. *Visione* cieca.» e lo spostamento del corsivo sulla parola intera.	«Caso cieco no. *Visione* cieca. Amanda? Rispondi, per favore.»
+p01657	ok
+p01658	ok
+p01659	ok
+p01660	issue	doubt	low	Parere sul dubbio 6: confermo la distinzione. Lineetta attaccata alla parola troncata e spazio dopo quando la battuta si interrompe e riparte (qui, p01728, p01812, p01822); lineetta spaziata quando segna un'esitazione dentro la frase (p01704, p01759, p01776, p01804, p01821, p01824). Sono le due forme che la guida prevede per discorso interrotto e inciso. La regola va scritta nella guida perché valga in tutti i blocchi.	«Una cosa del genere. Sta' zitto e lasciami– Amanda, mi senti?»
+p01661	ok
+p01662	ok
+p01663	ok
+p01664	issue	doubt	low	Parere sul dubbio 7: confermo. I quattro puntini sono un'irregolarità tipografica della sorgente; tre puntini come da guida.	«...no...» Un sussurro come rumore bianco.
+p01665	ok
+p01666	ok
+p01667	ok
+p01668	ok
+p01669	ok
+p01670	issue	rhythm	low	«a una velocità di tre cifre in baud» è contorto: l'unità finisce staccata dalla grandezza.	trasmessa attraverso arti e piombo a una velocità in baud a tre cifre.
+p01671	ok
+p01672	issue	doubt	low	Parere sul dubbio 7: confermo, il punto dopo le virgolette chiuse è un refuso della sorgente.	«...No...»
+p01673	ok
+p01674	issue	doubt	low	Parere sul dubbio 7: confermo i tre puntini al posto dei due della sorgente.	«...N–no.»
+p01675	ok
+p01676	issue	doubt	low	Parere sul dubbio 9: confermo «scotta troppo», che tiene hot nel senso di radioattivo senza spiegarlo; «maledizione» ha la forza di damn. L'alternativa con «caldo» farebbe pensare alla temperatura.	«Senti. Amanda, è pericoloso. Là fuori scotta troppo, maledizione, lo capisci? Tu–»
+p01677	ok
+p01678	ok
+p01679	ok
+p01680	ok
+p01681	issue	nuance	low	«Dopo un tempo lunghissimo» esagera At long last, che vale finalmente, dopo un'attesa: nella scena passano pochi secondi.	James sì. Finalmente, e piano: «E *che cosa* sei, Amanda?»
+p01682	ok
+p01683	ok
+p01684	issue	nuance	low	Here reso «Lì» allontana la scena. Il deittico di vicinanza regge anche al passato e tiene il lettore dentro il manufatto.	Qui, nel ventre della bestia, era così facile crederci.
+p01685	ok
+p01686	ok
+p01687	ok
+p01688	ok
+p01689	ok
+p01690	ok
+p01691	ok
+p01692	ok
+p01693	ok
+p01694	ok
+p01695	ok
+p01696	ok
+p01697	ok
+p01698	ok
+p01699	issue	nuance	low	«ci guardò dentro» si può leggere come guardò dentro di noi; looked in at us è guardare dentro il rifugio, verso di noi.	Amanda Bates guardò dentro, verso di noi, attraverso la membrana scoperta.
+p01700	ok
+p01701	ok
+p01702	ok
+p01703	ok
+p01704	issue	doubt	low	Parere sul dubbio 6: vedi p01660. Qui la lineetta segna un'esitazione dentro la frase: spaziata, confermata.	«Tu – esisti?» chiesi.
+p01705	ok
+p01706	issue	calque	low	«Deglutì in modo udibile» ricalca swallowed audibly.	«Ehm...» Lo si sentì deglutire.
+p01707	ok
+p01708	issue	rhythm	low	«non dovremmo doverci preoccupare» ripete dovere senza che l'inglese lo chieda.	«Ma non dovremmo aver da preoccuparci di – effetti estremi – finché non arriva un altro picco.»
+p01709	ok
+p01710	ok
+p01711	ok
+p01712	ok
+p01713	ok
+p01714	ok
+p01715	ok
+p01717	issue	doubt	low	Parere sul dubbio 10: confermo «piranometri». La parola dista una lettera da pyranometers e gli strumenti bimetallici a registrazione corrispondono alle linguette di metallo e ai rotoli; i pirometri non misurano così. La nota per il PI prevista dalla guida c'è.	Rozzi piranometri e termografi
+p01717	issue	doubt	low	Parere sul dubbio 11: confermo «dimora infestata», a condizione che la versione finale di p01510 renda Haunted con «infestata»; altrimenti si allinea a quella.	un tunnel che entrava nella dimora infestata
+p01717	issue	doubt	low	Parere sul dubbio 12: confermo «funi guida tese dall'uno all'altro». Strung può valere per tutto l'elenco, ma l'immagine che ne esce è la stessa (globi e campane collegati dalle funi) e la frase italiana resta leggibile.	Globi luminosi e campane da palombaro e funi guida tese dall'uno all'altro.
+p01718	ok
+p01719	ok
+p01720	issue	calque	low	«marciti da dentro a fuori» ricalca from the inside out.	Poi saremmo collassati su noi stessi, marciti dall'interno verso l'esterno.
+p01721	issue	nuance	medium	«discretamente distante» in italiano si legge prima di tutto come abbastanza distante; discreetly qui vale con discrezione (Sarasti si tiene lontano per riguardo). Il senso dell'avverbio rischia di perdersi.	Jukka Sarasti – con discrezione a distanza sul pavimento rotante – balzò in alto nella nostra scia
+p01721	issue	doubt	low	Parere sul dubbio 13: confermo «i Morti Volanti», con le maiuscole di Watts e l'eco dei morti viventi.	Attraversammo il tamburo in fila indiana, i Morti Volanti in formazione.
+p01722	ok
+p01723	issue	doubt	low	Parere sul dubbio 14: confermo «che un giorno sarei rinato». Ever in frase affermativa non ha un equivalente naturale e «mai» qui suonerebbe forzato; «a dirmi» è un sostegno sintattico che non aggiunge contenuto.	Avevo soltanto la teoria, e le assicurazioni delle macchine mie simili, a dirmi che un giorno sarei rinato.
+p01725	issue	doubt	low	Parere sul dubbio 15: confermo. «Vieni fuori» è la formula italiana corrente dell'episodio di Lazzaro e l'eco si sente.	*Keeton, vieni fuori*.
+p01726	ok
+p01727	ok
+p01728	issue	rhythm	low	«di gran lunga troppo– troppo» appesantisce far too e l'interruzione perde lo scatto.	Grigio e luccicante, decisamente troppo– troppo *assottigliato* per essere umano.
+p01728	issue	doubt	low	Parere sul dubbio 6: vedi p01660. Qui la frase si interrompe e riparte: lineetta attaccata, confermata.	troppo– troppo *assottigliato*
+p01729	ok
+p01730	issue	doubt	low	Parere sul dubbio 16: confermo «un annotatore nudo». È raro ma trasparente e tiene il tono riduttivo di note-taker; «scrivano» porterebbe un'immagine antiquata che l'inglese non ha.	una cripta vuota, un annotatore nudo.
+p01730	issue	doubt	low	Parere sul dubbio 17: confermo «tutti i sistemi nominali», gergo aerospaziale in uso anche in italiano e coerente con la voce di Siri.	Richiamai ConSensus: tutti i sistemi nominali.
+p01731	ok
+p01732	ok
+p01733	issue	nuance	low	«non era affatto ferma come avevo sperato» si può leggere come non ferma per niente, proprio come speravo. Wasn't nearly so steady è un confronto: molto meno ferma del previsto.	La mia voce era molto meno ferma di quanto avessi sperato.
+p01734	issue	doubt	low	Parere sul dubbio 18: confermo il plurale a senso («sedevano», «fissavano»), che tiene il they di Watts. «In cima» però in italiano è solo spaziale e fa pensare a una pila di corpi più di on top; «in superficie» è il verbo che il libro usa per le personalità che emergono.	con James in superficie, sedevano in una poltrona diagnostica e fissavano una qualche figura di prova
+p01735	ok
+p01736	ok
+p01737	ok
+p01738	ok
+p01739	ok
+p01740	ok
+p01741	ok
+p01742	issue	doubt	low	Parere sul dubbio 19: confermo il maschile plurale («tutti»), perché il gruppo comprende Cruncher.	«L'abbiamo visto tutti.»
+p01743	ok
+p01744	ok
+p01745	ok
+p01746	issue	nuance	low	Might have even called it reso «l'avrebbe magari chiamata»: «magari» tiene might ma perde even, che dà la punta di sufficienza.	Chi si impressiona facilmente avrebbe perfino potuto chiamarla lettura del pensiero.
+p01747	ok
+p01748	ok
+p01749	issue	nuance	low	«pentagrammi» in italiano fa pensare prima al rigo musicale; il senso geometrico esiste ma è secondario. Da valutare una parola che non lasci il dubbio.	Adesso lo schermo era pieno di pentacoli asimmetrici incastrati l'uno nell'altro, una ragnatela di squame di pesce.
+p01750	ok
+p01751	ok
+p01752	ok
+p01753	ok
+p01754	ok
+p01755	issue	doubt	low	Parere sul dubbio 20: confermo il tu. Szpindel ha appena detto Suze e parla del giorno in cui lei è nata; il voi alla Banda renderebbe strana proprio quella frase.	«Era nella tua testa da sempre. Era nella tua testa il giorno in cui sei nata.»
+p01756	ok
+p01757	ok
+p01758	issue	rhythm	low	«le aveva mai viste prima. *Mai*.» anticipa mai e toglie forza a *Ever*, che in inglese arriva solo alla fine.	«Nessuno di noi le aveva viste prima. *Mai*.»
+p01758	issue	doubt	low	Parere sul dubbio 19: confermo il maschile («Nessuno di noi»), come in p01742.	«Nessuno di noi
+p01759	issue	doubt	low	Parere sul dubbio 20: confermo «Ti credo», coerente con il tu di p01755.	«Ti credo.
+p01759	issue	doubt	low	Parere sul dubbio 6: vedi p01660. Esitazione dentro la frase: lineetta spaziata, confermata.	era solo – interferenza.
+p01760	issue	rhythm	low	«roba tremolante con la coda dell'occhio che vedevamo dappertutto» ricalca l'ordine di corner-of-your-eye stuff e inciampa: il complemento va con il verbo.	Non quella roba tremolante che vedevamo dappertutto con la coda dell'occhio.
+p01761	ok
+p01762	ok
+p01763	issue	nuance	low	In inglese Any time you're ready non dice ancora a chi è rivolto: lo si capisce in p01764. «Quando sei pronto tu» lo anticipa con il maschile e aggiunge un tu enfatico che non c'è.	E poi: «Quando vuoi.»
+p01764	issue	doubt	low	Parere sul dubbio 21: confermo «poltrona», la stessa poltrona diagnostica di p01734.	James si alzò dalla poltrona
+p01765	ok
+p01766	ok
+p01767	ok
+p01768	ok
+p01769	ok
+p01770	ok
+p01771	issue	doubt	low	Parere sul dubbio 22: confermo «nel ret». L'abbreviazione è oscura in inglese e resta oscura; il maschile è la scelta meno marcata.	«Inibitori della colinesterasi elevati nel ret. Gnam.»
+p01772	ok
+p01773	ok
+p01774	issue	doubt	low	Parere sul dubbio 23: confermo «lì dentro». La lettura più probabile è la capsula (Siri si sveglia dopo gli altri), ma l'inglese non lo dice e l'italiano lascia aperte le due letture.	«Sei rimasto lì dentro un po' più di noialtri», osservò.
+p01775	ok
+p01776	issue	doubt	low	Parere sul dubbio 6: vedi p01660. Esitazioni dentro la frase: lineette spaziate, confermate.	qualsiasi cosa – imminente, quindi direi – ah.»
+p01777	ok
+p01778	ok
+p01779	ok
+p01780	ok
+p01781	ok
+p01782	ok
+p01783	ok
+p01784	issue	rhythm	low	«l'unica cosa che ci ha fatto quella cosa» ripete cosa a breve distanza; l'inglese ha all e that thing.	«Certo, il cancro non è tutto quello che ci ha fatto quella cosa.»
+p01785	issue	doubt	medium	Parere sul dubbio 24: «braccia pluriarticolate da una massa centrale» in italiano non regge, perché «da» si lega a «pluriarticolate» come un complemento d'agente. L'alternativa del traduttore è italiana e si può riprendere parola per parola nella citazione del blocco 35 (Braccia pluriarticolate che partivano da una massa centrale).	Aveva queste braccia pluriarticolate che partivano da una massa centrale.
+p01786	ok
+p01787	ok
+p01788	ok
+p01789	ok
+p01790	issue	doubt	low	Parere sul dubbio 25: in questa prova non posso leggere il blocco 17. «Un TAT» va bene solo se la forma italiana sciolta in quel blocco ricrea la stessa sigla, come chiede il glossario; altrimenti qui si usa la sigla di lì. Da verificare prima della versione finale.	«Non ti sei mai fatto un TAT?
+p01791	ok
+p01792	ok
+p01793	ok
+p01794	ok
+p01795	ok
+p01796	ok
+p01797	ok
+p01798	issue	doubt	low	Parere sul dubbio 7: confermo, l'apostrofo in chiusura è una virgoletta senza compagna (refuso tipografico secondo la guida).	«Tipo cosa?»
+p01799	ok
+p01800	ok
+p01801	issue	doubt	low	Parere sul dubbio 26: confermo il femminile («Le ho già viste»), riferito a queste cose di p01787 e alle allucinazioni; il maschile rimanderebbe agli effetti magnetici, che non si vedono.	*Le ho già viste prima,* avrei potuto dire.
+p01802	ok
+p01803	issue	nuance	low	When I was spying riprende il when? di p01802; «Mentre» spezza l'eco tra domanda e risposta.	*Quando spiavo la tua vita privata*
+p01804	issue	doubt	low	Parere sul dubbio 6: vedi p01660. Esitazione dentro la frase: lineetta spaziata, confermata.	È solo che ultimamente sono – nervoso.
+p01805	issue	doubt	low	Parere sul dubbio 24: «con una massa centrale» rende il with di Szpindel e va bene comunque si risolva p01785; la citazione del blocco 35 riprende p01785, non questa battuta.	«Braccia pluriarticolate con una massa centrale?»
+p01806	ok
+p01807	ok
+p01808	ok
+p01809	issue	doubt	low	Parere sul dubbio 27: confermo «Il maggiore non l'ho vista», grado al maschile e accordo al femminile come da glossario.	«La Banda sta bene, anche se un po' delusa. Il maggiore non l'ho vista.»
+p01810	ok
+p01811	ok
+p01812	issue	omission	medium	Manca possibly, che dà alla domanda l'incredulità di Siri (how could she possibly believe).	«Come– come ha mai potuto credere di non *esistere* nemmeno?»
+p01812	issue	doubt	low	Parere sul dubbio 6: vedi p01660. La battuta si interrompe e riparte: lineetta attaccata, confermata.	«Come– come
+p01813	ok
+p01814	ok
+p01815	issue	nuance	low	«si blocca su vuoto, e allora pensi che sia vuota»: il femminile non ha un referente chiaro nella frase e il maschile di prima lo contraddice. Per una carica l'italiano dice scarica, e il parallelo con il serbatoio resta leggibile.	«La lettura si blocca su scarica, e allora pensi che sia scarica.
+p01816	ok
+p01817	ok
+p01818	ok
+p01819	issue	doubt	low	Parere sul dubbio 28: confermo «Che effetto faceva?», che tiene l'eco con la battuta seguente meglio di «Com'era?».	«Che effetto faceva?» chiesi.
+p01820	issue	doubt	low	Parere sul dubbio 28: confermo «Effetto?», eco di p01819.	«Effetto?» Anche se sapeva esattamente cosa intendevo.
+p01821	issue	doubt	low	Parere sul dubbio 6: vedi p01660. Esitazione dentro la frase: lineetta spaziata, confermata.	«Il braccio – ti si è mosso da solo?
+p01822	issue	doubt	low	Parere sul dubbio 6: vedi p01660. La battuta si interrompe e riparte: lineetta attaccata, confermata.	è solo che– ti viene una sensazione, tutto qui.
+p01822	issue	doubt	low	Parere sul dubbio 29: confermo «a Fab» senza articolo, coerente con BioMed in questo blocco (flusso di BioMed, sottotamburo di BioMed). Da allineare all'uso degli altri blocchi nella versione finale.	Probabilmente è tornata a Fab a costruirsi un esercito più grosso.»
+p01823	ok
+p01824	issue	doubt	low	Parere sul dubbio 6: vedi p01660. Esitazione dentro la frase: lineetta spaziata, confermata.	Solo – nodo umano che comanda fanteria meccanica.
+p01825	ok
+p01826	ok
+p01827	ok
+p01828	issue	calque	low	«Ma loro proprio odiano» tiene il pronome soggetto esplicito e l'ordine di they just hate; in italiano il pronome fa pensare a un cambio di soggetto che non c'è.	Ma è che odiano proprio non essere al comando, eh?
+p01829	issue	doubt	low	Parere sul dubbio 30: confermo la resa e i tre puntini. La citazione va allineata parola per parola alla versione finale della battuta di Bates nel blocco 13, che in questa prova non posso leggere.	*Io sono più che altro una misura di sicurezza...*
+p01830	ok
+p01831	issue	doubt	medium	Parere sul dubbio 31: la lettura (I like Mandy fine) è giusta, ma «mi va benissimo» sposta dal piacere all'andar bene ed esagera fine, che è tiepido: non ho niente contro di lei. L'alternativa del traduttore è più vicina al senso; tengo «Mammifero simpatico» per Nice mammal.	«Mandy mi piace, niente da dire. Mammifero simpatico.
+p01832	ok
+p01833	issue	nuance	low	Got *started* è passivo: le guerre le ha fatte cominciare qualcuno, cioè l'umano con l'ultima parola. «sono *cominciate*» toglie l'agente e indebolisce la battuta.	nessuno parla di quante guerre intenzionali sono state *scatenate* per lo stesso motivo.
+p01834	ok
+p01835	issue	calque	low	«sentiti libero di» ricalca feel free to.	«Be', ficcala pure nella prossima, questa conversazione. Per quel che servirà.»

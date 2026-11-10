@@ -129,6 +129,22 @@ def main():
         expect("check final: share of changed paragraphs reported",
                "quota di paragrafi cambiati" in out, out)
 
+        # alternative directory (pilot B): results saved next to it, main results untouched
+        alt = tmp / "trial-b"
+        for stage in ("draft", "final"):
+            (alt / stage).mkdir(parents=True, exist_ok=True)
+            src01 = tmp / "translation" / stage / "01.md"
+            (alt / stage / "01.md").write_text(src01.read_text(encoding="utf-8"), encoding="utf-8")
+        main_saved = tmp / "checks" / "01-draft.json"
+        before = main_saved.read_text(encoding="utf-8")
+        code, out = run(tmp, "check", "01", "--stage", "draft", "--dir", str(alt / "draft"), "--save")
+        expect("check --dir --save: results saved next to the alternative directory",
+               code == 0 and (alt / "checks" / "01-draft.json").exists()
+               and main_saved.read_text(encoding="utf-8") == before, out)
+        code, out = run(tmp, "check", "01", "--stage", "final", "--dir", str(alt / "final"))
+        expect("check --dir final: share of changed paragraphs read from the alternative draft",
+               "quota di paragrafi cambiati" in out, out)
+
         # negative cases on a copy of chunk 01
         f01 = tmp / "translation" / "draft" / "01.md"
         good = f01.read_text(encoding="utf-8")
@@ -219,6 +235,15 @@ def main():
             expect("blind: two pilot EPUBs written",
                    code == 0 and (tmp / "build/pilota-X.epub").exists()
                    and (tmp / "build/pilota-Y.epub").exists(), out)
+            titles = {}
+            for label in ("X", "Y"):
+                with zipfile.ZipFile(tmp / "build" / ("pilota-%s.epub" % label)) as z:
+                    opf = [n for n in z.namelist() if n.endswith(".opf")][0]
+                    titles[label] = z.read(opf).decode("utf-8")
+            expect("blind: each pilot EPUB carries its own label in the title",
+                   all("(pilota %s)" % k in v for k, v in titles.items())
+                   and "(pilota Y)" not in titles["X"] and "(pilota X)" not in titles["Y"],
+                   titles["X"][:600])
         else:
             print("skip build tests: pandoc not installed")
 

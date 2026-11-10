@@ -8,7 +8,7 @@ generated:
   at: "2026-11-09T23:30:00+01:00"
 ---
 
-I punti di tipografia, il titolo, i nomi con eco classica e i termini chiave sono stati decisi dal PI alla chiusura della sessione sul glossario (decisione sulle scelte di S1, D-26).
+I punti di tipografia, il titolo, i nomi con eco classica e i termini chiave sono stati decisi dal PI alla chiusura della sessione sul glossario (decisione sulle scelte di S1, D-26). La punteggiatura delle battute, le lineette dentro le battute, i tempi della narrazione e la riga di attribuzione delle epigrafi sono quelli dei due blocchi del pilota, che il PI ha scelto alla cieca e confermato senza osservazioni alla chiusura del confronto (decisione sulla scelta del confronto alla cieca, D-35).
 
 # 1. Il principio
 
@@ -45,6 +45,8 @@ Ogni blocco è un file Markdown. Ogni paragrafo è preceduto da un marcatore, pe
 5. Numeri: virgola decimale (3,5), punto per le migliaia (10.000), spazio tra numero e unità di misura (12 km). Numeri in cifre o in lettere come nel testo inglese.
 6. Maiuscole all'italiana: minuscola per gradi e titoli davanti al nome (il maggiore Bates), giorni, mesi, nazionalità, aggettivi derivati da nomi propri. Restano maiuscole le entità trattate come nomi propri nel libro (da glossario).
 7. Corsivo per titoli di opere, parole straniere non adattate, nomi scientifici in latino, enfasi come nell'originale.
+8. Punteggiatura delle battute. Il punto fermo, il punto interrogativo e l'esclamativo stanno dentro le caporali quando chiudono una battuta che è una frase completa: «A un metro circa.» La virgola che precede l'inciso del narratore sta fuori: «A ore otto», dissi.
+9. Lineette dentro le battute, a completamento del punto 2. Inciso dentro la battuta: lineetta spaziata, come nella narrazione (`«... le apparenze politiche – non che *questa* sia chissà che novità – e io non sono un marine»`). Frase che si interrompe, esita o cambia direzione e poi riprende nella stessa battuta: lineetta attaccata alla parola che precede e seguita da uno spazio (`«Tu– esisti?»`, `«Come– come ha mai potuto credere...»`). Battuta troncata: lineetta attaccata all'ultima parola, subito prima della caporale (`«Dov'è–»`). Balbettio dentro una parola: lineetta senza spazi (`«...N–no.»`). Battuta che riprende dopo un inciso del narratore: la lineetta si attacca alla parola che riprende (`«Gli effetti della TMS–» Szpindel schioccò le dita «–sono *appiccicosi*, eh?»`).
 
 # 5. Voce e registro
 
@@ -54,6 +56,7 @@ Ogni blocco è un file Markdown. Ogni paragrafo è preceduto da un marcatore, pe
 4. Volgarità: stessa forza e stessa frequenza, con equivalenti naturali in italiano. Niente eufemismi, niente rafforzamenti.
 5. Ironia e giochi di parole: prima si cerca un equivalente italiano che funzioni con lo stesso meccanismo. Se non c'è, si rende il senso e si annota la perdita nelle note del blocco, mai nel testo.
 6. Non si sovra-italianizza: niente modi di dire regionali, niente forme letterarie o arcaiche (giacché, codesto, egli, ella), niente espressioni idiomatiche italiane che portino immagini assenti nell'originale.
+7. Tempi della narrazione. I fatti narrati vanno al passato remoto, con l'imperfetto e il trapassato dove servono, anche quando Siri li rievoca dalla cornice: «La sua osservazione seminale mise in moto tutto», «Tornò utile soprattutto quando gli alieni veri vennero a farci visita». Il passato prossimo si usa solo per ciò che arriva fino al presente di Siri che racconta, cioè bilanci e stati che durano ancora: «Non è cominciata qui», «sono cresciuto *obiettivo*». Nelle battute vale l'uso del parlato, quindi il passato prossimo: «L'hai quasi presa.»
 
 # 6. Terminologia
 
@@ -109,6 +112,7 @@ Il rimedio a un calco non è mai un'omissione: se una parola sembra di troppo in
 4. Righe di attribuzione tradotte: si traducono solo le parole di raccordo e i titoli di opere inventate; i nomi restano. I nomi classici e biblici prendono la forma italiana corrente (Aristotele, Gesù il Nazoreo, 1 Samuele 10,6). I nomi di gruppi musicali e di album restano come sono anche se inventati (The r-selectors, *Trunclade*).
 5. Citazioni bibliche e parodie di versetti: si traduce il testo di Watts. La formulazione italiana corrente (CEI) si usa solo se coincide nel senso con quella di Watts (Avete occhi e non vedete, p01957; Conoscerete la verità..., parodiato in p02964). Watts cita a volte versioni inglesi parafrastiche che la CEI non segue (1 Samuele 10,6 in p01453): lì vale il suo testo.
 6. Le epigrafi in versi di autori inventati si traducono in versi, cercando di tenere rima e metro (sezione 5, punto 5); la canzone dei r-selectors (p02066-p02073) ha otto versi rimati alternati e volgari, uno per paragrafo. Se la rima obbliga a cambiare un'immagine, prevale il senso e la perdita si annota.
+7. Riga di attribuzione: lineetta media seguita da uno spazio, poi il nome (`– Ted Bundy`), anche quando il paragrafo è una citazione. Decisa dal PI alla chiusura del pilota (decisione sulle scelte del pilota, D-30).
 
 # 10. Note e riferimenti
 
@@ -128,6 +132,7 @@ Il rimedio a un calco non è mai un'omissione: se una parola sembra di troppo in
 |---|---|---|
 | p00066 | Susanne Vega | resta così: il paragrafo è `[[ORIGINALE]]` |
 | p00167, p01357 | vassopressin | vasopressina |
+| p00062 | the Scramblers (maiuscola a metà frase, unica nel libro; 74 volte minuscolo) | gli scrambler, minuscolo come nel glossario (decisione del PI, D-35) |
 | p00299 | Kurzweill | Kurzweil |
 | p00332 | Burns-Caufield | Burns-Caulfield |
 | p00401 | Robert Paglini | Robert Paglino |

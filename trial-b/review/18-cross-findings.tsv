@@ -1,0 +1,205 @@
+pid	verdict	type	severity	problem	proposal
+p01633	ok
+p01634	ok
+p01635	ok
+p01636	ok
+p01637	issue	nuance	low	«breathed» è detto in un soffio, quasi senza voce; «mormorò» lo appiattisce e lo avvicina a «muttered» di p01693 (borbottò).	«Ma che cazzo», disse Szpindel in un soffio.
+p01638	ok
+p01639	ok
+p01640	ok
+p01641	ok
+p01642	ok
+p01643	ok
+p01644	ok
+p01645	ok
+p01646	ok
+p01647	issue	addition	low	«poi usciamo» aggiunge un connettivo che l'inglese non ha (due frasi giustapposte: «We wait out the spike, we get out of here») e crea la ripetizione «poi... E poi».	«Forse no. Aspettiamo che passi il picco, usciamo di qui. Del resto», aggiunsi,
+p01648	issue	calque	low	L'enfasi sull'ausiliare («*ha* messo») ricalca «*did* put out»; in italiano l'enfasi cade sul participio o su un avverbio.	«Qualcuno l'ha *messo* fuori, un trasduttore–»
+p01649	issue	addition	high	«capsula dei sensori»: «dei sensori» non è nell'inglese («the pod»). È una glossa esplicativa, vietata dalla guida (sezione 2, punto 2).	La mano di Szpindel si fermò sulla parete, in corrispondenza della capsula dall'altro lato.
+p01649	issue	nuance	low	«flooded» reso «si riempì»: si perde l'immagine dell'inondazione, che fa coppia con «thinned» di p01693 (si diradò).	Il mio HUD fu inondato di numeri di seconda mano,
+p01650	issue	rhythm	low	L'asindeto di Watts («expanded..., shrank back») è normalizzato con una «e».	La tenda si espanse intorno a noi come se respirasse, si ritrasse il secondo dopo al passaggio di un qualche fronte transitorio di bassa pressione.
+p01651	ok
+p01652	ok
+p01653	ok
+p01654	ok
+p01655	ok
+p01656	ok
+p01657	ok
+p01658	issue	nuance	low	«Nothing wrong with the receptors» vuol dire che i recettori funzionano; «non manca niente» sposta su ciò di cui sarebbero privi.	«I recettori non hanno niente che non va», disse distratto.
+p01659	ok
+p01660	ok
+p01661	ok
+p01662	issue	rhythm	low	La frase nominale di Watts («Not from anyone in the tent, that voice») riceve un verbo: frammento normalizzato (guida, sezione 2, punto 4).	Non da qualcuno nella tenda, quella voce.
+p01663	ok
+p01664	ok
+p01665	ok
+p01666	ok
+p01667	ok
+p01668	ok
+p01669	ok
+p01670	issue	nuance	low	«at a three-digit baud rate» reso «a qualche centinaio di baud»: il senso regge ma si perde la formulazione tecnica (tre cifre).	trasmessa attraverso arti e piombo a una velocità in baud a tre cifre.
+p01671	ok
+p01672	ok
+p01673	ok
+p01674	ok
+p01675	issue	rhythm	low	«Maybe not her voice, after all» è nominale; l'aggiunta di «era» rompe il parallelismo con la frase successiva, rimasta nominale.	Forse non la sua voce, dopotutto. Forse soltanto le sue corde vocali.
+p01676	ok
+p01677	ok
+p01678	ok
+p01679	ok
+p01680	ok
+p01681	ok
+p01682	ok
+p01683	ok
+p01684	ok
+p01685	ok
+p01686	ok
+p01687	ok
+p01688	ok
+p01689	ok
+p01690	ok
+p01691	ok
+p01692	ok
+p01693	ok
+p01694	ok
+p01695	ok
+p01696	ok
+p01697	ok
+p01698	issue	rhythm	low	Ripetizione «dall'esterno... fermo esterno» dove l'inglese varia («from the outside», «outer»).	Qualcosa urtò la tenda da fuori. Qualcosa afferrò il fermo esterno e *tirò*.
+p01699	issue	meaning	low	«ci guardava dentro» si può leggere «guardava dentro di noi»; l'inglese dice che guarda all'interno, verso di loro («looked in at us»).	Amanda Bates guardò dentro, verso di noi, attraverso la membrana scoperta.
+p01700	ok
+p01701	ok
+p01702	ok
+p01703	ok
+p01704	ok
+p01705	ok
+p01706	ok
+p01707	issue	terminology	medium	«ground truths» sono i rilevamenti diretti sul posto con cui si tarano le misure a distanza; «verifiche a terra» fa pensare al suolo o alla Terra.	finire di montare tutto, fare le nostre verifiche sul campo e andarcene di qui.
+p01708	ok
+p01709	ok
+p01710	ok
+p01711	ok
+p01712	ok
+p01713	ok
+p01714	ok
+p01715	ok
+p01717	issue	nuance	low	«antique» vale d'altri tempi, d'antiquariato; «antiquati» vale superati, un giudizio che l'inglese non dà (sono proprio gli strumenti che reggono le radiazioni).	strumenti d'antiquariato a prova di radiazioni che misuravano il mondo
+p01718	issue	calque	low	Possessivo superfluo dopo «Dentro ciascuno di noi» (guida, sezione 8, calchi di struttura).	lacerazioni infinitesimali stavano riducendo le cellule in poltiglia.
+p01719	issue	rhythm	low	«per forse una settimana» ricalca l'ordine inglese («for perhaps a week») e inciampa.	forse per una settimana non avremmo sentito dolore e non avremmo avuto futuro.
+p01720	ok
+p01721	issue	nuance	medium	«discretamente distante»: davanti a un aggettivo «discretamente» in italiano vale «abbastanza»; l'inglese («discreetly distant») dice che si tiene lontano per discrezione.	Jukka Sarasti – a distanza, con discrezione, sul pavimento rotante – balzò su nella nostra scia
+p01721	issue	nuance	low	«to capture» reso «raccogliere»: il pallone serve a intrappolare la roba contaminata, non solo a riunirla.	un grande pallone che Sarasti aveva allestito per trattenere i nostri effetti personali;
+p01722	ok
+p01723	ok
+p01725	ok
+p01726	issue	nuance	medium	«ravenous» è molto più forte di «affamato»; la fame torna a fine paragrafo e l'attacco deve pesare di più.	Mi svegliai famelico.
+p01727	ok
+p01728	ok
+p01729	issue	calque	low	«fuori dalla vista» ricalca «out of sight».	era già scattato indietro, sparendo alla vista.
+p01730	issue	nuance	low	«prendiappunti» è un conio che in italiano non esiste e suona scherzoso; «note-taker» è piatto e autodenigratorio. Da allineare alle altre occorrenze del libro, se ce ne sono.	una cripta vuota, uno che prende appunti, nudo.
+p01731	ok
+p01732	ok
+p01733	issue	meaning	low	«non era affatto ferma come avevo sperato» si può leggere «non era ferma, come avevo sperato»; l'inglese dice «molto meno ferma di quanto sperassi».	La mia voce era molto meno ferma di quanto avessi sperato.
+p01734	ok
+p01735	issue	addition	low	«La forza di Coriolis»: Watts scrive solo «Coriolis», gergo di bordo quasi personificato; «La forza di» esplicita.	Coriolis mi spinse di lato come una bandiera nella brezza.
+p01736	ok
+p01737	ok
+p01738	ok
+p01739	ok
+p01740	ok
+p01741	ok
+p01742	ok
+p01743	ok
+p01744	ok
+p01745	issue	calque	low	«germogliava triangoli»: «germogliare» transitivo è raro e qui suona calco di «sprouting».	ognuna con triangoli più piccoli che le germogliavano dalle punte,
+p01746	issue	calque	low	«Il wetware di riconoscimento degli schemi della stessa Susan»: tre complementi di specificazione in fila, ricalcati sul genitivo inglese (guida, sezione 8).	Il wetware con cui Susan stessa riconosceva gli schemi reagiva a ciò che vedeva
+p01747	issue	omission	medium	«It was all just feedback and correlation»: manca «just», che riduce la cosa a nient'altro che questo.	Era tutto soltanto retroazione e correlazione.
+p01747	issue	typo	medium	«un telepate»: la forma italiana è «telepata» (maschile e femminile al singolare).	Non ci vuole un telepata per trasformare un insieme di schemi in un altro.
+p01748	ok
+p01749	issue	nuance	low	«pentagrammi» in italiano fa pensare prima al rigo musicale; qui «pentagrams» sono stelle a cinque punte.	Ora lo schermo era pieno di stelle a cinque punte asimmetriche e intrecciate, una ragnatela di squame di pesce.
+p01750	ok
+p01751	ok
+p01752	ok
+p01753	ok
+p01754	ok
+p01755	issue	nuance	low	«the day you were born»: c'era già quel giorno; «dal giorno» ripete «da sempre» e perde la gradazione tra le due frasi.	«Ce l'avevi in testa da sempre. Ce l'avevi in testa il giorno in cui sei nata.»
+p01756	ok
+p01757	ok
+p01758	issue	rhythm	low	«le ha mai viste prima. *Mai*»: il «mai» anticipato toglie forza al secondo, che in inglese arriva da solo («*Ever*»).	«Nessuno di noi le ha viste prima d'ora. *Mai*.»
+p01759	ok
+p01760	ok
+p01761	ok
+p01762	ok
+p01763	ok
+p01764	ok
+p01765	ok
+p01766	issue	calque	low	«Lo feci» ricalca «I did».	Obbedii.
+p01767	ok
+p01768	ok
+p01769	issue	nuance	low	«Squadrò» si dice di una persona guardata da capo a piedi; per una cuvetta tra due dita «eyed» è scrutare.	Scrutò la cuvetta piena di sangue tra il pollice e l'indice:
+p01770	ok
+p01771	ok
+p01772	ok
+p01773	ok
+p01774	ok
+p01775	ok
+p01776	ok
+p01777	ok
+p01778	ok
+p01779	ok
+p01780	ok
+p01781	ok
+p01782	issue	nuance	low	«Chances are» vale «è probabile»; «Con ogni probabilità» è più forte e rende Szpindel più rassicurante di quanto sia.	È probabile che il tuo corpo se ne occupi da solo.
+p01783	ok
+p01784	issue	rhythm	low	«tutto quello che quella cosa»: cacofonia che l'inglese non ha.	«Certo, il cancro non è tutto ciò che quella cosa ci ha fatto.»
+p01785	ok
+p01786	ok
+p01787	issue	addition	low	«Anche» non è nell'inglese («The others are seeing these things?»).	«Gli altri vedono queste cose?»
+p01788	ok
+p01789	ok
+p01790	issue	nuance	medium	«sticky... come unstuck» è una sola immagine (appiccicosi, scollarsi); «sbloccarsi» la interrompe.	I neuroni vengono spinti in uno stato, ci mettono un po' a scollarsi.
+p01791	ok
+p01792	ok
+p01793	ok
+p01794	issue	calque	low	«non dirà altrimenti» ricalca «says otherwise».	finché Sarasti non dirà il contrario.
+p01795	ok
+p01796	ok
+p01797	ok
+p01798	ok
+p01799	ok
+p01800	ok
+p01801	ok
+p01802	ok
+p01803	ok
+p01804	ok
+p01805	ok
+p01806	issue	calque	low	«davvero» ricalca «really» di fine frase, che qui attenua (in realtà, niente di più) e non rafforza.	«Dio, no. Solo un guizzo, in realtà.
+p01807	issue	calque	low	«vedere cose» ricalca «see things»; l'italiano dice vedere cose che non ci sono.	Non è che ci serva qualcos'*altro* che ci faccia vedere cose che non ci sono, eh?
+p01808	ok
+p01809	ok
+p01810	ok
+p01811	issue	calque	low	Come in p01806: «davvero» per «really» attenuativo di fine frase.	«Non peggio di noi altri, in fondo.
+p01812	ok
+p01813	ok
+p01814	ok
+p01815	issue	nuance	medium	«vuoto... vuota» per un indicatore di carica: in italiano una batteria è scarica, e «pensi che sia vuota» resta senza un referente sensato (la macchina vuota).	L'indicatore si blocca su scarica, così pensi che sia scarica.
+p01816	ok
+p01817	ok
+p01818	ok
+p01819	ok
+p01820	ok
+p01821	ok
+p01822	ok
+p01823	ok
+p01824	ok
+p01825	ok
+p01826	ok
+p01827	ok
+p01828	ok
+p01829	ok
+p01830	ok
+p01831	issue	register	medium	«Like Mandy fine» è la sintassi tronca di Szpindel (passo segnalato tra i difficili); «ci mancherebbe» la normalizza e aggiunge un modo di dire con una sfumatura difensiva che l'inglese non ha.	«Mandy? Mi piace. Mammifero simpatico.
+p01832	issue	meaning	medium	«If you're going to be surrounded» non è una previsione ma una premessa (se proprio ci si deve trovare in mezzo); «Se sarai circondato» la rende un'eventualità futura e indebolisce l'obiezione di Siri.	«Se proprio devi stare in mezzo a uno sciame di robot assassini, forse–»
+p01833	issue	nuance	low	«people keep saying that» reso «continuano a dirlo tutti»: «tutti» rafforza.	«Sì, la gente continua a dirlo.
+p01834	ok
+p01835	issue	calque	medium	«sentiti libero di» ricalca «feel free to».	«Be', infila pure questa conversazione nella prossima. Per quel che servirà.»

@@ -259,3 +259,59 @@ Decisione: il PI chiede il confronto alla cieca con Fable 5.2 (S2b) sugli stessi
 Motivazione: il modello scelto traduce tutto il libro e non si cambia a metà; dall'interno della catena, dove traduttore, revisore e redattore sono lo stesso modello, non si vede se un altro modello farebbe meglio. La lineetta media spaziata è coerente con quella scelta per gli incisi (decisione sulle scelte di S1, D-26).
 
 Deciso da: PI. Data: 2026-11-10. Stato: valida.
+
+## D-31 I due EPUB del confronto alla cieca hanno un titolo che li distingue
+
+Decisione: il comando che costruisce le due versioni anonime scrive nei metadati di ciascun EPUB un titolo proprio, «Blindsight (pilota X)» e «Blindsight (pilota Y)», al posto del titolo comune. Il resto dei metadati, la copertina e il foglio di stile restano identici. Il collaudo degli script ha un controllo in più su questo.
+
+Motivazione: i due file avevano lo stesso titolo e la stessa copertina, quindi nella libreria di un lettore di EPUB non si distinguevano e il PI non avrebbe saputo quale dei due stava leggendo. L'etichetta è quella del nome del file e non dice nulla su chi ha tradotto. Il titolo dell'EPUB del libro intero non cambia.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-32 I risultati dei controlli sulla prova B si salvano accanto alla sua cartella
+
+Decisione: quando il controllo di un blocco riceve una cartella alternativa e l'opzione di salvataggio, scrive i risultati nella cartella `checks` accanto a quella alternativa (per la prova B: `trial-b/checks/`) e non in `checks/`. Il collaudo degli script ha due controlli in più: questo, e il calcolo della quota di paragrafi cambiati sulla prima stesura della cartella alternativa.
+
+Motivazione: con la cartella alternativa lo script salvava in `checks/` con lo stesso nome dei risultati della versione A e li avrebbe sovrascritti. La procedura del confronto evitava il problema solo perché non usa il salvataggio; così i numeri della prova B restano in un file, come quelli della versione A, senza toccare i suoi.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-33 Impronte dei due testi anonimi del confronto, per ricostruire l'abbinamento se la chiave va persa
+
+Decisione: dopo il sorteggio si salvano in `comparison/impronte.tsv`, versionato, le impronte SHA-256 dei due testi assemblati da cui nascono gli EPUB anonimi. La chiave resta fuori dal repository, come prima. Se la chiave manca al momento della scelta, si assemblano di nuovo le due versioni e si confrontano le impronte.
+
+Motivazione: nel cloud il contenitore viene sostituito dopo un periodo di inattività e i file non versionati vanno persi; il PI legge i due EPUB per circa un'ora prima di scegliere. Le impronte da sole non dicono quale versione è quale: per saperlo bisogna assemblare e confrontare di proposito, come per aprire la chiave. Dopo il primo sorteggio la chat principale aveva visto per errore le dimensioni dei file, che svelavano l'abbinamento: il sorteggio è stato rifatto e le impronte sono quelle del secondo.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-34 Nel riassunto del confronto i numeri del processo sono per modello, non per X e Y
+
+Decisione: il riassunto del confronto alla cieca riporta conteggi e tempi per modello (pilota con Opus, seconda versione con Fable) e non per versione anonima, senza esempi di testo; dice al PI che l'abbinamento con X e Y resta chiuso fino alla scelta.
+
+Motivazione: la procedura della sessione chiedeva conteggi e tempi per X e Y senza nomi di modelli, ma così com'è scritta non si può seguire senza rompere il confronto. Per etichettare i numeri con X e Y l'agente dovrebbe aprire la chiave, che non si apre prima della scelta; e il PI ha già letto i numeri del pilota nel suo riassunto, quindi li riconoscerebbe sotto l'etichetta anonima. I numeri per modello non sono osservabili nel testo e non permettono di abbinare le versioni; servono al PI perché il tempo di macchina è diverso fra i due modelli. È uno scarto dalla procedura scritta: è detto al PI nel riassunto.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-35 Il confronto alla cieca: il PI sceglie la versione del pilota, tradotta da Opus
+
+Decisione: letti i due EPUB anonimi, il PI sceglie la versione Y. Aperta la chiave dopo la scelta, Y è la versione del pilota (Opus 5.5) e X la seconda versione (Fable 5.2). Opus 5.5 è quindi il modello di tutte le sessioni di traduzione e di revisione. Il PI non ha osservazioni di lettura su tono del narratore, dialoghi, termini e forme di cortesia: la guida di stile prende le convenzioni dei due blocchi del pilota così come sono, cioè punto fermo dentro le caporali per la battuta completa e virgola fuori per l'inciso, lineette dentro le battute, passato remoto per i fatti narrati e passato prossimo solo per ciò che arriva al presente di Siri, lineetta media e spazio nelle attribuzioni delle epigrafi. Scrambler resta minuscolo anche nel Prologo, dove Watts lo scrive una volta con la maiuscola a metà frase.
+
+Motivazione: il PI trova la versione scelta più naturale in italiano e migliore nei dialoghi. Dice di non avere riconosciuto nessuna delle due versioni durante la lettura. Per la minuscola di scrambler: la maiuscola a metà frase compare una sola volta nel libro contro 74 minuscole, anche nello stesso Prologo, e in italiano si leggerebbe come un refuso. I file della seconda versione restano in `trial-b/` come documentazione del confronto e non entrano nel libro.
+
+Deciso da: PI. Data: 2026-11-10. Stato: valida.
+
+## D-36 Cinque voci nuove del glossario dal confronto alla cieca, e l'articolo di Fab
+
+Decisione: entrano nel glossario, approvate dall'agente, cinque voci per termini del blocco 18 che tornano in altri blocchi, con le rese della versione scelta: G140 spinal bundle: fascio spinale; G141 jarhead: marine; G142 on top, detto della personalità della Banda che guida il corpo: in primo piano; G143 feed, nel senso del flusso di dati: flusso; G144 faceplate: visiera. La voce su Fab dice ora che il nome vuole l'articolo (il Fab, al Fab). La voce su scrambler registra la minuscola decisa dal PI.
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Spinal bundle, jarhead e on top li hanno segnalati traduttore e redattore della seconda versione; nel pilota erano passati senza proposta. Feed compare in 17 blocchi e faceplate in 5, e le due versioni li hanno resi allo stesso modo. Per feed il controllo segnala anche il verbo e le condotte dell'aria: sono falsi allarmi, e la nota della voce lo dice.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-37 Seconda lettura dopo la revisione: si misura con Opus nella prima sessione di revisione
+
+Decisione: il piano della revisione resta com'è. Nella prima sessione di revisione (R1), sul blocco 02, si misura quanto trova una seconda lettura della versione finale fatta dallo stesso modello, con previsione e soglia scritte nei dubbi ricevuti di quella sessione: da 1 rilievo alto o medio fondato ogni 100 paragrafi in su, la seconda lettura si propone al PI come passaggio fisso. I difetti trovati nel blocco 18 li corregge il redattore nella sessione di revisione che copre quel blocco (R3), con le note scritte nei suoi dubbi ricevuti.
+
+Motivazione: dopo la scelta del PI, una rilettura del blocco 18 nella versione finale di Opus, fatta con il revisore di Fable, ha dato 1 rilievo alto e 10 medi; verificati sull'inglese dalla chat principale, 6 sono fondati, 3 non fondati, 1 dubbio, 1 non verificato. Con un'omissione vista confrontando le due versioni i difetti noti sono 7 su 201 paragrafi, nessuno che cambi il senso. L'attesa scritta prima era 2, con soglia a 5: smentita. La misura non separa l'effetto del modello diverso da quello della seconda lettura, il revisore si è mostrato incostante (un'omissione segnalata come grave su una versione e lasciata passare, identica, sull'altra) e chi ha giudicato i rilievi girava con lo stesso modello del revisore. Alternative scartate dal PI: far rileggere a Fable tutti i blocchi finiti (da 7 a 11 ore di macchina e da 6 a 12 chat in più, stima); nessuna seconda lettura. Le correzioni al blocco 18 non si fanno nella sessione del confronto perché il redattore lì gira con un modello diverso da quello del passaggio di revisione.
+
+Deciso da: PI (la misura e le alternative); agente (rinvio delle correzioni alla sessione di revisione). Data: 2026-11-10. Stato: valida.
