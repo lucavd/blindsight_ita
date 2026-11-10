@@ -10,3 +10,13 @@ blockquote em { font-style: normal; }
 hr { border: none; margin: 1.2em 0; text-align: center; height: 1.2em; }
 hr:after { content: "*"; }
 sup { font-size: 0.7em; }
+/* Layout carried over from the source page (field "layout" of source/paragraphs.jsonl) */
+.center p { text-align: center; text-indent: 0; }
+.figure { margin: 1em 0; }
+.figure img { max-width: 60%; }
+.indent { margin: 0 8%; }
+.indent p { text-indent: 0; margin: 0.5em 0; }
+.col1 p, .col2 p, .col3 p { text-indent: 0; margin: 0.3em 0; }
+.col1 p { text-align: left; margin-right: 30%; }
+.col2 p { text-align: center; }
+.col3 p { text-align: right; margin-left: 30%; }

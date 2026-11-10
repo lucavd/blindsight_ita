@@ -7,13 +7,18 @@ omissions, merges and reorderings are caught mechanically.
 
 Subcommands
   extract   HTML source -> source/paragraphs.jsonl (gate: no text lost)
+            right-aligned paragraphs are epigraphs (kind q); centred, indented
+            and table-column paragraphs keep a "layout" field used by build;
+            images are listed with their position (see source/figures.tsv)
   chunk     id range -> source/chunks/NN.md, index.tsv, SHA256SUMS (gate: round trip)
+            --exclude leaves out ranges inside the interval that are not the book
   verify    check SHA256SUMS (the source must never change after S0)
   check     gates and flags on a translated chunk (draft or final)
   coverage  the review table of a chunk must cover every paragraph
   glossary  occurrences of every glossary entry (gate: each entry matches the source)
   status    one line per chunk, plus a suggested grouping into sessions
-  build     assemble the book and write the EPUB with pandoc
+  build     assemble the book and write the EPUB with pandoc; images listed
+            in source/figures.tsv (after_id, file) are placed in the text
   blind     blind A/B files and EPUBs for the pilot model comparison
 
 Python 3.9+, beautifulsoup4 and lxml. pandoc for build. epubcheck optional.
@@ -55,6 +60,22 @@ LIST_MARKER_RE = re.compile(r"^(\d+|[A-Za-z]|[ivxlcdmIVXLCDM]+)([.)])(?= |$)")
 SCENE_MD = "* * *"
 PLACEHOLDER = "[[ORIGINALE]]"
 
+# Quirks of the author's page (an OpenOffice export), found in S0.
+# Glyphs typed in the Symbol font are exported as private-use code points:
+# they are mapped to the Unicode character the font shows. Soft hyphens are
+# invisible layout hints and are dropped.
+SYMBOL_PUA = {"\uf0b0": "\u00b0", "\uf06d": "\u03bc", "\uf065": "\u03b5", "\uf073": "\u03c3"}
+SOFT_HYPHEN = "\u00ad"
+PUA_RE = re.compile("[\ue000-\uf8ff]")
+# Epigraphs are right-aligned paragraphs, not blockquotes. Centred and
+# indented paragraphs and the cells of a multi-column table keep their
+# layout in the field "layout" of source/paragraphs.jsonl.
+RIGHT_ALIGN_RE = re.compile(r"text-align:\s*right", re.I)
+CENTER_ALIGN_RE = re.compile(r"text-align:\s*center", re.I)
+INDENT_RE = re.compile(r"margin-left:\s*(\d*\.?\d+)in", re.I)
+ALIGNED_TAGS = {"p", "div", "center", "td", "th", "li", "blockquote"}
+INDENT_MIN_IN = 0.5
+
 
 # ----------------------------------------------------------------- utilities
 
@@ -72,6 +93,7 @@ def paths(root):
         "chunks": root / "source" / "chunks",
         "index": root / "source" / "index.tsv",
         "sums": root / "source" / "SHA256SUMS",
+        "figures": root / "source" / "figures.tsv",
         "draft": root / "translation" / "draft",
         "final": root / "translation" / "final",
         "notes": root / "translation" / "notes",
@@ -115,6 +137,13 @@ def plain_from_md(md):
     return s
 
 
+def normalize_source_text(s):
+    """Symbol-font glyphs to Unicode, soft hyphens dropped (see SYMBOL_PUA)."""
+    for a, b in SYMBOL_PUA.items():
+        s = s.replace(a, b)
+    return s.replace(SOFT_HYPHEN, "")
+
+
 def word_count(text):
     return len(re.findall(r"\w+(?:['’]\w+)*", text))
 
@@ -150,6 +179,9 @@ def _wrap(inner, mark):
             continue
         lead = seg[: len(seg) - len(seg.lstrip())]
         trail = seg[len(seg.rstrip()):]
+        if mark in ("^", "~"):
+            # pandoc reads a superscript or subscript only if its spaces are escaped
+            core = core.replace(" ", "\\ ")
         out.append(lead + mark + core + mark + trail)
     return BR.join(out)
 
@@ -158,7 +190,7 @@ def _conv(node):
     """Inline node -> (markdown, plain). BR stands for <br>."""
     from bs4 import NavigableString, Tag  # imported lazily
     if isinstance(node, NavigableString):
-        text = re.sub(r"\s+", " ", str(node))
+        text = re.sub(r"\s+", " ", normalize_source_text(str(node)))
         return MD_SPECIAL_RE.sub(r"\\\1", text), text
     if not isinstance(node, Tag):
         return "", ""
@@ -173,14 +205,13 @@ def _conv(node):
         md_parts.append(m)
         pl_parts.append(t)
     md, pl = "".join(md_parts), "".join(pl_parts)
-    if name in EMPH_TAGS:
-        md = _wrap(md, "*")
-    elif name in STRONG_TAGS:
-        md = _wrap(md, "**")
-    elif name == "sup":
-        md = _wrap(md, "^")
-    elif name == "sub":
-        md = _wrap(md, "~")
+    # a tag nested in one of its own kind (the page has <sup><a><sup>1</sup></a></sup>)
+    # is marked once, by the outer tag: doubled marks would be printed as they are
+    for group, mark in ((EMPH_TAGS, "*"), (STRONG_TAGS, "**"), ({"sup"}, "^"), ({"sub"}, "~")):
+        if name in group:
+            if node.find_parent(list(group)) is None:
+                md = _wrap(md, mark)
+            break
     return md, pl
 
 
@@ -215,13 +246,48 @@ def extract_blocks(html_text):
         t.decompose()
     body = soup.body or soup
     blocks = []
+    placed = []  # (number of paragraphs emitted before the image, src)
 
-    def emit(kind, md, plain):
-        blocks.append({"kind": kind, "md": md, "plain": plain})
+    def emit(kind, md, plain, layout=""):
+        b = {"kind": kind, "md": md, "plain": plain}
+        if layout and kind == "t":
+            b["layout"] = layout
+        blocks.append(b)
 
-    def emit_run(run, quote):
+    def is_epigraph(tag, name):
+        if name not in ("p", "div"):
+            return False
+        return bool(RIGHT_ALIGN_RE.search(tag.get("style") or "")
+                    or (tag.get("align") or "").lower() == "right")
+
+    def block_layout(tag, name, inherited):
+        tokens = inherited.split()
+        if name not in ALIGNED_TAGS:
+            return inherited
+        style = tag.get("style") or ""
+        if name in ("td", "th"):
+            row = tag.find_parent("tr")
+            cells = row.find_all(["td", "th"], recursive=False) if row else []
+            if len(cells) > 1:
+                col = next(i for i, c in enumerate(cells) if c is tag) + 1
+                tokens = [t for t in tokens if not t.startswith("col")] + ["col%d" % col]
+        centred = (name == "center" or (tag.get("align") or "").lower() == "center"
+                   or CENTER_ALIGN_RE.search(style))
+        if centred and "center" not in tokens:
+            tokens.append("center")
+        m = INDENT_RE.search(style)
+        if m and float(m.group(1)) >= INDENT_MIN_IN and "indent" not in tokens:
+            tokens.append("indent")
+        return " ".join(tokens)
+
+    def emit_run(run, quote, layout=""):
         if not run:
             return
+        for n in run:
+            if isinstance(n, Tag):
+                found = [n] if (n.name or "").lower() == "img" else n.find_all("img")
+                for im in found:
+                    placed.append((len(blocks), im.get("src", "")))
         md = "".join(_conv(n)[0] for n in run)
         pl = "".join(_conv(n)[1] for n in run)
         md_pars, pl_pars = _split_paragraphs(md), _split_paragraphs(pl)
@@ -234,18 +300,18 @@ def extract_blocks(html_text):
             if SCENE_RE.match(t.strip()):
                 emit("s", SCENE_MD, t.strip())
             else:
-                emit("q" if quote else "t", m, t)
+                emit("q" if quote else "t", m, t, layout)
 
     def has_block_child(tag):
         return any((d.name or "").lower() in BLOCK_TAGS for d in tag.find_all(True))
 
-    def walk(container, quote):
+    def walk(container, quote, layout=""):
         run = []
         for child in list(container.children):
             if isinstance(child, Tag):
                 name = (child.name or "").lower()
                 if name in BLOCK_TAGS:
-                    emit_run(run, quote)
+                    emit_run(run, quote, layout)
                     run = []
                     if name == "hr":
                         emit("s", SCENE_MD, "")
@@ -255,17 +321,25 @@ def extract_blocks(html_text):
                         t = re.sub(r"\s+", " ", t.replace(BR, " ")).strip()
                         if t:
                             emit("h%d" % HEADING_LEVEL[name], m, t)
-                    elif has_block_child(child):
-                        walk(child, quote or name == "blockquote")
                     else:
-                        emit_run(list(child.children), quote or name == "blockquote")
+                        q = quote or name == "blockquote" or is_epigraph(child, name)
+                        lay = block_layout(child, name, layout)
+                        if has_block_child(child):
+                            walk(child, q, lay)
+                        else:
+                            emit_run(list(child.children), q, lay)
                     continue
             run.append(child)
-        emit_run(run, quote)
+        emit_run(run, quote, layout)
 
+    raw_text = body.get_text("")
+    stats = {"symbol": {c: raw_text.count(c) for c in SYMBOL_PUA if c in raw_text},
+             "soft_hyphens": raw_text.count(SOFT_HYPHEN)}
     walk(body, False)
-    reference = re.sub(r"\s+", "", body.get_text(""))
-    return blocks, reference, images
+    reference = re.sub(r"\s+", "", normalize_source_text(raw_text))
+    stats["pua_left"] = sorted({"U+%04X" % ord(c) for c in PUA_RE.findall(reference)})
+    stats["placed"] = placed
+    return blocks, reference, images, stats
 
 
 def cmd_extract(args):
@@ -279,7 +353,7 @@ def cmd_extract(args):
     except UnicodeDecodeError:
         html_text = raw.decode("cp1252")
         print("Nota: sorgente non in UTF-8, letta come Windows-1252.")
-    blocks, reference, images = extract_blocks(html_text)
+    blocks, reference, images, stats = extract_blocks(html_text)
     for i, b in enumerate(blocks, 1):
         b["id"] = "p%05d" % i
         b["words"] = word_count(b["plain"])
@@ -287,6 +361,8 @@ def cmd_extract(args):
     with open(p["paragraphs"], "w", encoding="utf-8") as fh:
         for b in blocks:
             row = {k: b[k] for k in ("id", "kind", "md", "plain", "words")}
+            if b.get("layout"):
+                row["layout"] = b["layout"]
             fh.write(json.dumps(row, ensure_ascii=False) + "\n")
 
     kinds = {}
@@ -295,14 +371,31 @@ def cmd_extract(args):
     print("Paragrafi estratti: %d  (%s)" % (len(blocks), ", ".join(
         "%s=%d" % kv for kv in sorted(kinds.items()))))
     print("Parole totali: %d" % sum(b["words"] for b in blocks))
+    layouts = {}
+    for b in blocks:
+        if b.get("layout"):
+            layouts[b["layout"]] = layouts.get(b["layout"], 0) + 1
+    if layouts:
+        print("Paragrafi con impaginazione propria: %d  (%s)" % (sum(layouts.values()), ", ".join(
+            "%s=%d" % kv for kv in sorted(layouts.items()))))
+    if stats["symbol"]:
+        print("Caratteri del font Symbol convertiti: %d  (%s)" % (
+            sum(stats["symbol"].values()), ", ".join("U+%04X->%s x%d" % (
+                ord(c), SYMBOL_PUA[c], n) for c, n in sorted(stats["symbol"].items()))))
+    if stats["soft_hyphens"]:
+        print("Trattini morbidi (invisibili) rimossi: %d" % stats["soft_hyphens"])
     print("\nTitoli:")
     for b in blocks:
         if b["kind"].startswith("h"):
             print("  %s %s  %s" % (b["id"], b["kind"], b["plain"][:70]))
     if images:
         print("\nImmagini nella pagina (%d): il loro contenuto NON entra nel testo." % len(images))
+        after = {src_img: (blocks[n - 1]["id"] if n else "-") for n, src_img in stats["placed"]}
         for src_img, alt in images[:30]:
-            print("  src=%s  alt=%s" % (src_img, alt or "-"))
+            print("  src=%s  alt=%s  dopo il paragrafo %s" % (
+                src_img, alt or "-", after.get(src_img, "?")))
+        print("  Un'immagine che fa parte del libro va elencata in source/figures.tsv "
+              "(after_id, file).")
     n_show = args.show
     print("\nPrimi %d paragrafi:" % n_show)
     for b in blocks[:n_show]:
@@ -312,6 +405,10 @@ def cmd_extract(args):
         print("  %s %-2s %s" % (b["id"], b["kind"], b["plain"][:70].replace("\n", " / ")))
 
     extracted = re.sub(r"\s+", "", "".join(b["plain"] for b in blocks))
+    if stats["pua_left"]:
+        print("\nCANCELLO copertura: FALLITO. Caratteri di un font speciale senza "
+              "conversione: %s (vanno aggiunti a SYMBOL_PUA)." % ", ".join(stats["pua_left"]))
+        return 1
     if extracted == reference:
         print("\nCANCELLO copertura: superato (il testo estratto coincide con il testo "
               "visibile dell'HTML, %d caratteri senza spazi)." % len(reference))
@@ -440,10 +537,43 @@ def insert_headings(sel, tsv):
     return out
 
 
+def drop_excluded(sel, tsv):
+    """Leave out id ranges that lie inside the interval but are not the book
+    (the page's own table of contents, the licence text).
+
+    TSV columns: first_id, last_id, reason.
+    """
+    if not tsv.exists():
+        die("file delle esclusioni non trovato: %s" % tsv)
+    ids = [r["id"] for r in sel]
+    drop = set()
+    for n, line in enumerate(tsv.read_text(encoding="utf-8").splitlines(), 1):
+        if not line.strip() or line.startswith("first_id"):
+            continue
+        cells = line.split("\t")
+        if len(cells) != 3:
+            die("%s riga %d: servono 3 colonne (first_id, last_id, reason)" % (tsv.name, n))
+        a, b = cells[0].strip(), cells[1].strip()
+        if a not in ids or b not in ids or ids.index(a) > ids.index(b):
+            die("%s riga %d: intervallo %s-%s non valido o fuori da --start/--end" % (
+                tsv.name, n, a, b))
+        part = sel[ids.index(a):ids.index(b) + 1]
+        print("Escluso %s-%s: %d paragrafi, %d parole (%s)" % (
+            a, b, len(part), sum(r["words"] for r in part), cells[2].strip()))
+        drop.update(r["id"] for r in part)
+    if sel[0]["id"] in drop or sel[-1]["id"] in drop:
+        die("un'esclusione comprende --start o --end: vanno spostati i confini")
+    kept = [r for r in sel if r["id"] not in drop]
+    print("Esclusi in tutto: %d paragrafi, %d parole." % (
+        len(drop), sum(r["words"] for r in sel if r["id"] in drop)))
+    return kept
+
+
 def write_sums(p):
     files = sorted(p["original"].glob("*")) + [p["paragraphs"], p["index"]]
     files += sorted((p["root"] / "source").glob("*.tsv"))
     files += sorted(p["chunks"].glob("*.md"))
+    files = list(dict.fromkeys(files))
     lines = ["%s  %s" % (sha256(f), f.relative_to(p["root"]).as_posix())
              for f in files if f.is_file()]
     p["sums"].write_text("\n".join(lines) + "\n", encoding="utf-8")
@@ -462,6 +592,8 @@ def cmd_chunk(args):
     if i0 > i1:
         die("--start viene dopo --end")
     sel = rows[i0:i1 + 1]
+    if args.exclude:
+        sel = drop_excluded(sel, Path(args.exclude))
     if args.add_headings:
         sel = insert_headings(sel, Path(args.add_headings))
     chunks = split_into_chunks(sel, args.words)
@@ -477,15 +609,18 @@ def cmd_chunk(args):
     for n, ch in enumerate(chunks, 1):
         cid = str(n).zfill(width)
         heads = [r for r in ch if r["kind"].startswith("h")]
+        # a chunk is named after every part it touches; the chunks that follow
+        # belong to the last part opened
+        label = " / ".join(h["plain"] for h in heads) if heads else part
         if heads:
-            part = heads[0]["plain"]
+            part = heads[-1]["plain"]
         w = sum(r["words"] for r in ch)
         header = "<!-- chunk %s | part: %s | %s-%s | %d words -->" % (
-            cid, part or "-", ch[0]["id"], ch[-1]["id"], w)
+            cid, label or "-", ch[0]["id"], ch[-1]["id"], w)
         write_chunk(p["chunks"] / (cid + ".md"), header,
                     [(r["id"], r["kind"], r["md"]) for r in ch])
         index_lines.append("%s\t%s\t%s\t%s\t%d\t%d" % (
-            cid, part or "-", ch[0]["id"], ch[-1]["id"], len(ch), w))
+            cid, label or "-", ch[0]["id"], ch[-1]["id"], len(ch), w))
     p["index"].write_text("\n".join(index_lines) + "\n", encoding="utf-8")
 
     rebuilt, errors = [], []
@@ -859,10 +994,28 @@ def typography(md):
     return md
 
 
+def load_figures(p):
+    """source/figures.tsv: images that belong to the book (after_id, file)."""
+    figs = {}
+    if not p["figures"].exists():
+        return figs
+    for n, line in enumerate(p["figures"].read_text(encoding="utf-8").splitlines(), 1):
+        if not line.strip() or line.startswith("after_id"):
+            continue
+        cells = line.split("\t")
+        if len(cells) != 2:
+            die("figures.tsv riga %d: servono 2 colonne (after_id, file)" % n)
+        if not (p["original"] / cells[1].strip()).is_file():
+            die("figures.tsv riga %d: manca source/original/%s" % (n, cells[1].strip()))
+        figs.setdefault(cells[0].strip(), []).append(cells[1].strip())
+    return figs
+
+
 def assemble(p, cids, translation_dir, allow_draft, cfg, glossary):
     src_map = {}
     for r in read_jsonl(p["paragraphs"]):
         src_map[r["id"]] = r
+    figures = load_figures(p)
     out_pars = []
     for cid in cids:
         candidates = []
@@ -889,17 +1042,26 @@ def assemble(p, cids, translation_dir, allow_draft, cfg, glossary):
                 md = src_map[pid]["md"]
             elif kind != "s":
                 md = typography(md)
-            out_pars.append((kind, md))
-    levels = [int(k[1]) for k, _ in out_pars if k.startswith("h")]
+            layout = src_map.get(pid, {}).get("layout", "") if kind == "t" else ""
+            out_pars.append((kind, md, layout))
+            for fig in figures.get(pid, []):
+                out_pars.append(("img", fig, ""))
+    levels = [int(k[1]) for k, _, _ in out_pars if k.startswith("h")]
     shift = (min(levels) - 1) if levels else 0
     lines = []
-    for kind, md in out_pars:
+    for kind, md, layout in out_pars:
         if kind.startswith("h"):
             lines.append("#" * (int(kind[1]) - shift) + " " + md)
         elif kind == "q":
             lines.append("\n".join("> " + l for l in md.split("\n")))
         elif kind == "s":
             lines.append(SCENE_MD)
+        elif kind == "img":
+            lines.append("::: {.center .figure}\n![](%s)\n:::" % md)
+        elif layout:
+            # pandoc fenced div: the classes are styled in epub/style.css
+            lines.append("::: {%s}\n%s\n:::" % (
+                " ".join("." + t for t in layout.split()), md))
         else:
             lines.append(md)
         lines.append("")
@@ -918,7 +1080,8 @@ def run_pandoc(book_md, out, p):
     major = int(m.group(1)) if m else 2
     split_flag = "--split-level=1" if major >= 3 else "--epub-chapter-level=1"
     cmd = ["pandoc", str(book_md), "-f", "markdown-smart", "-t", "epub3",
-           "--toc", "--toc-depth=1", split_flag, "-o", str(out)]
+           "--toc", "--toc-depth=1", split_flag, "-o", str(out),
+           "--resource-path", str(p["original"])]
     meta = p["epub"] / "metadata.yaml"
     css = p["epub"] / "style.css"
     if meta.exists():
@@ -1019,6 +1182,7 @@ def main(argv=None):
     s.add_argument("--words", type=int, default=2500)
     s.add_argument("--force", action="store_true")
     s.add_argument("--add-headings", help="TSV of headings missing from the HTML")
+    s.add_argument("--exclude", help="TSV of id ranges inside the interval that are not the book")
     s.set_defaults(fn=cmd_chunk)
 
     s = sub.add_parser("verify")

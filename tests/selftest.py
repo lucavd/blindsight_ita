@@ -63,6 +63,33 @@ def main():
         rows = [__import__("json").loads(l) for l in
                 (tmp / "source/paragraphs.jsonl").read_text(encoding="utf-8").splitlines()]
         pid_of = lambda txt: next(r["id"] for r in rows if r["plain"].startswith(txt))
+        row_of = lambda txt: next(r for r in rows if r["plain"].startswith(txt))
+        expect("extract: right-aligned paragraph is an epigraph",
+               row_of("A right-aligned epigraph")["kind"] == "q", out)
+        expect("extract: centred, indented and column layout recorded",
+               row_of("For Somebody").get("layout") == "center"
+               and row_of("An indented line").get("layout") == "indent"
+               and row_of("Left voice").get("layout") == "col1"
+               and row_of("Right voice").get("layout") == "col3", out)
+        expect("extract: Symbol glyph converted, soft hyphen dropped",
+               "sign 5\u00b0 and a softhyphen" in row_of("An indented line")["plain"]
+               and "Symbol convertiti: 1" in out and "rimossi: 1" in out, out)
+        expect("extract: nested superscripts marked once, inner spaces escaped",
+               row_of("Nested note markers")["md"]
+               == "Nested note markers^1^^,^ ^2^ and a spaced one^a\\ b^.",
+               row_of("Nested note markers")["md"])
+        excluded_pid = pid_of("1984. This line")
+        expect("extract: image position reported", "dopo il paragrafo p000" in out, out)
+        import struct, zlib
+        def png_chunk(tag, data):
+            return (struct.pack(">I", len(data)) + tag + data
+                    + struct.pack(">I", zlib.crc32(tag + data) & 0xFFFFFFFF))
+        (tmp / "source" / "original" / "figure.png").write_bytes(
+            b"\x89PNG\r\n\x1a\n" + png_chunk(b"IHDR", struct.pack(">IIBBBBB", 1, 1, 8, 0, 0, 0, 0))
+            + png_chunk(b"IDAT", zlib.compress(b"\x00\x00")) + png_chunk(b"IEND", b""))
+        (tmp / "source" / "figures.tsv").write_text(
+            "after_id\tfile\n%s\tfigure.png\n" % pid_of("It started with a sentence"),
+            encoding="utf-8")
         start, end = pid_of("For Somebody"), pid_of("Smith, J.")
         third = pid_of("An invented epigraph opening a chapter")
         (tmp / "source" / "headings-added.tsv").write_text(
@@ -153,6 +180,8 @@ def main():
                    "An epigraph quoting a song" in book and bt.PLACEHOLDER not in book, book[:800])
             expect("build: part headings shifted to level 1", "\n# [IT] Prologue" in book, book[:800])
             expect("build: no HTML comments left", "<!--" not in book)
+            expect("build: layout of the source carried into the book",
+                   "::: {.center}\n*For Somebody*\n:::" in book, book[:800])
             expect("build: translator note placed after the novel",
                    book.index("Nota sulla traduzione") > book.index("Notes and References"))
             html = subprocess.run(["pandoc", str(tmp / "build/Blindsight-it.md"), "-f",
@@ -160,6 +189,12 @@ def main():
                                   capture_output=True, text=True).stdout
             expect("build: escaped list markers stay text", "<ol" not in html and "<ul" not in html, html)
             expect("build: no math or citations parsed", "math" not in html and "citation" not in html, html)
+            expect("build: layout becomes a styled block", 'class="center"' in html, html[:800])
+            import zipfile
+            with zipfile.ZipFile(tmp / "build" / "Blindsight-it.epub") as z:
+                media = [n for n in z.namelist() if n.endswith(".png")]
+            expect("build: figure of the book placed in the text and packed in the EPUB",
+                   "![](figure.png)" in book and len(media) == 1, book[:600])
             code, out = run(tmp, "blind", "--a", str(tmp / "translation/final"),
                             "--b", str(tmp / "translation/draft"), "--chunks", "1,3")
             expect("blind: two pilot EPUBs written",
@@ -173,6 +208,23 @@ def main():
         c2.write_text(c2.read_text(encoding="utf-8") + "\n", encoding="utf-8")
         code, out = run(tmp, "verify")
         expect("verify: modified source chunk detected", code == 1 and "CAMBIATO" in out, out)
+
+        # ranges inside the interval that are not the book
+        (tmp / "source" / "excluded.tsv").write_text(
+            "first_id\tlast_id\treason\n%s\t%s\ttest\n" % (excluded_pid, excluded_pid),
+            encoding="utf-8")
+        code, out = run(tmp, "chunk", "--start", start, "--end", end, "--words", "60", "--force",
+                        "--add-headings", str(tmp / "source/headings-added.tsv"),
+                        "--exclude", str(tmp / "source/excluded.tsv"))
+        chunks_text = "".join(f.read_text(encoding="utf-8")
+                              for f in sorted((tmp / "source" / "chunks").glob("*.md")))
+        expect("chunk: excluded range left out, round trip still passes",
+               code == 0 and "Esclusi in tutto: 1 paragrafi" in out
+               and excluded_pid not in chunks_text, out)
+        code, out = run(tmp, "verify")
+        sums = (tmp / "source" / "SHA256SUMS").read_text(encoding="utf-8").splitlines()
+        expect("verify: passes after exclusions, no file listed twice",
+               code == 0 and len(sums) == len(set(sums)), out)
     finally:
         shutil.rmtree(tmp, ignore_errors=True)
 
