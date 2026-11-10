@@ -10,6 +10,8 @@ generated:
 
 ## 2026-11-10
 
+La seconda sessione di traduzione (T2) ha finito il lavoro e aspetta due decisioni del PI (il their di Susan nel blocco 16, il genere della prigioniera nel blocco 19). Prima stesura dei blocchi dal 12 al 22 senza il 18, 865 paragrafi, cancelli tutti superati; rapporto di lunghezza mediano 1,10, previsione confermata. Sei correzioni puntuali alla prima stesura (blocchi 14, 15, 16, 19) e due allineamenti nei blocchi 05 e 08. Glossario con 10 voci nuove approvate dall'agente, 179 in tutto, e sei voci precisate (decisioni sui termini dei blocchi dal 12 al 22, da D-49 a D-56). Tutti e sei i dubbi ricevuti chiusi; riprese fra blocchi passate alla seconda e alla terza sessione di revisione e alla terza di traduzione.
+
 Aperta la seconda sessione di traduzione (T2) sui blocchi dal 12 al 22, salvo il 18 che ha già la prima stesura del pilota, con Opus 5.5, nella chat cloud svuotata e sul ramo `sessione-T2` (decisione sulla chat cloud riaperta, D-27). Sorgente integra (50 file), epubcheck 4.2.6 presente, nessuna pull request aperta, lavoro della prima sessione di traduzione già unito nel ramo principale.
 
 La prima sessione di traduzione (T1) è chiusa: il PI ha accettato le due raccomandazioni (decisione sulle scelte di T1, D-48). Nella scena con Chelsea resta il dito «sinistro» della sorgente, ora nella tabella dei refusi della guida; executive summary diventa «riepilogo esecutivo», voce approvata. Glossario con 169 voci, tutte approvate. Prossima sessione: la seconda di traduzione (T2), blocchi dal 12 al 22, con Opus 5.5.

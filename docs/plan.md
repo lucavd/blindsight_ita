@@ -41,6 +41,8 @@ Tempi misurati nel confronto alla cieca (S2b), sugli stessi 2 blocchi, con Fable
 
 Tempi misurati nella prima sessione di traduzione (T1), su 10 blocchi (dal 02 all'11, 26.466 parole), con Opus 5.5. Durata del traduttore da 5,7 a 9,3 minuti per blocco, 74,5 minuti in tutto: 2,8 minuti per mille parole, contro i 2,6 del pilota. Dal primo lancio all'ultimo controllo sono passati 89 minuti, quindi il coordinamento della chat principale (controlli, segnalazioni, voci del glossario, commit) ha preso circa 14 minuti, poco più di un minuto per blocco come nel pilota. Con apertura e chiusura la sessione resta dentro la stima di 1,3-1,7 ore; la stima per le altre tre sessioni di traduzione non cambia.
 
+Tempi misurati nella seconda sessione di traduzione (T2), su 10 blocchi (dal 12 al 22 senza il 18, 22.667 parole), con Opus 5.5. Durata del traduttore da 4,2 a 7,9 minuti per blocco, 62,9 minuti in tutto: 2,8 minuti per mille parole, come in T1. Dal primo lancio all'ultimo controllo sono passati 75 minuti, quindi il coordinamento ha preso circa 13 minuti, poco più di un minuto per blocco. La stima per le ultime due sessioni di traduzione non cambia.
+
 # Perché questi modelli
 
 Sonnet 5.5 solo per S0, che è lavoro meccanico (scaricare, dividere, contare) dove un modello più grande non cambia il risultato.
