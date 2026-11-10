@@ -291,3 +291,19 @@ Decisione: il riassunto del confronto alla cieca riporta conteggi e tempi per mo
 Motivazione: la procedura della sessione chiedeva conteggi e tempi per X e Y senza nomi di modelli, ma così com'è scritta non si può seguire senza rompere il confronto. Per etichettare i numeri con X e Y l'agente dovrebbe aprire la chiave, che non si apre prima della scelta; e il PI ha già letto i numeri del pilota nel suo riassunto, quindi li riconoscerebbe sotto l'etichetta anonima. I numeri per modello non sono osservabili nel testo e non permettono di abbinare le versioni; servono al PI perché il tempo di macchina è diverso fra i due modelli. È uno scarto dalla procedura scritta: è detto al PI nel riassunto.
 
 Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-35 Il confronto alla cieca: il PI sceglie la versione del pilota, tradotta da Opus
+
+Decisione: letti i due EPUB anonimi, il PI sceglie la versione Y. Aperta la chiave dopo la scelta, Y è la versione del pilota (Opus 5.5) e X la seconda versione (Fable 5.2). Opus 5.5 è quindi il modello di tutte le sessioni di traduzione e di revisione. Il PI non ha osservazioni di lettura su tono del narratore, dialoghi, termini e forme di cortesia: la guida di stile prende le convenzioni dei due blocchi del pilota così come sono, cioè punto fermo dentro le caporali per la battuta completa e virgola fuori per l'inciso, lineette dentro le battute, passato remoto per i fatti narrati e passato prossimo solo per ciò che arriva al presente di Siri, lineetta media e spazio nelle attribuzioni delle epigrafi. Scrambler resta minuscolo anche nel Prologo, dove Watts lo scrive una volta con la maiuscola a metà frase.
+
+Motivazione: il PI trova la versione scelta più naturale in italiano e migliore nei dialoghi. Dice di non avere riconosciuto nessuna delle due versioni durante la lettura. Per la minuscola di scrambler: la maiuscola a metà frase compare una sola volta nel libro contro 74 minuscole, anche nello stesso Prologo, e in italiano si leggerebbe come un refuso. I file della seconda versione restano in `trial-b/` come documentazione del confronto e non entrano nel libro.
+
+Deciso da: PI. Data: 2026-11-10. Stato: valida.
+
+## D-36 Cinque voci nuove del glossario dal confronto alla cieca, e l'articolo di Fab
+
+Decisione: entrano nel glossario, approvate dall'agente, cinque voci per termini del blocco 18 che tornano in altri blocchi, con le rese della versione scelta: G140 spinal bundle: fascio spinale; G141 jarhead: marine; G142 on top, detto della personalità della Banda che guida il corpo: in primo piano; G143 feed, nel senso del flusso di dati: flusso; G144 faceplate: visiera. La voce su Fab dice ora che il nome vuole l'articolo (il Fab, al Fab). La voce su scrambler registra la minuscola decisa dal PI.
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Spinal bundle, jarhead e on top li hanno segnalati traduttore e redattore della seconda versione; nel pilota erano passati senza proposta. Feed compare in 17 blocchi e faceplate in 5, e le due versioni li hanno resi allo stesso modo. Per feed il controllo segnala anche il verbo e le condotte dell'aria: sono falsi allarmi, e la nota della voce lo dice.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
