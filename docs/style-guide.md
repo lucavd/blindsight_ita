@@ -114,7 +114,18 @@ Il rimedio a un calco non è mai un'omissione: se una parola sembra di troppo in
 2. I riferimenti bibliografici restano come sono: autori, titoli di articoli e libri, riviste, anni, pagine, indirizzi web.
 3. Un'opera citata nella prosa si cita con il titolo dell'edizione italiana solo se esiste ed è certo; altrimenti con il titolo originale in corsivo.
 
-# 11. Lista di controllo del traduttore
+# 11. Refusi della sorgente
+
+1. Un refuso evidente del testo inglese che riguarda solo l'ortografia non si riproduce: la traduzione usa la forma corretta. Sono refusi di questo tipo le lettere scambiate, mancanti o in più, due parole attaccate, un nome proprio reale scritto male, una virgoletta che si apre o si chiude senza la compagna. Vale anche per i riferimenti bibliografici delle note, che per il resto restano come sono.
+2. Ogni correzione si annota nelle note del blocco, con l'id del paragrafo.
+3. Un errore che può toccare il senso non è un refuso: un numero, una data, un nome che potrebbe essere voluto, una parola storpiata o una frase sgrammaticata in bocca a un personaggio. Si traduce com'è e, se il dubbio resta, si annota nelle note del blocco per il PI.
+4. I paragrafi che restano in inglese (segnaposto `[[ORIGINALE]]`) vengono reinseriti dallo script così come sono nella sorgente, refusi compresi.
+5. I refusi già trovati sono nella tabella qui sotto; il traduttore ne aggiunge altri nelle note del blocco.
+
+| pid | sorgente | resa |
+|---|---|---|
+
+# 12. Lista di controllo del traduttore
 
 Prima di consegnare un blocco:
 
