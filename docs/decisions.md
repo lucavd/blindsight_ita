@@ -411,3 +411,11 @@ Decisione: entra nel glossario, approvata dall'agente, una voce per un termine d
 Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Propulsori d'assetto è il termine corrente dell'astronautica italiana, non tocca il senso, e nessun blocco già tradotto contiene il termine.
 
 Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-50 Due voci nuove del glossario dai termini del blocco 13, e un allineamento nel blocco 05
+
+Decisione: entrano nel glossario, approvate dall'agente, due voci per termini del blocco 13 che tornano in altri blocchi, con le rese del traduttore: G171 battlebot (blocchi 13 e 38): robot da combattimento; G172 informational topologies (blocchi 05 e 13): topologie informazionali. Nella prima stesura del blocco 05 (p00313) «topologie informative» diventa «topologie informazionali». Gli altri termini proposti dal traduttore del blocco 13 compaiono solo lì (tightcast array, fab port, orbital insertion, microparticulates), hanno una sola resa possibile (macchine di von Neumann, come nel blocco 07), oppure sono parole comuni rese allo stesso modo in ogni senso (substrate, substrato): restano la scelta del traduttore.
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Informational topologies è il modo in cui Siri descrive il proprio mestiere, e due traduttori l'hanno reso in due modi; in italiano informativo vuol dire che informa, mentre informazionale dice di che cosa sono fatte le topologie, come l'inglese. Nessuna delle due rese tocca il senso.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
