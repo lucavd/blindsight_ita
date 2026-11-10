@@ -459,3 +459,11 @@ Decisione: la voce su headspace (G097) dice ora che nel blocco 20 (p01893) heads
 Motivazione: spazio mentale, la resa della voce, è lo spazio della mente e qui non avrebbe senso; spazio di testa è il termine della chimica italiana per l'headspace di un contenitore, e tiene la testa di Watts. Le due precisazioni evitano falsi allarmi nelle sessioni di revisione.
 
 Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-56 Una voce nuova del glossario dai termini del blocco 22
+
+Decisione: entra nel glossario, approvata dall'agente, G179 enhance come sostantivo, l'elaborazione delle immagini (blocchi 07, 22, 37, 38): elaborazione, la resa già usata nei blocchi 07 e 22. Gli altri termini proposti dal traduttore del blocco 22 compaiono solo lì (limpet tent, tenda-patella; hair-trigger; antilaser prismatics), hanno già la loro voce o la stessa resa nei blocchi precedenti (campo base, il conto alla rovescia, cromatofori), oppure prismatic torna altrove come aggettivo comune (prismatico): restano la sua scelta.
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Enhance usato come sostantivo è gergo di Watts; elaborazione è la resa scelta da due traduttori diversi e regge in tutti e quattro i blocchi. Non tocca il senso.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
