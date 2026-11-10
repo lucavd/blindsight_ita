@@ -1,4 +1,4 @@
-EPUB scritto: /tmp/claude-0/-home-user-blindsight-ita/37da408d-36fc-5f0a-a9b3-6a4bc165c94d/scratchpad/smoke2/smoke.epub (41 blocchi)
+EPUB scritto: /tmp/claude-0/-home-user-blindsight-ita/37da408d-36fc-5f0a-a9b3-6a4bc165c94d/scratchpad/smoke3/smoke.epub (41 blocchi)
 epubcheck:
   Validating using EPUB version 3.2 rules.
   No errors or warnings detected.

@@ -106,7 +106,7 @@ Decisione: la sorgente della traduzione è il file `Blindsight_html_format.htm` 
 
 Motivazione: dal cloud il sito dell'autore non risponde e l'archivio non è raggiungibile. Il file è l'esportazione HTML dell'autore (nei metadati: autore Peter Watts, ultima modifica 2006-12-09; nello zip ha la data 2007-09-03) e l'EPUB di confronto fornito dal PI dichiara di derivare dalla stessa pagina del sito.
 
-Deciso da: PI. Data: 2026-11-10. Stato: valida. Resta da annotare nel registro l'indirizzo da cui il PI ha preso lo zip.
+Deciso da: PI. Data: 2026-11-10. Stato: valida. Provenienza riferita dal PI alla chiusura della sessione: il sito dell'autore (rifters.com), dalla pagina che offre il romanzo in formato HTML; l'indirizzo esatto non è annotato.
 
 ## D-13 L'EPUB di Ellen Herzfeld serve solo da confronto; la licenza è la 2.5
 
@@ -147,3 +147,19 @@ Decisione: le sessioni di traduzione sono T1 (blocchi 01-11), T2 (12-22), T3 (23
 Motivazione: è il raggruppamento suggerito dallo script per circa 25.000 parole a sessione di traduzione e 16.000 a sessione di revisione, e coincide con la stima del piano.
 
 Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-17 La copertina è il fronte della sovraccoperta fornita dal PI
+
+Decisione: la copertina dell'EPUB è il fronte della sovraccoperta alternativa di Thomas Pringle che il PI ha caricato nella chat (`reference/jacket-alternate-thomas-pringle.jpg`). Il fronte è ritagliato dall'immagine (606 per 897 pixel) e salvato in `epub/cover.jpg`; lo script lo passa a pandoc quando il file esiste.
+
+Motivazione: è l'immagine scelta dal PI, e sulla sovraccoperta stessa l'autore scrive che si può copiare senza limiti. Limite: la risoluzione è bassa per uno schermo ad alta densità; se il PI procura una versione più grande basta sostituire il file. L'EPUB di confronto usa un'altra copertina dello stesso artista, non questa.
+
+Deciso da: PI. Data: 2026-11-10. Stato: valida.
+
+## D-18 Si lavora nel cloud, con una pull request alla chiusura di ogni sessione
+
+Decisione: le sessioni proseguono in Claude Code nel cloud. Alla chiusura di ogni sessione l'agente apre una pull request dal ramo della sessione al ramo principale e il PI la unisce prima di aprire la sessione successiva. Le regole sono nella sezione "Lavoro nel cloud" di `CLAUDE.md`, aggiunta con questa decisione; restano validi gli adattamenti tecnici già registrati (decisione sul lavoro nel cloud, D-10). Per la sessione sulla sorgente (S0) non c'è nulla da unire: il repository era vuoto e il ramo di quella chat è diventato il principale.
+
+Motivazione: il PI vuole lanciare le sessioni dal telefono. Nel cloud ogni chat lavora su un ramo suo e la successiva parte dal ramo principale: senza unione la sessione successiva non vedrebbe il lavoro fatto e lo rifarebbe.
+
+Deciso da: PI. Data: 2026-11-10. Stato: valida.

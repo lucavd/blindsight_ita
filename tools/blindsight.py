@@ -1082,6 +1082,9 @@ def run_pandoc(book_md, out, p):
     cmd = ["pandoc", str(book_md), "-f", "markdown-smart", "-t", "epub3",
            "--toc", "--toc-depth=1", split_flag, "-o", str(out),
            "--resource-path", str(p["original"])]
+    cover = p["epub"] / "cover.jpg"
+    if cover.exists():
+        cmd += ["--epub-cover-image", str(cover)]
     meta = p["epub"] / "metadata.yaml"
     css = p["epub"] / "style.css"
     if meta.exists():

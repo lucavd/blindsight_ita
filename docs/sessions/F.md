@@ -18,7 +18,7 @@ Ogni blocco è stato rivisto da solo. Questa sessione guarda il libro intero: le
 
 Dalla sessione sulla sorgente (S0), da chiudere qui perché richiedono l'EPUB finito:
 
-1. Copertina. Il PI ha fornito l'immagine della sovraccoperta alternativa di Thomas Pringle (`reference/jacket-alternate-thomas-pringle.jpg`), che l'autore dichiara copiabile senza limiti; il solo fronte è già ritagliato nell'EPUB di confronto in `reference/`. Se in `docs/decisions.md` c'è la decisione del PI di usarla, aggiungere `cover-image` ai metadati e controllare che `epubcheck` resti senza errori.
+1. Copertina. Per decisione del PI (decisione sulla copertina, D-17) la copertina è `epub/cover.jpg`, il fronte della sovraccoperta fornita dal PI, e lo script la inserisce da solo. Misura 606 per 897 pixel, poco per uno schermo ad alta densità. Per chiuderlo: guardarla nell'EPUB finale e chiedere al PI se gli va bene così o se vuole procurare un'immagine più grande.
 2. Impaginazione riportata dalla pagina. 58 paragrafi hanno un'impaginazione propria (dedica e scritte centrate, messaggi rientrati, il passo a tre colonne nel blocco 04) e c'è una figura nel blocco 06. In S0 la resa è stata controllata in un browser, sul testo inglese. Per chiuderlo: guardarla nell'EPUB finale e dire al PI di controllarla sul suo lettore.
 
 # Procedura

@@ -32,6 +32,7 @@ ok   build: escaped list markers stay text
 ok   build: no math or citations parsed
 ok   build: layout becomes a styled block
 ok   build: figure of the book placed in the text and packed in the EPUB
+ok   build: cover image packed in the EPUB
 ok   blind: two pilot EPUBs written
 ok   verify: modified source chunk detected
 ok   chunk: excluded range left out, round trip still passes

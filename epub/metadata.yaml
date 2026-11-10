@@ -8,6 +8,7 @@ contributor:
   - role: trl
     text: Traduzione italiana non ufficiale, per uso personale
 lang: it-IT
+# Cover: epub/cover.jpg, if present, is passed to pandoc by the build script.
 date: "2026"
 rights: >-
   Testo originale di Peter Watts (2006), distribuito dall'autore con licenza

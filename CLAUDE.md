@@ -36,17 +36,20 @@ docs/log.md                registro delle modifiche, la più recente in alto
 source/original/           pagina HTML scaricata (sola lettura)
 source/chunks/NN.md        il testo inglese diviso in blocchi (sola lettura)
 source/SHA256SUMS          impronte della sorgente
+source/excluded.tsv        intervalli della pagina che non sono il libro (sola lettura)
+source/figures.tsv         figure del libro e paragrafo dopo cui vanno (sola lettura)
+reference/                 file forniti dal PI: zip della sorgente, EPUB di confronto, sovraccoperta
 translation/draft/NN.md    prima stesura
 translation/notes/NN.md    dubbi del traduttore, termini proposti, riassunto del blocco
 review/NN-findings.tsv     revisione bilingue, una riga almeno per paragrafo
 review/NN-editor-log.md    cosa ha accettato o respinto il redattore, e perché
 translation/final/NN.md    versione finale
-checks/                    risultati dei controlli automatici
+checks/                    risultati dei controlli automatici (checks/S0: controlli sulla sorgente)
 build/                     EPUB (non versionato)
 docs/reading-notes.md      note di lettura del PI (sessione C, se serve)
 tools/blindsight.py        tutti gli script; tools/config.json soglie e caratteri vietati
 tests/selftest.py          collaudo degli script su un HTML sintetico (tests/fixture.htm)
-epub/                      metadati, foglio di stile, nota sulla traduzione
+epub/                      metadati, foglio di stile, nota sulla traduzione, copertina
 setup/claude-settings.json permessi proposti per Claude Code (li installa il PI)
 .claude/agents/            traduttore, revisore, redattore, esploratore del glossario
 ```
@@ -108,6 +111,18 @@ Le segnalazioni degli script (paragrafi fuori dai limiti di lunghezza, parole in
 4. Messaggio al PI: il riassunto «In breve» così com'è. Se la sessione è chiusa, l'ultima riga dice quale sessione viene dopo e con quale comando aprirla, per esempio: "Sessione T1 chiusa: per la successiva apri una nuova chat nella cartella del progetto con `claude --model opus` e scrivi «sessione Blindsight»."
 
 Quando il PI approva il riassunto, si scrive `pi_approval: yes` in `docs/state.tsv` e nel file della sessione, con la data, e si fa il commit.
+
+# Lavoro nel cloud
+
+Questa sezione vale quando la sessione gira in Claude Code nel cloud e non sul Mac o sul server (decisione del PI sul lavoro nel cloud, D-18). Il resto del protocollo non cambia.
+
+1. Si apre una sessione nuova sul repository, nell'ambiente cloud `blindsight_ita`, scegliendo nell'app il modello previsto. Il comando `claude --model ...` nel cloud non esiste: dove il protocollo lo cita, si intende questa scelta.
+2. In apertura, prima di ogni altro passo, si controlla che il ramo principale contenga il lavoro dell'ultima sessione: si guardano i rami remoti (`git ls-remote --heads origin`) e le pull request aperte. Una pull request aperta, o un ramo di sessione con commit che il ramo principale non ha, vuol dire che la sessione precedente non è stata unita: fermarsi e dirlo al PI, perché ripartire da lì rifarebbe lavoro già fatto.
+3. In apertura si controlla anche `epubcheck --version`: lo installa lo script di avvio dell'ambiente. Se manca, dirlo al PI.
+4. A ogni commit segue un push sul ramo della sessione.
+5. In chiusura, dopo il commit di chiusura e il push, si apre una pull request dal ramo della sessione al ramo principale, con il riassunto «In breve» come descrizione. L'ultima riga del messaggio al PI dice di unirla prima di aprire la sessione successiva, e con quale ambiente e modello aprirla.
+6. Se il PI approva il riassunto nella stessa chat, l'approvazione si registra e si spinge sullo stesso ramo prima dell'unione. Se la pull request è già stata unita, l'approvazione si registra in apertura della sessione successiva.
+7. Gli EPUB non sono versionati: si consegnano al PI come file nella chat che li produce.
 
 # Il riassunto «In breve»
 

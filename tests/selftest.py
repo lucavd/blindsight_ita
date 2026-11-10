@@ -193,8 +193,11 @@ def main():
             import zipfile
             with zipfile.ZipFile(tmp / "build" / "Blindsight-it.epub") as z:
                 media = [n for n in z.namelist() if n.endswith(".png")]
+                names = z.namelist()
             expect("build: figure of the book placed in the text and packed in the EPUB",
                    "![](figure.png)" in book and len(media) == 1, book[:600])
+            expect("build: cover image packed in the EPUB",
+                   any("cover" in n.lower() for n in names), "\n".join(names))
             code, out = run(tmp, "blind", "--a", str(tmp / "translation/final"),
                             "--b", str(tmp / "translation/draft"), "--chunks", "1,3")
             expect("blind: two pilot EPUBs written",
