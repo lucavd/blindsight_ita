@@ -1,7 +1,7 @@
 session	model	status	pi_approval	chunks	title
 S0	fable	closed	yes 2026-11-10	-	Sorgente divisa in blocchi senza perdite
 S1	opus	closed	yes 2026-11-10	-	Glossario, personaggi, epigrafi e scelte tipografiche
-S2	opus	todo	-	-	Pilota su due blocchi
+S2	opus	open	-	-	Pilota su due blocchi
 S2b	fable	optional	-	-	Pilota alla cieca con un secondo modello
 T1	opus	todo	-	01-11	Prima stesura dei blocchi 01-11 (Prologue e gran parte di Theseus)
 T2	opus	todo	-	12-22	Prima stesura dei blocchi 12-22 (fine di Theseus e primo terzo di Rorschach)

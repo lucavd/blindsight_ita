@@ -227,3 +227,11 @@ Decisione: il PI accetta tutte e cinque le raccomandazioni della sessione sul gl
 Motivazione: sono le scelte che il protocollo riserva al PI; le ragioni di ciascuna sono nel riassunto della sessione sul glossario.
 
 Deciso da: PI. Data: 2026-11-10. Stato: valida.
+
+## D-27 Una chat cloud riaperta lavora su un ramo della sessione
+
+Decisione: quando il PI riapre la chat cloud della sessione sulla sorgente, il cui ramo è il ramo principale, dopo averne svuotato la conversazione e con il modello previsto, la sessione lavora sul ramo `sessione-<id>` creato dal principale (per il pilota: `sessione-S2`), con push a ogni commit e pull request al principale alla chiusura. Estende a tutte le sessioni successive la regola che valeva solo per la sessione sul glossario (decisione sul ramo di S1, D-19); la regola è il punto 8 della sezione "Lavoro nel cloud" di `CLAUDE.md`.
+
+Motivazione: con la conversazione svuotata e il modello giusto le ragioni di una chat nuova sono soddisfatte, e il ramo proprio conserva l'unione che il PI controlla. Alternative scartate dal PI: lavorare direttamente sul principale senza pull request, oppure fermarsi e aprire una chat nuova.
+
+Deciso da: PI. Data: 2026-11-10. Stato: valida.

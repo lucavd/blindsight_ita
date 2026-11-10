@@ -124,6 +124,7 @@ Questa sezione vale quando la sessione gira in Claude Code nel cloud e non sul M
 5. In chiusura, dopo il commit di chiusura e il push, si apre una pull request dal ramo della sessione al ramo principale, con il riassunto «In breve» come descrizione. L'ultima riga del messaggio al PI dice di unirla prima di aprire la sessione successiva, e con quale ambiente e modello aprirla.
 6. Se il PI approva il riassunto nella stessa chat, l'approvazione si registra e si spinge sullo stesso ramo prima dell'unione. Se la pull request è già stata unita, l'approvazione si registra in apertura della sessione successiva.
 7. Gli EPUB non sono versionati: si consegnano al PI come file nella chat che li produce.
+8. Se il PI riapre la chat della sessione sulla sorgente, il cui ramo è il principale, dopo averla svuotata e con il modello previsto, la sessione lavora sul ramo `sessione-<id>` creato dal principale e alla chiusura apre la pull request da quel ramo (decisione sulla chat cloud riaperta, D-27).
 
 # Il riassunto «In breve»
 
