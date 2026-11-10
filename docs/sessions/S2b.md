@@ -168,6 +168,28 @@ Stato al momento del riassunto: lavoro sui due blocchi finito, EPUB consegnati, 
 6. Dubbi da passare alla seconda sessione di traduzione (T2), che traduce i blocchi 13, 16 e 17: la sigla TAT del blocco 18 (p01790) deve coincidere con quella ricreata nel blocco 17; la battuta di Bates citata in p01829 deve coincidere parola per parola con la versione finale del blocco 13; haunted mansion (p01717) va allineato a Haunted del blocco 16 (p01510); the pod di p01649 a sensor pod del blocco 16 (p01542). Alla sessione finale di coerenza: Fab con o senza articolo (p01822).
 7. Chiusura: riga di chiusura nel riassunto, `docs/state.tsv`, registro, commit, push, pull request.
 
+# Dopo la scelta del PI
+
+Scelta del PI, 2026-11-10: versione Y; «scrambler» minuscolo anche nel Prologo. Chiave aperta dopo la scelta: X è la prova B (Fable 5.2), Y è la versione A, il pilota (Opus 5.5). Verifica indipendente dalla chiave: il testo assemblato di Y è identico a quello del pilota, e le impronte dei due testi coincidono con quelle salvate. Motivazione del PI: italiano più naturale e dialoghi migliori. Domande di lettura: niente da segnalare, la guida prende le convenzioni della versione scelta. Il PI dice di non avere riconosciuto nessuna delle due versioni durante la lettura.
+
+Controllo fatto dalla chat principale dopo la scelta: i 9 paragrafi in cui il revisore della prova B aveva trovato rilievi alti o medi sulla propria stesura, riletti nella versione A finale accanto all'inglese (p00013, p00027, p00044, p01649, p01655, p01721, p01785, p01812, p01831; il decimo rilievo, la maiuscola di p00062, è deciso dal PI). In due la versione A ha lo stesso difetto, e il revisore del pilota non l'aveva segnalato: p01655, You reached for it reso «Hai allungato la mano», senza for it (riga `ok` nella revisione del pilota); p01721, discreetly distant reso «discretamente distante», che si legge come abbastanza distante. Negli altri sette la versione A è a posto.
+
+## Controllo aggiunto: revisione incrociata del blocco 18
+
+Domanda: quanti difetti restano nella versione finale di Opus che un revisore di un altro modello trova? È la misura che il pilota aveva lasciato aperta (traduttore, revisore e redattore sono lo stesso modello). Il confronto alla cieca non la dava, perché confronta due catene intere.
+
+Procedura: il sotto-agente `reviewer` di questa sessione (Fable 5.2) rilegge `translation/final/18.md` contro l'inglese, senza vedere la revisione del pilota né i file della prova B, e scrive `trial-b/review/18-cross-findings.tsv`. La chat principale verifica sull'inglese ogni rilievo alto o medio. Nessun file sotto `translation/` cambia: le correzioni fondate passano alla sessione di revisione che copre il blocco, fatta con il modello scelto.
+
+Cancello: copertura della revisione superata sul file della revisione incrociata.
+
+Previsione, scritta prima di lanciare:
+
+| quantità | atteso | intervallo di rilevanza | se è fuori |
+|---|---|---|---|
+| rilievi alti o medi fondati sulla versione finale di Opus del blocco 18 (201 paragrafi), verificati sull'inglese | 2 (i due già noti) | da 0 a 5 | sopra: la revisione con lo stesso modello lascia passare troppo, e si propone al PI una revisione fatta da un modello diverso da quello che traduce |
+
+Limite dichiarato prima: chi giudica se un rilievo è fondato è la chat principale, che gira con lo stesso modello del revisore incrociato. I rilievi alti e medi fondati si elencano uno per uno, così il PI può giudicarli da sé.
+
 # In breve
 
 ## In breve: quale delle due versioni vuoi per tutto il libro?
