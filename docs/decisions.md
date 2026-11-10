@@ -371,3 +371,11 @@ Decisione: entrano nel glossario, approvate dall'agente, tre voci per termini de
 Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Per il Tattico: il lettore inglese, alla prima occorrenza e in apertura di frase, legge un aggettivo; un nome proprio non ancora introdotto sarebbe un'aggiunta. È la correzione puntuale di un passo segnalato dal traduttore stesso.
 
 Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-45 Due voci nuove del glossario dai termini del blocco 08
+
+Decisione: entrano nel glossario, approvate dall'agente, due voci per termini del blocco 08 che tornano in altri blocchi, con le rese del traduttore: G161 payoff nel senso della teoria dei giochi (blocchi 08, 13, 36): payoff, invariato, e matrice dei payoff; G162 pseudograv e pseudogravity (blocchi 08, 12, 27): pseudogravità. Gli altri termini proposti compaiono solo nel blocco 08 (antilibs, Cassidy Survey, le tre tribù con la maiuscola, orche residenti), oppure Watts li scrive altrove in minuscolo e con un senso comune (game theory, historians nel blocco 07, residents nel blocco 15): restano la scelta del traduttore.
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Payoff è la forma in uso nella teoria dei giochi italiana; l'espressione di ricerca della voce prende solo i casi tecnici, così il payoff colloquiale del blocco 06 non viene segnalato.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
