@@ -403,3 +403,11 @@ Decisione: il PI accetta le due raccomandazioni del riassunto. Nella scena con C
 Motivazione: la guida vuole che un errore che tocca il senso si traduca com'è, e l'edizione di confronto ha la stessa svista. Riepilogo esecutivo richiama le funzioni esecutive della neuropsicologia e non si confonde con sintesi e sintetista; le alternative scartate sono executive summary invariato e sintesi per la direzione.
 
 Deciso da: PI. Data: 2026-11-10. Stato: valida.
+
+## D-49 Una voce nuova del glossario dai termini del blocco 12
+
+Decisione: entra nel glossario, approvata dall'agente, una voce per un termine del blocco 12 che torna in un altro blocco, con la resa del traduttore: G170 attitude jets (blocchi 12 e 38): propulsori d'assetto. Gli altri nove termini proposti dal traduttore del blocco 12 compaiono solo lì (chaff, torch, Proximity boot, rock stream, delta-vee, leading edge, glass onion), sono già coperti dalla voce sulla stanza cinese (Chinese Room Hypothesis), oppure tornano altrove con un altro senso (confounds, nome della statistica nel blocco 12, è aggettivo nel blocco 20 e verbo nel blocco 28): restano la scelta del traduttore.
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Propulsori d'assetto è il termine corrente dell'astronautica italiana, non tocca il senso, e nessun blocco già tradotto contiene il termine.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
