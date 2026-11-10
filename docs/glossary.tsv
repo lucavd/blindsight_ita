@@ -131,3 +131,10 @@ G129	noosphere	noosphere	noosfera	noosfer	approved	03	Termine esistente in itali
 G130	magnetosphere	magnetospher	magnetosfera	magnetosfer	approved	05	
 G131	Grey Syndrome	Gr[ae]y Syndrome	sindrome Grigia	[Ss]indrome [Gg]rigia	approved	16	La sorgente scrive Grey e Gray: in italiano una sola forma. Gioca sugli alieni grigi (p01512).
 G132	brown dwarf	brown dwar	nana bruna	nan[ae] brun	approved	05	
+G133	spike (field surge in Rorschach)	\bspikes?\b	picco	picc	approved	05	Il picco del campo elettromagnetico durante le incursioni in Rorschach (blocchi 15-18 e 24), reso picco nel pilota. Negli altri sensi (picchi di un grafico, punte, chiodi) si rende a senso: lì la segnalazione del controllo è un falso allarme (decisione sui termini del pilota, D-29).
+G134	subdrum	\bsubdrums?\b	sottotamburo	sottotambur	approved	18	Sezione del tamburo (il sottotamburo di BioMed); coerente con tamburo (decisione sui termini del pilota, D-29).
+G135	wetware	\bwetware\b	wetware (invariato, in tondo)	wetware	approved	18	Il cervello come hardware biologico, contrapposto alle macchine; entrato nell'italiano della fantascienza come HUD e glitch (decisione sui termini del pilota, D-29).
+G136	diagnostic couch	diagnostic couch	poltrona diagnostica	poltron[ae] diagnostic	approved	18	In BioMed; ci si siede (p01734) (decisione sui termini del pilota, D-29).
+G137	multijointed	multijointed	pluriarticolato	pluriarticolat	approved	18	Le braccia della creatura vista da Siri (p01785, p01805); la frase Multijointed arms from a central mass torna in corsivo come citazione nel blocco 35 e va resa con le stesse parole della versione finale di p01785 (decisione sui termini del pilota, D-29).
+G138	Tesla (unit)	\bTeslas?\b	tesla (minuscolo, invariabile)	\btesla\b	approved	07	Unità di misura del campo magnetico, come sievert; Watts scrive Tesla con la maiuscola (decisione sui termini del pilota, D-29).
+G139	diving bell	diving bells?	campana da palombaro	campan[ae] da palombaro	approved	16	La tenda schermata in cui la squadra si ripara dentro Rorschach; da non confondere con la campana di Faraday della voce su Faraday (decisione sui termini del pilota, D-29).

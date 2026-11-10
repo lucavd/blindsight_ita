@@ -243,3 +243,11 @@ Decisione: nella voce del glossario sul sintetista si aggiunge che sintesi e sin
 Motivazione: il traduttore del blocco 01 ha proposto la maiuscola in «mi portò alla Sintesi», perché in minuscolo si leggerebbe la sintesi in generale e non la disciplina; revisore e redattore concordano. È lo stesso criterio delle voci su Umani e Realisti (maiuscola dove la usa Watts), e senza una regola i traduttori dei blocchi 05, 06 e 07 sceglierebbero ciascuno a modo suo.
 
 Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-29 Sette voci nuove del glossario dai termini proposti nel pilota
+
+Decisione: dei termini proposti dai traduttori nel pilota entrano nel glossario, approvati dall'agente, quelli che compaiono anche in blocchi non ancora tradotti: G133 spike, nel senso del picco di campo dentro Rorschach: picco; G134 subdrum: sottotamburo; G135 wetware: wetware, invariato; G136 diagnostic couch: poltrona diagnostica; G137 multijointed: pluriarticolato, con la frase sulle braccia della creatura che torna come citazione nel blocco 35; G138 Tesla come unità: tesla, minuscolo e invariabile; G139 diving bell: campana da palombaro. Gli altri termini proposti compaiono una sola volta nel libro, oppure sono già coperti dal glossario, e restano la scelta del traduttore del blocco (spazio di gioco, ultracorpi, campo giochi, verifiche a terra, trasduttore, capsula dei sensori, decompilatore, prendiappunti, malattia di Damasco, mezza branda, i Morti Volanti).
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi, dove la coerenza fra traduttori diversi conta. Le rese sono quelle del traduttore del blocco 18, confermate dal revisore e lasciate dal redattore; nessuna tocca il senso. Per spike la voce copre solo il senso del picco di campo: negli altri sensi la segnalazione del controllo è un falso allarme, e la nota della voce lo dice.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
