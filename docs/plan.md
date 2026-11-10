@@ -28,12 +28,14 @@ Una sessione è una chat di Claude Code, aperta nella cartella del progetto con 
 | S1 | Opus 5.5 (`claude --model opus`) | legge tutto il libro, costruisce glossario, scheda dei personaggi, elenco delle epigrafi; propone le scelte tipografiche | glossario, personaggi, epigrafi, guida completa | 1,5-2,5 ore | decidi 4-6 punti (30 minuti) |
 | S2 | Opus 5.5 | pilota: due blocchi con l'intero ciclo, uno facile e il più difficile del libro | due blocchi finiti, EPUB di prova | 1-1,5 ore | leggi l'EPUB di prova e dai indicazioni (1 ora) |
 | S2b (facoltativa) | Fable 5.2 (`claude --model fable`), se il tuo piano lo include | stessi due blocchi con l'altro modello; confronto alla cieca | due EPUB anonimi da confrontare | 1-1,5 ore | li leggi senza sapere chi è chi e scegli (1 ora) |
-| T1-T4 | il modello scelto nel pilota | prima stesura, circa 25 mila parole per sessione | prime stesure | 1-1,5 ore ciascuna | nulla, salvo decisioni rare |
-| R1-R6 | il modello scelto nel pilota | revisione bilingue e redazione, circa 16 mila parole per sessione | versioni finali | 1,5-2 ore ciascuna | nulla, salvo decisioni rare |
+| T1-T4 | il modello scelto nel pilota | prima stesura, circa 25 mila parole per sessione | prime stesure | 1,3-1,7 ore ciascuna (misura del pilota) | nulla, salvo decisioni rare |
+| R1-R6 | il modello scelto nel pilota | revisione bilingue e redazione, circa 16 mila parole per sessione | versioni finali | 1,1-1,4 ore ciascuna (misura del pilota) | nulla, salvo decisioni rare |
 | F | Opus 5.5 | coerenza sull'intero libro (termini, nomi, tu e lei), EPUB, controllo del formato | l'EPUB | 1-2 ore | leggi il libro |
 | C (facoltativa) | Opus 5.5 | correzioni dalle tue note di lettura | EPUB corretto | dipende dalle note | annoti mentre leggi |
 
-Totale stimato: tra 15 e 25 ore di macchina in 14 sessioni (16 con le facoltative). Non è una giornata. La stima viene da ipotesi sul tempo di un sotto-agente per blocco (lettura di circa 30 mila token, scrittura di circa 7 mila), non da misure: la prima misura vera arriva dal pilota, e S2 aggiorna questa tabella.
+Totale stimato: tra 15 e 25 ore di macchina in 14 sessioni (16 con le facoltative). Non è una giornata. La stima iniziale veniva da ipotesi sul tempo di un sotto-agente per blocco; il pilota l'ha misurata, come sotto.
+
+Tempi misurati nel pilota (S2), su 2 blocchi (il 01, 1.655 parole, e il 18, 3.532 parole: 5.187 parole in tutto), con Opus 5.5. Durata dei sotto-agenti: traduttore 5,5 e 7,8 minuti, revisore 3,1 e 4,6, redattore 2,7 e 4,6; i tre passaggi insieme 11,3 e 17,1 minuti per blocco. Per mille parole: 2,6 minuti di traduttore e 2,9 di revisore più redattore. Il coordinamento della chat principale (controlli, spiegazione delle segnalazioni, commit) ha aggiunto circa un minuto per passaggio e per blocco. Da qui le stime della tabella: una sessione di traduzione (da 22 a 29 mila parole, da 7 a 12 blocchi) richiede da 1,3 a 1,7 ore, contando un quarto d'ora per apertura e chiusura (stima, non misura); una di revisione (da 14 a 18 mila parole, da 5 a 8 blocchi) da 1,1 a 1,4 ore. Per il resto del libro (99.452 parole, 39 blocchi) le sessioni di traduzione e di revisione fanno circa 14 ore, più la sessione finale: il totale resta dentro la stima iniziale, verso il basso. Due blocchi sono pochi: la stima vale per blocchi simili a questi e va rivista dopo la prima sessione di traduzione.
 
 # Perché questi modelli
 
