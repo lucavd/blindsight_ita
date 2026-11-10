@@ -227,3 +227,35 @@ Decisione: il PI accetta tutte e cinque le raccomandazioni della sessione sul gl
 Motivazione: sono le scelte che il protocollo riserva al PI; le ragioni di ciascuna sono nel riassunto della sessione sul glossario.
 
 Deciso da: PI. Data: 2026-11-10. Stato: valida.
+
+## D-27 Una chat cloud riaperta lavora su un ramo della sessione
+
+Decisione: quando il PI riapre la chat cloud della sessione sulla sorgente, il cui ramo è il ramo principale, dopo averne svuotato la conversazione e con il modello previsto, la sessione lavora sul ramo `sessione-<id>` creato dal principale (per il pilota: `sessione-S2`), con push a ogni commit e pull request al principale alla chiusura. Estende a tutte le sessioni successive la regola che valeva solo per la sessione sul glossario (decisione sul ramo di S1, D-19); la regola è il punto 8 della sezione "Lavoro nel cloud" di `CLAUDE.md`.
+
+Motivazione: con la conversazione svuotata e il modello giusto le ragioni di una chat nuova sono soddisfatte, e il ramo proprio conserva l'unione che il PI controlla. Alternative scartate dal PI: lavorare direttamente sul principale senza pull request, oppure fermarsi e aprire una chat nuova.
+
+Deciso da: PI. Data: 2026-11-10. Stato: valida.
+
+## D-28 Sintesi e Sintetista con la maiuscola dove Watts la usa
+
+Decisione: nella voce del glossario sul sintetista si aggiunge che sintesi e sintetista prendono la maiuscola dove Watts la usa a metà frase per la disciplina o come titolo (Synthesis nei blocchi 01 e 06, Synthesist come titolo nei blocchi 05 e 06), e restano minuscole altrove (synthesis minuscolo nei blocchi 12, 25 e 27). La resa resta quella decisa dal PI.
+
+Motivazione: il traduttore del blocco 01 ha proposto la maiuscola in «mi portò alla Sintesi», perché in minuscolo si leggerebbe la sintesi in generale e non la disciplina; revisore e redattore concordano. È lo stesso criterio delle voci su Umani e Realisti (maiuscola dove la usa Watts), e senza una regola i traduttori dei blocchi 05, 06 e 07 sceglierebbero ciascuno a modo suo.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-29 Sette voci nuove del glossario dai termini proposti nel pilota
+
+Decisione: dei termini proposti dai traduttori nel pilota entrano nel glossario, approvati dall'agente, quelli che compaiono anche in blocchi non ancora tradotti: G133 spike, nel senso del picco di campo dentro Rorschach: picco; G134 subdrum: sottotamburo; G135 wetware: wetware, invariato; G136 diagnostic couch: poltrona diagnostica; G137 multijointed: pluriarticolato, con la frase sulle braccia della creatura che torna come citazione nel blocco 35; G138 Tesla come unità: tesla, minuscolo e invariabile; G139 diving bell: campana da palombaro. Gli altri termini proposti compaiono una sola volta nel libro, oppure sono già coperti dal glossario, e restano la scelta del traduttore del blocco (spazio di gioco, ultracorpi, campo giochi, verifiche a terra, trasduttore, capsula dei sensori, decompilatore, prendiappunti, malattia di Damasco, mezza branda, i Morti Volanti).
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi, dove la coerenza fra traduttori diversi conta. Le rese sono quelle del traduttore del blocco 18, confermate dal revisore e lasciate dal redattore; nessuna tocca il senso. Per spike la voce copre solo il senso del picco di campo: negli altri sensi la segnalazione del controllo è un falso allarme, e la nota della voce lo dice.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-30 Le scelte del pilota (S2): confronto alla cieca e lineetta delle attribuzioni
+
+Decisione: il PI chiede il confronto alla cieca con Fable 5.2 (S2b) sugli stessi due blocchi del pilota, prima di fissare il modello delle sessioni di traduzione e di revisione. Nelle righe che attribuiscono le epigrafi si usa la lineetta media seguita da uno spazio («– Ted Bundy»), come nei due blocchi del pilota; la regola entra nella guida di stile alla fine del confronto, insieme alle indicazioni di lettura del PI, così che la guida resti identica per le due versioni; il traduttore del confronto la riceve nel prompt, come quello del pilota. Conseguenza registrata dall'agente: la lettura dell'EPUB di prova e le domande su tono, dialoghi, termini e forme di cortesia passano al confronto, dove il PI legge le due versioni anonime; leggere prima l'EPUB del pilota gli farebbe riconoscere una delle due versioni.
+
+Motivazione: il modello scelto traduce tutto il libro e non si cambia a metà; dall'interno della catena, dove traduttore, revisore e redattore sono lo stesso modello, non si vede se un altro modello farebbe meglio. La lineetta media spaziata è coerente con quella scelta per gli incisi (decisione sulle scelte di S1, D-26).
+
+Deciso da: PI. Data: 2026-11-10. Stato: valida.

@@ -1,0 +1,65 @@
+pid	verdict	type	severity	problem	proposal
+p00003	ok
+p00004	ok
+p00013	ok
+p00014	issue	doubt	low	Dubbio 1 sulla lineetta delle attribuzioni: concordo con lineetta media seguita da spazio, uso editoriale italiano corrente; va fissata come decisione tecnica valida per tutte le epigrafi del libro, così che i blocchi successivi non divergano.	> – Philip Gourevitch
+p00015	ok
+p00016	issue	doubt	low	Dubbio 1 (stessa forma di p00014): concordo.	> – Ernest Hemingway
+p00017	ok
+p00018	ok
+p00019	issue	doubt	low	Dubbio 1 (stessa forma di p00014): concordo.	> – Ted Bundy
+p00020	issue	doubt	low	Dubbio 2 sul genere del soggetto sottinteso: concordo con il femminile; è l'uso italiano per la faccenda implicita (com'è andata, è finita) e «È *finita*» suona naturale. Il maschile sarebbe più rigido.	Non è cominciata qui. [...] È *finita* con tutte quelle cose.
+p00021	ok
+p00022	issue	rhythm	low	«La mia era dello sviluppo» è un complemento sospeso e goffo in italiano; developmental indica un'origine nello sviluppo, opposta a quella genetica.	La mia era di origine evolutiva. La sua era genetica
+p00022	issue	nuance	low	complementary misfortune è singolare; il plurale «sventure complementari» rende meno netta la ripresa con «La mia... La sua».	legati da una sventura complementare
+p00023	issue	doubt	low	Dubbio 3: concordo con polly invariato in corsivo, il senso non è dichiarato e un insulto italiano lo inventerebbe; concordo anche con bastardino, che tiene il cane non di razza e il registro infantile. La segnalazione dello script su polly va spiegata con questa nota.	schernirlo con *bastardino* e *polly*
+p00023	issue	doubt	low	Termine proposto playground: concordo con campo giochi; la scena è scolastica (schoolyard in p00060) e parco giochi farebbe pensare a un parco pubblico.	al campo giochi
+p00024	ok
+p00025	ok
+p00026	ok
+p00027	ok
+p00028	ok
+p00029	issue	nuance	low	Maybe I should just let è il ragionamento del bambino in quel momento; «Forse avrei dovuto lasciare» si può leggere anche come rimpianto dell'adulto (I should have). L'imperfetto tiene il pensiero nel presente della scena.	Forse dovevo semplicemente lasciare che quel processo facesse il suo corso, forse non dovevo mettermi a pasticciare con la natura.
+p00029	issue	rhythm	low	«i più deboli che hanno in mezzo» è goffo per in their midst.	i più deboli che hanno in mezzo a loro
+p00029	issue	doubt	low	Dubbio 4: concordo con cablaggio difettoso e ricablaggio (p00059), la metafora elettrica resta coerente.	cablaggio difettoso
+p00030	ok
+p00031	ok
+p00032	issue	nuance	low	crunched è tradotto due volte e rafforzato: «sbriciolò» (ridusse in briciole) più «scricchiolio». audibly crunched dice solo che lo schianto delle ossa si sentì.	un colpo che gli frantumò con uno scricchiolio udibile le ossa dello zigomo
+p00033	issue	doubt	low	Dubbio 5: concordo con «mi promise che ero morto»; è la minaccia italiana corrente («sei morto») e tiene il legame con zombie e con p00057. «uomo morto» aggiungerebbe una parola e un adulto dove ci sono bambini.	mi promise che ero morto
+p00034	ok
+p00035	issue	nuance	low	twitched indica sussulti o spasmi, non il contorcersi (writhed): l'immagine diventa più agitata dell'inglese.	Due dei nemici sussultavano ai miei piedi.
+p00036	ok
+p00037	issue	rhythm	low	«si rannicchiò a palla» è ambiguo, perché a palla nel parlato vale al massimo; meglio un'espressione che non inciampi.	si raggomitolò come una palla
+p00038	ok
+p00039	ok
+p00040	ok
+p00041	ok
+p00042	ok
+p00043	ok
+p00044	issue	doubt	low	Dubbio 6: concordo con «Prima non l'avresti *mai* fatto», che tiene il valore ipotetico di You'da; l'imperfetto cambierebbe il senso. La contrazione si perde, come annotato; il parlato infantile resta in p00055 e p00057.	«Prima non l'avresti *mai* fatto», disse Pag.
+p00045	ok
+p00046	ok
+p00047	ok
+p00048	ok
+p00049	ok
+p00050	ok
+p00051	ok
+p00052	issue	doubt	low	Dubbio 8: concordo con testa di cazzo, forza pari a fuckwad e composto osceno come l'inglese; coglione e stronzo sarebbero più leggeri.	Non fare il testa di cazzo.
+p00053	ok
+p00054	ok
+p00055	issue	doubt	low	Dubbio 7: concordo con l'indicativo al posto del congiuntivo e con «Lo *so* per l'epilessia!»; è lo sgrammaticato credibile di un bambino italiano e non normalizza Pag.	Pensi che non lo so?
+p00056	issue	doubt	low	Dubbio 9: concordo con «d'un tratto quieto», che tiene insieme voce bassa e calma; abbassare la voce sceglierebbe uno solo dei due sensi.	dissi, d'un tratto quieto
+p00057	ok
+p00058	issue	typo	low	Dopo «qualunque gioco» la relativa vuole il congiuntivo; l'indicativo nella voce del narratore adulto suona come una svista, non come parlato.	a qualunque gioco a cui fosse rimasto collegato per le diciotto ore precedenti
+p00058	issue	doubt	low	Dubbio 10 e termini proposti pod people e gamespace: concordo con ultracorpi minuscolo, legato al soprannome Ultracorpo del glossario (la segnalazione di pod come capsula mancata va spiegata così), e con spazio di gioco. Concordo anche sulla perdita del legame con le capsule.	dopo aver combattuto gli ultracorpi nello spazio di gioco
+p00059	issue	meaning	medium	you could make a case è una valutazione del narratore di oggi, coerente con il presente del resto del paragrafo (There's a reason, You could argue that I'm); «si poteva difendere» la sposta nel passato. Anche «diceva» rende meno puntuale what he said.	Ma quello che aveva detto si potrebbe anche sostenere.
+p00059	issue	nuance	low	Perdita annotata su telling me (and *telling* me): in italiano la ripetizione identica regge con il corsivo, e rende l'insistenza meglio di «ridiceva», che è raro.	Ricordo bene che Helen mi diceva (e mi *diceva*) quanto fosse difficile adattarsi.
+p00059	issue	nuance	low	that one lonely hemisphere: «quel solitario emisfero» perde one (l'unico rimasto) e l'aggettivo anteposto suona letterario.	quell'unico emisfero solitario
+p00059	issue	calque	low	«arruolata a forza per il doppio servizio» ricalca into double duty; in italiano si fa doppio servizio.	la metà rimasta arruolata a forza a fare doppio servizio
+p00060	issue	calque	low	Tre relative con che di fila (che ricordò, che si aprono, che non restano); la sezione 8 della guida chiede di evitarle. Il contenuto si può tenere tutto con un participio.	dopo una breve interruzione che ricordò a entrambi le scarse prospettive sociali aperte ai reietti del cortile della scuola che non restano uniti
+p00060	issue	doubt	low	Dubbio 11: concordo con «la polvere si posò»; tiene l'immagine di Watts, mentre «le acque si calmarono» porterebbe un'immagine assente (sezione 5, punto 6).	ma la polvere si posò piuttosto in fretta
+p00061	ok
+p00062	issue	doubt	low	Dubbio 12 e termine proposto Synthesis: concordo con Sintesi maiuscola qui, perché Watts la marca come disciplina e in minuscolo si leggerebbe come sintesi generica; scrambler minuscolo secondo il glossario. La precisazione va decisa nella voce del glossario sul sintetista prima che altri blocchi la incontrino.	Mi portò alla Sintesi, mi destinò al nostro disastroso incontro con gli scrambler
+p00062	issue	doubt	low	Dubbio 13: concordo con «che tocca alla Terra», che lascia la sorte in corso e non chiude l'ambiguità tra peggiore e migliore (passi difficili del blocco). Sulla perdita di some beaten bloody friend: «un qualche amico» terrebbe la distanza ma suona forzato; accetto la perdita.	mi risparmiò la sorte peggiore che tocca alla Terra
+p00063	ok
+p00064	issue	doubt	low	Dubbio 14: concordo con «vennero a farci visita», che tiene l'ironia della visita di cortesia; il ci è implicito in came calling e non aggiunge senso. «si fecero vivi» introdurrebbe un gioco assente.	quando gli alieni veri vennero a farci visita.

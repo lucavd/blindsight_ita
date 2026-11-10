@@ -1,0 +1,28 @@
+{
+ "chunk": "18",
+ "stage": "final",
+ "file": "/home/user/blindsight_ita/translation/final/18.md",
+ "gates": {
+  "format": [],
+  "markers": [],
+  "empty": [],
+  "scene_breaks": [],
+  "forbidden_chars": [],
+  "placeholder_misuse": [],
+  "epigraph_decisions": []
+ },
+ "flags": {
+  "ratio_out_of_bounds": [],
+  "english_residue": [],
+  "glossary_misses": [
+   "p01650: transient (orca) -> atteso transiente (orca transiente, orche transienti e residenti)"
+  ],
+  "emphasis_count_differs": [],
+  "identical_to_source": []
+ },
+ "placeholders": [],
+ "ratio_median": 1.106,
+ "paragraphs": 203,
+ "changed_share": 0.154,
+ "ok": true
+}
