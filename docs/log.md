@@ -10,6 +10,8 @@ generated:
 
 ## 2026-11-10
 
+Il pilota (S2) ha finito il lavoro e aspetta la lettura del PI e tre decisioni (tono e dialoghi dell'EPUB di prova, confronto alla cieca con un secondo modello, lineetta nelle righe di attribuzione delle epigrafi). Blocchi 01 e 18 tradotti, rivisti e redatti con Opus 5.5; tutti i cancelli superati; EPUB di prova valido per epubcheck. Rilievi alti 0 e 2, corretti; quota di paragrafi cambiati 0,148 e 0,154 (la prima appena sotto l'intervallo, spiegata con un controllo a campione); 11,3 e 17,1 minuti per blocco. Glossario: maiuscola di Sintesi (decisione sulla maiuscola di Sintesi, D-28) e sette voci nuove (decisione sui termini del pilota, D-29), ora 139 voci. Tempi misurati scritti nel piano. Dubbi passati alla seconda sessione di traduzione e al confronto alla cieca.
+
 Aperto il pilota (S2) sui blocchi 01 e 18, con Opus 5.5, nella chat cloud di S0 svuotata e sul ramo `sessione-S2` (decisione sulla chat cloud riaperta, D-27, aggiunta come punto 8 della sezione "Lavoro nel cloud" di `CLAUDE.md`). Sorgente integra (50 file), epubcheck 4.2.6 presente, pull request della sessione sul glossario già unita.
 
 La sessione sul glossario, i personaggi, le epigrafi e la tipografia (S1) è chiusa: il PI ha accettato tutte e cinque le raccomandazioni (decisione sulle scelte di S1, D-26). Glossario con 132 voci tutte approvate; guida di stile e scheda dei personaggi stabili; titolo dell'EPUB confermato. Prossima sessione: il pilota (S2) sui blocchi 01 e 18, con Opus 5.5.
