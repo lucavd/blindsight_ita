@@ -1,1 +1,133 @@
 id	term_en	match_en	rendering_it	match_it	status	first_chunk	note
+G001	Theseus	\bTheseus	Theseus (in corsivo, femminile: la Theseus)	Theseus|Teseo	proposed	01	Nave dell'equipaggio; Watts la tratta al femminile (her). Proposta: invariato, come Rorschach e Big Ben. Alternativa: Teseo, che rende evidente il paradosso della nave di Teseo ma va decisa insieme a Scylla, Charybdis e Icarus. Vale anche per il titolo della parte.
+G002	Scylla	\bScylla	Scylla (in corsivo, femminile)	Scylla|Scilla	proposed	02	Navetta di Theseus. Si decide insieme a Theseus: invariato oppure Scilla.
+G003	Charybdis	\bCharybdis	Charybdis (in corsivo, femminile)	Charybdis|Cariddi	proposed	02	Seconda navetta e titolo dell'ultima parte. Si decide insieme a Theseus: invariato oppure Cariddi (in italiano evoca subito tra Scilla e Cariddi).
+G004	Icarus (array, stream)	\bIcarus	Icarus (la schiera Icarus, il flusso Icarus)	Icarus|Icaro	proposed	02	Schiera che produce antimateria e la trasmette a Theseus. Si decide insieme a Theseus: invariato oppure Icaro.
+G005	blindsight	\bblindsight	visione cieca (nel testo); Blindsight resta il titolo	visione ciec|vista ciec|blindsight	proposed	18	Termine della neuropsicologia (vedere senza esserne consapevoli). Forma italiana corrente: visione cieca, usata anche come glossa di blindsight. Il gioco di p01656 (blind chance / blindsight) regge con caso cieco / visione cieca. Si decide insieme al titolo.
+G006	scrambler	\bscramblers?\b	scrambler (invariabile: lo scrambler, gli scrambler)	scrambler|rimescolator	proposed	01	Gli alieni di Rorschach; nome dato da James. Scramble vale arrampicarsi e cifrare: nessuna parola italiana tiene i due sensi. Alternativa: rimescolatore, più trasparente ma goffo.
+G007	grunt(s)	\bgrunts?\b	fante, fanti (i robot da combattimento di Bates)	\bfant[ei]|fantaccin|grugn	proposed	08	Gergo militare per il soldato semplice, usato per i robot di Bates e, nell'epigrafe di p02354, per i soldati. In p02025 grunts vale grugniti: resa diversa, motivata dal senso. Alternativa: soldatini, più ironico.
+G008	baseline (human)	\bbaselines?\b	di serie (umano di serie, quelli di serie)	di serie|standard|di base	proposed	02	Umano non modificato. Di serie tiene l'immagine industriale (optional contro dotazione di serie, cfr. p02077). Alternative: standard, di base.
+G009	synthesist, synthesis	\bsynthesis(t|ts)?\b	sintetista; sintesi	sintetist|sintesi	proposed	01	Il mestiere di Siri: rendere comprensibile ai profani il lavoro degli specialisti. Alternativa: sintesista.
+G010	jargonaut	jargonaut	gergonauta	gergonaut	proposed	05	Gli specialisti postumani dell'equipaggio; tiene l'eco di argonauta.
+G011	Gang of Four, the Gang	Gang of Four|\bGang\b	la Banda dei Quattro, la Banda	Banda	proposed	05	Le quattro personalità di Susan James. Riprende la resa italiana storica della fazione cinese. Alternativa: la Gang, invariato. In p01963 e p01970 la sorgente scrive gang minuscolo: in italiano si tiene la maiuscola.
+G012	ConSensus	(?-i:ConSensus)	ConSensus (invariato)	ConSensus|ConSenso	proposed	02	La rete informativa della nave. Il gioco tra consenso e sensi si legge anche in italiano. Alternativa: ConSenso. La voce non conta consensus minuscolo, che è la parola comune.
+G013	Heaven	(?-i:\bHeaven)	Paradiso (maiuscolo)	Paradis	proposed	02	Il paradiso virtuale in cui si caricano le menti. In p00651 il doppio senso con il cielo religioso va tenuto.
+G014	inlays	\binlay	innesti	innest|impiant	proposed	02	Interfacce impiantate nel corpo e nel cervello. Alternativa: impianti, più neutro.
+G015	Fireflies, 'flies	Firefl(y|ies)|'flies	le Lucciole	Luccio	proposed	01	Le 65.536 sonde che fotografano la Terra. Nome popolare dato dagli umani: si traduce. Alternativa: Fireflies invariato.
+G016	Firefall	Firefall	la Pioggia di fuoco	Pioggia di fuoco|Firefall	proposed	04	L'evento in cui cadono le Lucciole, il 13 febbraio 2082. In inglese è una parola trasparente; tradotta perde il legame sonoro con Fireflies. Alternativa: Firefall invariato.
+G017	sentience, sentient, nonsentient	\b(non)?sentien(ce|t)	senzienza, senziente, non senziente	senzien|non senzien	proposed	15	Va tenuta distinta da consciousness (coscienza) e da awareness (consapevolezza): il saggio finale le contrappone. Alternativa: coscienza, cosciente, che però confonderebbe i due termini.
+G018	Pod-man, Pod (nickname of Siri)	(?-i:\bPod(-man|-Man)?\b|pre-Pod)	Ultracorpo	Ultracorp|baccell	proposed	06	Soprannome dato da Pag, dagli ultracorpi del film L'invasione degli ultracorpi (pod people), che in italiano sono noti con quel nome. Il legame con i pod di ibernazione si perde. Alternativa: Uomo-baccello e Baccello.
+G019	Crucifix glitch	[Cc]rucifix glitch|Crucifix	glitch del Crocifisso	Crocifiss	proposed	06	Il difetto neurologico dei vampiri davanti agli angoli retti. Glitch è entrato nell'italiano informatico e tiene il registro tecnico di Watts. Alternativa: difetto del Crocifisso.
+G020	skimmers	\bskimmers?\b	scrematori	scremator|skimmer	proposed	07	Le macchine che raccolgono materia nell'atmosfera di Big Ben (to skim: sfiorare e scremare). Alternativa: skimmer invariato.
+G021	Stretch, Clench	(?-i:\bStretch\b|\bClench\b)	Stretch e Clench (invariati)	Stretch|Clench	proposed	29	I due scrambler catturati, battezzati da Cunningham. Il testo dice da sé cosa significano. Alternativa: soprannomi parlanti italiani, da scegliere in coppia.
+G022	Rorschach	\bRorschach	Rorschach (in corsivo come in Watts, maschile, senza articolo)	Rorschach	approved	01	Il manufatto alieno; allude al test delle macchie d'inchiostro (gioco in p01788).
+G023	Big Ben, Ben	\bBig Ben\b|(?-i:\bBen\b)	Big Ben, Ben (invariati)	\bBen\b	approved	01	Il corpo substellare scuro, nascosto, dove sta Rorschach.
+G024	Burns-Caulfield, Burnsie	Burns-Cau|Burnsie	Burns-Caulfield, Burnsie (invariati)	Burns	approved	04	La cometa delle sonde. In p00332 la sorgente scrive Burns-Caufield: si scrive Burns-Caulfield.
+G025	Oasa emitter, Oasa object	\bOasa	emettitore di Oasa, oggetto di Oasa	Oasa	approved	05	Classe di oggetti substellari che emettono radio, dal nome dell'astronoma Yumiko Oasa (vedi le note finali).
+G026	Kuiper (belt)	\bKuiper	fascia di Kuiper; il Kuiper	Kuiper	approved	02	Forma standard.
+G027	Oort (cloud)	\bOort	nube di Oort	Oort	approved	02	Forma standard.
+G028	Mission Control	Mission Control	Controllo Missione	Controllo Missione|Controllo	approved	02	
+G029	Kurzweil Institute	Kurzweill?	Istituto Kurzweil	Kurzweil	approved	04	In p00299 la sorgente scrive Kurzweill: si scrive Kurzweil.
+G030	the Captain	(?-i:\bCaptain\b)	il Capitano (maiuscolo)	Capitan	approved	02	L'intelligenza artificiale di Theseus, pronome neutro in Watts (its): in italiano maschile.
+G031	BioMed	\bBioMed\b	BioMed (invariato)	BioMed	approved	02	Il reparto medico della nave.
+G032	Fab	(?-i:\bFab\b)	Fab (invariato)	\bFab\b	approved	02	Il reparto di fabbricazione della nave; come BioMed, nome di bordo invariato.
+G033	Commons	(?-i:\bCommons\b)	la Sala comune	Sala comune	approved	05	Il locale comune della nave.
+G034	Tactical	(?-i:\bTactical\b)	il Tattico	Tattic	approved	07	Lo schermo tattico della nave, usato come nome proprio. Nell'epigrafe di p02354 Tactical planning è un nome comune.
+G035	drum	\bdrums?\b	tamburo	tambur	approved	01	La sezione rotante di Theseus che dà la gravità.
+G036	spine (of Theseus); spines (of Rorschach)	\bspines?\b	spina dorsale (la nave); aculei (Rorschach)	spin[ae]|dorsal|acule	approved	02	Metafora anatomica di Watts per la nave, da tenere sempre; per Rorschach il senso è aculei. Per la colonna vertebrale umana: spina dorsale.
+G037	carapace	\bcarapace	carapace	carapac	approved	02	Lo scafo di Theseus e la corazza degli scrambler.
+G038	bridge	(?-i:\bbridge\b)	plancia	plancia|ponte	approved	02	Della nave; nel senso di ponte o collegamento resta ponte.
+G039	crypt	\bcrypt	cripta	cript	approved	02	Dove dormono i membri dell'equipaggio; conserva l'eco vampiresca.
+G040	coffin	\bcoffins?\b	bara	\bbar[ae]\b	approved	01	I contenitori di ibernazione nella cripta. Da tenere distinti dai pod (capsule).
+G041	pod (resurrection, medical)	(?-i:\bpods?\b)	capsula	capsul	approved	01	Distinto da coffin (bara). Pod-man è un'altra voce.
+G042	observation blister, blister	\bblisters?\b	bolla di osservazione, bolla	\bboll[ae]\b|vescic	approved	02	Da tenere distinta da dome (cupola). In p03103 blisters vale vesciche.
+G043	dome (observation)	\bdome\b	cupola	cupol	approved	02	
+G044	galley	\bgalley	cambusa	cambus	approved	08	Il locale dove l'equipaggio mangia.
+G045	tent	\btents?\b	tenda	tend	approved	02	La struttura gonfiabile aggrappata a Rorschach.
+G046	telematter	telematter	telemateria	telemateri	approved	02	
+G047	lab-hab	lab-?hab	modulo laboratorio	modulo laboratorio|laboratorio	approved	36	Il modulo con gli scrambler prigionieri.
+G048	teleops	\bteleops?\b	teleoperatori	teleoperat	approved	24	
+G049	drones	\bdrones?\b	droni	\bdron[ie]\b|fuch	approved	05	In p02657 il gioco con i fuchi delle api: drones vale anche fuchi.
+G050	HUD	(?-i:\bHUD\b)	HUD	HUD|visore	approved	16	Sigla in uso anche in italiano.
+G051	fiberop	fiberop	fibrottica	fibrottic|fibra ottica	approved	15	Contrazione di Watts, resa con una contrazione italiana.
+G052	waldoes	\bwaldo	manipolatori	manipolator|waldo	approved	24	Un globulo bianco con i manipolatori (p02248).
+G053	Faraday (mesh, bell, shielding; verb)	Faraday	di Faraday (gabbia, rete, campana, schermatura di Faraday); il verbo si rende con schermare	Faraday|scherm	approved	15	Faradizzare in italiano è una terapia elettrica: non si usa.
+G054	accretion belt	accretion belt	fascia di accrescimento	accresciment	approved	07	
+G055	superjovian	super-?Jovian	supergioviano	supergiovian	approved	07	Forma dell'astronomia italiana.
+G056	tweak(s)	\btweak	ritocco, ritoccare	ritocc	approved	06	I ritocchi neurali di Chelsea. TAT (transient attitudinal tweak) si scioglie in modo da ricreare la sigla.
+G057	carboplatinum	carboplatinum	carboplatino	carboplatin	approved	02	Il materiale dei potenziamenti di Bates. In italiano è anche il nome di un farmaco, come carboplatin in inglese.
+G058	trickle-charger, trickler	trickle	erogatore a rilascio lento	erogator|rilascio lento	approved	06	
+G059	vampire	\bvamp(ire|iric|ires|s)?\b	vampiro, vampiri, vampiresco	vampir|vamp	approved	01	Vamp, accorciamento di Pag (p00409), si rende vampiro.
+G060	Homo sapiens vampiris	vampiris	Homo sapiens vampiris (corsivo)	vampiris	approved	40	Nome scientifico latino invariato.
+G061	bloodsucker	bloodsucker	succhiasangue	succhiasangue	approved	05	
+G062	undead	\bundead\b	non morto, non morti	non mort|non-mort	approved	02	In p02910 la battuta sull'accento regge con non morti.
+G063	zombie	\bzombie	zombie (invariabile)	zombi	approved	01	Anche agenti zombie e zombie filosofico. Grafia unica in tutto il libro.
+G064	Human, Humans, Humanity (capitalized)	(?-i:\bHuman(s|ity|kind)?\b)	Umano, Umani, Umanità (maiuscolo dove Watts lo usa)	Uman	approved	02	Watts usa la maiuscola per la specie in contrapposizione ai vampiri; dove scrive human minuscolo resta minuscolo.
+G065	Realists	(?-i:\bRealists?\b)	Realisti, realista (maiuscolo come in Watts)	[Rr]ealist	approved	03	Il movimento ostile alla tecnologia.
+G066	Ascended, Ascendants	\bascend(ed|ing|ants?)\b	gli Ascesi	Ases[io]|ascesi|ascend	approved	03	Chi si è trasferito nel Paradiso virtuale.
+G067	conscious, consciousness	\bconscious(ness)?\b	cosciente, coscienza	coscien	approved	02	Da tenere distinto da sentience (senzienza) e da awareness (consapevolezza).
+G068	Major (Bates)	(?-i:\bMajor\b)	il maggiore (minuscolo, anche al vocativo)	maggiore	approved	05	Grado al maschile secondo l'uso militare; accordi al femminile per la persona. Major Mandy di Szpindel: maggiore Mandy.
+G069	commissar	\bcommissar	commissario (commissario politico alla prima occorrenza)	commissari	approved	02	Lo scherzo di Szpindel su Siri; da solo, commissario in italiano può far pensare alla polizia.
+G070	conduit	\bconduits?\b	tramite (il ruolo di Siri); condotto (i tubi della nave)	tramite|condott	approved	02	Sono un tramite (p02028).
+G071	Cruncher	\bCruncher	Cruncher (invariato)	Cruncher	approved	11	Personalità della Banda, al maschile.
+G072	Jack (probe)	(?-i:\bJack\b)	Jack (invariato)	Jack	approved	12	La sonda; anche Jack-in-the-box.
+G073	Cygnus, Cyg, Cyggers	(?-i:\bCyg(nus|gers)?\b)	Cygnus, Cyg, Cyggers (invariati)	Cyg	approved	06	Il soprannome che Chelsea dà a Siri, dal buco nero Cygnus X-1; quando Siri chiede del cigno (p00535), il Cigno.
+G074	nicknames: Mandy, Meesh, Suze, Ike, Chelse, Rob, Burnsie	(?-i:\b(Mandy|Meesh|Suze|Ike|Chelse)\b)	invariati	Mandy|Meesh|Suze|Ike|Chelse	approved	06	
+G075	Mom (Susan for her personalities; Siri's mother)	(?-i:\bMom\b)	mamma	[Mm]amma	approved	08	Siri chiama la madre Helen; quando dice Mom, mamma.
+G076	QuBit's, the Qube	QuBit|\bQube\b	QuBit's, il Qube (invariati)	QuBit|Qube	approved	06	Il locale dove Pag porta Siri.
+G077	Golem (disease)	(?-i:\bGolem\b)	Golem (invariato)	Golem	approved	32	La malattia ingegnerizzata che uccide Chelsea.
+G078	Hadzane	Hadzane	hadza (la lingua hadza)	hadza	approved	21	
+G079	topology	\btopolog	topologia	topolog	approved	02	Lessico di Siri per leggere le persone; da tenere fisso.
+G080	facets	\bfacets?\b	sfaccettature	sfaccettatur	approved	09	Lessico di Siri; anche le personalità di James.
+G081	rotate (synthesist jargon)	\brotat	ruotare, rotazione	ruot|rotaz	approved	05	Gergo del sintetista per elaborare informazioni; vale anche il senso fisico.
+G082	personae	\bpersonae\b	personae (in corsivo)	personae	approved	02	Watts usa il plurale latino; si mantiene.
+G083	cores (of James)	\b(multi)?cores?\b	nuclei	nucle	approved	05	Le personalità di James come nuclei; MCC (Multiple Core Complex) diventa complesso a nuclei multipli.
+G084	meat	\bmeat\b	carne	carn	approved	01	Watts chiama carne i corpi umani: resa fissa.
+G085	eh? (Szpindel)	\beh\b	eh?	\beh\b	approved	02	Intercalare di Szpindel.
+G086	bleeding edge	bleeding edge	avanguardia estrema	avanguardi	approved	05	
+G087	Chinese Room	Chinese Room	stanza cinese	stanza cinese|stanza	approved	11	Forma italiana dell'argomento di Searle. Le riprese in p03033, p03072, p03282 usano stanza.
+G088	N minutes to apogee/perigee	minutes? to (apogee|perigee)	N minuti all'apogeo, N minuti al perigeo	minut[oi] all'apogeo|minut[oi] al perigeo	approved	22	Ritornello del conto alla rovescia: formula identica a ogni ricorrenza.
+G089	postcards to posterity	postcards? to posterity	cartolina ai posteri, cartoline ai posteri	cartolin\w+ ai posteri	approved	18	Formula di Szpindel, identica a ogni ritorno.
+G090	Technology Implies Belligerence	Technology Implies Belligerence	La tecnologia implica belligeranza	tecnologia implica belligeranza	approved	04	Slogan, con le maiuscole di Watts.
+G091	covert to invulnerable	covert to invulnerable	da occulto a invulnerabile	occult\w a invulnerabil|occult	approved	10	
+G092	Graduation Day	Graduation	il Giorno del Diploma	Diploma	approved	13	Il momento in cui Rorschach diventerà invulnerabile.
+G093	survive and bear witness	bear witness	sopravvivere e testimoniare	testimoni	approved	03	
+G094	Devil's Baklava	Devil's Baklava	la Baklava del Diavolo	Baklava del Diavolo	approved	14	
+G095	twencen	twencen	novecentesco	novecent	approved	01	Gergo per ventesimo secolo; l'accorciamento si perde.
+G096	klicks	\bklicks?\b	chilometri	chilometr|\bkm\b	approved	05	Il gergo italiano non ha un equivalente diffuso.
+G097	headspace	headspace	spazio mentale	spazio mentale	approved	09	
+G098	inattentional blindness	inattentional blindness	cecità da disattenzione	cecità da disattenzione	approved	20	Forma italiana corrente (per esempio Focus, sul gorilla invisibile di Simons e Chabris).
+G099	Cotard's syndrome	Cotard	sindrome di Cotard	Cotard	approved	18	
+G100	Anton's syndrome	Anton's	sindrome di Anton	Anton	approved	18	
+G101	alien hand syndrome	alien hand	sindrome della mano aliena	mano aliena	approved	20	
+G102	hemispherectomy	hemispherectomy	emisferectomia	emisferectomi	approved	01	
+G103	brain stem	brain ?stem	tronco encefalico	tronco encefalico	approved	08	
+G104	saccades, saccadic	saccad	saccadi, saccadico	saccad	approved	31	Saccadal nel saggio (p03715) si rende saccadico.
+G105	proprioception	propr?io(re)?cept	propriocezione, propriocettivo	propriocett|propriocezion	approved	25	La sorgente scrive anche proprioreceptive e propioreception: si scrive la forma corretta.
+G106	synesthesia, synesthete	synesth	sinestesia, sinesteta	sinestes|sinestet	approved	07	Synesthesiac di Watts si rende sinesteta.
+G107	transcranial magnetic stimulation, TMS	transcranial|(?-i:\bTMS\b)	stimolazione magnetica transcranica (TMS); magnete transcranico	transcranic|TMS	approved	17	
+G108	Necker cube	Necker	cubo di Necker	Necker	approved	06	
+G109	form constants (Klüver)	form-?constant|Kl[üu]ver	costanti di forma (di Klüver)	costant\w di forma|Klüver	approved	18	Traduzione letterale di form constants; nessuna fonte italiana trovata in rete.
+G110	vasopressin	vass?opressin	vasopressina	vasopressin	approved	03	La sorgente scrive vassopressin in p00167 e p01357: si scrive vasopressina.
+G111	protocadherin	[Pp]rotocadherin	protocaderina γ-Y (nel romanzo e nelle note)	protocaderin	approved	10	Nel romanzo (p00951) Watts scrive protocadherin γ-Y, nelle note (p03708) ε-Protocadherin Y: si uniforma su γ, la forma del romanzo, perché le note rimandano alla stessa proteina. Nessuna delle due è la classificazione reale (PCDH11Y). Protocaderina segue caderina, forma italiana corrente; nessuna fonte italiana trovata per il composto.
+G112	antieuclideans	[Aa]nti-?[Ee]uclidean	antieuclidei	antieuclide	approved	10	I farmaci che correggono il glitch del Crocifisso.
+G113	multiple personality disorder, MPD	[Mm]ultiple [Pp]ersonality|(?-i:\bMPD\b)	disturbo di personalità multipla (DPM)	personalità multipla|DPM	approved	16	Opposto a MCC (complesso a nuclei multipli): l'opposizione disturbo contro complesso va tenuta.
+G114	alters	\balters?\b	alter (in corsivo)	\balter\b	approved	15	Termine clinico usato anche in italiano; in p01425-p01429 è un insulto per James.
+G115	savant, savantism	savant	savant, savantismo	savant	approved	04	Savantes nel saggio (p03745) si rende savant.
+G116	splinter skills	splinter skill	abilità isolate	abilità isolat	approved	29	Nessuna forma italiana consolidata trovata.
+G117	transient (orca)	\btransients?\b	transiente (orca transiente, orche transienti e residenti)	transient	approved	08	Ecotipi di orca della cetologia; Szpindel usa transient come etichetta per Sarasti (p00747-p00755, p01281, p03020). Forma corrente nella divulgazione; non trovata una fonte italiana autorevole.
+G118	extended phenotype	extended phenotype	fenotipo esteso	fenotip\w estes	approved	30	Forma standard (Dawkins).
+G119	kin selection	kin[- ]selection	selezione di parentela	selezione di parentela	approved	13	
+G120	game theory	game theor	teoria dei giochi	teoria dei giochi|teoric\w dei giochi	approved	07	
+G121	anaerobe, anaerobic	anaerob	anaerobio, anaerobico	anaerob	approved	15	
+G122	septum, septa	\bsept(a|um)\b	setto, setti	\bsett[oi]\b	approved	20	
+G123	vestibule	vestibule	vestibolo	vestibol	approved	16	
+G124	chromatophores	chromatophore	cromatofori	cromatofor	approved	22	
+G125	cloacae	cloaca	cloache	cloac	approved	24	
+G126	crypsis	crypsis	cripsi	cripsi	approved	24	
+G127	prion, prionic	\bprion	prione, prionico	prion	approved	27	
+G128	Seiverts (sievert)	Seivert	sievert (minuscolo, invariabile)	sievert	approved	16	Watts scrive sempre Seiverts: refuso costante, si scrive l'unità corretta.
+G129	noosphere	noosphere	noosfera	noosfer	approved	03	Termine esistente in italiano.
+G130	magnetosphere	magnetospher	magnetosfera	magnetosfer	approved	05	
+G131	Grey Syndrome	Gr[ae]y Syndrome	sindrome Grigia	[Ss]indrome [Gg]rigia	approved	16	La sorgente scrive Grey e Gray: in italiano una sola forma. Gioca sugli alieni grigi (p01512).
+G132	brown dwarf	brown dwar	nana bruna	nan[ae] brun	approved	05	

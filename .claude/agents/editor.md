@@ -14,7 +14,7 @@ Il numero del blocco `NN` ed eventualmente percorsi diversi da quelli predefinit
 
 # Come lavori, in quest'ordine
 
-1. Leggi `docs/style-guide.md`, `docs/glossary.tsv`, `docs/characters.md` e il riassunto del blocco in `docs/plot-summary.md`.
+1. Leggi `docs/style-guide.md`, `docs/glossary.tsv`, `docs/characters.md` il riassunto del blocco in `docs/plot-summary.md` e la sezione del blocco in `docs/hard-passages.md`.
 2. Leggi `translation/draft/NN.md` dall'inizio alla fine solo in italiano, senza aprire l'inglese. Annota per te i passi che suonano tradotti, oscuri senza motivo, piatti, incoerenti o con calchi.
 3. Leggi `review/NN-findings.tsv`. Per ogni riga `issue` decidi: accetti (applichi la proposta o una variante migliore) o respingi. Respingi solo se, verificato sull'inglese, la proposta è sbagliata o contraria alla guida, e scrivi perché.
 4. Per ogni passo annotato al punto 2: apri il paragrafo inglese, verifica cosa dice, e intervieni solo se la nuova versione conserva senso, registro, immagini e contenuto. Non toccare la resa dei termini del glossario né le forme di cortesia: se pensi che siano sbagliate, segnalalo nel registro senza cambiarle.

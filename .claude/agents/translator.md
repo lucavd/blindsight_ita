@@ -18,7 +18,7 @@ Il numero del blocco `NN` ed eventualmente percorsi di uscita diversi da quelli 
 2. `docs/glossary.tsv` (voci `approved` vincolanti, voci `proposed` come proposta).
 3. `docs/characters.md` (registro e forme di cortesia).
 4. `docs/epigraphs.tsv` (quali epigrafi restano in originale).
-5. `docs/plot-summary.md`, fino al blocco NN compreso.
+5. `docs/plot-summary.md`, fino al blocco NN compreso, e in `docs/hard-passages.md` la sezione del blocco NN.
 6. Per continuità: gli ultimi 6 paragrafi del blocco precedente in inglese (`source/chunks/`) e, se esiste, in italiano (`translation/final/` o, in mancanza, `translation/draft/`).
 7. `source/chunks/NN.md`, per intero, prima di scrivere una parola: il senso di una frase spesso dipende da quello che viene dopo.
 
