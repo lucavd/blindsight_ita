@@ -419,3 +419,11 @@ Decisione: entrano nel glossario, approvate dall'agente, due voci per termini de
 Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Informational topologies è il modo in cui Siri descrive il proprio mestiere, e due traduttori l'hanno reso in due modi; in italiano informativo vuol dire che informa, mentre informazionale dice di che cosa sono fatte le topologie, come l'inglese. Nessuna delle due rese tocca il senso.
 
 Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-51 Una voce nuova del glossario dai termini del blocco 14
+
+Decisione: entra nel glossario, approvata dall'agente, una voce per un termine del blocco 14 che torna in altri blocchi: G173 counterintrusion (blocchi 14, 15, 29): anti-intrusione, quindi misure anti-intrusione e meccanismi anti-intrusione. Nella prima stesura del blocco 14 (p01295) «contromisure anti-intrusione» diventa «misure anti-intrusione». Gli altri termini proposti dal traduttore del blocco 14 compaiono solo lì (torpor, relay sats, myo-optical, endoscope, Snowball), hanno già la stessa resa altrove (doped, drogato, come le ceramiche drogate del blocco 09), oppure tornano solo come titolo di un articolo nelle note bibliografiche (estivation, blocco 41): restano la scelta del traduttore.
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Il traduttore aveva scritto contromisure anti-intrusione, che dice counter due volte, con contro e con anti; misure anti-intrusione è l'inglese parola per parola e regge anche nei blocchi 15 e 29. La correzione non tocca il senso.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
