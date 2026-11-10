@@ -259,3 +259,11 @@ Decisione: il PI chiede il confronto alla cieca con Fable 5.2 (S2b) sugli stessi
 Motivazione: il modello scelto traduce tutto il libro e non si cambia a metà; dall'interno della catena, dove traduttore, revisore e redattore sono lo stesso modello, non si vede se un altro modello farebbe meglio. La lineetta media spaziata è coerente con quella scelta per gli incisi (decisione sulle scelte di S1, D-26).
 
 Deciso da: PI. Data: 2026-11-10. Stato: valida.
+
+## D-31 I due EPUB del confronto alla cieca hanno un titolo che li distingue
+
+Decisione: il comando che costruisce le due versioni anonime scrive nei metadati di ciascun EPUB un titolo proprio, «Blindsight (pilota X)» e «Blindsight (pilota Y)», al posto del titolo comune. Il resto dei metadati, la copertina e il foglio di stile restano identici. Il collaudo degli script ha un controllo in più su questo.
+
+Motivazione: i due file avevano lo stesso titolo e la stessa copertina, quindi nella libreria di un lettore di EPUB non si distinguevano e il PI non avrebbe saputo quale dei due stava leggendo. L'etichetta è quella del nome del file e non dice nulla su chi ha tradotto. Il titolo dell'EPUB del libro intero non cambia.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.

@@ -219,6 +219,15 @@ def main():
             expect("blind: two pilot EPUBs written",
                    code == 0 and (tmp / "build/pilota-X.epub").exists()
                    and (tmp / "build/pilota-Y.epub").exists(), out)
+            titles = {}
+            for label in ("X", "Y"):
+                with zipfile.ZipFile(tmp / "build" / ("pilota-%s.epub" % label)) as z:
+                    opf = [n for n in z.namelist() if n.endswith(".opf")][0]
+                    titles[label] = z.read(opf).decode("utf-8")
+            expect("blind: each pilot EPUB carries its own label in the title",
+                   all("(pilota %s)" % k in v for k, v in titles.items())
+                   and "(pilota Y)" not in titles["X"] and "(pilota X)" not in titles["Y"],
+                   titles["X"][:600])
         else:
             print("skip build tests: pandoc not installed")
 

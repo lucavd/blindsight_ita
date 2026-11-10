@@ -46,6 +46,18 @@ Stessi blocchi e stessi passaggi di S2, con queste differenze:
 
 Quelle di S2, sui due blocchi della prova B.
 
+# Apertura
+
+Sessione aperta il 2026-11-10 con Fable 5.2 (modello previsto e modello in uso coincidono), sul ramo `sessione-S2b`. Sorgente integra (50 file). Pull request del pilota già unita, nessuna pull request aperta. Guida di stile, glossario e scheda dei personaggi non sono cambiati dopo la chiusura del pilota: l'ultimo commit che li tocca è 30b27e6, dentro il pilota.
+
+Domanda al PI in apertura: ha aperto l'EPUB del pilota dopo la chiusura di S2? Risposta: no. Il confronto resta alla cieca.
+
+Limite visto in apertura: il riassunto del pilota, che il PI ha letto, citava tre rese della versione A (il gioco sul titolo, i congiuntivi di Pag, una battuta di Szpindel). La prima è fissata dal glossario ed è uguale nelle due versioni; le altre due, se il PI le ricorda, possono fargli riconoscere la versione A. Detto al PI nel messaggio di apertura, con l'indicazione di non rileggere quel riassunto prima di scegliere.
+
+Ogni sotto-agente della prova B riceve nel prompt il divieto di aprire `translation/`, `review/`, `checks/`, `build/`, `docs/sessions/`, `docs/decisions.md` e `docs/log.md`, che contengono la versione A o ne citano le rese: la prova B deve essere indipendente.
+
+Il controllo sui blocchi della prova B si lancia senza `--save`: con `--save` lo script scrive in `checks/` con lo stesso nome dei risultati della versione A e li sovrascriverebbe. L'output si conserva in `trial-b/checks/`.
+
 # In breve
 
 (da scrivere alla chiusura)
