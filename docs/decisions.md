@@ -467,3 +467,11 @@ Decisione: entra nel glossario, approvata dall'agente, G179 enhance come sostant
 Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Enhance usato come sostantivo è gergo di Watts; elaborazione è la resa scelta da due traduttori diversi e regge in tutti e quattro i blocchi. Non tocca il senso.
 
 Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-57 Le scelte della seconda sessione di traduzione (T2): la testa della Banda e il genere della prigioniera
+
+Decisione: il PI accetta le due raccomandazioni del riassunto. Nel blocco 16 (p01459) she shook their head, detto di Susan, si rende «Scosse la loro testa»; la scheda dei personaggi, che chiedeva «Scosse la testa» con la perdita annotata, è aggiornata. Nel blocco 19 la prigioniera del racconto in seconda persona (da p01837 a p01878) è al femminile dalla prima riga («Immagina di essere una prigioniera di guerra»), anche se l'inglese ne dice il genere solo alla fine (her belt, p01878).
+
+Motivazione: «Scosse la loro testa» riproduce la frase storta di Watts, il singolare di lei e il plurale della testa condivisa, senza aggiungere nulla; la scheda presumeva che il their non avesse equivalente. Per la prigioniera l'italiano deve accordare subito: il femminile anticipa un'informazione che la scena non sfrutta, mentre il maschile generico farebbe immaginare un uomo e farebbe sembrare un errore il femminile dell'ultima riga. Alternative scartate dal PI: «Scosse la testa» con la perdita annotata; il maschile generico fino alla fine.
+
+Deciso da: PI. Data: 2026-11-10. Stato: valida.
