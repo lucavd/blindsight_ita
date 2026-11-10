@@ -363,3 +363,11 @@ Decisione: entrano nel glossario, approvate dall'agente, quattro voci per termin
 Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Per airspace Watts piega allo spazio fisico un termine dell'aviazione; spazio aereo fa in italiano la stessa piegatura, ed è la resa scelta da due traduttori diversi nei blocchi 03 e 06. Il rischio è che in italiano suoni più strano che in inglese: il revisore lo valuterà nel contesto, e la voce si può cambiare con una nuova decisione prima della revisione dei blocchi in cui compare.
 
 Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-44 Tre voci nuove del glossario dai termini del blocco 07, e il Tattico dal blocco 12
+
+Decisione: entrano nel glossario, approvate dall'agente, tre voci per termini del blocco 07 che tornano in altri blocchi, con le rese del traduttore: G158 scramjet (blocchi 07, 37, 38): scramjet, invariato; G159 divers e high divers, le macchine che si tuffano in Big Ben (blocchi 07 e 12): tuffatori, tuffatori dalle grandi altezze; G160 shovelnose (blocchi 07, 35, 36, 37): muso a pala. La voce sul Tattico (G034) parte ora dal blocco 12: nel blocco 07 Tactical graphics apre la frase ed è la prima occorrenza della parola, quindi è un aggettivo, e la prima stesura passa da «La grafica del Tattico» a «La grafica tattica». La voce sui nuclei di James (G083) dice che core nel senso di centro non la riguarda. Gli altri termini proposti compaiono solo nel blocco 07, hanno una sola resa possibile (morfometria, spirale di Parker) o altrove un senso diverso (ping, r-selector contro la band del blocco 22): restano la scelta del traduttore.
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Per il Tattico: il lettore inglese, alla prima occorrenza e in apertura di frase, legge un aggettivo; un nome proprio non ancora introdotto sarebbe un'aggiunta. È la correzione puntuale di un passo segnalato dal traduttore stesso.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.

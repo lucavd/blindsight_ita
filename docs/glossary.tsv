@@ -32,7 +32,7 @@ G030	the Captain	(?-i:\bCaptain\b)	il Capitano (maiuscolo)	Capitan	approved	02	L
 G031	BioMed	\bBioMed\b	BioMed (invariato)	BioMed	approved	02	Il reparto medico della nave.
 G032	Fab	(?-i:\bFab\b)	Fab (invariato)	\bFab\b	approved	02	Il reparto di fabbricazione della nave; come BioMed, nome di bordo invariato. Con l'articolo: il Fab, al Fab (p01822), come nel blocco 18 del pilota (decisione sui termini del confronto, D-36).
 G033	Commons	(?-i:\bCommons\b)	la Sala comune	Sala comune	approved	05	Il locale comune della nave.
-G034	Tactical	(?-i:\bTactical\b)	il Tattico	Tattic	approved	07	Lo schermo tattico della nave, usato come nome proprio. Nell'epigrafe di p02354 Tactical planning è un nome comune.
+G034	Tactical	(?-i:\bTactical\b)	il Tattico	Tattic	approved	12	Lo schermo tattico della nave, usato come nome proprio. Nell'epigrafe di p02354 Tactical planning è un nome comune. Come nome proprio compare dal blocco 12 (On Tactical, sul Tattico). Nel blocco 07, p00583, Tactical graphics apre la frase ed è la prima occorrenza nel libro: è un aggettivo, la grafica tattica, e il controllo lo segnala come falso allarme (decisione sui termini del blocco 07, D-44).
 G035	drum	\bdrums?\b	tamburo	tambur	approved	01	La sezione rotante di Theseus che dà la gravità.
 G036	spine (of Theseus); spines (of Rorschach)	\bspines?\b	spina dorsale (la nave); aculei (Rorschach)	spin[ae]|dorsal|acule	approved	02	Metafora anatomica di Watts per la nave, da tenere sempre; per Rorschach il senso è aculei. Per la colonna vertebrale umana: spina dorsale.
 G037	carapace	\bcarapace	carapace	carapac	approved	02	Lo scafo di Theseus e la corazza degli scrambler.
@@ -81,7 +81,7 @@ G079	topology	\btopolog	topologia	topolog	approved	02	Lessico di Siri per legger
 G080	facets	\bfacets?\b	sfaccettature	sfaccettatur	approved	09	Lessico di Siri; anche le personalità di James.
 G081	rotate (synthesist jargon)	\brotat	ruotare, rotazione	ruot|rotaz	approved	05	Gergo del sintetista per elaborare informazioni; vale anche il senso fisico.
 G082	personae	\bpersonae\b	personae (in corsivo)	personae	approved	02	Watts usa il plurale latino; si mantiene.
-G083	cores (of James)	\b(multi)?cores?\b	nuclei	nucle	approved	05	Le personalità di James come nuclei; MCC (Multiple Core Complex) diventa complesso a nuclei multipli.
+G083	cores (of James)	\b(multi)?cores?\b	nuclei	nucle	approved	05	Le personalità di James come nuclei; MCC (Multiple Core Complex) diventa complesso a nuclei multipli. Core nel senso di centro, nucleo di una scia o di un oggetto (blocco 07, p00555 e p00556), non è questa voce: falso allarme.
 G084	meat	\bmeat\b	carne	carn	approved	01	Watts chiama carne i corpi umani: resa fissa.
 G085	eh? (Szpindel)	\beh\b	eh?	\beh\b	approved	02	Intercalare di Szpindel.
 G086	bleeding edge	bleeding edge	avanguardia estrema	avanguardi	approved	05	
@@ -156,3 +156,6 @@ G154	airspace (lo spazio fisico)	\bairspace	spazio aereo	spazio aereo|nell'aria	
 G155	Body Economic	Body Economic	Corpo Economico	Corpo Economico	approved	06	Sul modello di body politic, con le maiuscole di Watts (blocchi 06 e 19). Resa del blocco 06, p00471 (decisione sui termini del blocco 06, D-43).
 G156	lightscape	lightscapes?	paesaggio di luce, paesaggi di luce	paesagg\w+ di luce	approved	06	Arte visiva di luce (blocchi 06 e 09). Resa del blocco 06, p00495 (decisione sui termini del blocco 06, D-43).
 G157	neuropharm	neuropharm	neurofarmaci	neurofarmac	approved	06	Accorciamento di neuropharmaceuticals (blocchi 06 e 32); Palliative neuropharm, neurofarmaci palliativi. Resa del blocco 06, p00498 (decisione sui termini del blocco 06, D-43).
+G158	scramjet	\bscramjets?\b	scramjet (invariato, in tondo)	scramjet	approved	07	Le macchine degli scrematori in volo (blocchi 07, 37, 38). Termine d'uso nell'ingegneria aerospaziale italiana; la forma estesa, statoreattore a combustione supersonica, è troppo lunga per la prosa. Resa del blocco 07, p00577 (decisione sui termini del blocco 07, D-44).
+G159	divers, high divers	\bhigh-?divers?\b|\bdivers\b	tuffatori, tuffatori dalle grandi altezze	tuffator	approved	07	Le macchine che si tuffano nell'atmosfera di Big Ben (blocchi 07 e 12). Nel blocco 16 deep-sea divers sono i palombari: lì decide il traduttore, e il controllo lo segnala come falso allarme. Resa del blocco 07 (decisione sui termini del blocco 07, D-44).
+G160	shovelnose, shovelnosed	shovelnose	muso a pala; dal muso a pala	muso a pala	approved	07	La forma degli scrematori (blocchi 07, 35, 36, 37). Resa del blocco 07, p00578 (decisione sui termini del blocco 07, D-44).
