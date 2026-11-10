@@ -31,6 +31,7 @@ docs/glossary.tsv          glossario (le voci approved sono vincolanti)
 docs/characters.md         personaggi, registro, forme di cortesia
 docs/epigraphs.tsv         epigrafi: chi le ha scritte, si traducono o no
 docs/plot-summary.md       riassunto della trama blocco per blocco (continuità)
+docs/hard-passages.md      passi difficili blocco per blocco (giochi di parole, gergo, ambiguità volute)
 docs/decisions.md          decisioni del PI e decisioni tecniche
 docs/log.md                registro delle modifiche, la più recente in alto
 source/original/           pagina HTML scaricata (sola lettura)

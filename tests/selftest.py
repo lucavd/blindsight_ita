@@ -56,6 +56,9 @@ def main():
             "id\tterm_en\tmatch_en\trendering_it\tmatch_it\tstatus\tnote\n"
             "G01\tparagraph\t\\bparagraph\tparagrafo\t\\bparagraf\tapproved\ttest\n",
             encoding="utf-8")
+        (tmp / "docs" / "epigraphs.tsv").write_text(
+            "pid\tchunk\tattribution\tauthor_kind\tform\tdecision\tnote\n"
+            "p00019\t03\ttest\treal\tsong\toriginal\ttest\n", encoding="utf-8")
 
         code, out = run(tmp, "extract", str(tmp / "source/original/Blindsight.htm"))
         expect("extract: coverage gate passes", code == 0 and "superato" in out, out)
@@ -149,7 +152,20 @@ def main():
         f01.write_text(re.sub(r"(<!-- p00011 t -->\n)[^\n]*", r"\1", good), encoding="utf-8")
         code, out = run(tmp, "check", "01", "--stage", "draft")
         expect("gate: empty paragraph detected", code == 1 and "empty" in out, out)
+        f01.write_text(re.sub(r"(<!-- p00010 t -->\n)[^\n]*", r"\1" + bt.PLACEHOLDER, good),
+                       encoding="utf-8")
+        code, out = run(tmp, "check", "01", "--stage", "draft")
+        expect("gate: placeholder where the epigraph list says translate",
+               code == 1 and "epigraph_decisions" in out and "p00010" in out, out)
         f01.write_text(good, encoding="utf-8")
+
+        f03 = tmp / "translation" / "draft" / "03.md"
+        good03 = f03.read_text(encoding="utf-8")
+        f03.write_text(good03.replace(bt.PLACEHOLDER, "[IT] versi riscritti", 1), encoding="utf-8")
+        code, out = run(tmp, "check", "03", "--stage", "draft")
+        expect("gate: epigraph to keep in English rewritten",
+               code == 1 and "epigraph_decisions" in out and "p00019" in out, out)
+        f03.write_text(good03, encoding="utf-8")
 
         gl = tmp / "docs" / "glossary.tsv"
         gl_good = gl.read_text(encoding="utf-8")

@@ -163,3 +163,67 @@ Decisione: le sessioni proseguono in Claude Code nel cloud. Alla chiusura di ogn
 Motivazione: il PI vuole lanciare le sessioni dal telefono. Nel cloud ogni chat lavora su un ramo suo e la successiva parte dal ramo principale: senza unione la sessione successiva non vedrebbe il lavoro fatto e lo rifarebbe.
 
 Deciso da: PI. Data: 2026-11-10. Stato: valida.
+
+## D-19 La sessione sul glossario (S1) si fa nella chat di S0, su un ramo proprio
+
+Decisione: la sessione sul glossario, i personaggi, le epigrafi e la tipografia (S1) si svolge nella stessa chat cloud della sessione sulla sorgente (S0), dopo che il PI ne ha svuotato la conversazione e ha portato il modello a Opus 5.5, il modello previsto. Poiché il ramo di quella chat è il ramo principale, il lavoro di S1 sta sul ramo `sessione-S1`, creato dal principale; alla chiusura si apre la pull request da `sessione-S1` al principale, come vuole la decisione sul lavoro nel cloud con pull request (D-18). Vale solo per S1.
+
+Motivazione: la conversazione svuotata dà un contesto pulito e il modello è quello previsto, quindi le ragioni della regola su una sessione nuova sono soddisfatte; un ramo proprio conserva il passaggio di unione che il protocollo cloud prevede. Alternative scartate dal PI: lavorare direttamente sul principale senza pull request, oppure aprire una chat nuova e rilanciare l'esplorazione.
+
+Deciso da: PI. Data: 2026-11-10. Stato: valida.
+
+## D-20 Cancello sulle epigrafi che restano in inglese
+
+Decisione: il controllo di un blocco tradotto (`check`) confronta i segnaposto con `docs/epigraphs.tsv`. Il cancello fallisce in due casi: un paragrafo che l'elenco delle epigrafi segna `original` non contiene il solo segnaposto `[[ORIGINALE]]`; un paragrafo contiene il segnaposto ma l'elenco non lo segna `original`. Il collaudo ha due casi nuovi, uno per errore (ora i controlli sono 41).
+
+Motivazione: prima il controllo verificava solo che il segnaposto fosse scritto bene, non che stesse nei paragrafi giusti. Senza questo cancello un traduttore avrebbe potuto riscrivere i versi di una canzone di un autore reale, o lasciare in inglese un'epigrafe da tradurre, senza che nessuno script lo vedesse; è la regola sui testi di terzi del protocollo.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-21 Glossario: le voci tecniche decise dall'agente
+
+Decisione: il glossario ha 132 voci. Le 21 voci `proposed` vanno al PI (termini chiave inventati o gergali, nomi con eco classica, il termine del titolo). Le altre 111 sono `approved` dall'agente, perché hanno una forma italiana standard, sono nomi propri che restano invariati o sono rese senza alternative serie; ciascuna ha la motivazione nella colonna `note`. Criterio di inclusione: termini che ricorrono in almeno due paragrafi o in blocchi diversi, dove la coerenza tra traduttori diversi conta; i termini che compaiono una sola volta restano al traduttore, che li propone nelle note del blocco. Elenco delle voci decise dall'agente: G022 Rorschach: Rorschach (in corsivo come in Watts, maschile, senza articolo); G023 Big Ben, Ben: Big Ben, Ben (invariati); G024 Burns-Caulfield, Burnsie: Burns-Caulfield, Burnsie (invariati); G025 Oasa emitter, Oasa object: emettitore di Oasa, oggetto di Oasa; G026 Kuiper (belt): fascia di Kuiper; il Kuiper; G027 Oort (cloud): nube di Oort; G028 Mission Control: Controllo Missione; G029 Kurzweil Institute: Istituto Kurzweil; G030 the Captain: il Capitano (maiuscolo); G031 BioMed: BioMed (invariato); G032 Fab: Fab (invariato); G033 Commons: la Sala comune; G034 Tactical: il Tattico; G035 drum: tamburo; G036 spine (of Theseus); spines (of Rorschach): spina dorsale (la nave); aculei (Rorschach); G037 carapace: carapace; G038 bridge: plancia; G039 crypt: cripta; G040 coffin: bara; G041 pod (resurrection, medical): capsula; G042 observation blister, blister: bolla di osservazione, bolla; G043 dome (observation): cupola; G044 galley: cambusa; G045 tent: tenda; G046 telematter: telemateria; G047 lab-hab: modulo laboratorio; G048 teleops: teleoperatori; G049 drones: droni; G050 HUD: HUD; G051 fiberop: fibrottica; G052 waldoes: manipolatori; G053 Faraday (mesh, bell, shielding; verb): di Faraday (gabbia, rete, campana, schermatura di Faraday); il verbo si rende con schermare; G054 accretion belt: fascia di accrescimento; G055 superjovian: supergioviano; G056 tweak(s): ritocco, ritoccare; G057 carboplatinum: carboplatino; G058 trickle-charger, trickler: erogatore a rilascio lento; G059 vampire: vampiro, vampiri, vampiresco; G060 Homo sapiens vampiris: Homo sapiens vampiris (corsivo); G061 bloodsucker: succhiasangue; G062 undead: non morto, non morti; G063 zombie: zombie (invariabile); G064 Human, Humans, Humanity (capitalized): Umano, Umani, Umanità (maiuscolo dove Watts lo usa); G065 Realists: Realisti, realista (maiuscolo come in Watts); G066 Ascended, Ascendants: gli Ascesi; G067 conscious, consciousness: cosciente, coscienza; G068 Major (Bates): il maggiore (minuscolo, anche al vocativo); G069 commissar: commissario (commissario politico alla prima occorrenza); G070 conduit: tramite (il ruolo di Siri); condotto (i tubi della nave); G071 Cruncher: Cruncher (invariato); G072 Jack (probe): Jack (invariato); G073 Cygnus, Cyg, Cyggers: Cygnus, Cyg, Cyggers (invariati); G074 nicknames: Mandy, Meesh, Suze, Ike, Chelse, Rob, Burnsie: invariati; G075 Mom (Susan for her personalities; Siri's mother): mamma; G076 QuBit's, the Qube: QuBit's, il Qube (invariati); G077 Golem (disease): Golem (invariato); G078 Hadzane: hadza (la lingua hadza); G079 topology: topologia; G080 facets: sfaccettature; G081 rotate (synthesist jargon): ruotare, rotazione; G082 personae: personae (in corsivo); G083 cores (of James): nuclei; G084 meat: carne; G085 eh? (Szpindel): eh?; G086 bleeding edge: avanguardia estrema; G087 Chinese Room: stanza cinese; G088 N minutes to apogee/perigee: N minuti all'apogeo, N minuti al perigeo; G089 postcards to posterity: cartolina ai posteri, cartoline ai posteri; G090 Technology Implies Belligerence: La tecnologia implica belligeranza; G091 covert to invulnerable: da occulto a invulnerabile; G092 Graduation Day: il Giorno del Diploma; G093 survive and bear witness: sopravvivere e testimoniare; G094 Devil's Baklava: la Baklava del Diavolo; G095 twencen: novecentesco; G096 klicks: chilometri; G097 headspace: spazio mentale; G098 inattentional blindness: cecità da disattenzione; G099 Cotard's syndrome: sindrome di Cotard; G100 Anton's syndrome: sindrome di Anton; G101 alien hand syndrome: sindrome della mano aliena; G102 hemispherectomy: emisferectomia; G103 brain stem: tronco encefalico; G104 saccades, saccadic: saccadi, saccadico; G105 proprioception: propriocezione, propriocettivo; G106 synesthesia, synesthete: sinestesia, sinesteta; G107 transcranial magnetic stimulation, TMS: stimolazione magnetica transcranica (TMS); magnete transcranico; G108 Necker cube: cubo di Necker; G109 form constants (Klüver): costanti di forma (di Klüver); G110 vasopressin: vasopressina; G111 protocadherin: protocaderina γ-Y (nel romanzo e nelle note); G112 antieuclideans: antieuclidei; G113 multiple personality disorder, MPD: disturbo di personalità multipla (DPM); G114 alters: alter (in corsivo); G115 savant, savantism: savant, savantismo; G116 splinter skills: abilità isolate; G117 transient (orca): transiente (orca transiente, orche transienti e residenti); G118 extended phenotype: fenotipo esteso; G119 kin selection: selezione di parentela; G120 game theory: teoria dei giochi; G121 anaerobe, anaerobic: anaerobio, anaerobico; G122 septum, septa: setto, setti; G123 vestibule: vestibolo; G124 chromatophores: cromatofori; G125 cloacae: cloache; G126 crypsis: cripsi; G127 prion, prionic: prione, prionico; G128 Seiverts (sievert): sievert (minuscolo, invariabile); G129 noosphere: noosfera; G130 magnetosphere: magnetosfera; G131 Grey Syndrome: sindrome Grigia; G132 brown dwarf: nana bruna.
+
+Motivazione: il traduttore di ogni blocco vede solo il suo blocco; senza una resa fissata prima, lo stesso termine uscirebbe in forme diverse in blocchi diversi. Le voci tecniche non cambiano il senso del libro e si possono correggere senza toccare le scelte del PI.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-22 Un file con i passi difficili di ogni blocco
+
+Decisione: i passi difficili segnalati dagli esploratori (giochi di parole, gergo fitto, ambiguità volute, voci con grammatica propria) stanno in `docs/hard-passages.md`, una sezione per blocco, 203 voci. Traduttore, revisore e redattore ne leggono la sezione del proprio blocco: aggiunta una riga alle loro istruzioni e una riga all'elenco dei file in `CLAUDE.md`. Il file dice dove e perché un passo è difficile, non come tradurlo.
+
+Motivazione: le osservazioni raccolte leggendo tutto il libro andrebbero perse, e il traduttore di un blocco non sa che una battuta riprende un passo di trenta blocchi prima o che un errore di grammatica è voluto.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-23 Refusi della sorgente: regola e tabella; una sola lettera greca per la protocaderina
+
+Decisione: nella guida di stile, sezione 11, i refusi di sola ortografia non si riproducono; i casi che possono toccare il senso si traducono com'è e si annotano; i tratti voluti dei personaggi non sono refusi. La tabella ha 42 righe: 37 correzioni di casi che una traduzione potrebbe riprodurre (nomi, termini tecnici, riferimenti delle note) e 5 dubbi sul senso, che si traducono come sono. La protocaderina si scrive γ-Y anche nelle note, dove la sorgente ha ε: le note rimandano alla stessa proteina del romanzo, e la ε viene probabilmente da una lettera scritta con il font Symbol.
+
+Motivazione: il primo dubbio ricevuto dalla sessione sulla sorgente chiedeva una regola, da decidere dall'agente se riguarda solo l'ortografia. Nessuno dei casi elencati come correzione cambia il senso; quelli che potrebbero cambiarlo restano come sono, con una nota che arriva al PI dalle sessioni di traduzione.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-24 Voci con grammatica propria
+
+Decisione: nella scheda dei personaggi, sezione "Voci con grammatica propria", si fissano otto regole: Sarasti sempre al presente, anche quando diventa fluente; il pronome it di Cunningham per le persone reso con esso, senza accordi di genere visibili; la Banda con il genere della personalità che parla; il Capitano al maschile e con messaggi abbreviati senza vocali nel blocco 38; gli errori voluti di Rorschach conservati; la Theseus al femminile; gli scrambler al maschile; le sonde in prima persona.
+
+Motivazione: Watts dichiara questi tratti nel testo (p00425, p02025, p02463) e ci costruisce sopra battute; un traduttore che li normalizzasse correggerebbe Watts. La resa con esso è l'unica forma italiana che, riferita a una persona, stride come it.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-25 Il secondo blocco del pilota è il 18
+
+Decisione: il pilota (S2) traduce il blocco 01 e il blocco 18. Il 18 ha il punteggio più alto del libro sommando tre misure standardizzate, contate con uno script sui blocchi sorgente: quota di paragrafi con dialogo (78%), occorrenze di voci del glossario per mille parole (27,9), voci diverse del glossario presenti (38). Punteggio 3,99, contro 2,99 del blocco 12, il secondo.
+
+Motivazione: la procedura chiede il blocco con la densità più alta di termini, dialogo e gergo, contata con gli script. Il 18 contiene anche la spiegazione della visione cieca e il gioco di parole sul titolo, e mette alla prova le voci di Szpindel, Bates e della Banda.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-26 Le scelte della sessione sul glossario (S1)
+
+Decisione: il PI accetta tutte e cinque le raccomandazioni della sessione sul glossario. Il titolo resta *Blindsight*; nel testo il fenomeno si chiama visione cieca. Dialoghi tra caporali; lineetta media, spaziata negli incisi e attaccata nel discorso interrotto; la lineetta lunga resta vietata. I nomi con eco classica restano come sono: *Theseus*, *Scylla*, *Charybdis*, Icarus; i titoli delle parti Theseus, Rorschach e Charybdis restano, Prologo, Ringraziamenti e Note e riferimenti si traducono. Forme di cortesia: tu tra tutti, anche fra Sarasti e l'equipaggio; Bates dà a Sarasti il lei con signore finché lo chiama sir e passa al tu quando lo affronta chiamandolo Jukka (p03088); Bates dà il lei alla prigioniera realista, che le risponde con il tu. I 16 termini chiave prendono la resa proposta (scrambler, fanti, di serie, sintetista, gergonauta, la Banda dei Quattro, ConSensus, Paradiso, innesti, Lucciole, Pioggia di fuoco, senzienza, Ultracorpo, glitch del Crocifisso, scrematori, Stretch e Clench). Le 21 voci del glossario che erano `proposed` diventano `approved`, e ciascuna riconosce in italiano solo la resa scelta.
+
+Motivazione: sono le scelte che il protocollo riserva al PI; le ragioni di ciascuna sono nel riassunto della sessione sul glossario.
+
+Deciso da: PI. Data: 2026-11-10. Stato: valida.

@@ -14,7 +14,7 @@ Il numero del blocco `NN` ed eventualmente percorsi diversi da quelli predefinit
 
 # Cosa leggi
 
-1. `docs/style-guide.md`, `docs/glossary.tsv`, `docs/characters.md`, `docs/epigraphs.tsv`, e in `docs/plot-summary.md` il riassunto del blocco e dei due precedenti.
+1. `docs/style-guide.md`, `docs/glossary.tsv`, `docs/characters.md`, `docs/epigraphs.tsv`, e in `docs/plot-summary.md` il riassunto del blocco e dei due precedenti; in `docs/hard-passages.md` la sezione del blocco.
 2. `source/chunks/NN.md` e `translation/draft/NN.md` (o il percorso indicato), affiancati paragrafo per paragrafo.
 3. `translation/notes/NN.md`: per ogni dubbio del traduttore dai il tuo parere nella riga di quel paragrafo.
 
