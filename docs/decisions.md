@@ -403,3 +403,75 @@ Decisione: il PI accetta le due raccomandazioni del riassunto. Nella scena con C
 Motivazione: la guida vuole che un errore che tocca il senso si traduca com'è, e l'edizione di confronto ha la stessa svista. Riepilogo esecutivo richiama le funzioni esecutive della neuropsicologia e non si confonde con sintesi e sintetista; le alternative scartate sono executive summary invariato e sintesi per la direzione.
 
 Deciso da: PI. Data: 2026-11-10. Stato: valida.
+
+## D-49 Una voce nuova del glossario dai termini del blocco 12
+
+Decisione: entra nel glossario, approvata dall'agente, una voce per un termine del blocco 12 che torna in un altro blocco, con la resa del traduttore: G170 attitude jets (blocchi 12 e 38): propulsori d'assetto. Gli altri nove termini proposti dal traduttore del blocco 12 compaiono solo lì (chaff, torch, Proximity boot, rock stream, delta-vee, leading edge, glass onion), sono già coperti dalla voce sulla stanza cinese (Chinese Room Hypothesis), oppure tornano altrove con un altro senso (confounds, nome della statistica nel blocco 12, è aggettivo nel blocco 20 e verbo nel blocco 28): restano la scelta del traduttore.
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Propulsori d'assetto è il termine corrente dell'astronautica italiana, non tocca il senso, e nessun blocco già tradotto contiene il termine.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-50 Due voci nuove del glossario dai termini del blocco 13, e un allineamento nel blocco 05
+
+Decisione: entrano nel glossario, approvate dall'agente, due voci per termini del blocco 13 che tornano in altri blocchi, con le rese del traduttore: G171 battlebot (blocchi 13 e 38): robot da combattimento; G172 informational topologies (blocchi 05 e 13): topologie informazionali. Nella prima stesura del blocco 05 (p00313) «topologie informative» diventa «topologie informazionali». Gli altri termini proposti dal traduttore del blocco 13 compaiono solo lì (tightcast array, fab port, orbital insertion, microparticulates), hanno una sola resa possibile (macchine di von Neumann, come nel blocco 07), oppure sono parole comuni rese allo stesso modo in ogni senso (substrate, substrato): restano la scelta del traduttore.
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Informational topologies è il modo in cui Siri descrive il proprio mestiere, e due traduttori l'hanno reso in due modi; in italiano informativo vuol dire che informa, mentre informazionale dice di che cosa sono fatte le topologie, come l'inglese. Nessuna delle due rese tocca il senso.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-51 Una voce nuova del glossario dai termini del blocco 14
+
+Decisione: entra nel glossario, approvata dall'agente, una voce per un termine del blocco 14 che torna in altri blocchi: G173 counterintrusion (blocchi 14, 15, 29): anti-intrusione, quindi misure anti-intrusione e meccanismi anti-intrusione. Nella prima stesura del blocco 14 (p01295) «contromisure anti-intrusione» diventa «misure anti-intrusione». Gli altri termini proposti dal traduttore del blocco 14 compaiono solo lì (torpor, relay sats, myo-optical, endoscope, Snowball), hanno già la stessa resa altrove (doped, drogato, come le ceramiche drogate del blocco 09), oppure tornano solo come titolo di un articolo nelle note bibliografiche (estivation, blocco 41): restano la scelta del traduttore.
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Il traduttore aveva scritto contromisure anti-intrusione, che dice counter due volte, con contro e con anti; misure anti-intrusione è l'inglese parola per parola e regge anche nei blocchi 15 e 29. La correzione non tocca il senso.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-52 Ambiente di base per baseline environment, e la voce sull'umano di serie ristretta alle persone
+
+Decisione: entra nel glossario, approvata dall'agente, G174 baseline environment (blocchi 15 e 22): ambiente di base. Nella prima stesura del blocco 15 (p01385, p01386) «ambiente di serie» diventa «ambiente di base». La nota della voce sull'umano di serie (G008) dice ora che la voce non riguarda baseline detto di cose: baseline environment ha la sua voce, baseline exposure (blocco 29) si rende a senso, e lì la segnalazione del controllo è un falso allarme. La resa della voce sull'umano di serie, decisa dal PI, non cambia. Gli altri termini proposti dal traduttore del blocco 15 compaiono solo lì, oppure hanno una sola resa possibile anche dove tornano (filtri passa-banda, dimenidrinato, ioduro di potassio, EM; sensorio nei blocchi 26, 31, 40; ferroceramica nel blocco 16), oppure sono parole comuni rese a senso (leakage, dispersioni dei cavi nel blocco 15, perdita della schermatura nel blocco 18): restano la sua scelta.
+
+Motivazione: la voce sull'umano di serie descrive l'umano non modificato, e di serie richiama la dotazione di serie di un prodotto. Detto dell'ambiente radioattivo di Rorschach, ambiente di serie fa pensare a un ambiente prodotto in serie, un senso che Watts non ha: baseline environment è l'ambiente com'è comunque, senza difese attive. Il traduttore aveva seguito la voce alla lettera e aveva indicato ambiente di base come più naturale. Il blocco 22 ha la stessa espressione, quindi la resa va fissata.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-53 Tre voci nuove del glossario dai termini del blocco 16, e la ricerca di crypt ristretta
+
+Decisione: entrano nel glossario, approvate dall'agente, tre voci per termini del blocco 16 che tornano in altri blocchi: G175 thrust pistol (blocchi 16 e 36; pistol da solo anche nei blocchi 20, 26, 37): pistola di manovra, poi pistola, resa del traduttore; G176 rewiring e rewire (blocchi 01, 06, 16, 27, 31): ricablaggio e ricablare, la resa già usata nei blocchi 01, 06 e 16; G177 nominal detto dei sistemi (blocchi 16 e 18): nella norma, la resa del blocco 18 già rivisto. Nella prima stesura del blocco 16 (p01491) «Tutto nominale» diventa «Tutto nella norma». La voce sulla cripta (G039) cerca ora solo crypt e crypts, non cryptic e cryptically. Gli altri termini proposti dal traduttore del blocco 16 compaiono solo lì (MCC reso CNM in coppia con DPM, spring line, ripcord, multicores) o sono già nel glossario o fissati dal blocco 18 (vestibolo, capsula dei sensori, ferroceramica): restano la sua scelta.
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Tutto nominale è un calco del gergo aerospaziale inglese, e il blocco 18 rivisto ha già scelto nella norma per la stessa espressione. Cryptic vuol dire enigmatico e non ha a che fare con la cripta: l'espressione di ricerca precedente produceva falsi allarmi (due nel blocco 16). Nessuna resa tocca il senso.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-54 La forma sciolta di TAT e una voce nuova del glossario dai termini del blocco 17
+
+Decisione: la sigla TAT resta TAT, al maschile, e la forma sciolta nel blocco 17 (p01575) è «Tocco Attitudinale Transitorio», la resa del traduttore; la nota della voce sui ritocchi (G056) lo registra, e la segnalazione del controllo su Tweak e su transient (voce sulle orche, G117) è un falso allarme. Entra nel glossario, approvata dall'agente, G178 functional cluster (blocchi 17 e 35): aggregato funzionale. Gli altri termini proposti dal traduttore del blocco 17 compaiono solo lì (mu-ops, kitchen-catcher, Sax, skullcap, glial jumpstarts): restano la sua scelta.
+
+Motivazione: la voce sui ritocchi chiede che la forma sciolta ricrei la sigla, e il blocco 18 rivisto ha un TAT al maschile. Tocco tiene il piccolo aggiustamento di tweak e richiama il ritoccato del paragrafo dopo. Attitudinale in italiano vale di solito relativo alle attitudini, ma il calco circola nel gergo del marketing e qui suona come il nome commerciale di un trattamento, che è ciò che Chelsea offre; l'alternativa Tocco d'Atteggiamento Transitorio è più esatta e più pesante, e resta annotata per la revisione. Per functional cluster due ricerche in rete non hanno trovato una forma italiana consolidata della teoria di Tononi ed Edelman: aggregato funzionale è italiano trasparente e tiene uguali i due blocchi; il revisore del blocco 35 può riconsiderarlo se trova una forma standard.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-55 Nessuna voce nuova dai termini del blocco 20, due voci precisate
+
+Decisione: la voce su headspace (G097) dice ora che nel blocco 20 (p01893) headspace è lo spazio fisico dentro il casco, reso spazio di testa, e che lì la segnalazione del controllo è un falso allarme. La voce sulla sindrome della mano aliena (G101) riconosce ora anche il plurale mani aliene. Nessuna voce nuova: dei termini proposti dal traduttore del blocco 20, quelli che tornano in altri blocchi hanno già la stessa resa ovunque (agnosie, mesencefalo, arteria, linea di vista), gli altri compaiono solo lì (disco di Festo, eminegligenza, sinistrità, romboencefalo, riflettore fibroso, mosche volanti, riciclatori, non-intuizioni) e restano la sua scelta.
+
+Motivazione: spazio mentale, la resa della voce, è lo spazio della mente e qui non avrebbe senso; spazio di testa è il termine della chimica italiana per l'headspace di un contenitore, e tiene la testa di Watts. Le due precisazioni evitano falsi allarmi nelle sessioni di revisione.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-56 Una voce nuova del glossario dai termini del blocco 22
+
+Decisione: entra nel glossario, approvata dall'agente, G179 enhance come sostantivo, l'elaborazione delle immagini (blocchi 07, 22, 37, 38): elaborazione, la resa già usata nei blocchi 07 e 22. Gli altri termini proposti dal traduttore del blocco 22 compaiono solo lì (limpet tent, tenda-patella; hair-trigger; antilaser prismatics), hanno già la loro voce o la stessa resa nei blocchi precedenti (campo base, il conto alla rovescia, cromatofori), oppure prismatic torna altrove come aggettivo comune (prismatico): restano la sua scelta.
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Enhance usato come sostantivo è gergo di Watts; elaborazione è la resa scelta da due traduttori diversi e regge in tutti e quattro i blocchi. Non tocca il senso.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-57 Le scelte della seconda sessione di traduzione (T2): la testa della Banda e il genere della prigioniera
+
+Decisione: il PI accetta le due raccomandazioni del riassunto. Nel blocco 16 (p01459) she shook their head, detto di Susan, si rende «Scosse la loro testa»; la scheda dei personaggi, che chiedeva «Scosse la testa» con la perdita annotata, è aggiornata. Nel blocco 19 la prigioniera del racconto in seconda persona (da p01837 a p01878) è al femminile dalla prima riga («Immagina di essere una prigioniera di guerra»), anche se l'inglese ne dice il genere solo alla fine (her belt, p01878).
+
+Motivazione: «Scosse la loro testa» riproduce la frase storta di Watts, il singolare di lei e il plurale della testa condivisa, senza aggiungere nulla; la scheda presumeva che il their non avesse equivalente. Per la prigioniera l'italiano deve accordare subito: il femminile anticipa un'informazione che la scena non sfrutta, mentre il maschile generico farebbe immaginare un uomo e farebbe sembrare un errore il femminile dell'ultima riga. Alternative scartate dal PI: «Scosse la testa» con la perdita annotata; il maschile generico fino alla fine.
+
+Deciso da: PI. Data: 2026-11-10. Stato: valida.
