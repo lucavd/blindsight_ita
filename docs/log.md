@@ -10,6 +10,8 @@ generated:
 
 ## 2026-11-10
 
+La sessione sul glossario, i personaggi, le epigrafi e la tipografia (S1) è chiusa: il PI ha accettato tutte e cinque le raccomandazioni (decisione sulle scelte di S1, D-26). Glossario con 132 voci tutte approvate; guida di stile e scheda dei personaggi stabili; titolo dell'EPUB confermato. Prossima sessione: il pilota (S2) sui blocchi 01 e 18, con Opus 5.5.
+
 La sessione sul glossario, i personaggi, le epigrafi e la tipografia (S1) ha finito il lavoro e aspetta cinque decisioni del PI (titolo, dialoghi e lineette, nomi con eco classica, tu e lei, 16 termini chiave). Prodotti: glossario con 132 voci (21 per il PI), scheda dei personaggi con le voci con grammatica propria, elenco delle 60 righe di epigrafe (5 restano in inglese), riassunto della trama per i 41 blocchi, nuovo file con 203 passi difficili letto da traduttore, revisore e redattore, regola e tabella dei refusi nella guida di stile, regole sulle epigrafi. Nuovo cancello sui segnaposto delle epigrafi; collaudo a 41 controlli. Secondo blocco del pilota: il 18.
 
 Aperta la sessione sul glossario, i personaggi, le epigrafi e la tipografia (S1), con Opus 5.5, nella chat cloud di S0 e sul ramo `sessione-S1` (decisione sul ramo di S1, D-19). Sorgente integra, epubcheck 4.2.6 presente. Lanciati i sei esploratori sui blocchi 01-07, 08-14, 15-21, 22-29, 30-36, 37-41.

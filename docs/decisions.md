@@ -219,3 +219,11 @@ Decisione: il pilota (S2) traduce il blocco 01 e il blocco 18. Il 18 ha il punte
 Motivazione: la procedura chiede il blocco con la densità più alta di termini, dialogo e gergo, contata con gli script. Il 18 contiene anche la spiegazione della visione cieca e il gioco di parole sul titolo, e mette alla prova le voci di Szpindel, Bates e della Banda.
 
 Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-26 Le scelte della sessione sul glossario (S1)
+
+Decisione: il PI accetta tutte e cinque le raccomandazioni della sessione sul glossario. Il titolo resta *Blindsight*; nel testo il fenomeno si chiama visione cieca. Dialoghi tra caporali; lineetta media, spaziata negli incisi e attaccata nel discorso interrotto; la lineetta lunga resta vietata. I nomi con eco classica restano come sono: *Theseus*, *Scylla*, *Charybdis*, Icarus; i titoli delle parti Theseus, Rorschach e Charybdis restano, Prologo, Ringraziamenti e Note e riferimenti si traducono. Forme di cortesia: tu tra tutti, anche fra Sarasti e l'equipaggio; Bates dà a Sarasti il lei con signore finché lo chiama sir e passa al tu quando lo affronta chiamandolo Jukka (p03088); Bates dà il lei alla prigioniera realista, che le risponde con il tu. I 16 termini chiave prendono la resa proposta (scrambler, fanti, di serie, sintetista, gergonauta, la Banda dei Quattro, ConSensus, Paradiso, innesti, Lucciole, Pioggia di fuoco, senzienza, Ultracorpo, glitch del Crocifisso, scrematori, Stretch e Clench). Le 21 voci del glossario che erano `proposed` diventano `approved`, e ciascuna riconosce in italiano solo la resa scelta.
+
+Motivazione: sono le scelte che il protocollo riserva al PI; le ragioni di ciascuna sono nel riassunto della sessione sul glossario.
+
+Deciso da: PI. Data: 2026-11-10. Stato: valida.

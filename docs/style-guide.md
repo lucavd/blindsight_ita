@@ -2,13 +2,13 @@
 type: Guide
 title: Guida di stile della traduzione
 description: Regole vincolanti per tradurre Blindsight in italiano con la massima fedeltà, valide per traduttore, revisore e redattore.
-status: draft
+status: stable
 generated:
   by: blindsight-agent/protocollo-v1
   at: "2026-11-09T23:30:00+01:00"
 ---
 
-La guida passa a `status: stable` quando il PI ha deciso i punti segnati "da decidere in S1". Fino ad allora valgono i valori proposti.
+I punti di tipografia, il titolo, i nomi con eco classica e i termini chiave sono stati decisi dal PI alla chiusura della sessione sul glossario (decisione sulle scelte di S1, D-26).
 
 # 1. Il principio
 
@@ -36,10 +36,10 @@ Ogni blocco è un file Markdown. Ogni paragrafo è preceduto da un marcatore, pe
 4. Un `\` a fine riga è un a capo forzato (versi, messaggi, epigrafi): si mantiene nella stessa posizione.
 5. I caratteri preceduti da `\` (`\*`, `\_`, `\[`, `\$`, `\@`, `\#`, `1984\.`) sono simboli letterali protetti: se il simbolo resta nella traduzione, resta anche la `\`.
 
-# 4. Tipografia (da decidere in S1; valori proposti)
+# 4. Tipografia
 
 1. Dialoghi tra caporali: «Così», disse. Citazioni dentro un dialogo tra virgolette alte: “così”. Mai virgolette dritte.
-2. Lineette (decisione del PI: ammesse nella traduzione). Dove Watts usa una lineetta, la traduzione usa una lineetta: è un tratto del suo ritmo e non si sostituisce con virgole o parentesi. Forma proposta, secondo la convenzione editoriale italiana più diffusa: lineetta media (carattere Unicode U+2013), spaziata prima e dopo negli incisi, attaccata alla parola nel discorso interrotto. La lineetta lunga (U+2014) non si usa, per avere una sola forma in tutto il libro. Lo script di controllo la segnala come carattere vietato. La forma si conferma in S1.
+2. Lineette (decisione del PI: ammesse nella traduzione). Dove Watts usa una lineetta, la traduzione usa una lineetta: è un tratto del suo ritmo e non si sostituisce con virgole o parentesi. Forma decisa dal PI, secondo la convenzione editoriale italiana più diffusa: lineetta media (carattere Unicode U+2013), spaziata prima e dopo negli incisi, attaccata alla parola nel discorso interrotto. La lineetta lunga (U+2014) non si usa, per avere una sola forma in tutto il libro. Lo script di controllo la segnala come carattere vietato. Esempi dal libro: `"Where's—" James croaked` diventa `«Dov'è–» gracchiò James`; `that half—or, like, part of you` diventa `quella metà – o, tipo, una parte di te`.
 3. Puntini: tre punti nei file di lavoro (diventano il carattere unico al momento dell'EPUB).
 4. Apostrofo dritto `'` nei file di lavoro (diventa tipografico nell'EPUB).
 5. Numeri: virgola decimale (3,5), punto per le migliaia (10.000), spazio tra numero e unità di misura (12 km). Numeri in cifre o in lettere come nel testo inglese.
@@ -64,7 +64,7 @@ Ogni blocco è un file Markdown. Ogni paragrafo è preceduto da un marcatore, pe
 
 # 7. Nomi propri
 
-Nomi di persona invariati. Nomi di navi, sonde, oggetti, luoghi e parti del libro secondo il glossario (decisione del PI in S1 per quelli con eco classica o simbolica).
+Nomi di persona invariati. Nomi di navi, sonde, oggetti, luoghi e parti del libro secondo il glossario. I nomi con eco classica restano come sono, in corsivo quando sono navi: *Theseus*, *Scylla*, *Charybdis*, e la schiera Icarus (decisione sulle scelte di S1, D-26). Titoli delle parti: Theseus, Rorschach e Charybdis restano; Prologue diventa Prologo, Acknowledgments diventa Ringraziamenti, Notes and References diventa Note e riferimenti. Il titolo del libro resta *Blindsight*; nel testo il fenomeno si chiama visione cieca.
 
 # 8. Calchi da evitare
 

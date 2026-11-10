@@ -2,13 +2,13 @@
 type: Reference
 title: Personaggi, registro e forme di cortesia
 description: Chi parla nel libro, come parla e a chi dà del tu o del lei; compilato in S1 dal testo, vincolante per traduttore, revisore e redattore.
-status: draft
+status: stable
 generated:
   by: blindsight-agent/protocollo-v1
   at: "2026-11-10T13:00:00+01:00"
 ---
 
-Compilata in S1 dal testo inglese, a partire dalla lettura dei sei esploratori, con verifica diretta dei passi decisivi. Ogni riga cita almeno un paragrafo che la giustifica. Le forme di cortesia marcate "da confermare" aspettano la decisione del PI; fino ad allora valgono come proposta.
+Compilata in S1 dal testo inglese, a partire dalla lettura dei sei esploratori, con verifica diretta dei passi decisivi. Ogni riga cita almeno un paragrafo che la giustifica. Le forme di cortesia sono state decise dal PI alla chiusura della sessione sul glossario (decisione sulle scelte di S1, D-26).
 
 # Personaggi
 
@@ -46,13 +46,13 @@ L'inglese non distingue tra tu e lei; l'italiano obbliga a scegliere. La scelta 
 |---|---|---|---|---|
 | Siri | Pag, Chelsea, Helen, Jim (e viceversa) | tu | amicizia d'infanzia, coppia, genitori; il lei verso un genitore sarebbe arcaico (p00036-p00057, p00403, p00492, p00149, p00168) | no |
 | membri umani dell'equipaggio | tra loro (Siri, Szpindel, Susan e le altre personalità, Bates, Cunningham) | tu | equipaggio minuscolo, anni di missione, nomi e diminutivi (p00627-p00630, p01229, p02205, p02854); anche Cunningham con il cognome Keeton dà del tu: la freddezza sta nel cognome, non nel pronome | no; i rapporti si incrinano (p02506-p02521, p03164-p03223) ma la forma resta |
-| Bates | Sarasti | lei, con signore per sir (da confermare) | è la sola a usare il grado del comandante: sir in p00367, p00387, p02044 | sì: in p03088, quando lo affronta dopo l'aggressione a Siri, lo chiama Jukka e passa al tu; il passaggio segna la rottura che porta all'ammutinamento (p03098) |
-| Sarasti | Bates | tu (da confermare) | la chiama Amanda (p03483, p03489); in p03091 il vocativo maggiore serve a ricordarle che non comanda: Questa non è una nave militare, maggiore | no |
-| Sarasti | Siri, Susan, Cunningham, Szpindel | tu (da confermare) | li chiama per nome (p01436, p02876, p02977, p03338); ordini a una persona (p00971, p01087) | no |
-| Siri, Susan, Szpindel, Cunningham | Sarasti | tu (da confermare) | lo chiamano Jukka (p00878, p02853, p03026, p03431) | no |
+| Bates | Sarasti | lei, con signore per sir | è la sola a usare il grado del comandante: sir in p00367, p00387, p02044 | sì: in p03088, quando lo affronta dopo l'aggressione a Siri, lo chiama Jukka e passa al tu; il passaggio segna la rottura che porta all'ammutinamento (p03098) |
+| Sarasti | Bates | tu | la chiama Amanda (p03483, p03489); in p03091 il vocativo maggiore serve a ricordarle che non comanda: Questa non è una nave militare, maggiore | no |
+| Sarasti | Siri, Susan, Cunningham, Szpindel | tu | li chiama per nome (p01436, p02876, p02977, p03338); ordini a una persona (p00971, p01087) | no |
+| Siri, Susan, Szpindel, Cunningham | Sarasti | tu | lo chiamano Jukka (p00878, p02853, p03026, p03431) | no |
 | Sarasti | l'equipaggio intero, l'umanità | voi | ordini al gruppo (p00791, p01272); in p03081 parla degli umani al voi, e la battuta di Michelle in p03083 (voi? non noi?) regge solo così | no |
-| Bates | la prigioniera realista | lei (da confermare) | rispetto calcolato come parte del negoziato (p01851, p01857, p01864, p01871) | no |
-| la prigioniera realista | Bates | tu (da confermare) | disprezzo per la carceriera (p01866) | no |
+| Bates | la prigioniera realista | lei | rispetto calcolato come parte del negoziato (p01851, p01857, p01864, p01871) | no |
+| la prigioniera realista | Bates | tu | disprezzo per la carceriera (p01866) | no |
 | Rorschach | la nave, l'equipaggio | voi | si rivolge a Theseus come equipaggio (you cocksuckers, p01109); il voi tiene anche la lettura della nave come singolo (p00838, p01122) | no |
 | Rorschach | Susan | tu | la chiama per nome (p00862, p01137); il passaggio dal voi al tu è un cambio di rapporto da far sentire | no |
 | la Banda | Rorschach, in protocollo | forme impersonali (Richiesta di informazioni su...) | il protocollo evita la scelta (p00837-p00866, p00986-p01012) | quando Sascha esce dal protocollo dà del tu (p01030, p01032) |
