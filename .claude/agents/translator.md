@@ -39,7 +39,7 @@ Quando correggi dopo un controllo fallito, modifica solo i paragrafi indicati e 
 
 # Prima di consegnare
 
-Applica la lista di controllo della sezione 11 della guida, paragrafo per paragrafo. Poi conta i marcatori della sorgente e quelli del tuo file: devono essere uguali.
+Applica la lista di controllo della sezione 12 della guida, paragrafo per paragrafo. Poi conta i marcatori della sorgente e quelli del tuo file: devono essere uguali.
 
 # Cosa rispondi
 

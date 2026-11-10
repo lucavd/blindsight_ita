@@ -106,7 +106,9 @@ Il rimedio a un calco non è mai un'omissione: se una parola sembra di troppo in
 1. Ogni epigrafe ha una riga in `docs/epigraphs.tsv` con l'attribuzione e la decisione.
 2. Canzoni e poesie di autori reali: non si traducono. Il paragrafo contiene solo `[[ORIGINALE]]`; lo script rimette il testo inglese nell'EPUB. Lo stesso per la riga di attribuzione, se fa parte dello stesso paragrafo.
 3. Prosa di autori reali (discorsi, saggi, interviste) e citazioni di autori o opere inventati da Watts: si traducono.
-4. Righe di attribuzione tradotte: si traducono solo le parole di raccordo e i titoli di opere inventate; i nomi restano.
+4. Righe di attribuzione tradotte: si traducono solo le parole di raccordo e i titoli di opere inventate; i nomi restano. I nomi classici e biblici prendono la forma italiana corrente (Aristotele, Gesù il Nazoreo, 1 Samuele 10,6). I nomi di gruppi musicali e di album restano come sono anche se inventati (The r-selectors, *Trunclade*).
+5. Citazioni bibliche e parodie di versetti: si traduce il testo di Watts. La formulazione italiana corrente (CEI) si usa solo se coincide nel senso con quella di Watts (Avete occhi e non vedete, p01957; Conoscerete la verità..., parodiato in p02964). Watts cita a volte versioni inglesi parafrastiche che la CEI non segue (1 Samuele 10,6 in p01453): lì vale il suo testo.
+6. Le epigrafi in versi di autori inventati si traducono in versi, cercando di tenere rima e metro (sezione 5, punto 5); la canzone dei r-selectors (p02066-p02073) ha otto versi rimati alternati e volgari, uno per paragrafo. Se la rima obbliga a cambiare un'immagine, prevale il senso e la perdita si annota.
 
 # 10. Note e riferimenti
 
@@ -117,13 +119,55 @@ Il rimedio a un calco non è mai un'omissione: se una parola sembra di troppo in
 # 11. Refusi della sorgente
 
 1. Un refuso evidente del testo inglese che riguarda solo l'ortografia non si riproduce: la traduzione usa la forma corretta. Sono refusi di questo tipo le lettere scambiate, mancanti o in più, due parole attaccate, un nome proprio reale scritto male, una virgoletta che si apre o si chiude senza la compagna. Vale anche per i riferimenti bibliografici delle note, che per il resto restano come sono.
-2. Ogni correzione si annota nelle note del blocco, con l'id del paragrafo.
-3. Un errore che può toccare il senso non è un refuso: un numero, una data, un nome che potrebbe essere voluto, una parola storpiata o una frase sgrammaticata in bocca a un personaggio. Si traduce com'è e, se il dubbio resta, si annota nelle note del blocco per il PI.
+2. La correzione di un nome proprio, di un termine scientifico o di un riferimento bibliografico si annota nelle note del blocco, con l'id del paragrafo. I refusi di parole comuni (murmered, occured, though per through) la traduzione li assorbe da sé e non si annotano.
+3. Un errore che può toccare il senso non è un refuso: un numero, una data, un nome che potrebbe essere voluto, una parola storpiata o una frase sgrammaticata in bocca a un personaggio. Si traduce com'è e, se il dubbio resta, si annota nelle note del blocco per il PI. Non sono refusi, e non si correggono, i tratti voluti descritti nella scheda dei personaggi: il presente di Sarasti (We stop racing long ago, p03084), il pronome it di Cunningham (p02463, p03209), gli errori di Rorschach (p00925).
 4. I paragrafi che restano in inglese (segnaposto `[[ORIGINALE]]`) vengono reinseriti dallo script così come sono nella sorgente, refusi compresi.
-5. I refusi già trovati sono nella tabella qui sotto; il traduttore ne aggiunge altri nelle note del blocco.
+5. I refusi già trovati sono nella tabella qui sotto (raccolti in S1 dalla lettura di tutto il libro); il traduttore ne aggiunge altri nelle note del blocco. La tabella elenca solo i casi che una traduzione potrebbe riprodurre: nomi, termini tecnici, riferimenti bibliografici, e i dubbi che toccano il senso.
 
 | pid | sorgente | resa |
 |---|---|---|
+| p00066 | Susanne Vega | resta così: il paragrafo è `[[ORIGINALE]]` |
+| p00167, p01357 | vassopressin | vasopressina |
+| p00299 | Kurzweill | Kurzweil |
+| p00332 | Burns-Caufield | Burns-Caulfield |
+| p00401 | Robert Paglini | Robert Paglino |
+| p00432 | tap lucidum | tapetum lucidum |
+| p00951, p03708 | protocadherin γ-Y nel romanzo, ε-Protocadherin Y nelle note | protocaderina γ-Y in entrambi (glossario) |
+| p01504, p01905 | Grey Syndrome e Gray Syndrome | sindrome Grigia, una sola forma (glossario) |
+| p01516, p01965 e altri | Seiverts, Seivert | sievert (glossario) |
+| p02253 | Cunningam's | Cunningham |
+| p02620 | Fibonnaccis | Fibonacci |
+| p03149, p03742, p03917 | Nirretranders, Norretranders, Nrretranders | Nørretranders |
+| p03311, p03718 | Proprioreceptive, propioreception | propriocettivo, propriocezione |
+| p03424 | Principle-component | componenti principali |
+| p03514 | hanger | hangar (non gruccia) |
+| p03680 | O'Neils | O'Neill, come in p00234 |
+| p03706 | anasakid | anisakidi |
+| p03716, p03739, p03824 | Saks | Sacks (Oliver Sacks) |
+| p03721 | dog seguito dal rimando e.g. in apice (nella pagina doge.g.) | dog, con il rimando alla nota 45 |
+| p03728 | saggital | sagittale |
+| p03741 | anterious | anteriore |
+| p03804 | Pennish | Pennisi |
+| p03807 | Ehat | What |
+| p03824 | Shuster | Schuster |
+| p03837 | An Odd Kind of Fame Stories: of Phineas Gage | An Odd Kind of Fame: Stories of Phineas Gage |
+| p03839 | Gottleib | Gottlieb |
+| p03852 | Blacstone | Blackstone, come in p03722 |
+| p03854 | Pittburgh | Pittsburgh |
+| p03872 | Astrophysics Journal Letters | Astrophysical Journal Letters |
+| p03873 | overacheiving | overachieving |
+| p03898 | Prigonine, Nicholis | Prigogine, Nicolis |
+| p03903 | Emporer | Emperor |
+| p03919 | SCience | Science |
+| p03926 | concensus | consensus |
+| p03931 | Keiffer | Kieffer |
+| p03945 | Americal | American |
+| p03946 | Gaithersberg | Gaithersburg |
+| p00800 | spin-against-spam | dubbio sul senso (forse span o spin): si traduce com'è, con nota |
+| p01717 | pyronometers | dubbio (pirometri o piranometri): si sceglie la lettura più probabile, con nota |
+| p02387 | methonia | dubbio (metano, o fusione voluta di metano e ammoniaca): si traduce com'è, con nota |
+| p02874 | cryonic (in bocca a un personaggio) | si traduce com'è (crionico) |
+| p03726 | trans-Newtonian comet (2000 CR105 è transnettuniano) | errore di fatto dell'autore: si traduce com'è, con nota per il PI |
 
 # 12. Lista di controllo del traduttore
 

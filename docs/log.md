@@ -10,6 +10,8 @@ generated:
 
 ## 2026-11-10
 
+La sessione sul glossario, i personaggi, le epigrafi e la tipografia (S1) ha finito il lavoro e aspetta cinque decisioni del PI (titolo, dialoghi e lineette, nomi con eco classica, tu e lei, 16 termini chiave). Prodotti: glossario con 132 voci (21 per il PI), scheda dei personaggi con le voci con grammatica propria, elenco delle 60 righe di epigrafe (5 restano in inglese), riassunto della trama per i 41 blocchi, nuovo file con 203 passi difficili letto da traduttore, revisore e redattore, regola e tabella dei refusi nella guida di stile, regole sulle epigrafi. Nuovo cancello sui segnaposto delle epigrafi; collaudo a 41 controlli. Secondo blocco del pilota: il 18.
+
 Aperta la sessione sul glossario, i personaggi, le epigrafi e la tipografia (S1), con Opus 5.5, nella chat cloud di S0 e sul ramo `sessione-S1` (decisione sul ramo di S1, D-19). Sorgente integra, epubcheck 4.2.6 presente. Lanciati i sei esploratori sui blocchi 01-07, 08-14, 15-21, 22-29, 30-36, 37-41.
 
 La sessione sulla sorgente (S0) è chiusa: il PI ha deciso i tre punti. Provenienza della sorgente, come riferita dal PI: il sito dell'autore (rifters.com), dalla pagina che offre il romanzo in formato HTML; indirizzo esatto non annotato. Copertina dell'EPUB dal fronte della sovraccoperta fornita dal PI (decisione sulla copertina, D-17): `epub/cover.jpg`, inserita dallo script; collaudo a 39 controlli. Si prosegue nel cloud con una pull request alla chiusura di ogni sessione (decisione sul lavoro nel cloud con pull request, D-18): aggiunta a `CLAUDE.md` la sezione "Lavoro nel cloud" e aggiornato l'elenco dei file.
