@@ -1,0 +1,25 @@
+{
+ "chunk": "19",
+ "stage": "draft",
+ "file": "/home/user/blindsight_ita/translation/draft/19.md",
+ "gates": {
+  "format": [],
+  "markers": [],
+  "empty": [],
+  "scene_breaks": [],
+  "forbidden_chars": [],
+  "placeholder_misuse": [],
+  "epigraph_decisions": []
+ },
+ "flags": {
+  "ratio_out_of_bounds": [],
+  "english_residue": [],
+  "glossary_misses": [],
+  "emphasis_count_differs": [],
+  "identical_to_source": []
+ },
+ "placeholders": [],
+ "ratio_median": 1.06,
+ "paragraphs": 51,
+ "ok": true
+}
