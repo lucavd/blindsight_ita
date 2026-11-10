@@ -10,6 +10,8 @@ generated:
 
 ## 2026-11-10
 
+La prima sessione di traduzione (T1) è chiusa: il PI ha accettato le due raccomandazioni (decisione sulle scelte di T1, D-48). Nella scena con Chelsea resta il dito «sinistro» della sorgente, ora nella tabella dei refusi della guida; executive summary diventa «riepilogo esecutivo», voce approvata. Glossario con 169 voci, tutte approvate. Prossima sessione: la seconda di traduzione (T2), blocchi dal 12 al 22, con Opus 5.5.
+
 La prima sessione di traduzione (T1) ha finito il lavoro e aspetta due decisioni del PI (la svista di Watts sul dito sinistro e destro, la resa di executive summary). Prima stesura dei blocchi dal 02 all'11, 980 paragrafi, cancelli tutti superati; rapporto di lunghezza mediano 1,11, previsione confermata. Due correzioni puntuali alla prima stesura (blocchi 02 e 07). Glossario con 25 voci nuove, 24 approvate dall'agente e una proposta al PI, 169 in tutto (decisioni sui termini dei blocchi dal 02 al 10, da D-39 a D-47). Due riprese fra blocchi passate alla seconda e alla terza sessione di traduzione. Tempo del traduttore 2,8 minuti per mille parole, aggiunto al piano.
 
 Aperta la prima sessione di traduzione (T1) sui blocchi dal 02 all'11 (il blocco 01 ha già la prima stesura del pilota), con Opus 5.5, nella chat cloud svuotata e sul ramo `sessione-T1` (decisione sulla chat cloud riaperta, D-27). Sorgente integra (50 file), epubcheck 4.2.6 presente, nessuna pull request aperta, lavoro del confronto alla cieca già unito nel ramo principale.

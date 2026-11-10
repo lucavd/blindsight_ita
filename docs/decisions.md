@@ -395,3 +395,11 @@ Decisione: entrano nel glossario, approvate dall'agente, tre voci per termini de
 Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Pattern-matching torna in nove blocchi e regge il discorso sulla stanza cinese (pattern-matching doesn't equal comprehension, blocco 11); il blocco 18, già rivisto, ha riconoscimento degli schemi e il blocco 10 riconoscimento di schemi. Nel blocco 06 pattern-matching receptors è il nome dell'immunologia, recettori per il riconoscimento di pattern, che la guida vuole nella forma standard della disciplina.
 
 Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-48 Le scelte della prima sessione di traduzione (T1): il dito di Chelsea e executive summary
+
+Decisione: il PI accetta le due raccomandazioni del riassunto. Nella scena con Chelsea al bar (blocco 06, p00523) resta la svista di Watts: Chelsea parla del dito sinistro anche se nel paragrafo dopo (p00524) il dito senza erogatore è il destro; la traduzione scrive «sinistro», come la sorgente. Executive summary (G166) si rende «riepilogo esecutivo» in tutti i blocchi (09, 33, 35), e la voce passa da proposta ad approvata. La svista entra nella tabella dei refusi della guida di stile, perché revisore e redattore non la correggano.
+
+Motivazione: la guida vuole che un errore che tocca il senso si traduca com'è, e l'edizione di confronto ha la stessa svista. Riepilogo esecutivo richiama le funzioni esecutive della neuropsicologia e non si confonde con sintesi e sintetista; le alternative scartate sono executive summary invariato e sintesi per la direzione.
+
+Deciso da: PI. Data: 2026-11-10. Stato: valida.

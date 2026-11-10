@@ -132,6 +132,7 @@ Il rimedio a un calco non è mai un'omissione: se una parola sembra di troppo in
 |---|---|---|
 | p00066 | Susanne Vega | resta così: il paragrafo è `[[ORIGINALE]]` |
 | p00167, p01357 | vassopressin | vasopressina |
+| p00523 | your left finger (svista di Watts: nel paragrafo dopo, p00524, il dito senza erogatore è il destro; uguale nell'edizione di confronto) | resta «sinistro», come la sorgente (decisione del PI, D-48) |
 | p00062 | the Scramblers (maiuscola a metà frase, unica nel libro; 74 volte minuscolo) | gli scrambler, minuscolo come nel glossario (decisione del PI, D-35) |
 | p00299 | Kurzweill | Kurzweil |
 | p00332 | Burns-Caufield | Burns-Caulfield |
