@@ -355,3 +355,11 @@ Decisione: entrano nel glossario, approvate dall'agente, due voci per termini de
 Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Per orders of mag l'accorciamento italiano (ordini di grand.) stona in prosa e in una battuta; la perdita del registro gergale è annotata dal traduttore. Per First Contact il criterio della maiuscola è quello già usato per Umani, Realisti e sintetista.
 
 Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-43 Quattro voci nuove del glossario dai termini del blocco 06
+
+Decisione: entrano nel glossario, approvate dall'agente, quattro voci per termini del blocco 06 che tornano in altri blocchi, con le rese del traduttore: G154 airspace nel senso di spazio fisico condiviso, contrapposto al virtuale (blocchi 03, 06, 25): spazio aereo; G155 Body Economic (blocchi 06 e 19): Corpo Economico; G156 lightscape (blocchi 06 e 09): paesaggio di luce; G157 neuropharm (blocchi 06 e 32): neurofarmaci. Gli altri termini proposti compaiono solo nel blocco 06, oppure, come touchpad nei blocchi 29 e 30, indicano altrove un oggetto diverso: restano la scelta del traduttore.
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Per airspace Watts piega allo spazio fisico un termine dell'aviazione; spazio aereo fa in italiano la stessa piegatura, ed è la resa scelta da due traduttori diversi nei blocchi 03 e 06. Il rischio è che in italiano suoni più strano che in inglese: il revisore lo valuterà nel contesto, e la voce si può cambiare con una nuova decisione prima della revisione dei blocchi in cui compare.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
