@@ -3,8 +3,8 @@ type: Session
 title: "S2b: pilota alla cieca con un secondo modello (facoltativa)"
 description: Ripete il pilota sugli stessi due blocchi con un secondo modello e prepara due EPUB anonimi, così il PI sceglie il modello leggendo, senza sapere quale ha scritto cosa.
 model: fable
-status: open
-pi_approval: pending
+status: closed
+pi_approval: yes 2026-11-10
 generated:
   by: blindsight-agent/protocollo-v1
   at: "2026-11-09T23:30:00+01:00"
@@ -83,6 +83,7 @@ Tre passaggi insieme: 18,5 minuti per il blocco 01 (1.109 secondi) e 27,5 per il
 | 01 | p00060 | glossario: drum, atteso tamburo | Falso allarme, lo stesso del pilota. È il verbo to drum up, reso «mobilitare l'indignazione del quartiere»; non è il tamburo della nave. |
 | 18 | p01649 | glossario: pod, atteso capsula | Falso allarme. Qui pod è il sensore applicato alla parete della tenda (il sensor pod che Bates attacca alla tenda nel blocco 16), reso «sensore» su proposta del revisore; la voce del glossario riguarda le capsule di risveglio e mediche. Compare dopo la redazione: nella prima stesura c'era «capsula», che il revisore ha giudicato fuorviante. |
 | 18 | p01650 | glossario: transient, atteso transiente | Falso allarme, lo stesso del pilota. È l'aggettivo di un fronte di bassa pressione passeggero, reso «fronte transitorio»; non è l'orca transiente. |
+| 18, versione scelta | p01721 | glossario: feed, atteso flusso | Segnalazione nuova sulla versione del pilota, nata dalla voce del glossario aggiunta in chiusura. Falso allarme: è il verbo to feed (to feed our radioactive cast-offs into the decompiler), reso «dare in pasto». La nota della voce lo prevede. |
 
 # Termini proposti dai traduttori
 
@@ -103,6 +104,8 @@ Valgono per la prova B. Se la prova B vince il confronto, i termini che tornano 
 | 18 | Klüver constant | Costante di Klüver: già coperta dalla voce del glossario sulle costanti di forma. |
 | 18 | punto dentro le caporali, lineetta nelle battute | La guida non le fissa. Le due versioni mettono entrambe il punto dentro le caporali (conteggio sui file finali: 13 e 100 casi in ciascuna, nessuno fuori) e la virgola fuori (6 e 27 casi). Sulla lineetta dentro le battute applicano la regola della guida in modo un po' diverso. Regole da scrivere al punto 5, sentito il PI. |
 | 01 | tempo della narrazione | La guida di stile non ha una regola. La prova B usa il passato prossimo per la cornice (Siri che parla dalla bara) e il passato remoto per l'infanzia. È una scelta che vincola tutto il libro: entra nelle domande di lettura per il PI, e la scelta della versione vincente diventa regola della guida al punto 5. |
+
+Esito dopo la scelta del PI: ha vinto la versione del pilota, quindi le rese della prova B qui sopra non entrano nel libro. Spinal bundle, jarhead, on top, feed e faceplate sono entrati nel glossario con le rese della versione scelta (fascio spinale, marine, in primo piano, flusso, visiera); scrambler resta minuscolo per decisione del PI; le regole su punteggiatura delle battute, lineette e tempi della narrazione sono nella guida di stile (decisioni D-35 e D-36).
 
 # Esiti delle previsioni per blocco
 
@@ -156,17 +159,14 @@ Impronte dei due testi assemblati in `comparison/impronte.tsv` (decisione sulle 
 5. Le tre frasi citate nel riassunto del pilota compaiono alla lettera solo nella versione A (sezione Apertura).
 6. I tempi sono misurati in ore diverse della stessa giornata, su due blocchi: la differenza fra i modelli (62% in più per la prova B) è un ordine di grandezza, non una misura fine.
 
-# Da fare dopo la scelta del PI
+# Fatto dopo la scelta del PI
 
-Stato al momento del riassunto: lavoro sui due blocchi finito, EPUB consegnati, sessione aperta in attesa della scelta. Se la chat riparte in un contenitore nuovo, si riprende da qui.
-
-1. Aprire la chiave con `blind --reveal`. Se la chiave manca: `build --chunks 01,18 --out build/a.epub`, `build --chunks 01,18 --dir trial-b/final --out build/b.epub`, poi confrontare l'impronta SHA-256 di `build/a.md` e `build/b.md` con `comparison/impronte.tsv`.
-2. Registrare la scelta del PI con la sua motivazione come decisione; fissare il modello delle sessioni T e R in `docs/state.tsv` e nei file delle sessioni; aggiornare il piano (modello e, se vince la prova B, i tempi: 19,1 ore invece di 13,5).
-3. Se vince la prova B: copiare i suoi file per i blocchi 01 e 18 in `translation/` e `review/`, rilanciare i controlli con salvataggio, aggiornare nei dubbi ricevuti della seconda sessione di traduzione (T2) la nota sui «sussurratori», che cita la resa della versione A.
-4. Guida di stile: lineetta media e spazio nelle attribuzioni delle epigrafi (già approvata dal PI); punto fermo dentro le caporali per la battuta completa e virgola fuori per l'inciso; lineetta dentro le battute; tempo della narrazione; indicazioni di lettura del PI. Se cambiano scelte già presenti nei due blocchi della versione vincente, rilanciare il redattore su quei blocchi.
-5. Glossario: voci nuove per spinal bundle, jarhead e on top con la resa della versione scelta; decidere su feed e faceplate; nota sulla maiuscola di scrambler secondo la decisione del PI.
-6. Dubbi da passare alla seconda sessione di traduzione (T2), che traduce i blocchi 13, 16 e 17: la sigla TAT del blocco 18 (p01790) deve coincidere con quella ricreata nel blocco 17; la battuta di Bates citata in p01829 deve coincidere parola per parola con la versione finale del blocco 13; haunted mansion (p01717) va allineato a Haunted del blocco 16 (p01510); the pod di p01649 a sensor pod del blocco 16 (p01542). Alla sessione finale di coerenza: Fab con o senza articolo (p01822).
-7. Chiusura: riga di chiusura nel riassunto, `docs/state.tsv`, registro, commit, push, pull request.
+1. Chiave aperta con `blind --reveal` dopo la scelta; abbinamento verificato anche senza la chiave (sezione seguente).
+2. Scelta e motivazione registrate (decisione sulla scelta del confronto alla cieca, D-35). Modello delle sessioni di traduzione e di revisione: Opus 5.5, già in `docs/state.tsv`; confermato nei file delle dieci sessioni e nel piano, con i tempi misurati della prova B.
+3. La versione scelta è quella del pilota: nessun file copiato, nulla cambiato sotto `translation/`, `review/` e `checks/`. I file della prova B restano in `trial-b/` come documentazione.
+4. Guida di stile: lineetta media e spazio nelle attribuzioni delle epigrafi (sezione 9); punto fermo dentro le caporali e virgola fuori, lineette dentro le battute (sezione 4); tempi della narrazione (sezione 5); riga su Scramblers nella tabella dei refusi (sezione 11). Le regole descrivono ciò che i due blocchi del pilota già fanno: il PI non ha osservazioni di lettura, quindi il redattore non è stato rilanciato.
+5. Glossario: cinque voci nuove (spinal bundle, jarhead, on top, feed, faceplate), l'articolo di Fab, la minuscola di scrambler (decisione sui termini del confronto, D-36). Cancello del glossario superato; i due blocchi del pilota restano in regola con il glossario aggiornato, con una segnalazione nuova spiegata.
+6. Dubbi passati ad altre sessioni: sezione «Dubbi rinviati».
 
 # Dopo la scelta del PI
 
@@ -190,61 +190,90 @@ Previsione, scritta prima di lanciare:
 
 Limite dichiarato prima: chi giudica se un rilievo è fondato è la chat principale, che gira con lo stesso modello del revisore incrociato. I rilievi alti e medi fondati si elencano uno per uno, così il PI può giudicarli da sé.
 
+Esito. Cancello: copertura superata (201 paragrafi esaminati). Durata del sotto-agente: 9,0 minuti (537.813 millisecondi, inizio 11:54:00 UTC). Rilievi: 45 righe, 1 alta, 10 medie, 34 basse, su 42 paragrafi; 10 di questi paragrafi avevano già un rilievo nella revisione del pilota. Giudizio della chat principale sulle 11 righe alte e medie, ciascuna letta accanto all'inglese:
+
+| paragrafo | rilievo del revisore incrociato | giudizio |
+|---|---|---|
+| p01649 | aggiunta, alta: the pod reso «capsula dei sensori» | fondato, ma la gravità è sopravvalutata: due parole che esplicitano il riferimento, il senso non cambia |
+| p01707 | terminologia, media: ground truths reso «verifiche a terra» | non fondato: scelta di termine difendibile; lo stesso revisore aveva confermato «verità a terra» nella prova B |
+| p01721 | sfumatura, media: discreetly distant reso «discretamente distante» | fondato: si legge come abbastanza distante |
+| p01726 | sfumatura, media: ravenous reso «affamato» | fondato: ravenous è più forte |
+| p01747 | omissione, media: manca just in It was all just feedback and correlation | fondato |
+| p01747 | refuso, media: «telepate» invece di telepata | non verificato: i dizionari in rete non sono raggiungibili da questo ambiente; anche la prova B scrive «telepate» |
+| p01790 | sfumatura, media: sticky... come unstuck reso «appiccicosi... sbloccarsi» | fondato: l'immagine si interrompe |
+| p01815 | sfumatura, media: empty reso «vuoto... vuota» per un indicatore di carica | non fondato: l'italiano segue empty dell'inglese, improprio allo stesso modo per una carica; resa difendibile |
+| p01831 | registro, media: Like Mandy fine reso «Mandy mi piace, ci mancherebbe» | non fondato: questione di gusto, su una battuta che il PI ha letto nel riassunto del pilota e nella versione scelta |
+| p01832 | senso, media: If you're going to be surrounded reso «Se sarai circondato» | dubbio: la premessa (se proprio devi) si indebolisce, ma il senso regge; non contato |
+| p01835 | calco, media: feel free to reso «sentiti libero di» | fondato |
+
+Fondati 6, non fondati 3, dubbio 1, non verificato 1. Previsione: atteso 2, intervallo da 0 a 5, valore 6: smentita. Con p01655, che questa rilettura ha lasciato passare (riga `ok`), i difetti noti nella versione finale del blocco 18 sono 7 su 201 paragrafi, il 3,5%: due piccole omissioni (for it, just), due parole in più, tre sfumature, un calco. Nessuno cambia il senso.
+
+Spiegazione e limiti. La misura non separa l'effetto del modello diverso da quello della seconda lettura: manca il controllo, cioè una seconda lettura fatta da Opus sullo stesso testo, che in questa sessione non si può lanciare. Il revisore è incostante: lo stesso revisore ha segnalato come grave l'omissione di for it sulla stesura della prova B e l'ha lasciata passare, a frase identica, sulla versione del pilota; le due catene avevano scritto entrambe «discretamente distante» e «telepate». Chi ha giudicato i rilievi gira con lo stesso modello del revisore incrociato.
+
+Conseguenza, come scritto prima di lanciare: la revisione fatta da un altro modello è stata proposta al PI, insieme a due alternative. Il PI ha scelto di misurare prima una seconda lettura fatta da Opus, nella prima sessione di revisione (decisione sulla seconda lettura, D-37).
+
 # In breve
 
 ## In breve: quale delle due versioni vuoi per tutto il libro?
 
 ### A cosa serviva
 
-Il modello scelto ora traduce e rivede tutto il libro, e non si cambia a metà. Questa sessione ha rifatto con Fable 5.2 gli stessi due blocchi del pilota, il Prologo e l'inizio di Rorschach, e ti consegna due versioni anonime. Scegli leggendo, senza sapere chi ha scritto cosa.
+Il modello scelto ora traduce e rivede tutto il libro, e non si cambia a metà. Questa sessione ha rifatto con Fable 5.2 gli stessi due blocchi del pilota, il Prologo e l'inizio di Rorschach, e ti ha dato due versioni anonime da leggere. Hai scelto leggendo, senza sapere chi aveva scritto cosa.
 
 ### Cosa abbiamo trovato
 
-1. Le due versioni sono pronte e anonime: due EPUB validi, «pilota X» e «pilota Y», e nessuno sa quale è quale, nemmeno io. L'abbinamento è stato sorteggiato dallo script e la chiave resta chiusa fino alla tua scelta. Un incidente: dopo il primo sorteggio ho visto per errore le dimensioni dei file, che svelavano l'abbinamento. Ho rifatto il sorteggio senza più guardarle; i file che hai ricevuto sono quelli del secondo sorteggio.
-2. Anche la seconda versione ha superato tutti i controlli, e le sue dieci previsioni sono tutte confermate. Nessun paragrafo manca e nessun file del pilota è stato toccato. In entrambe le versioni l'italiano è tra il 10 e l'11% più lungo dell'inglese, come ci si aspetta da una traduzione senza tagli né aggiunte.
-3. Nei numeri del processo le due catene si somigliano, tranne che nel tempo: Fable impiega il 60% in più. I tre passaggi sui due blocchi hanno richiesto 28 minuti con Opus e 46 con Fable; sul resto del libro vuol dire circa 19 ore di macchina invece di 14. Errori gravi trovati dal revisore nella prima stesura: 2 con Opus, 1 con Fable, tutti corretti. Paragrafi cambiati dal redattore: nel Prologo 8 su 54 con Opus e 15 su 54 con Fable; nel blocco di Rorschach 31 e 33 su 201. Questi numeri sono per modello e non per X e Y: per abbinarli dovrei aprire la chiave, e tu conosci già quelli del pilota.
-4. Il confronto non è perfettamente alla cieca, e ha altri tre limiti. Il riassunto del pilota citava tre frasi tradotte: le ho cercate, e compaiono alla lettera solo in una delle due versioni. Se le ricordi la riconosci; se ti succede leggendo, dimmelo insieme alla scelta. Poi: sono due blocchi, il 5% del libro. Ogni versione è stata tradotta, rivista e redatta dal proprio modello, quindi confronti due catene intere e non due traduttori. La seconda versione ha lavorato con un glossario che contiene già 8 regole nate dalla prima, come deciso alla chiusura del pilota: i termini sono gli stessi e la differenza sta nella prosa.
-5. Sono emerse quattro cose che la guida di stile non fissa e che vanno fissate prima di tradurre il resto, chiunque vinca. Il tempo della narrazione, fra passato remoto e passato prossimo. Il punto fermo dentro le caporali, che le due versioni usano allo stesso modo. La lineetta dentro le battute, che le due versioni applicano in modo un po' diverso. Tre espressioni inglesi che tornano in altri blocchi e mancano nel glossario: "spinal bundle", "jarhead" e "on top", detto della personalità che in quel momento guida la Banda.
+1. Hai scelto alla cieca la versione di Opus: tutto il libro si traduce e si rivede con Opus 5.5. Fra i due EPUB anonimi hai preferito Y, perché l'italiano è più naturale e i dialoghi sono migliori; aperta la chiave, Y era la versione del pilota. Dici di non avere riconosciuto nessuna delle due versioni. Il piano resta di circa 14 ore di macchina; con Fable sarebbero state circa 19.
+2. Anche la versione di Fable aveva superato tutti i controlli, e nei numeri del processo le due catene si somigliano, tranne che nel tempo. Fable ha impiegato il 60% in più: 46 minuti contro 28 per i tre passaggi sui due blocchi. Errori gravi trovati dal revisore nella prima stesura: 2 con Opus, 1 con Fable. In entrambe le versioni l'italiano è tra il 10 e l'11% più lungo dell'inglese.
+3. La revisione fatta dallo stesso modello che traduce lascia nel testo difetti minori: 7 su 201 paragrafi nel blocco di Rorschach, nessuno che cambi il senso. Sei li ha trovati una rilettura della versione finale fatta con Fable, uno il confronto con l'altra versione. Sono due piccole omissioni ("for it", "just"), due parole in più, tre sfumature e un calco («sentiti libero di»). Ne aspettavo 2, con soglia a 5: l'attesa è smentita. La misura però non dice se il merito è del modello diverso o della seconda lettura in sé, e il revisore è incostante: ha segnalato come grave un'omissione su una versione e l'ha lasciata passare, identica, sull'altra.
+4. La guida di stile ha ora le quattro regole che mancavano, prese dalla versione che hai scelto. I fatti narrati vanno al passato remoto, e il passato prossimo resta per ciò che arriva al presente di Siri. Il punto fermo sta dentro le caporali. La lineetta dentro le battute ha una regola con esempi. Le attribuzioni delle epigrafi hanno la lineetta media seguita da uno spazio prima del nome. Il glossario ha 5 voci nuove per termini che tornano in altri blocchi, e «scrambler» resta minuscolo anche nel Prologo, come hai deciso.
+5. Il confronto ha avuto dei limiti e un incidente, che non cambiano l'esito ma vanno detti. Sono due blocchi, il 5% del libro. Hai confrontato due catene intere e non due traduttori. Il riassunto del pilota citava tre frasi che compaiono alla lettera solo nella versione di Opus. Dopo il primo sorteggio ho visto per errore le dimensioni dei file, che svelavano l'abbinamento: ho rifatto il sorteggio prima di consegnarti i file.
 
 ### Cosa devi decidere
 
-1. Quale versione vuoi per tutto il libro, X o Y: non posso raccomandarne una, perché non so quale è quale; raccomando di leggerle entrambe per intero e, se non vedi una differenza netta, di dirmelo. In quel caso la scelta giusta è Opus, che costa circa 5 ore e mezza di macchina in meno. Ogni versione è lunga circa 5.300 parole. Per non favorire quella che leggi per prima, alterna: il Prologo prima in X e poi in Y, il blocco di Rorschach prima in Y e poi in X. Dimmi la scelta e il perché in una frase. Alternative: X oppure Y, e il modello che l'ha scritta traduce e rivede tutto il libro; «nessuna differenza netta», e si prosegue con Opus.
-2. Le domande di lettura rimaste dal pilota: raccomando di rispondere sulla versione che scegli, indicando il passo e cosa ti disturba. Il tono freddo e preciso del narratore è giusto? I dialoghi suonano naturali, in particolare Szpindel, Bates e la Banda? Qualcosa stona nei termini o nel tu e lei? Il tempo della narrazione e le lineette dentro le battute ti convincono? Ogni risposta diventa una regola della guida prima di tradurre il resto. Alternativa: «niente da segnalare», e la guida prende le convenzioni della versione scelta così come sono.
-3. La maiuscola di «Scramblers» nel Prologo: raccomando la minuscola, come nel glossario e come hanno fatto entrambe le versioni. Watts scrive "our disastrous encounter with the Scramblers" con la maiuscola a metà frase una sola volta in tutto il libro; le altre 74 volte fuori da un inizio di frase usa la minuscola, anche nello stesso Prologo. In italiano una maiuscola isolata si leggerebbe come un refuso. Alternativa: «gli Scrambler» con la maiuscola in quel solo punto, fedele alla lettera di Watts, al prezzo di un'incoerenza visibile.
+Nulla di nuovo. I quattro punti li hai già decisi in questa chat:
+
+1. La versione: Y, quella di Opus.
+2. Le domande di lettura: niente da segnalare, quindi la guida prende le convenzioni della versione scelta.
+3. «Scrambler»: minuscolo anche nel Prologo.
+4. La seconda lettura: si misura con Opus nella prima sessione di revisione, su un blocco, e decidi allora con il dato. Hai scartato la rilettura di tutto il libro con Fable (da 7 a 11 ore di macchina in più, stima) e la scelta di non fare nulla.
 
 ### Comunque
 
-1. Dopo la tua scelta apro la chiave, fisso il modello di tutte le sessioni di traduzione e di revisione e scrivo nella guida le regole che mancano: la lineetta delle attribuzioni che hai già approvato, il punto dentro le caporali, la lineetta nelle battute e il tempo della narrazione, più le tue indicazioni. Se le tue indicazioni cambiano scelte già presenti nei due blocchi, rifaccio la redazione di quei blocchi.
-2. Se vince la versione di Fable, i suoi due blocchi prendono il posto di quelli del pilota e il piano dei tempi passa da circa 14 a circa 19 ore, tutte con Fable. Se il tuo piano non le regge, dimmelo dopo l'apertura della chiave e si resta su Opus.
-3. Le tre espressioni inglesi del punto 5 entrano nel glossario con la resa della versione scelta.
-4. Alla sessione che tradurrà la prima parte di Rorschach passano quattro allineamenti fra blocchi segnalati dai redattori: una sigla, una battuta di Bates che Siri cita a memoria, e due termini della prima incursione.
-5. Prima di scegliere non aprire il file di questa sessione, la cartella della seconda versione, il riassunto del pilota e la sua pull request: contengono frasi che ti farebbero riconoscere le versioni.
+1. La prossima sessione è la prima di traduzione, con Opus: la parte Theseus, fino quasi alla sua fine.
+2. I 7 difetti del blocco di Rorschach, più una parola da verificare sul dizionario («telepate» o «telepata») e un passo dubbio, li corregge il redattore di Opus nella sessione di revisione che copre quel blocco. Qui non li ho toccati: in questa sessione il redattore gira con Fable, e la revisione deve restare di un solo modello.
+3. Nella prima sessione di revisione misuro, su un blocco della parte Theseus, quanto trova una seconda lettura fatta da Opus. La soglia è già scritta: da 1 difetto fondato ogni 100 paragrafi in su ti propongo di farla su tutto il libro, con il costo misurato.
+4. Alla sessione che tradurrà la prima parte di Rorschach passano quattro allineamenti con il blocco già tradotto: una battuta di Bates che Siri cita a memoria, una sigla, e due termini della prima incursione.
+5. I file della versione di Fable restano nel repository come documentazione e non entrano nel libro. Ho corretto due difetti degli script: i due EPUB anonimi avevano lo stesso titolo, e i controlli sulla seconda versione avrebbero sovrascritto i risultati del pilota.
 
-Appena decidi questi 3 punti, la sessione è chiusa.
+Non c'è nulla da decidere: se non hai dubbi, la sessione è chiusa.
+
+# Chiusura
+
+Sessione chiusa il 2026-11-10. Il PI ha letto il riassunto consegnato insieme ai due EPUB (è nel commit 2963921) e ha deciso i suoi tre punti: versione Y, nessuna osservazione di lettura, scrambler minuscolo. Dopo l'apertura della chiave ha deciso anche il punto nato dalla revisione incrociata: misurare la seconda lettura con Opus nella prima sessione di revisione. Il riassunto qui sopra è quello finale, riscritto a decisioni prese. Nessun dubbio resta aperto in questa sessione: quelli che chiedono il lavoro di una sessione successiva sono qui sotto. Collaudo degli script e integrità della sorgente rilanciati in chiusura: superati (44 controlli; 50 file).
 
 # Dubbi rinviati
 
-Si scrivono nei file delle sessioni che li ricevono dopo la scelta del PI, perché citano le rese della versione scelta: l'elenco è al punto 6 della sezione «Da fare dopo la scelta del PI».
+1. Correzioni al blocco 18 nella versione finale del pilota (7 difetti, una forma da verificare su un dizionario, un passo dubbio): le applica il redattore del modello scelto. Scritto nei dubbi ricevuti della terza sessione di revisione (R3), che copre i blocchi dal 15 al 21.
+2. Misura della seconda lettura fatta da Opus, sul blocco 02, con previsione e soglia: scritta nei dubbi ricevuti della prima sessione di revisione (R1).
+3. Quattro allineamenti fra il blocco 18 e i blocchi 13, 16 e 17 (battuta di Bates, Haunted, sensor pod, sigla TAT): scritti nei dubbi ricevuti della seconda sessione di traduzione (T2).
 
 # Da dove vengono i numeri del riassunto
 
 | frase | comando o file | valore letto |
 |---|---|---|
-| due EPUB validi | `blind --a translation/final --b trial-b/final --chunks 01,18`, poi `epubcheck` su ciascuno dei due file | 0 errori e 0 avvisi per entrambi; titoli «Blindsight (pilota X)» e «Blindsight (pilota Y)» letti nei metadati |
-| ha superato tutti i controlli | `verify` in apertura e prima del sorteggio; `check 01 --stage draft --dir trial-b/draft`, `coverage 01 --file trial-b/review/01-findings.tsv`, `check 01 --stage final --dir trial-b/final`, gli stessi per il 18 | 50 file; cancelli superati su 54 e 203 paragrafi; copertura 54 e 201 paragrafi |
-| dieci previsioni tutte confermate | sezione «Esiti delle previsioni per blocco» | 10 su 10 |
-| nessun file del pilota è stato toccato | `git diff` fra il ramo principale e il ramo della sessione su `translation`, `review`, `checks`, `source` | 0 righe |
-| tra il 10 e l'11% più lungo | `checks/01-final.json`, `checks/18-final.json`, `trial-b/checks/01-final.json`, `trial-b/checks/18-final.json`, campo `ratio_median` | 1,102 e 1,106; 1,106 e 1,114 |
-| 28 minuti con Opus e 46 con Fable, il 60% in più | file della sessione del pilota (676 e 1.024 secondi); durate riportate dall'ambiente in questa sessione (sezione «Tempi misurati») | 1.700 secondi e 2.756 secondi; rapporto 1,62 |
-| circa 19 ore invece di 14 | formula di `docs/plan.md` con i tempi per mille parole delle due prove (sezione «Tempi misurati») | 19,1 e 13,5 ore |
+| aperta la chiave, Y era la versione del pilota | `blind --reveal`, dopo la scelta; confronto byte per byte fra il testo assemblato di Y e quello del pilota; impronte SHA-256 dei due testi contro `comparison/impronte.tsv` | Y è `translation/final`, X è `trial-b/final`; testi identici; impronte coincidenti |
+| circa 14 ore; con Fable circa 19 | formula di `docs/plan.md` con i tempi per mille parole delle due prove (sezione «Tempi misurati») | 13,5 e 19,1 ore |
+| aveva superato tutti i controlli | `verify`; `check 01 --stage draft --dir trial-b/draft`, `coverage 01 --file trial-b/review/01-findings.tsv`, `check 01 --stage final --dir trial-b/final`, gli stessi per il 18; `epubcheck` sui due EPUB | 50 file; cancelli superati su 54 e 203 paragrafi; copertura 54 e 201 paragrafi; 0 errori e 0 avvisi |
+| 46 minuti contro 28, il 60% in più | durate riportate dall'ambiente in questa sessione (sezione «Tempi misurati»); file della sessione del pilota (676 e 1.024 secondi) | 2.756 e 1.700 secondi; rapporto 1,62 |
 | errori gravi: 2 con Opus, 1 con Fable | `coverage 01`, `coverage 18`; gli stessi con `--file trial-b/review/...` | alti: 0 e 2; 0 e 1 |
-| paragrafi cambiati dal redattore | campo `changed_share` dei quattro file dei controlli finali; conteggio dei paragrafi diversi fra prima stesura e versione finale della prova B | 0,148 (8 su 54) e 0,154 (31 su 201); 0,278 (15 su 54) e 0,164 (33 su 201) |
-| tre frasi compaiono alla lettera solo in una versione | ricerca delle tre frasi nei file finali delle due versioni | 1, 1, 1 occorrenze in una; 0, 0, 0 nell'altra |
+| tra il 10 e l'11% più lungo | campo `ratio_median` dei quattro file dei controlli finali | 1,102 e 1,106; 1,106 e 1,114 |
+| 7 difetti su 201 paragrafi; sei dalla rilettura, uno dal confronto | `coverage 18 --file trial-b/review/18-cross-findings.tsv`; giudizio della chat principale sulle 11 righe alte e medie (sezione «Controllo aggiunto»); lettura di p01655 nelle due versioni | 1 alta, 10 medie, 34 basse; 6 fondate, 3 non fondate, 1 dubbia, 1 non verificata; più p01655 |
+| ne aspettavo 2, con soglia a 5 | previsione scritta nel commit d68a0eb, prima di lanciare la rilettura | atteso 2, intervallo da 0 a 5, valore 6 |
+| ha segnalato un'omissione su una versione e l'ha lasciata passare sull'altra | riga di p01655 in `trial-b/review/18-findings.tsv` e in `trial-b/review/18-cross-findings.tsv` | omissione alta nella prima; `ok` nella seconda |
+| quattro regole che mancavano | `docs/style-guide.md`: punti 8 e 9 della sezione 4, punto 7 della sezione 5, punto 7 della sezione 9 | 4 punti nuovi |
+| 5 voci nuove del glossario | `glossary` | G140-G144 presenti; cancello superato |
 | il 5% del libro | `status` | 5.187 parole su 104.639 |
-| 8 regole nate dalla prima | file della sessione del pilota; decisioni sulla maiuscola di Sintesi (D-28) e sui termini del pilota (D-29) | 1 + 7 |
-| il punto dentro le caporali allo stesso modo | conteggio di punto e caporale nei file finali delle due versioni | 13 e 100 casi dentro, 0 fuori, in ciascuna |
-| circa 5 ore e mezza di macchina in meno | differenza fra le due stime | 19,1 meno 13,5 = 5,6 |
-| circa 5.300 parole | conteggio delle parole dei file finali senza marcatori | 5.320 e 5.368 |
-| una sola volta a metà frase, 74 minuscole | ricerca di Scrambler e scrambler nei blocchi sorgente | 12 maiuscole, 11 a inizio frase o in un titolo; 74 minuscole |
-| entrambe le versioni usano la minuscola | ricerca nei file finali del blocco 01 delle due versioni | 2 minuscole e nessuna maiuscola a metà frase in ciascuna |
-| tre espressioni che tornano in altri blocchi | ricerca nei blocchi sorgente | spinal bundle nei blocchi 05, 11, 18, 31; jarhead in 07 e 18; on top, in questo senso, in 18 e 36 |
+| tre frasi solo nella versione di Opus | ricerca delle tre frasi nei file finali delle due versioni | 1, 1, 1 occorrenze nella versione del pilota; 0, 0, 0 nella prova B |
+| da 7 a 11 ore di macchina in più (stima) | durata della rilettura incrociata (537,8 secondi per 3.532 parole, cioè 2,54 minuti per mille parole) su 104.639 parole, più un minuto per blocco e un quarto d'ora per 6 sessioni; applicazione delle correzioni con il redattore di Opus, al massimo 1,41 minuti per mille parole più lo stesso coordinamento | 6,6 ore di rilettura; fino a 4,6 ore di correzioni; da 6,6 a 11,2 in tutto |
+| 1 difetto fondato ogni 100 paragrafi, soglia della misura | dubbi ricevuti della prima sessione di revisione | previsione 1,5 ogni 100; soglia 1 ogni 100; valore di confronto 3,0 ogni 100 (6 su 201) |
+| scrambler: una sola maiuscola a metà frase, 74 minuscole | ricerca di Scrambler e scrambler nei blocchi sorgente | 12 maiuscole, 11 a inizio frase o in un titolo; 74 minuscole |
