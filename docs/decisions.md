@@ -435,3 +435,11 @@ Decisione: entra nel glossario, approvata dall'agente, G174 baseline environment
 Motivazione: la voce sull'umano di serie descrive l'umano non modificato, e di serie richiama la dotazione di serie di un prodotto. Detto dell'ambiente radioattivo di Rorschach, ambiente di serie fa pensare a un ambiente prodotto in serie, un senso che Watts non ha: baseline environment è l'ambiente com'è comunque, senza difese attive. Il traduttore aveva seguito la voce alla lettera e aveva indicato ambiente di base come più naturale. Il blocco 22 ha la stessa espressione, quindi la resa va fissata.
 
 Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-53 Tre voci nuove del glossario dai termini del blocco 16, e la ricerca di crypt ristretta
+
+Decisione: entrano nel glossario, approvate dall'agente, tre voci per termini del blocco 16 che tornano in altri blocchi: G175 thrust pistol (blocchi 16 e 36; pistol da solo anche nei blocchi 20, 26, 37): pistola di manovra, poi pistola, resa del traduttore; G176 rewiring e rewire (blocchi 01, 06, 16, 27, 31): ricablaggio e ricablare, la resa già usata nei blocchi 01, 06 e 16; G177 nominal detto dei sistemi (blocchi 16 e 18): nella norma, la resa del blocco 18 già rivisto. Nella prima stesura del blocco 16 (p01491) «Tutto nominale» diventa «Tutto nella norma». La voce sulla cripta (G039) cerca ora solo crypt e crypts, non cryptic e cryptically. Gli altri termini proposti dal traduttore del blocco 16 compaiono solo lì (MCC reso CNM in coppia con DPM, spring line, ripcord, multicores) o sono già nel glossario o fissati dal blocco 18 (vestibolo, capsula dei sensori, ferroceramica): restano la sua scelta.
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Tutto nominale è un calco del gergo aerospaziale inglese, e il blocco 18 rivisto ha già scelto nella norma per la stessa espressione. Cryptic vuol dire enigmatico e non ha a che fare con la cripta: l'espressione di ricerca precedente produceva falsi allarmi (due nel blocco 16). Nessuna resa tocca il senso.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
