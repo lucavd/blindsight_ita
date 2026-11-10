@@ -275,3 +275,19 @@ Decisione: quando il controllo di un blocco riceve una cartella alternativa e l'
 Motivazione: con la cartella alternativa lo script salvava in `checks/` con lo stesso nome dei risultati della versione A e li avrebbe sovrascritti. La procedura del confronto evitava il problema solo perché non usa il salvataggio; così i numeri della prova B restano in un file, come quelli della versione A, senza toccare i suoi.
 
 Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-33 Impronte dei due testi anonimi del confronto, per ricostruire l'abbinamento se la chiave va persa
+
+Decisione: dopo il sorteggio si salvano in `comparison/impronte.tsv`, versionato, le impronte SHA-256 dei due testi assemblati da cui nascono gli EPUB anonimi. La chiave resta fuori dal repository, come prima. Se la chiave manca al momento della scelta, si assemblano di nuovo le due versioni e si confrontano le impronte.
+
+Motivazione: nel cloud il contenitore viene sostituito dopo un periodo di inattività e i file non versionati vanno persi; il PI legge i due EPUB per circa un'ora prima di scegliere. Le impronte da sole non dicono quale versione è quale: per saperlo bisogna assemblare e confrontare di proposito, come per aprire la chiave. Dopo il primo sorteggio la chat principale aveva visto per errore le dimensioni dei file, che svelavano l'abbinamento: il sorteggio è stato rifatto e le impronte sono quelle del secondo.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-34 Nel riassunto del confronto i numeri del processo sono per modello, non per X e Y
+
+Decisione: il riassunto del confronto alla cieca riporta conteggi e tempi per modello (pilota con Opus, seconda versione con Fable) e non per versione anonima, senza esempi di testo; dice al PI che l'abbinamento con X e Y resta chiuso fino alla scelta.
+
+Motivazione: la procedura della sessione chiedeva conteggi e tempi per X e Y senza nomi di modelli, ma così com'è scritta non si può seguire senza rompere il confronto. Per etichettare i numeri con X e Y l'agente dovrebbe aprire la chiave, che non si apre prima della scelta; e il PI ha già letto i numeri del pilota nel suo riassunto, quindi li riconoscerebbe sotto l'etichetta anonima. I numeri per modello non sono osservabili nel testo e non permettono di abbinare le versioni; servono al PI perché il tempo di macchina è diverso fra i due modelli. È uno scarto dalla procedura scritta: è detto al PI nel riassunto.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.

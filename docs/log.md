@@ -10,6 +10,8 @@ generated:
 
 ## 2026-11-10
 
+Il confronto alla cieca (S2b) ha finito il lavoro sui due blocchi e aspetta la scelta del PI: prova B tradotta, rivista e redatta con Fable 5.2 in `trial-b/`, tutti i cancelli superati e dieci previsioni su dieci confermate; due EPUB anonimi costruiti e consegnati al PI in chat, entrambi senza errori per epubcheck. Sorteggio rifatto una volta, perché la chat principale aveva visto per errore le dimensioni dei file; impronte dei due testi in `comparison/impronte.tsv` (decisione sulle impronte del confronto, D-33). Nel riassunto i numeri sono per modello e non per versione anonima (decisione sui numeri del riassunto del confronto, D-34). Nessun file sotto `translation/`, `review/` e `checks/` è cambiato. Cosa resta da fare dopo la scelta è nel file della sessione.
+
 I risultati dei controlli sulla prova B si salvano in `trial-b/checks/` e non sovrascrivono più quelli della versione A (decisione sui risultati dei controlli della prova B, D-32). Collaudo degli script superato, 44 controlli.
 
 I due EPUB del confronto alla cieca hanno ora un titolo proprio, «Blindsight (pilota X)» e «Blindsight (pilota Y)», per distinguerli nella libreria del lettore (decisione sul titolo dei due EPUB del confronto, D-31). Collaudo degli script superato, con un controllo in più.
