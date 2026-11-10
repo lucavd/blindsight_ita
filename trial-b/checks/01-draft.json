@@ -1,0 +1,28 @@
+{
+ "chunk": "01",
+ "stage": "draft",
+ "file": "trial-b/draft/01.md",
+ "gates": {
+  "format": [],
+  "markers": [],
+  "empty": [],
+  "scene_breaks": [],
+  "forbidden_chars": [],
+  "placeholder_misuse": [],
+  "epigraph_decisions": []
+ },
+ "flags": {
+  "ratio_out_of_bounds": [],
+  "english_residue": [],
+  "glossary_misses": [
+   "p00058: pod (resurrection, medical) -> atteso capsula",
+   "p00060: drum -> atteso tamburo"
+  ],
+  "emphasis_count_differs": [],
+  "identical_to_source": []
+ },
+ "placeholders": [],
+ "ratio_median": 1.086,
+ "paragraphs": 54,
+ "ok": true
+}
