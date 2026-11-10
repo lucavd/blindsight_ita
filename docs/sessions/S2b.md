@@ -3,7 +3,7 @@ type: Session
 title: "S2b: pilota alla cieca con un secondo modello (facoltativa)"
 description: Ripete il pilota sugli stessi due blocchi con un secondo modello e prepara due EPUB anonimi, così il PI sceglie il modello leggendo, senza sapere quale ha scritto cosa.
 model: fable
-status: optional
+status: open
 pi_approval: pending
 generated:
   by: blindsight-agent/protocollo-v1
