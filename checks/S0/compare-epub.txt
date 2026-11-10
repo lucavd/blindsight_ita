@@ -1,0 +1,11 @@
+parte                          lettere      EPUB  scarto |  cifre   EPUB
+dedica ed epigrafi iniziali        182       182      +0 |      0      0
+Prologue                          6863      6863      +0 |      0      0
+Theseus                         151099    151099      +0 |     68     68
+Rorschach                       271873    271873      +0 |     23     23
+Charybdis                         8275      8275      +0 |      0      0
+Acknowledgments                   2948      2948      +0 |      0      0
+Notes and References             35727     36659    -932 |   2219   2031
+parti con lo stesso numero di lettere: 6 su 7
+note finali nei blocchi: 144, la piu' corta di 5 parole
+ultimo blocco: fine del saggio (p03740-p03756) 1547 parole, note finali (p03803-p03946) 2750 parole

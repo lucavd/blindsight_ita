@@ -1,0 +1,6 @@
+Escluso p00005-p00012: 8 paragrafi, 12 parole (indice della pagina web e separatore che lo chiude: navigazione della pagina, non testo del libro)
+Escluso p03758-p03802: 45 paragrafi, 2364 parole (testo legale della licenza Creative Commons e separatore che lo chiude: non si traduce)
+Esclusi in tutto: 53 paragrafi, 2376 parole.
+Blocchi: 41  parole per blocco: min 1020, mediana 2515, max 4297; totale 104639
+SHA256SUMS: 50 file registrati.
+CANCELLO andata e ritorno: superato (3891 paragrafi identici).

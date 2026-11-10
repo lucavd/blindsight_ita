@@ -1,0 +1,40 @@
+ok   extract: coverage gate passes
+ok   extract: image reported
+ok   extract: right-aligned paragraph is an epigraph
+ok   extract: centred, indented and column layout recorded
+ok   extract: Symbol glyph converted, soft hyphen dropped
+ok   extract: nested superscripts marked once, inner spaces escaped
+ok   extract: image position reported
+ok   chunk: round trip gate passes
+ok   chunk: added heading starts a part
+ok   chunk: a chapter epigraph starts a chunk
+ok   glossary: entry found in source
+ok   verify: clean source passes
+ok   check draft: gates pass on a clean fake translation
+ok   check draft: glossary miss flagged (fake text keeps English)
+ok   check draft: identical paragraphs flagged
+ok   check final: share of changed paragraphs reported
+ok   gate: duplicated marker detected
+ok   gate: missing paragraph detected
+ok   gate: forbidden dash detected
+ok   gate: malformed marker detected
+ok   gate: empty paragraph detected
+ok   glossary: entry absent from source fails the gate
+ok   coverage: unreviewed paragraph detected
+ok   coverage: complete review passes
+ok   build: EPUB written
+ok   build: placeholder replaced by the original lines
+ok   build: part headings shifted to level 1
+ok   build: no HTML comments left
+ok   build: layout of the source carried into the book
+ok   build: translator note placed after the novel
+ok   build: escaped list markers stay text
+ok   build: no math or citations parsed
+ok   build: layout becomes a styled block
+ok   build: figure of the book placed in the text and packed in the EPUB
+ok   blind: two pilot EPUBs written
+ok   verify: modified source chunk detected
+ok   chunk: excluded range left out, round trip still passes
+ok   verify: passes after exclusions, no file listed twice
+
+Tutti i test superati.

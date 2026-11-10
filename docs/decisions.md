@@ -98,4 +98,52 @@ Decisione: se la pagina non si riesce a scaricare da rifters.com, si usa la copi
 
 Motivazione: dall'ambiente cloud la connessione a rifters.com cade prima di ricevere dati; la copia d'archivio è la stessa pagina a una data nota. Limite dichiarato al PI: dall'ambiente cloud non si può verificare che la cattura sia identica alla pagina di oggi.
 
-Deciso da: PI. Data: 2026-11-10. Stato: valida, non ancora eseguita (l'host dell'archivio non è consentito dalla rete dell'ambiente: vedi il registro delle modifiche alla stessa data).
+Deciso da: PI. Data: 2026-11-10. Stato: superata dalla decisione sulla sorgente fornita dal PI (D-12). Non è mai stata eseguita: l'host dell'archivio non era consentito dalla rete dell'ambiente.
+
+## D-12 La sorgente è il file HTML fornito dal PI
+
+Decisione: la sorgente della traduzione è il file `Blindsight_html_format.htm` contenuto nello zip che il PI ha caricato nella chat il 2026-11-10. È salvato senza modifiche come `source/original/Blindsight.htm`, insieme alle tre immagini dello zip; lo zip originale è conservato in `reference/Blindsight.zip`. Non si scarica più nulla dal sito dell'autore né dall'Internet Archive.
+
+Motivazione: dal cloud il sito dell'autore non risponde e l'archivio non è raggiungibile. Il file è l'esportazione HTML dell'autore (nei metadati: autore Peter Watts, ultima modifica 2006-12-09; nello zip ha la data 2007-09-03) e l'EPUB di confronto fornito dal PI dichiara di derivare dalla stessa pagina del sito.
+
+Deciso da: PI. Data: 2026-11-10. Stato: valida. Resta da annotare nel registro l'indirizzo da cui il PI ha preso lo zip.
+
+## D-13 L'EPUB di Ellen Herzfeld serve solo da confronto; la licenza è la 2.5
+
+Decisione: l'EPUB `PeterWatts_Blindsight-v1.01-formatted-by-Ellen-Herzfeld.epub` fornito dal PI, conservato in `reference/`, non è sorgente: si usa solo per controllare che il testo dei blocchi sia completo. La licenza che vale per la traduzione è quella dichiarata nella pagina dell'autore, Creative Commons Attribution-NonCommercial-ShareAlike 2.5; la versione è stata aggiunta alla nota sulla traduzione e ai metadati dell'EPUB.
+
+Motivazione: l'EPUB è un'edizione curata da terzi che interviene sulle note (voci rinumerate e duplicate, refusi corretti, indirizzi aggiornati) e dichiara per sé la versione 3.0 della stessa licenza; il progetto traduce il testo dell'autore.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-14 Confini del libro: cosa entra nei blocchi e cosa resta fuori
+
+Decisione: i blocchi vanno dalla dedica (paragrafo p00003) all'ultima nota finale (paragrafo p03946). Restano fuori tre cose. Titolo e nome dell'autore (p00001 e p00002), come previsto dalla procedura. L'indice della pagina web con il separatore che lo chiude (da p00005 a p00012). Il testo legale della licenza con il separatore che lo chiude (da p03758 a p03802). Le due esclusioni interne sono scritte in `source/excluded.tsv`. Le 144 note finali, che nella pagina vengono dopo il testo della licenza, seguono così direttamente il saggio a cui appartengono. Nessun titolo di parte è un'immagine, quindi nessun titolo è stato aggiunto a mano.
+
+Motivazione: l'indice è navigazione della pagina, e l'EPUB ne genera uno proprio; il testo legale non è del romanzo e non si traduce, la licenza è indicata nella nota e nei metadati.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-15 Adattamenti dello script alla pagina reale
+
+Decisione: lo script è stato adattato alla pagina dell'autore in sette punti, ciascuno coperto dal collaudo.
+
+1. I paragrafi allineati a destra sono epigrafi (tipo `q`): nella pagina le epigrafi non sono citazioni a blocco.
+2. I caratteri scritti con il font Symbol (gradi, mu, epsilon, sigma) sono convertiti nel carattere Unicode che il font mostra, e i trattini morbidi invisibili sono tolti. Se un carattere di questo tipo resta senza conversione, il cancello di copertura fallisce.
+3. Gli apici annidati (i richiami di nota) e gli apici con spazi sono scritti in modo che pandoc li legga.
+4. L'impaginazione propria di un paragrafo (centrato, rientrato, colonna di una tabella) è registrata nel campo `layout` di `source/paragraphs.jsonl` e riportata nell'EPUB con classi del foglio di stile.
+5. Le immagini che fanno parte del libro si elencano in `source/figures.tsv` e vengono inserite nell'EPUB. Oggi è una sola: il cubo dopo il paragrafo p00418.
+6. `chunk --exclude` lascia fuori gli intervalli interni che non sono il libro.
+7. Un blocco prende il nome di tutte le parti che tocca, e `source/SHA256SUMS` non elenca più due volte lo stesso file.
+
+Motivazione: il pacchetto era stato scritto senza vedere la pagina. Senza questi adattamenti l'EPUB avrebbe avuto le epigrafi impaginate come testo normale, dieci caratteri illeggibili, segni `^` accanto ai numeri di nota, la figura mancante e i passi a più colonne appiattiti.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-16 Quattro sessioni di traduzione e sei di revisione
+
+Decisione: le sessioni di traduzione sono T1 (blocchi 01-11), T2 (12-22), T3 (23-34), T4 (35-41). Le sessioni di revisione sono R1 (01-07), R2 (08-14), R3 (15-21), R4 (22-29), R5 (30-36), R6 (37-41). Il modello scritto in `docs/state.tsv` è provvisorio: lo conferma o lo cambia il pilota.
+
+Motivazione: è il raggruppamento suggerito dallo script per circa 25.000 parole a sessione di traduzione e 16.000 a sessione di revisione, e coincide con la stima del piano.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.

@@ -1,0 +1,146 @@
+Nota: sorgente non in UTF-8, letta come Windows-1252.
+Paragrafi estratti: 3946  (h2=7, q=60, s=82, t=3797)
+Parole totali: 107018
+Paragrafi con impaginazione propria: 58  (center=9, center indent=3, col1=8, col2=7, col3=10, indent=21)
+Caratteri del font Symbol convertiti: 10  (U+F065->ε x1, U+F06D->μ x2, U+F073->σ x1, U+F0B0->° x6)
+Trattini morbidi (invisibili) rimossi: 5
+
+Titoli:
+  p00017 h2  Prologue
+  p00065 h2  Theseus
+  p01314 h2  Rorschach
+  p03650 h2  Charybdis
+  p03695 h2  Acknowledgments
+  p03700 h2  Notes and References
+  p03758 h2  Creative Commons Licensing Information
+
+Immagini nella pagina (2): il loro contenuto NON entra nel testo.
+  src=Blindsight_html_5c3275b3.png  alt=-  dopo il paragrafo p00418
+  src=Blindsight_html_m51d5c90b.png  alt=-  dopo il paragrafo p03758
+  Un'immagine che fa parte del libro va elencata in source/figures.tsv (after_id, file).
+
+Primi 60 paragrafi:
+  p00001 t  Blindsight
+  p00002 t  Peter Watts
+  p00003 t  For Lisa
+  p00004 t  If we're not in pain, we're not alive.
+  p00005 t  Prologue
+  p00006 t  Theseus
+  p00007 t  Rorschach
+  p00008 t  Charybdis
+  p00009 t  Acknowledgments
+  p00010 t  Notes and References
+  p00011 t  Creative Commons Licensing Information
+  p00012 s  
+  p00013 q  "This is what fascinates me most in existence: the peculiar necessity 
+  p00014 q  —Philip Gourevitch
+  p00015 q  "You will die like a dog for no good reason."
+  p00016 q  —Ernest Hemingway
+  p00017 h2 Prologue
+  p00018 q  "Try to touch the past. Try to deal with the past. It's not real. It's
+  p00019 q  —Ted Bundy
+  p00020 t  It didn't start out here. Not with the scramblers or Rorschach, not wi
+  p00021 t  For me, it began with Robert Paglino.
+  p00022 t  At the age of eight, he was my best and only friend. We were fellow ou
+  p00023 t  I arrived at the playground to find Pag the center of attention for so
+  p00024 t  But I didn't know what to do.
+  p00025 t  I hadn't seen much of Pag lately. I was pretty sure he'd been avoiding
+  p00026 t  I just stood there. I didn't even especially want to help him.
+  p00027 t  That didn't make sense. Even if he hadn't been my best friend, I shoul
+  p00028 t  Or I had, once.
+  p00029 t  But that part of me had been cut out along with the bad wiring. I was 
+  p00030 t  In the end, propaganda worked where empathy failed. Back then I didn't
+  p00031 t  So I picked up a rock the size of my fist and hit two of Pag's assaila
+  p00032 t  A third, turning to face the new threat, took a blow to the face that 
+  p00033 t  The rest of them ran at the sight of blood. One of the braver promised
+  p00034 t  Three decades it took, to see the irony in that remark.
+  p00035 t  Two of the enemy twitched at my feet. I kicked one in the head until i
+  p00036 t  "Oh," I said. "Sorry."
+  p00037 t  One thing lay motionless. The other moaned and held its head and curle
+  p00038 t  "Oh shit," Pag panted. Blood coursed unheeded from his nose and splatt
+  p00039 t  I thought of something to say. "You all right?"
+  p00040 t  "Oh shit, you—I mean, you never..." He wiped his mouth. Blood smeared 
+  p00041 t  "They started it."
+  p00042 t  "Yeah, but you—I mean, look at them!"
+  p00043 t  The moaning thing was crawling away on all fours. I wondered how long 
+  p00044 t  "You'da never done that before," Pag said.
+  p00045 t  Before the operation, he meant.
+  p00046 t  I actually did feel something then—faint, distant, but unmistakable. I
+  p00047 t  Pag backed away, eyes wide. "What are you doing? Put that down!"
+  p00048 t  I'd raised my fists. I didn't remember doing that. I unclenched them. 
+  p00049 t  The rock dropped to the ground, blood-slick and glistening.
+  p00050 t  "I was trying to help." I didn't understand why he couldn't see that.
+  p00051 t  "You're, you're not the same," Pag said from a safe distance. "You're 
+  p00052 t  "I am too. Don't be a fuckwad."
+  p00053 t  "They cut out your brain!"
+  p00054 t  "Only half. For the ep—"
+  p00055 t  "I know for the epilepsy! You think I don't know? But you were in that
+  p00056 t  "My mom and dad," I said, suddenly quiet, "saved my life. I would have
+  p00057 t  "I think you did die," said my best and only friend. "I think Siri die
+  p00058 t  I still don't know if Pag really knew what he was saying. Maybe his mo
+  p00059 t  But you could make a case for what he said. I do remember Helen tellin
+  p00060 t  The grownups showed up eventually, of course. Medicine was bestowed, a
+
+Ultimi 60 paragrafi:
+  p03887 t  85 Zuev, P.S. et al. 2003. Carbon Tunneling from a Single Quantum Stat
+  p03888 t  86 Darwin, Charlie "Chuckles". 1859. The Origin of Species by Means of
+  p03889 t  87 Cho, A. 2004. Life's Patterns: No Need to Spell It Out? Science 303
+  p03890 t  88 Cohen, J., and Stewart, S. 2005. Where are the dolphins? Nature 409
+  p03891 t  89Reilly, J.J. 1995. After Darwin. First Things, June/July. Article al
+  p03892 t  90 Devlin, K. 2004. Cracking the da Vinci Code.  Discover 25(6): 64-69
+  p03893 t  91 Snir, Y, and Kamien, R.D. 2005. Entropically Driven Helix Formation
+  p03894 t  92 Wolfram, S. 2002. A New Kind of Science. Wolfram Media. 1192pp.
+  p03895 t  93 Albert, M.L. 2004. Danger in Wonderland. Science 303: 1141
+  p03896 t  94 Muotri, A.R., et al. 2005. Somatic mosaicism in neuronal precursor 
+  p03897 t  95 Nelson, D.L., and M.M Cox. 200. Lehninger principles of biochemistr
+  p03898 t  96 Prigonine, I., and G. Nicholis. 1989. Exploring Complexity. Freeman
+  p03899 t  97 Dawkins, R. 1988. The Blind Watchmaker: Why the Evidence of Evoluti
+  p03900 t  98 Pinker, S. 1997. How the mind works. WW Norton & Co., NY. 660pp.
+  p03901 t  99 Koch, C. 2004. The Quest for Consciousness: A Neurobiological Appro
+  p03902 t  100 McFadden, J. 2002. Synchronous firing and its influence on the bra
+  p03903 t  101 Penrose, R. 1989. The Emporer's New Mind. Oxford University Press.
+  p03904 t  102 Tononi, G., and G.M. Edelman. 1998. Consciousness and Complexity. 
+  p03905 t  103 Baars, B.J. 1988. A Cognitive Theory of Consciousness. Cambridge U
+  p03906 t  104 Hilgetag, C.C. 2004. Learning from switched-off brains. Sci. Amer.
+  p03907 t  105 Roth, G. 2004. The quest to find consciousness. Sci. Amer. 14: 32-
+  p03908 t  106 Pauen, M. 2004. Does free will arise freely? Sci. Amer. 14: 41-47.
+  p03909 t  107 Zimmer, C. 2003. How the mind reads other minds. Science 300:1079-
+  p03910 t  108 Crick, F.H.C., and C. Koch. 2000. The unconscious homunculus. In N
+  p03911 t  109 Churchland, P.S. 2002. Self-Representation in Nervous Systems. Sci
+  p03912 t  110 Miller, G. 2005. What is the biological basis of consciousness? Sc
+  p03913 t  111 Blakeslee, S. 2003. The christmas tree in your brain. Toronto Star
+  p03914 t  112 Matsumoto, K., and K. Tanaka. 2004. Conflict and Cognitive Control
+  p03915 t  113 Kerns, J.G., et al. 2004. Anterior Cingulate Conflict Monitoring a
+  p03916 t  114 Petersen, S.E. et al. 1998. The effects of practice on the functio
+  p03917 t  115 Nrretranders, T. 1999. The User Illusion: Cutting Consciousness Do
+  p03918 t  116 Altenmüller, E.O. 2004. Music in your head. Scientific American. 1
+  p03919 t  117 Helmuth, L. 2003. Fear and Trembling in the Amygdala. SCience 300:
+  p03920 t  118 Dolan, R.J. 2002. Emotion, cognition, and behavior. Science 298: 1
+  p03921 t  119 Treffert, D.A., and G.L. Wallace. 2004. Islands of genius. Scienti
+  p03922 t  120 Wegner, D.M. 1994. Ironic processes of mental control. Psychol. Re
+  p03923 t  121 Proceedings of the Royal Society of London B (DOI 10.1098/rspb.200
+  p03924 t  122 Aiello, L., and C. Dean. 1990. An introduction to human evolutiona
+  p03925 t  123 Gallup, G.G. (Jr.). 1997. On the rise and fall of self-conception 
+  p03926 t  124 Carstairs-McCarthy, A. 2004. Many perspectives, no concensus—a rev
+  p03927 t  125Dijksterhuis, A., et al. 2006. Science 311:1005-1007.
+  p03928 t  126Vince, G 2006. “'Sleeping on it' best for complex decisions.” Newsc
+  p03929 t  127 Devlin, A.M., et al. 2003. Clinical outcomes of hemispherectomy fo
+  p03930 t  128 Pulsifer, M,B., et al. 2004. The cognitive outcome of hemispherect
+  p03931 t  129 Moles, A., Keiffer, B.L., and F.R. D'Amato. 2004. Deficit in attac
+  p03932 t  130 Plane, J.M.C., et al. 2004. Removal of meteoric iron on polar meso
+  p03933 t  131 Fitch, W.T., and M.D. Hauser. 2004. Computational Constraints on S
+  p03934 t  132 Premack, D. 2004. Is Language the Key to Human Intelligence? Scien
+  p03935 t  133 Holden, C. 2004. The origin of speech. Science 303: 1316-1319.
+  p03936 t  134 Graddol, D. 2004. The future of language. Science 303: 1329-1331.
+  p03937 t  135 BBC News. 2005. Brain chip reads man's thoughts. March 31. Story o
+  p03938 t  136 Weng, J. et al. 2001. Autonomous Mental Development by Robots and 
+  p03939 t  137 Von Melchner, L, et al. 2000. Visual behaviour mediated by retinal
+  p03940 t  138 Baughman, R.H. 2003. Muscles made from metal. Science 300: 268-269
+  p03941 t  139 Weissmüller, J., et al. 2003. Change-induced reversible strain in 
+  p03942 t  140 Piper, A., and Merskey, H. 2004. The Persistence of Folly: A Criti
+  p03943 t  141 Piper, A., and Merskey, H. 2004. The Persistence of Folly: A Criti
+  p03944 t  142 Kaplan, F.S., et al. 1998. The Molecules of Immobility: Searching 
+  p03945 t  143 Chernoff, H. 1973. Using faces to represent points in k-dimensiona
+  p03946 t  144 Wilkinson, L. 1982. An experimental evaluation of multivariate gra
+
+CANCELLO copertura: superato (il testo estratto coincide con il testo visibile dell'HTML, 520065 caratteri senza spazi).

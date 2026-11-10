@@ -1,0 +1,48 @@
+chunk  words  draft final review  part
+01      1655    .     .     .     Prologue
+02      3295    .     .     .     Theseus
+03      2436    .     .     .     Theseus
+04      2084    .     .     .     Theseus
+05      3185    .     .     .     Theseus
+06      2998    .     .     .     Theseus
+07      2340    .     .     .     Theseus
+08      3085    .     .     .     Theseus
+09      2572    .     .     .     Theseus
+10      2408    .     .     .     Theseus
+11      2063    .     .     .     Theseus
+12      2340    .     .     .     Theseus
+13      2987    .     .     .     Theseus
+14      1020    .     .     .     Theseus
+15      3145    .     .     .     Rorschach
+16      2878    .     .     .     Rorschach
+17      1551    .     .     .     Rorschach
+18      3532    .     .     .     Rorschach
+19      1788    .     .     .     Rorschach
+20      2795    .     .     .     Rorschach
+21      2005    .     .     .     Rorschach
+22      2158    .     .     .     Rorschach
+23      2660    .     .     .     Rorschach
+24      1804    .     .     .     Rorschach
+25      1842    .     .     .     Rorschach
+26      2515    .     .     .     Rorschach
+27      2651    .     .     .     Rorschach
+28      2138    .     .     .     Rorschach
+29      2194    .     .     .     Rorschach
+30      2738    .     .     .     Rorschach
+31      2125    .     .     .     Rorschach
+32      2564    .     .     .     Rorschach
+33      2433    .     .     .     Rorschach
+34      2876    .     .     .     Rorschach
+35      2961    .     .     .     Rorschach
+36      2462    .     .     .     Rorschach
+37      2984    .     .     .     Rorschach
+38      3163    .     .     .     Rorschach
+39      1879    .     .     .     Charybdis
+40      4033    .     .     .     Acknowledgments / Notes and References
+41      4297    .     .     .     Notes and References
+
+Raggruppamento suggerito (circa 25000 parole per sessione):
+  sessione 1: blocchi 01-11 (11 blocchi, 28121 parole)
+  sessione 2: blocchi 12-22 (11 blocchi, 26199 parole)
+  sessione 3: blocchi 23-34 (12 blocchi, 28540 parole)
+  sessione 4: blocchi 35-41 (7 blocchi, 21779 parole)

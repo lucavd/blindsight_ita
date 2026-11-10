@@ -10,6 +10,10 @@ generated:
 
 ## 2026-11-10
 
+La sessione sulla sorgente (S0) ha finito il lavoro e aspetta tre risposte del PI (provenienza dei file, copertina, modo di lavorare nel cloud). Sorgente: `Blindsight_html_format.htm`, dallo zip caricato dal PI nella chat, salvato come `source/original/Blindsight.htm` (1.268.419 byte, sha256 `c8cd6fbe0eb58d753ae526ce43404bb1a6fff96c082aae2c38468346e60e4a6f`; sha256 dello zip `7d0b2e95c1fff21bbfbdb84cec50cb472ab4829933ee6dce2cf0fa7446f3a7a6`). L'indirizzo da cui il PI ha preso lo zip non è ancora annotato. Licenza della sorgente in `source/original/LICENSE-source.txt`. Libro diviso in 41 blocchi (104.639 parole), tutti i cancelli superati; create le sessioni T1-T4 e R1-R6. Script adattato alla pagina reale (decisione sugli adattamenti dello script, D-15), collaudo portato a 38 controlli. In `reference/` lo zip, l'EPUB di confronto e l'immagine della sovraccoperta forniti dal PI.
+
+Voci precedenti della stessa data, quando la sorgente non era ancora disponibile:
+
 La sessione sulla sorgente (S0) è aperta ma ferma allo scarico: nessun file sorgente è stato scaricato. Dall'ambiente cloud la rete consente `www.rifters.com` e `rifters.com`, ma ogni connessione a `https://www.rifters.com/real/Blindsight.htm` cade dopo circa 11 secondi senza ricevere dati. I tentativi sono stati ripetuti tra le 05:32 e le 06:11 UTC, tutti con lo stesso esito (nel registro del proxy: `tunnel closed (code 1006) after 11s; 517 B sent, 39 B received`). Da qui non si distingue tra sito fermo e sito che respinge gli indirizzi del cloud.
 
 Il PI ha scelto di prendere la copia dell'Internet Archive (decisione sulla sorgente d'archivio, D-11). Non è stato possibile farlo: `web.archive.org` non è tra i domini consentiti dell'ambiente e la richiesta dell'agente di aggiungerlo è stata rifiutata dal servizio. Cosa serve per ripartire è scritto nel file della sessione, sezione "Punto di ripresa".

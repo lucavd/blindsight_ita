@@ -3,5 +3,15 @@ S0	fable	open	-	-	Sorgente divisa in blocchi senza perdite
 S1	opus	todo	-	-	Glossario, personaggi, epigrafi e scelte tipografiche
 S2	opus	todo	-	-	Pilota su due blocchi
 S2b	fable	optional	-	-	Pilota alla cieca con un secondo modello
+T1	opus	todo	-	01-11	Prima stesura dei blocchi 01-11 (Prologue e gran parte di Theseus)
+T2	opus	todo	-	12-22	Prima stesura dei blocchi 12-22 (fine di Theseus e primo terzo di Rorschach)
+T3	opus	todo	-	23-34	Prima stesura dei blocchi 23-34 (parte centrale di Rorschach)
+T4	opus	todo	-	35-41	Prima stesura dei blocchi 35-41 (fine di Rorschach, Charybdis, Acknowledgments, Notes and References)
+R1	opus	todo	-	01-07	Revisione dei blocchi 01-07 (Prologue e prima metà di Theseus)
+R2	opus	todo	-	08-14	Revisione dei blocchi 08-14 (seconda metà di Theseus)
+R3	opus	todo	-	15-21	Revisione dei blocchi 15-21 (inizio di Rorschach)
+R4	opus	todo	-	22-29	Revisione dei blocchi 22-29 (parte centrale di Rorschach)
+R5	opus	todo	-	30-36	Revisione dei blocchi 30-36 (Rorschach verso la fine)
+R6	opus	todo	-	37-41	Revisione dei blocchi 37-41 (fine di Rorschach, Charybdis, Acknowledgments, Notes and References)
 F	opus	todo	-	all	Coerenza sull'intero libro ed EPUB
 C	opus	optional	-	-	Correzioni dalle note di lettura del PI
