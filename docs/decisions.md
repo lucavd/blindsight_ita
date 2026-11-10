@@ -379,3 +379,11 @@ Decisione: entrano nel glossario, approvate dall'agente, due voci per termini de
 Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Payoff è la forma in uso nella teoria dei giochi italiana; l'espressione di ricerca della voce prende solo i casi tecnici, così il payoff colloquiale del blocco 06 non viene segnalato.
 
 Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-46 Tre voci nuove del glossario dai termini del blocco 09, executive summary proposta al PI
+
+Decisione: entrano nel glossario, approvate dall'agente, tre voci per termini del blocco 09 che tornano in altri blocchi, con le rese del traduttore: G163 blind spot (blocchi 09, 32, 36): punto cieco; G164 augments, i potenziamenti del corpo (blocchi 09, 30, 33, 41): potenziamenti; G165 cloaked e the cloak nel senso dell'occultamento (blocchi 09 e 10): occultato, occultamento. Entra come proposta, da decidere dal PI, G166 executive summary (blocchi 09, 33, 35), resa nel blocco 09 «riepilogo esecutivo». La voce su headspace (G097) riconosce ora anche il plurale spazi mentali; la voce sul Fab (G032) dice come si rende il nome per intero del reparto. Corretti nelle voci su handshake (G149) e sul Corpo Economico (G155) tre rimandi a paragrafi sbagliati, scritti con il numero di riga del blocco invece dell'id. Gli altri termini proposti compaiono solo nel blocco 09 oppure, come party line nel blocco 18, altrove con un senso diverso: restano la scelta del traduttore.
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Executive summary nei blocchi 33 e 35 è la tesi del libro sulla coscienza (Wegner thought it was an executive summary), quindi è un termine chiave e la resa spetta al PI.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
