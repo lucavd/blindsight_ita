@@ -331,3 +331,11 @@ Decisione: entrano nel glossario, approvate dall'agente, quattro voci per termin
 Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Visore era l'unica resa naturale per l'oggetto di Sarasti, ma la voce su HUD lo ammetteva anche per l'HUD: con due oggetti diversi sotto la stessa parola il lettore li confonderebbe; nel blocco 18, il solo già tradotto in cui compare, HUD è reso HUD. Per ramscoop non ho trovato in rete una forma italiana consolidata; statoreattore di Bussard indica il motore intero e non l'anello collettore che Watts nomina, e l'inglese della fantascienza è già tenuto per HUD e wetware. Burn non era fra i termini proposti, ma il traduttore lo ha segnato fra i dubbi con la resa accensione, termine corrente dell'astronautica italiana, e torna come manovra in altri sei blocchi. Nessuna delle quattro rese tocca il senso, e nessun blocco già tradotto contiene questi termini.
 
 Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-40 Ascesi con la maiuscola solo dove Watts la usa
+
+Decisione: la voce del glossario su Ascended (G066) dice ora che la maiuscola si usa solo dove Watts la usa (the Ascended, blocco 15) e che nel blocco 03, dove Watts scrive ascendants e ascended minuscoli, la resa è minuscola; after ascending si rende dopo l'ascesa. L'espressione che cerca la resa nell'italiano diventa asces[aio], che riconosce ascesa, ascesi e asceso; la precedente conteneva una forma senza la c (Ases) che non trovava nulla.
+
+Motivazione: è lo stesso criterio delle voci su Umani, Realisti e sintetista (maiuscola dove la usa Watts). Il traduttore del blocco 03 ha scritto ascesi minuscolo seguendo Watts e il controllo lo ha segnalato solo perché l'espressione di ricerca era sbagliata.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.

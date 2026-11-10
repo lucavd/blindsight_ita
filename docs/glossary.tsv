@@ -64,7 +64,7 @@ G062	undead	\bundead\b	non morto, non morti	non mort|non-mort	approved	02	In p02
 G063	zombie	\bzombie	zombie (invariabile)	zombi	approved	01	Anche agenti zombie e zombie filosofico. Grafia unica in tutto il libro.
 G064	Human, Humans, Humanity (capitalized)	(?-i:\bHuman(s|ity|kind)?\b)	Umano, Umani, Umanità (maiuscolo dove Watts lo usa)	Uman	approved	02	Watts usa la maiuscola per la specie in contrapposizione ai vampiri; dove scrive human minuscolo resta minuscolo.
 G065	Realists	(?-i:\bRealists?\b)	Realisti, realista (maiuscolo come in Watts)	[Rr]ealist	approved	03	Il movimento ostile alla tecnologia.
-G066	Ascended, Ascendants	\bascend(ed|ing|ants?)\b	gli Ascesi	Ases[io]|ascesi|ascend	approved	03	Chi si è trasferito nel Paradiso virtuale.
+G066	Ascended, Ascendants	\bascend(ed|ing|ants?)\b	gli Ascesi	asces[aio]	approved	03	Chi si è trasferito nel Paradiso virtuale. Maiuscola solo dove Watts la usa (the Ascended nel blocco 15); nel blocco 03 Watts scrive ascendants e ascended minuscoli, e la resa è minuscola (nuovi ascesi, erano ascesi); after ascending: dopo l'ascesa (decisione su Ascesi, D-40).
 G067	conscious, consciousness	\bconscious(ness)?\b	cosciente, coscienza	coscien	approved	02	Da tenere distinto da sentience (senzienza) e da awareness (consapevolezza).
 G068	Major (Bates)	(?-i:\bMajor\b)	il maggiore (minuscolo, anche al vocativo)	maggiore	approved	05	Grado al maschile secondo l'uso militare; accordi al femminile per la persona. Major Mandy di Szpindel: maggiore Mandy.
 G069	commissar	\bcommissar	commissario (commissario politico alla prima occorrenza)	commissari	approved	02	Lo scherzo di Szpindel su Siri; da solo, commissario in italiano può far pensare alla polizia.
