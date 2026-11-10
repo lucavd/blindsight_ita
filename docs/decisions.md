@@ -339,3 +339,11 @@ Decisione: la voce del glossario su Ascended (G066) dice ora che la maiuscola si
 Motivazione: è lo stesso criterio delle voci su Umani, Realisti e sintetista (maiuscola dove la usa Watts). Il traduttore del blocco 03 ha scritto ascesi minuscolo seguendo Watts e il controllo lo ha segnalato solo perché l'espressione di ricerca era sbagliata.
 
 Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-41 Tre voci nuove del glossario dai termini del blocco 04, e la nota sullo slogan
+
+Decisione: entrano nel glossario, approvate dall'agente, tre voci per termini del blocco 04 che tornano in altri blocchi, con le rese del traduttore: G149 handshaking protocols e handshake (blocchi 04 e 09): protocolli di handshake; G150 Martian Loop (blocchi 04 e 10): Circuito marziano; G151 bulb, il contenitore delle bevande (blocchi 04, 09, 10): bulbo. La nota della voce sullo slogan Technology Implies Belligerence (G090) dice ora che in italiano la maiuscola resta solo all'inizio, come nella resa già approvata. Gli altri termini proposti dal traduttore del blocco 04 compaiono solo lì, oppure hanno nell'altro blocco un senso diverso (recons, i vampiri ricostruiti, contro recon, la ricognizione, nel blocco 05; afferent array contro afferents nel blocco 38, dove l'unica resa possibile è afferenti), e restano la sua scelta.
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Handshake è il termine corrente delle telecomunicazioni italiane. Bulbo è strano in italiano quanto bulb in inglese per un contenitore, e la stranezza è di Watts; split the bulb torna identico nel blocco 10. La nota dello slogan diceva «con le maiuscole di Watts» mentre la resa approvata ha la sola iniziale maiuscola, e il traduttore ha dovuto scegliere: la resa approvata resta com'è, e la nota ora non la contraddice.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
