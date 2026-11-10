@@ -39,6 +39,8 @@ Tempi misurati nel pilota (S2), su 2 blocchi (il 01, 1.655 parole, e il 18, 3.53
 
 Tempi misurati nel confronto alla cieca (S2b), sugli stessi 2 blocchi, con Fable 5.2. Durata dei sotto-agenti: traduttore 6,6 e 9,7 minuti, revisore 7,0 e 10,3, redattore 4,9 e 7,5; i tre passaggi insieme 18,5 e 27,5 minuti per blocco, il 62% in più del pilota. Per mille parole: 3,15 minuti di traduttore e 5,70 di revisore più redattore. Con la stessa formula il resto del libro avrebbe richiesto circa 19 ore invece di 14. Il PI ha scelto la versione di Opus, quindi la stima del piano resta quella del pilota.
 
+Tempi misurati nella prima sessione di traduzione (T1), su 10 blocchi (dal 02 all'11, 26.466 parole), con Opus 5.5. Durata del traduttore da 5,7 a 9,3 minuti per blocco, 74,5 minuti in tutto: 2,8 minuti per mille parole, contro i 2,6 del pilota. Dal primo lancio all'ultimo controllo sono passati 89 minuti, quindi il coordinamento della chat principale (controlli, segnalazioni, voci del glossario, commit) ha preso circa 14 minuti, poco più di un minuto per blocco come nel pilota. Con apertura e chiusura la sessione resta dentro la stima di 1,3-1,7 ore; la stima per le altre tre sessioni di traduzione non cambia.
+
 # Perché questi modelli
 
 Sonnet 5.5 solo per S0, che è lavoro meccanico (scaricare, dividere, contare) dove un modello più grande non cambia il risultato.
