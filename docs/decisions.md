@@ -427,3 +427,11 @@ Decisione: entra nel glossario, approvata dall'agente, una voce per un termine d
 Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Il traduttore aveva scritto contromisure anti-intrusione, che dice counter due volte, con contro e con anti; misure anti-intrusione è l'inglese parola per parola e regge anche nei blocchi 15 e 29. La correzione non tocca il senso.
 
 Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-52 Ambiente di base per baseline environment, e la voce sull'umano di serie ristretta alle persone
+
+Decisione: entra nel glossario, approvata dall'agente, G174 baseline environment (blocchi 15 e 22): ambiente di base. Nella prima stesura del blocco 15 (p01385, p01386) «ambiente di serie» diventa «ambiente di base». La nota della voce sull'umano di serie (G008) dice ora che la voce non riguarda baseline detto di cose: baseline environment ha la sua voce, baseline exposure (blocco 29) si rende a senso, e lì la segnalazione del controllo è un falso allarme. La resa della voce sull'umano di serie, decisa dal PI, non cambia. Gli altri termini proposti dal traduttore del blocco 15 compaiono solo lì, oppure hanno una sola resa possibile anche dove tornano (filtri passa-banda, dimenidrinato, ioduro di potassio, EM; sensorio nei blocchi 26, 31, 40; ferroceramica nel blocco 16), oppure sono parole comuni rese a senso (leakage, dispersioni dei cavi nel blocco 15, perdita della schermatura nel blocco 18): restano la sua scelta.
+
+Motivazione: la voce sull'umano di serie descrive l'umano non modificato, e di serie richiama la dotazione di serie di un prodotto. Detto dell'ambiente radioattivo di Rorschach, ambiente di serie fa pensare a un ambiente prodotto in serie, un senso che Watts non ha: baseline environment è l'ambiente com'è comunque, senza difese attive. Il traduttore aveva seguito la voce alla lettera e aveva indicato ambiente di base come più naturale. Il blocco 22 ha la stessa espressione, quindi la resa va fissata.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
