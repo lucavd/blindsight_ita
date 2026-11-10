@@ -257,6 +257,12 @@ Sessione chiusa il 2026-11-10. Il PI ha letto il riassunto consegnato insieme ai
 2. Misura della seconda lettura fatta da Opus, sul blocco 02, con previsione e soglia: scritta nei dubbi ricevuti della prima sessione di revisione (R1).
 3. Quattro allineamenti fra il blocco 18 e i blocchi 13, 16 e 17 (battuta di Bates, Haunted, sensor pod, sigla TAT): scritti nei dubbi ricevuti della seconda sessione di traduzione (T2).
 
+# Dopo la chiusura
+
+2026-11-10, a pull request già unita. Il PI ha aperto la rete dell'ambiente cloud, che ora non ha restrizioni (decisione sulla rete dell'ambiente cloud, D-38), e ha chiesto di riprovare la verifica rimasta in sospeso su «telepate». Esito: né telepate né telepata hanno una voce propria nel vocabolario Treccani, nel dizionario De Mauro e nel Wikizionario; De Mauro registra telepatico anche come sostantivo. Nell'uso prevale nettamente telepate: 178 pagine di Wikipedia in italiano contro 4 con telepata (ricerca della parola esatta; è una misura grossolana dell'uso, non un'autorità). «Telepate» resta com'è, e il rilievo del revisore incrociato su questa parola passa da non verificato a non fondato: il conto finale delle 11 righe alte e medie è 6 fondate, 4 non fondate, 1 dubbia. I difetti noti del blocco 18 restano 7. La nota nei dubbi ricevuti della terza sessione di revisione (R3) è aggiornata. Telepath come sostantivo compare una sola volta nel libro (telepathy e telepathically nei blocchi 08 e 35 non pongono il problema): nessuna voce di glossario.
+
+Queste modifiche sono su un ramo ripartito dal ramo principale, con una pull request propria.
+
 # Da dove vengono i numeri del riassunto
 
 | frase | comando o file | valore letto |
