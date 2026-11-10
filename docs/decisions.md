@@ -347,3 +347,11 @@ Decisione: entrano nel glossario, approvate dall'agente, tre voci per termini de
 Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Handshake è il termine corrente delle telecomunicazioni italiane. Bulbo è strano in italiano quanto bulb in inglese per un contenitore, e la stranezza è di Watts; split the bulb torna identico nel blocco 10. La nota dello slogan diceva «con le maiuscole di Watts» mentre la resa approvata ha la sola iniziale maiuscola, e il traduttore ha dovuto scegliere: la resa approvata resta com'è, e la nota ora non la contraddice.
 
 Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-42 Due voci nuove del glossario dai termini del blocco 05
+
+Decisione: entrano nel glossario, approvate dall'agente, due voci per termini del blocco 05 che tornano in altri blocchi: G152 orders of mag, l'accorciamento gergale (blocchi 05 e 07): ordini di grandezza; G153 First Contact (blocchi 05, 09, 16, 40): primo contatto, con le maiuscole dove Watts le usa a metà frase. Gli altri termini proposti dal traduttore del blocco 05 compaiono solo lì (poppy, multicorps, metabase, nouveaux undead, Third Wave) o hanno altrove un senso diverso (first wave e second wave nel blocco 38 sono ondate di armi), oppure sono già coperti dal glossario (spike, recon): restano la sua scelta.
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Per orders of mag l'accorciamento italiano (ordini di grand.) stona in prosa e in una battuta; la perdita del registro gergale è annotata dal traduttore. Per First Contact il criterio della maiuscola è quello già usato per Umani, Realisti e sintetista.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
