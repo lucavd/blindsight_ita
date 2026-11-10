@@ -95,11 +95,11 @@ G093	survive and bear witness	bear witness	sopravvivere e testimoniare	testimoni
 G094	Devil's Baklava	Devil's Baklava	la Baklava del Diavolo	Baklava del Diavolo	approved	14	
 G095	twencen	twencen	novecentesco	novecent	approved	01	Gergo per ventesimo secolo; l'accorciamento si perde.
 G096	klicks	\bklicks?\b	chilometri	chilometr|\bkm\b	approved	05	Il gergo italiano non ha un equivalente diffuso.
-G097	headspace	headspace	spazio mentale	spaz(io|i) mental[ei]	approved	09	Al plurale spazi mentali (blocco 09, p00839) (decisione sui termini del blocco 09, D-46).
+G097	headspace	headspace	spazio mentale	spaz(io|i) mental[ei]	approved	09	Al plurale spazi mentali (blocco 09, p00839) (decisione sui termini del blocco 09, D-46). Nel blocco 20, p01893, headspace è lo spazio fisico dentro il casco, reso spazio di testa, il termine tecnico italiano per lo spazio vuoto in cima a un contenitore: lì la segnalazione del controllo è un falso allarme (decisione sui termini del blocco 20, D-55).
 G098	inattentional blindness	inattentional blindness	cecità da disattenzione	cecità da disattenzione	approved	20	Forma italiana corrente (per esempio Focus, sul gorilla invisibile di Simons e Chabris).
 G099	Cotard's syndrome	Cotard	sindrome di Cotard	Cotard	approved	18	
 G100	Anton's syndrome	Anton's	sindrome di Anton	Anton	approved	18	
-G101	alien hand syndrome	alien hand	sindrome della mano aliena	mano aliena	approved	20	
+G101	alien hand syndrome	alien hand	sindrome della mano aliena	man[oi] alien[ae]	approved	20	L'espressione di ricerca riconosce anche il plurale mani aliene (blocco 20, p01890) (decisione sui termini del blocco 20, D-55).
 G102	hemispherectomy	hemispherectomy	emisferectomia	emisferectomi	approved	01	
 G103	brain stem	brain ?stem	tronco encefalico	tronco encefalico	approved	08	
 G104	saccades, saccadic	saccad	saccadi, saccadico	saccad	approved	31	Saccadal nel saggio (p03715) si rende saccadico.

@@ -451,3 +451,11 @@ Decisione: la sigla TAT resta TAT, al maschile, e la forma sciolta nel blocco 17
 Motivazione: la voce sui ritocchi chiede che la forma sciolta ricrei la sigla, e il blocco 18 rivisto ha un TAT al maschile. Tocco tiene il piccolo aggiustamento di tweak e richiama il ritoccato del paragrafo dopo. Attitudinale in italiano vale di solito relativo alle attitudini, ma il calco circola nel gergo del marketing e qui suona come il nome commerciale di un trattamento, che è ciò che Chelsea offre; l'alternativa Tocco d'Atteggiamento Transitorio è più esatta e più pesante, e resta annotata per la revisione. Per functional cluster due ricerche in rete non hanno trovato una forma italiana consolidata della teoria di Tononi ed Edelman: aggregato funzionale è italiano trasparente e tiene uguali i due blocchi; il revisore del blocco 35 può riconsiderarlo se trova una forma standard.
 
 Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-55 Nessuna voce nuova dai termini del blocco 20, due voci precisate
+
+Decisione: la voce su headspace (G097) dice ora che nel blocco 20 (p01893) headspace è lo spazio fisico dentro il casco, reso spazio di testa, e che lì la segnalazione del controllo è un falso allarme. La voce sulla sindrome della mano aliena (G101) riconosce ora anche il plurale mani aliene. Nessuna voce nuova: dei termini proposti dal traduttore del blocco 20, quelli che tornano in altri blocchi hanno già la stessa resa ovunque (agnosie, mesencefalo, arteria, linea di vista), gli altri compaiono solo lì (disco di Festo, eminegligenza, sinistrità, romboencefalo, riflettore fibroso, mosche volanti, riciclatori, non-intuizioni) e restano la sua scelta.
+
+Motivazione: spazio mentale, la resa della voce, è lo spazio della mente e qui non avrebbe senso; spazio di testa è il termine della chimica italiana per l'headspace di un contenitore, e tiene la testa di Watts. Le due precisazioni evitano falsi allarmi nelle sessioni di revisione.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
