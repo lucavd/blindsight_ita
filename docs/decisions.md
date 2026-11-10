@@ -235,3 +235,11 @@ Decisione: quando il PI riapre la chat cloud della sessione sulla sorgente, il c
 Motivazione: con la conversazione svuotata e il modello giusto le ragioni di una chat nuova sono soddisfatte, e il ramo proprio conserva l'unione che il PI controlla. Alternative scartate dal PI: lavorare direttamente sul principale senza pull request, oppure fermarsi e aprire una chat nuova.
 
 Deciso da: PI. Data: 2026-11-10. Stato: valida.
+
+## D-28 Sintesi e Sintetista con la maiuscola dove Watts la usa
+
+Decisione: nella voce del glossario sul sintetista si aggiunge che sintesi e sintetista prendono la maiuscola dove Watts la usa a metà frase per la disciplina o come titolo (Synthesis nei blocchi 01 e 06, Synthesist come titolo nei blocchi 05 e 06), e restano minuscole altrove (synthesis minuscolo nei blocchi 12, 25 e 27). La resa resta quella decisa dal PI.
+
+Motivazione: il traduttore del blocco 01 ha proposto la maiuscola in «mi portò alla Sintesi», perché in minuscolo si leggerebbe la sintesi in generale e non la disciplina; revisore e redattore concordano. È lo stesso criterio delle voci su Umani e Realisti (maiuscola dove la usa Watts), e senza una regola i traduttori dei blocchi 05, 06 e 07 sceglierebbero ciascuno a modo suo.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
