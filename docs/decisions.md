@@ -163,3 +163,11 @@ Decisione: le sessioni proseguono in Claude Code nel cloud. Alla chiusura di ogn
 Motivazione: il PI vuole lanciare le sessioni dal telefono. Nel cloud ogni chat lavora su un ramo suo e la successiva parte dal ramo principale: senza unione la sessione successiva non vedrebbe il lavoro fatto e lo rifarebbe.
 
 Deciso da: PI. Data: 2026-11-10. Stato: valida.
+
+## D-19 La sessione sul glossario (S1) si fa nella chat di S0, su un ramo proprio
+
+Decisione: la sessione sul glossario, i personaggi, le epigrafi e la tipografia (S1) si svolge nella stessa chat cloud della sessione sulla sorgente (S0), dopo che il PI ne ha svuotato la conversazione e ha portato il modello a Opus 5.5, il modello previsto. Poiché il ramo di quella chat è il ramo principale, il lavoro di S1 sta sul ramo `sessione-S1`, creato dal principale; alla chiusura si apre la pull request da `sessione-S1` al principale, come vuole la decisione sul lavoro nel cloud con pull request (D-18). Vale solo per S1.
+
+Motivazione: la conversazione svuotata dà un contesto pulito e il modello è quello previsto, quindi le ragioni della regola su una sessione nuova sono soddisfatte; un ramo proprio conserva il passaggio di unione che il protocollo cloud prevede. Alternative scartate dal PI: lavorare direttamente sul principale senza pull request, oppure aprire una chat nuova e rilanciare l'esplorazione.
+
+Deciso da: PI. Data: 2026-11-10. Stato: valida.
