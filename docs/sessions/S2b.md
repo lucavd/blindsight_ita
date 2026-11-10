@@ -60,6 +60,48 @@ Il controllo sui blocchi della prova B, lanciato con `--save`, scriveva in `chec
 
 Il PI ha precisato durante il lavoro di non avere scaricato nessun EPUB: i due file del confronto gli si consegnano entrambi in questa chat.
 
+# Tempi misurati
+
+| blocco | passaggio | inizio | fine | minuti |
+|---|---|---|---|---|
+| 01 | traduttore | 10:43:12 | 10:49:50 | 6,6 |
+| 01 | revisore | 10:50:06 | 10:57:07 | 7,0 |
+| 01 | redattore | 10:57:39 | 11:02:31 | 4,9 |
+
+Orari UTC del 2026-11-10, prova B. Stessa convenzione del pilota: i minuti sono la durata del sotto-agente riportata dall'ambiente alla sua chiusura; la fine è l'ora di scrittura dell'ultimo file del passaggio, l'inizio è la fine meno la durata.
+
+# Segnalazioni spiegate
+
+| blocco | paragrafo | segnalazione | spiegazione o correzione |
+|---|---|---|---|
+| 01 | p00058 | glossario: pod, atteso capsula | Falso allarme, lo stesso del pilota. Pod people sono gli ultracorpi del film, non le capsule di ibernazione: resa «ultracorpi». |
+| 01 | p00060 | glossario: drum, atteso tamburo | Falso allarme, lo stesso del pilota. È il verbo to drum up, reso «mobilitare l'indignazione del quartiere»; non è il tamburo della nave. |
+
+# Termini proposti dai traduttori
+
+Valgono per la prova B. Se la prova B vince il confronto, i termini che tornano in altri blocchi si decidono al punto 5 della procedura, prima della chiusura; se perde, restano nei file della prova e non toccano il glossario.
+
+| blocco | termine | decisione |
+|---|---|---|
+| 01 | optimized, mongrel, polly, sandbox buddy, sentry, seizures, wiring e rewiring, algorithms, engineered superboys, radical hemispherectomy, krill, checklists | Parole comuni o usi singoli: restano le rese del traduttore, confermate dal revisore. Polly resta invariato in corsivo: è un insulto opaco anche in inglese. |
+| 01 | pod people | Ultracorpi, minuscolo, dalla voce del glossario sul soprannome di Siri. Nessuna voce nuova. |
+| 01 | gamespace | Spazio di gioco. Compare solo qui. |
+| 01 | playground | Parco giochi. Compare anche nel blocco 13: da uniformare al punto 5 se vince la prova B. |
+| 01 | Scramblers con la maiuscola a metà frase (p00062) | Il traduttore aveva tenuto la maiuscola della sorgente; revisore e redattore hanno applicato la minuscola del glossario. Nella sorgente la maiuscola a metà frase c'è solo qui (conteggio sui blocchi sorgente: 12 maiuscole, 11 a inizio frase o in un titolo; 74 minuscole). Serve una regola nel glossario: si scrive al punto 5, per non cambiare il glossario durante il confronto. |
+| 01 | tempo della narrazione | La guida di stile non ha una regola. La prova B usa il passato prossimo per la cornice (Siri che parla dalla bara) e il passato remoto per l'infanzia. È una scelta che vincola tutto il libro: entra nelle domande di lettura per il PI, e la scelta della versione vincente diventa regola della guida al punto 5. |
+
+# Esiti delle previsioni per blocco
+
+| blocco | quantità | valore | esito |
+|---|---|---|---|
+| 01 | rapporto di lunghezza mediano, prima stesura | 1,086 | confermata |
+| 01 | rapporto di lunghezza mediano, versione finale | 1,106 | confermata |
+| 01 | quota di paragrafi cambiati dal redattore | 0,278 (15 su 54) | confermata |
+| 01 | rilievi di gravità alta | 0 | confermata |
+| 01 | tempo di macchina, tre passaggi | 18,5 minuti | confermata |
+
+Rilievi della revisione sul blocco 01: 15 rilievi veri (2 medi, 13 bassi) più 30 righe di parere sui 29 dubbi del traduttore (2 medie, 28 basse). I medi: in p00013 «peculiare» era un falso amico di peculiar, ora «singolare»; in p00027 «Non ero estraneo agli scherni» ricalcava I was no stranger to e si poteva leggere come se Siri partecipasse agli scherni; in p00044 un imperfetto faceva di un'ipotesi un'abitudine; in p00062 la maiuscola di Scrambler. Il redattore ha accettato 14 rilievi veri su 15 e ne ha respinto 1, basso (p00059, «spremuto fuori» resta); dei 30 pareri ne ha accolti 29 (25 sono conferme senza modifica) e ne ha respinto 1 (p00064, «a farci visita» resta). Nessun intervento redazionale proprio.
+
 # In breve
 
 (da scrivere alla chiusura)
