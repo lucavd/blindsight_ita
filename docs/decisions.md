@@ -387,3 +387,11 @@ Decisione: entrano nel glossario, approvate dall'agente, tre voci per termini de
 Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Executive summary nei blocchi 33 e 35 è la tesi del libro sulla coscienza (Wegner thought it was an executive summary), quindi è un termine chiave e la resa spetta al PI.
 
 Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-47 Tre voci nuove del glossario dai termini del blocco 10
+
+Decisione: entrano nel glossario, approvate dall'agente, tre voci per termini del blocco 10 che tornano in altri blocchi: G167 pattern-matching (blocchi 06, 10, 11, 12, 13, 18, 24, 30, 40): riconoscimento di schemi, la resa del blocco 18 del pilota e del blocco 10; G168 Broadcast Age (blocchi 10 e 39): l'Era della Radiodiffusione; G169 omnisavantism e omnisavantic (blocchi 10 e 40): onnisavantismo, onnisavantico. Gli altri termini proposti compaiono solo nel blocco 10, oppure hanno una sola resa possibile (unità concettuali), oppure Watts li scrive altrove in minuscolo con il senso comune (right angles nei blocchi 06 e 40): restano la scelta del traduttore.
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Pattern-matching torna in nove blocchi e regge il discorso sulla stanza cinese (pattern-matching doesn't equal comprehension, blocco 11); il blocco 18, già rivisto, ha riconoscimento degli schemi e il blocco 10 riconoscimento di schemi. Nel blocco 06 pattern-matching receptors è il nome dell'immunologia, recettori per il riconoscimento di pattern, che la guida vuole nella forma standard della disciplina.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
