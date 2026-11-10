@@ -1,0 +1,76 @@
+pid	verdict	type	severity	problem	proposal
+p00003	issue	doubt	low	Dubbio 1 del traduttore: confermo «A Lisa», forma corrente delle dediche in italiano; «Per Lisa» sarebbe un calco di For. Nessuna modifica.	A Lisa
+p00004	ok
+p00013	issue	meaning	medium	Falso amico: peculiar qui vale strano, singolare; «peculiare» in italiano vuol dire caratteristico, proprio di qualcosa, e la stranezza si perde.	la singolare necessità di immaginare ciò che è, di fatto, reale
+p00013	issue	doubt	low	Dubbio 29 del traduttore (p00013-p00019): confermo i caporali per le epigrafi, coerenti con i dialoghi, e l'attribuzione con lineetta media e spazio come deciso dal PI. Nessuna modifica.	(invariato)
+p00014	ok
+p00015	issue	doubt	low	Dubbio 2 del traduttore: confermo il tu. Il you è generico e il singolare a dog regge solo con «Morirai come un cane»; il voi sposterebbe la frase verso il contesto dell'articolo, che l'epigrafe non mostra. Nessuna modifica.	«Morirai come un cane senza un buon motivo.»
+p00016	ok
+p00017	ok
+p00018	issue	doubt	low	Dubbio 3 del traduttore: confermo «fare i conti con il passato». È lessicalizzato, non porta un'immagine estranea e rende deal with meglio di «affrontare». Nessuna modifica.	Prova a fare i conti con il passato.
+p00019	ok
+p00020	issue	doubt	low	Dubbio 4 del traduttore (p00020, p00021, p00059, p00062, p00064): il passato prossimo per la cornice e il remoto per l'infanzia è una scelta difendibile e naturale in italiano, perché il narratore parla dal suo presente (I see that now). Va però portata al PI insieme ai blocchi successivi, e il confine va tenuto pulito: vedi il rilievo su p00062 (Crebbi in p00061 contro sono cresciuto, mi convinse dentro un paragrafo al prossimo). Nessuna modifica qui.	(invariato)
+p00020	issue	doubt	low	Dubbio 5 del traduttore: confermo «qui fuori». La lettura out here (ai margini del sistema solare, dove il narratore sta parlando) è la più probabile alla luce di p00062 e non esclude l'altra. Nessuna modifica.	Non è cominciato qui fuori.
+p00020	issue	register	low	Most people è neutro e colloquiale; «I più» alza il registro verso lo scritto colto.	La maggior parte della gente direbbe che è cominciato con le Lucciole, ma sbaglierebbe.
+p00021	ok
+p00022	issue	doubt	low	Dubbio 6 del traduttore: «La mia era dello sviluppo» è un po' rigido ma tiene la brevità e il parallelo con «La sua era genetica», e si capisce per analogia con disturbo dello sviluppo. Le alternative sono peggiori (evolutiva si legge come evoluzionistica). Confermo.	La mia era dello sviluppo.
+p00022	issue	doubt	low	Dubbio 7 del traduttore: accetto «genotipo incontrollato». «Non controllato» sarebbe altrettanto valido (nessuno lo ha verificato né corretto), ma non c'è motivo sufficiente per cambiare.	un genotipo incontrollato
+p00022	issue	doubt	low	Dubbio 8 del traduttore: confermo «reliquie novecentesche». Relic ha anche in inglese il senso sacro e l'eco con «credevano ancora in Dio» è un guadagno coerente con il testo; «relitti» la perderebbe.	Quelle poche reliquie novecentesche
+p00022	issue	doubt	low	Dubbio 9 del traduttore: confermo «l'opera delle Sue mani». Handiwork è parola biblica (Salmo 19) e la formula italiana corrispondente tiene il registro e la maiuscola di His.	l'opera delle Sue mani
+p00022	issue	nuance	low	Fellow outcasts dice un legame (compagni nella stessa condizione); «entrambi emarginati» constata solo che lo erano tutti e due.	Eravamo compagni di emarginazione, legati da sventure complementari.
+p00022	issue	meaning	low	Narcotics in inglese vale droghe, stupefacenti; «narcotici» in italiano è più stretto (sostanze che inducono sonno o torpore) e fa pensare ai farmaci.	a una suscettibilità agli stupefacenti
+p00023	issue	doubt	low	Dubbio 10 del traduttore: confermo *bastardo* e *polly* invariato. «Bastardino» è affettuoso, «meticcio» suona razziale; polly è opaco anche in inglese e una resa inventata aggiungerebbe un senso che il testo non dà. La perdita su mongrel è annotata correttamente.	dargli del *bastardo* e del *polly*
+p00023	issue	doubt	low	Dubbio 11 del traduttore (p00023, p00060): confermo «parco giochi», neutro come playground; «cortile» deciderebbe che è una scuola, e schoolyard di p00060 è generico (i reietti da cortile), non il luogo della scena. La resa è coerente nelle due occorrenze.	parco giochi
+p00024	ok
+p00025	ok
+p00026	ok
+p00027	issue	calque	medium	I was no stranger to the taunts ricalcato con «Non ero estraneo agli scherni»: in italiano essere estraneo a qualcosa vuol dire non averci parte, e la frase si può leggere come se Siri partecipasse agli scherni. Il senso è che li conosceva bene per averli subiti.	Scherni e insulti non mi erano estranei, e nemmeno il piede che spunta dal nulla per farti lo sgambetto mentre vai da A a B.
+p00027	issue	doubt	low	Dubbio 12 del traduttore: confermo «crisi». È il termine clinico, adatto alla voce di Siri, e non anticipa l'epilessia nominata in p00054-p00055; «convulsioni» restringerebbe il senso di seizures.	le mie crisi
+p00028	ok
+p00029	ok
+p00030	ok
+p00031	ok
+p00032	issue	nuance	low	Audibly crunched è un rumore secco e brutale di ossa che cedono; «scricchiolio» in italiano è un rumore lieve (una porta, un pavimento) e attenua. Meglio tenere il verbo sonoro.	si prese in faccia un colpo che gli fece scrocchiare udibilmente le ossa della guancia
+p00033	issue	calque	low	Over his shoulder reso alla lettera con «da sopra la spalla»: calco diffuso nelle traduzioni, ma in italiano l'immagine è quella di chi grida voltando la testa mentre corre.	gridò «*Zombie del cazzo!*» voltando la testa mentre spariva dietro l'angolo
+p00034	ok
+p00035	issue	doubt	low	Dubbio 13 del traduttore: confermo «menai un colpo», che lascia aperto se il colpo arriva, come swung; subito dopo Pag si scansa, quindi «colpii» sarebbe sbagliato. La perdita del pronome it (finché non smise di muoversi) è inevitabile e annotata.	menai un colpo senza pensare
+p00036	ok
+p00037	ok
+p00038	issue	rhythm	low	Unheeded reso con «ignorato» tra due virgole: l'inciso spezza la frase e in italiano suona da participio appeso. La stessa informazione entra in una subordinata breve.	Il sangue gli scorreva dal naso senza che ci badasse e gli schizzava giù per la maglietta.
+p00039	ok
+p00040	issue	doubt	low	Dubbio 14 del traduttore: confermo «tu *mai*...». Il frammento senza verbo rende il balbettio di Pag e non decide un verbo che l'inglese non dice.	«Oh *merda*, tu – cioè, tu *mai*...»
+p00041	ok
+p00042	ok
+p00043	ok
+p00044	issue	doubt	medium	Dubbio 15 del traduttore: non confermo l'imperfetto. You'da never done that è un controfattuale (prima dell'operazione non l'avresti mai fatto); «non la facevi mai» si legge soprattutto come abitudine passata e sposta il senso. La dislocazione basta a dare il parlato infantile; il condizionale tiene il controfattuale.	«Prima una cosa così non l'avresti *mai* fatta», disse Pag.
+p00045	ok
+p00046	issue	nuance	low	Then è temporale (in quel momento); «Allora» in apertura di frase si legge prima di tutto come connettivo conclusivo (dunque).	In quel momento provai davvero qualcosa – debole, distante, ma inconfondibile.
+p00047	issue	doubt	low	Dubbio 16 del traduttore: confermo «Mettilo *giù*!». Il pronome resta indeterminato come that fino a p00049 e il maschile si accorda con il sasso; «quel coso» aggiungerebbe una parola.	Mettilo *giù*!
+p00047	issue	addition	low	«Ma» in apertura di battuta non è nell'inglese (guida, sezione 2, punto 2); inoltre il progressivo are you doing con enfasi regge bene in italiano.	«Cosa stai *facendo*? Mettilo *giù*!»
+p00048	ok
+p00049	ok
+p00050	issue	doubt	low	Dubbio 17 del traduttore: preferisco evitare «dare una mano». È un modo di dire che porta l'immagine della mano subito dopo i pugni alzati, le mani fissate e il sasso insanguinato di p00048-p00049: un'eco macabra che l'inglese non ha (guida, sezione 5, punto 6). «Aiutare» senza oggetto regge e resta piatto come I was trying to help.	«Cercavo di aiutare.»
+p00051	ok
+p00052	ok
+p00053	ok
+p00054	ok
+p00055	issue	doubt	low	Dubbio 18 del traduttore: confermo l'indicativo «Credi che non lo so?», coerente con il parlato sgrammaticato di Pag indicato nella scheda dei personaggi.	Credi che non lo so?
+p00055	issue	doubt	low	Dubbio 19 del traduttore: confermo «assassinato». Murdered accusa i genitori di un delitto, non solo di una morte; «ammazzato» sarebbe più infantile ma perderebbe lo scarto rispetto a died e killed.	ti hanno *assassinato*–
+p00056	issue	doubt	low	Dubbio 20 del traduttore: accetto «improvvisamente quieto», che tiene insieme calma e voce bassa. È appena più letterario di quiet, ma «di colpo a bassa voce» sceglierebbe un solo senso.	dissi, improvvisamente quieto,
+p00057	issue	doubt	low	Dubbio 21 del traduttore: confermo il corsivo sull'ausiliare («Secondo me *sei* morto»), che risponde al «Sarei *morto*» di p00056 con lo stesso meccanismo di did die.	«Secondo me *sei* morto»
+p00057	issue	calque	low	Scooped him out ricalcato con «scavato fuori», che in italiano non si dice; l'immagine è quella di svuotare con un cucchiaio. Anche in bocca a un bambino serve un verbo che esista.	l'hanno cavato fuori e l'hanno buttato via
+p00058	ok
+p00059	issue	doubt	low	Dubbio 22 del traduttore: confermo «quanto fosse difficile adattarsi», che non dice chi dovesse adattarsi, come l'inglese.	quanto fosse difficile adattarsi
+p00059	issue	doubt	low	Dubbio 23 del traduttore: confermo «coprire i vuoti» per take up the slack; «compensare» sarebbe più clinico e perderebbe il tono colloquiale del passo.	mentre cercava di coprire i vuoti
+p00059	issue	omission	low	Used to occupy segna che l'occupante di prima non c'è più; «occupava» da solo perde l'idea di un tempo concluso.	sono una persona diversa da quella che un tempo occupava questo corpo
+p00059	issue	calque	low	Squeezed out ricalcato con «spremuto fuori»: il senso è schiacciato via, espulso per mancanza di spazio, non spremuto come un succo.	tutto quello che dev'essere stato schiacciato via, deformato, *rimodellato*
+p00060	issue	doubt	low	Dubbio 24 del traduttore: confermo «Furono elargite cure mediche». Medicine qui è l'assistenza e bestowed è solenne e ironico: «elargite» tiene il tono, e il passivo ellittico che segue (chiamate ambulanze) rispetta il ritmo.	Furono elargite cure mediche, chiamate ambulanze.
+p00060	issue	rhythm	low	«Reietti da cortile di scuola» accumula due complementi senza articolo e inciampa; la forma con gli articoli scorre e dice lo stesso.	aperte ai reietti del cortile della scuola che non restano uniti
+p00061	ok
+p00062	issue	doubt	medium	Dubbio 25 del traduttore: non confermo la maiuscola. La voce del glossario è approvata con la minuscola (lo scrambler, gli scrambler), in p00020 dello stesso blocco la sorgente scrive scramblers minuscolo, e una sola maiuscola a metà frase si leggerebbe in italiano come un refuso. Se il PI la ritiene voluta, la decisione è sua.	al nostro disastroso incontro con gli scrambler
+p00062	issue	doubt	low	Dubbio 26 del traduttore: confermo «il destino peggiore... O quello migliore». Tiene l'eco fated/fate e lascia aperta l'ambiguità chiesta nei passi difficili; la possibile lettura superlativa di «peggiore» è corretta subito dal «quello migliore» che segue.	mi ha risparmiato il destino peggiore che sta toccando alla Terra. O quello migliore
+p00062	issue	doubt	low	Dubbio 27 del traduttore: confermo «un qualche amico pestato a sangue», che tiene la presa di distanza di some.	un qualche amico pestato a sangue
+p00062	issue	doubt	low	Dubbio 4 del traduttore, caso di confine: nel paragrafo, tutto al passato prossimo, resta un passato remoto («mi convinse»), e «sono cresciuto» segue a una riga di distanza il «Crebbi» di p00061. Il secondo scarto è la conseguenza voluta della regola (qui si parla del risultato presente) e si può tenere; il primo conviene uniformarlo dentro il paragrafo.	da quando un qualche amico pestato a sangue su un campo di battaglia dell'infanzia mi ha convinto a buttare via il mio punto di vista
+p00062	issue	rhythm	low	Blind, talking to myself, trapped sono tre apposizioni in fila; «mentre parlo da solo» inserisce una subordinata che rompe la serie.	adesso lo vedo, cieco, parlando da solo, intrappolato in una bara che cade oltre il margine del sistema solare
+p00063	ok
+p00064	issue	doubt	low	Dubbio 28 del traduttore: «a farci visita» è naturale, ma il «ci» non è nell'inglese e si evita senza sforzo; «in visita» sarebbe più burocratico.	quando gli alieni veri sono venuti a far visita
