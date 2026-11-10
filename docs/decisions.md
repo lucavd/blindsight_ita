@@ -83,3 +83,19 @@ Decisione: la sessione che scarica la sorgente e la divide in blocchi (S0) si es
 Motivazione: S0 non scrive una riga di italiano (scarica, divide, conta), quindi il modello non può cambiare la voce della traduzione, che è la ragione della regola. Il costo è un consumo maggiore dei limiti d'uso rispetto a Sonnet.
 
 Deciso da: PI. Data: 2026-11-09. Stato: valida.
+
+## D-10 Lavoro nel cloud: push a ogni commit, ambiente dedicato, EPUB consegnato come file
+
+Decisione: quando una sessione gira in Claude Code nel cloud, e non sul Mac o sul server, valgono quattro adattamenti. A ogni commit segue un push sul ramo della sessione. Le sessioni si aprono nell'ambiente cloud `blindsight_ita`, che consente la rete verso `www.rifters.com` e `rifters.com` e installa epubcheck all'avvio. Il modello si sceglie nell'app al momento di aprire la sessione, perché il comando `claude --model ...` del README vale solo in locale. Gli EPUB, che non sono versionati, si consegnano al PI come file alla chiusura della sessione che li produce.
+
+Motivazione: il contenitore cloud è temporaneo e ciò che non è sul repository si perde; l'ambiente predefinito non raggiunge il sito dell'autore e non ha epubcheck. L'ambiente è stato proposto dall'agente e approvato dal PI. Lo script di avvio è stato provato a mano in questa sessione ma non ancora in una sessione nuova.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.
+
+## D-11 Sorgente dalla copia dell'Internet Archive se il sito dell'autore non risponde
+
+Decisione: se la pagina non si riesce a scaricare da rifters.com, si usa la copia grezza della stessa pagina conservata dall'Internet Archive (`web.archive.org`, con la forma dell'indirizzo che restituisce i byte originali senza la barra dell'archivio). Nel registro si annotano l'indirizzo completo e la data della cattura.
+
+Motivazione: dall'ambiente cloud la connessione a rifters.com cade prima di ricevere dati; la copia d'archivio è la stessa pagina a una data nota. Limite dichiarato al PI: dall'ambiente cloud non si può verificare che la cattura sia identica alla pagina di oggi.
+
+Deciso da: PI. Data: 2026-11-10. Stato: valida, non ancora eseguita (l'host dell'archivio non è consentito dalla rete dell'ambiente: vedi il registro delle modifiche alla stessa data).
