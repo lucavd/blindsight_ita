@@ -1,0 +1,207 @@
+pid	verdict	type	severity	problem	proposal
+p01633	issue	doubt	low	Dubbio 1: d'accordo con il parallelismo ripetuto, che è il meccanismo del proverbio. Unico rischio: «corrono per la vita» può leggersi anche come «per tutta la vita»; il contesto della preda lo scioglie abbastanza, si può tenere.	«I predatori corrono per la cena. Le prede corrono per la vita.»
+p01634	issue	doubt	low	Dubbio 2: d'accordo con «Vecchio proverbio degli ecologi», lettura più probabile; la forma dell'attribuzione è uniforme con il blocco 01.	– Vecchio proverbio degli ecologi
+p01635	issue	doubt	low	Dubbio 3: «i sussurratori» va bene e tiene la personificazione. Il blocco 16 non è ancora tradotto: la resa di whisper in p01513 andrà allineata a questa (o viceversa) nella revisione di coerenza.	i sussurratori
+p01636	ok
+p01637	ok
+p01638	ok
+p01639	ok
+p01640	ok
+p01641	ok
+p01642	issue	doubt	low	Dubbio 4: d'accordo, «sono una donna morta» tiene il figurato con la parola morta e fa scattare il contrasto con «morta adesso».	*sono una donna morta*
+p01643	issue	doubt	low	Dubbio 5: d'accordo con «follia», che regge il senso clinico ripreso da «Definisci follia» in p01644.	«È una follia, eh?»
+p01644	ok
+p01645	issue	nuance	medium	«guancia a guancia» in italiano evoca il ballo o l'intimità, mentre cheek-to-jowl vale solo «pigiati, stretti»; inoltre «con lui» aggiunge un complemento che l'inglese non ha.	La Banda galleggiava in silenzio dietro Szpindel, pigiata gomito a gomito nell'angusto riparo.
+p01646	ok
+p01647	ok
+p01648	issue	doubt	low	Dubbio 6: in italiano la virgola dopo la battuta chiama un verbo di dire; davanti a un verbo d'azione si legge come un refuso. Meglio il punto (la virgola della sorgente è un refuso di punteggiatura, non un tratto di voce).	«Cazzo.» Szpindel allungò la mano
+p01649	issue	doubt	low	Dubbio 7: d'accordo su pod = capsula dei sensori di p01542 e su «A ore otto». «dei sensori» è un'esplicitazione che qui l'inglese non fa; la si può tenere perché in questo blocco «capsula» è anche quella medica, ma è il limite di ciò che è ammesso.	in corrispondenza della capsula dei sensori dall'altro lato
+p01650	issue	doubt	low	Dubbi 8 e 9: d'accordo, transient è aggettivo fisico (non l'orca del glossario) e tesla va minuscolo e invariabile.	cinque tesla; fronte transitorio di bassa pressione
+p01651	ok
+p01652	ok
+p01653	ok
+p01654	issue	doubt	low	Dubbio 10: d'accordo con «spastico», stessa forza e stessa origine di spaz; «imbranato» attenuerebbe.	molto meno spastico
+p01655	ok
+p01656	issue	doubt	low	Dubbio 11: il corsivo su «Visione» è giusto, cade sulla parte che cambia come sight. Manca però l'articolo che c'è nella battuta precedente («Non è stato il caso cieco») e nell'esempio visto dal PI («Non il caso cieco»): senza articolo l'eco suona meno naturale.	«Non il caso cieco. *Visione* cieca. Amanda? Rispondi, per favore.»
+p01657	ok
+p01658	ok
+p01659	ok
+p01660	ok
+p01661	ok
+p01662	ok
+p01663	ok
+p01664	issue	doubt	low	Dubbio 12: d'accordo con la normalizzazione dei puntini irregolari a tre (vale anche per p01672, p01674, p01829).	«...no...»
+p01665	ok
+p01666	ok
+p01667	ok
+p01668	ok
+p01669	ok
+p01670	issue	doubt	low	Dubbio 13: d'accordo con piombo (schermatura delle tute), perdita dell'allitterazione annotata. Dubbio 14: «a una velocità di tre cifre in baud» è macchinoso; three-digit baud rate vale «qualche centinaio di baud», che è esatto e scorre.	trasmessa attraverso arti e piombo a qualche centinaio di baud
+p01671	ok
+p01672	issue	doubt	low	Dubbio 12: d'accordo, tolto il punto finale in più della sorgente.	«...No...»
+p01673	issue	addition	low	«sotto» specifica una posizione che pinned by something non dice (bloccata contro, sotto, da).	Sei bloccata da qualcosa?
+p01674	issue	doubt	low	Dubbio 12: d'accordo, puntini normalizzati a tre.	«...N–no.»
+p01675	ok
+p01676	issue	doubt	low	Dubbio 15: d'accordo con «scotta», che tiene la metafora del calore radioattivo senza scioglierla.	Là fuori scotta troppo, maledizione
+p01677	ok
+p01678	ok
+p01679	ok
+p01680	ok
+p01681	ok
+p01682	ok
+p01683	ok
+p01684	ok
+p01685	ok
+p01686	ok
+p01687	issue	doubt	low	Dubbio 16: d'accordo con «Non sono niente», l'unica forma naturale.	«Non sono niente.»
+p01687	issue	typography	low	La balbettata N...nothing non ha spazio dopo i puntini e in p01674 «N–no» è attaccato: lo spazio stacca la sillaba dalla parola e sembra una pausa, non un inciampo.	«N...niente.»
+p01688	ok
+p01689	ok
+p01690	ok
+p01691	ok
+p01692	ok
+p01693	ok
+p01694	ok
+p01695	issue	calque	low	«Ha già passato la cresta» ricalca crested e in italiano non si dice di un picco; serve un verbo che dica che il massimo è passato.	Ha già toccato il culmine, commissario.
+p01696	ok
+p01697	issue	doubt	low	Dubbio 17: d'accordo con «nel suo stato attu–».	nel suo stato attu–
+p01698	ok
+p01699	ok
+p01700	ok
+p01701	ok
+p01702	ok
+p01703	ok
+p01704	issue	doubt	low	Dubbio 18: d'accordo, il pronome espresso regge la pausa prima del verbo.	«Tu– esisti?»
+p01705	ok
+p01706	issue	doubt	low	Dubbio 19: d'accordo con «interrompere».	Forse dovremmo interrompere, maggiore.
+p01706	issue	calque	low	«Deglutì in modo udibile» ricalca swallowed audibly; in italiano si rende con l'avverbio o con la percezione.	Deglutì rumorosamente.
+p01707	issue	doubt	low	Dubbio 20: d'accordo con «verifiche a terra», chiaro e nel registro operativo di Bates.	fare le nostre verifiche a terra
+p01708	issue	rhythm	low	«non dovrebbe esserci da preoccuparsi di» è contorto; la costruzione personale scorre meglio e tiene il soggetto noi dell'inglese.	Ma non dovremmo doverci preoccupare di – effetti estremi – finché non arriva un altro picco.
+p01709	ok
+p01710	ok
+p01711	ok
+p01712	ok
+p01713	ok
+p01714	issue	doubt	low	Perdita 4: d'accordo, «rispondergli» tiene la replica e perde l'insolenza; non c'è un verbo che tenga entrambe senza forzare.	imparare a rispondergli
+p01715	ok
+p01717	issue	omission	high	Manca forlorn: «magnetometri abbandonati a morire» rende solo left to die, l'aggettivo che dà pietà agli strumenti è caduto.	magnetometri derelitti lasciati a morire nella tenue speranza che non morissero
+p01717	issue	meaning	medium	in thirty-six hours vale «tra trentasei ore» (un appuntamento), non «entro» (un limite massimo).	promettemmo di tornare tra trentasei ore, se fossimo vissuti abbastanza
+p01717	issue	doubt	low	Dubbi 21, 22, 23: d'accordo con pirometri (la motivazione regge), con «campane da palombaro» (da allineare al blocco 16 quando sarà tradotto) e con «villa infestata».	Rozzi pirometri; campane da palombaro; villa infestata
+p01718	ok
+p01719	issue	omission	medium	Manca all di we would all be vomiting: la frase dice che toccherà a tutti, non solo a Siri e Michelle.	Senza un intervento avremmo vomitato tutti anche le budella per i due giorni successivi.
+p01720	issue	rhythm	low	«se un qualche Dio era misericordioso» stona con i condizionali del periodo; il congiuntivo regge meglio l'ipotesi.	e se un qualche Dio fosse stato misericordioso saremmo morti prima di spaccarci come frutta marcia
+p01721	issue	doubt	low	Dubbio 24 e perdita 5: d'accordo con «i Morti Volanti», con le maiuscole di Watts.	i Morti Volanti in formazione
+p01722	ok
+p01723	issue	nuance	low	Dubbio 25: la ricostruzione regge, ma «Che sarei mai rinato» si legge a fatica: senza negazione, «mai» per «ever» suona letterario e per un attimo fa pensare a «non sarei mai». Meglio un avverbio piano.	Che sarei rinato, un giorno, me lo garantivano soltanto la teoria e le rassicurazioni di altri macchinari come me.
+p01725	ok
+p01726	issue	nuance	low	drifted dice voci che arrivano alla deriva, appena percepibili; «arrivavano» lo appiattisce.	Voci deboli fluttuavano verso prua dal tamburo.
+p01727	ok
+p01728	issue	doubt	low	Dubbio 26: d'accordo con «assottigliato»; «attenuato» sarebbe un falso amico e «affusolato» ha un valore positivo.	troppo *assottigliato*
+p01729	ok
+p01730	issue	register	low	«Eruppi» per una persona suona goffo in italiano; erupted è figurato ma naturale in inglese. Dubbio su note-taker: d'accordo con «prendiappunti».	Schizzai fuori dalla capsula, con gli occhi dappertutto.
+p01731	ok
+p01732	ok
+p01733	ok
+p01734	issue	nuance	medium	«con James in cima» detto di un corpo seduto su una poltrona si legge come posizione fisica; James on top vale la personalità che ha il controllo. Dubbio 27: d'accordo con il plurale «sedevano».	con James in primo piano, sedevano su una poltrona diagnostica
+p01735	ok
+p01736	ok
+p01737	ok
+p01738	ok
+p01739	ok
+p01740	issue	addition	low	«sfiancante fatica di startene sdraiato» aggiunge «fatica» e diluisce il paradosso di exhausting lying around.	dopo tutto quello sfiancante startene sdraiato, eh?
+p01741	issue	calque	medium	«residua schiava dell'attacco o fuga» ricalca residual thrall in un accordo che in italiano non regge (residua riferito alla metà della mente). Dubbio 28: d'accordo con «attacco o fuga» e con «mezza mente».	l'altra tremava ancora, schiava di ciò che restava dell'attacco o fuga
+p01742	ok
+p01743	ok
+p01744	ok
+p01745	ok
+p01746	issue	omission	low	Manca own di Susan's own pattern-matching wetware (il suo stesso hardware biologico, contrapposto alla macchina di Szpindel). Termine proposto wetware: d'accordo, tondo. Dubbio 29: d'accordo con «fatto col culo».	Il wetware di riconoscimento degli schemi della stessa Susan
+p01747	ok
+p01748	ok
+p01749	issue	doubt	low	Dubbio 30: d'accordo con «pentagrammi», il contesto esclude il rigo musicale.	pentagrammi asimmetrici intrecciati
+p01750	ok
+p01751	ok
+p01752	ok
+p01753	ok
+p01754	ok
+p01755	ok
+p01756	ok
+p01757	ok
+p01758	issue	doubt	low	Dubbio 31: d'accordo con il maschile generico.	Nessuno di noi
+p01759	ok
+p01760	issue	rhythm	low	«roba tremolante con la coda dell'occhio» lega il complemento al nome invece che al vedere e suona come una roba dotata di occhio.	Non quella roba tremolante ai margini dello sguardo che vedevamo dappertutto.
+p01761	issue	nuance	low	«pasticciata» per messy è debole e un po' comico; si parla di ottica imperfetta.	non c'è l'ottica approssimativa del bulbo oculare a limitare la risoluzione
+p01762	ok
+p01763	ok
+p01764	ok
+p01765	ok
+p01766	ok
+p01767	ok
+p01768	ok
+p01769	issue	doubt	low	Dubbio 32: d'accordo con «campione umido».	il campione umido
+p01770	ok
+p01771	issue	doubt	low	Dubbio 33: d'accordo, «nel ret» tiene l'opacità; sciogliere sarebbe chiarire Watts.	nel ret. Gnam.
+p01772	ok
+p01773	ok
+p01774	ok
+p01775	ok
+p01776	ok
+p01777	ok
+p01778	ok
+p01779	ok
+p01780	ok
+p01781	ok
+p01782	issue	calque	low	«sei nei rendimenti decrescenti» ricalca you're into diminishing returns.	entri nella zona dei rendimenti decrescenti
+p01783	ok
+p01784	ok
+p01785	ok
+p01786	ok
+p01787	ok
+p01788	ok
+p01789	ok
+p01790	issue	doubt	low	Dubbio 34: d'accordo con «un TAT», al maschile come ritocco.	Non hai mai fatto un TAT?
+p01791	ok
+p01792	ok
+p01793	ok
+p01794	issue	typo	low	«Non ultima il fatto che» ha un accordo sbagliato: con il fatto serve il maschile.	Non ultimo il fatto che, do per scontato, continueremo a *tornarci*
+p01795	ok
+p01796	issue	doubt	low	Dubbio 35: d'accordo con «stronzo».	*quello* stronzo
+p01797	ok
+p01798	issue	doubt	low	Dubbio 36: d'accordo, virgoletta spaiata della sorgente corretta.	«Tipo cosa?»
+p01799	ok
+p01800	ok
+p01801	ok
+p01802	ok
+p01803	ok
+p01804	issue	addition	low	«un po'» non c'è in I've just been—jumpy; e «ci ho messo a fuoco lo sguardo» è contorto per focused on it. Dubbio 37: d'accordo con «fascio spinale».	È solo che ultimamente sono stato– nervoso. [...] ed è sparito appena l'ho messo a fuoco.
+p01805	ok
+p01806	issue	nuance	low	If it was anything at all insiste sul dubbio che ci fosse qualcosa; «Se era qualcosa» lo appiattisce.	Ammesso che fosse qualcosa, probabilmente era solo la palla di gomma di Amanda
+p01807	ok
+p01808	ok
+p01809	ok
+p01810	ok
+p01811	ok
+p01812	issue	omission	low	Manca possibly, che rafforza l'incredulità.	«Come– come ha mai potuto credere di non *esistere* nemmeno?»
+p01813	ok
+p01814	ok
+p01815	ok
+p01816	ok
+p01817	issue	doubt	low	Dubbio 38 e termine Damascus Disease: d'accordo con «Sindrome di Cotard, di Anton, malattia di Damasco».	Sindrome di Cotard, di Anton, malattia di Damasco.
+p01818	ok
+p01819	ok
+p01820	ok
+p01821	ok
+p01822	issue	doubt	low	Dubbio 39: d'accordo con «il gioco dei mimi».	fa il gioco dei mimi con un'altra
+p01823	ok
+p01824	ok
+p01825	ok
+p01826	ok
+p01827	ok
+p01828	issue	doubt	low	Perdita 8: d'accordo, «marine» perde lo spregio di jarhead ma un equivalente gergale italiano porterebbe un'immagine estranea.	io non sono un marine
+p01829	issue	doubt	low	Dubbio 12: d'accordo, puntini normalizzati a tre. Da verificare che la citazione coincida con la resa di «I'm more of a safety precaution» nel blocco 13 quando sarà tradotto.	*Sono più che altro una misura di sicurezza...*
+p01830	ok
+p01831	issue	nuance	medium	«Mandy mi va benone» si legge come assenso al nome (Siri ha appena detto Amanda), non come «Mandy mi piace»; «Bel mammifero» sposta nice sull'aspetto fisico. Dubbio 40: la perdita della sintassi tronca resta, ma il senso va prima.	«Mandy mi piace, benone. Mammifero simpatico.
+p01832	ok
+p01833	issue	meaning	high	how many accidental wars we might have prevented vale «quante guerre abbiamo forse evitato» grazie all'ultima parola umana; «avremmo potuto evitare» rovescia il senso in un controfattuale (guerre che non abbiamo evitato) e rompe la contrapposizione con le guerre scatenate.	e su quante guerre accidentali potremmo aver evitato perché un essere umano aveva l'ultima parola
+p01833	issue	doubt	low	Dubbio 41: d'accordo, il punto e virgola dopo commissario regge.	Ma è buffo, commissario; nessuno parla
+p01834	ok
+p01835	ok
