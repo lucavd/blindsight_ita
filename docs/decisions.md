@@ -171,3 +171,11 @@ Decisione: la sessione sul glossario, i personaggi, le epigrafi e la tipografia 
 Motivazione: la conversazione svuotata dà un contesto pulito e il modello è quello previsto, quindi le ragioni della regola su una sessione nuova sono soddisfatte; un ramo proprio conserva il passaggio di unione che il protocollo cloud prevede. Alternative scartate dal PI: lavorare direttamente sul principale senza pull request, oppure aprire una chat nuova e rilanciare l'esplorazione.
 
 Deciso da: PI. Data: 2026-11-10. Stato: valida.
+
+## D-20 Cancello sulle epigrafi che restano in inglese
+
+Decisione: il controllo di un blocco tradotto (`check`) confronta i segnaposto con `docs/epigraphs.tsv`. Il cancello fallisce in due casi: un paragrafo che l'elenco delle epigrafi segna `original` non contiene il solo segnaposto `[[ORIGINALE]]`; un paragrafo contiene il segnaposto ma l'elenco non lo segna `original`. Il collaudo ha due casi nuovi, uno per errore (ora i controlli sono 41).
+
+Motivazione: prima il controllo verificava solo che il segnaposto fosse scritto bene, non che stesse nei paragrafi giusti. Senza questo cancello un traduttore avrebbe potuto riscrivere i versi di una canzone di un autore reale, o lasciare in inglese un'epigrafe da tradurre, senza che nessuno script lo vedesse; è la regola sui testi di terzi del protocollo.
+
+Deciso da: agente. Data: 2026-11-10. Stato: valida.

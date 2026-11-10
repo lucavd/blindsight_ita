@@ -102,6 +102,7 @@ def paths(root):
         "build": root / "build",
         "epub": root / "epub",
         "glossary": root / "docs" / "glossary.tsv",
+        "epigraphs": root / "docs" / "epigraphs.tsv",
         "config": root / "tools" / "config.json",
         "comparison": root / "comparison",
     }
@@ -706,6 +707,25 @@ def load_glossary(p):
     return rows
 
 
+def load_epigraph_decisions(p):
+    """pid -> decision from docs/epigraphs.tsv; None if the file does not exist."""
+    path = p["epigraphs"]
+    if not path.exists():
+        return None
+    lines = path.read_text(encoding="utf-8").splitlines()
+    if not lines:
+        return {}
+    head = lines[0].split("\t")
+    if "pid" not in head or "decision" not in head:
+        die("docs/epigraphs.tsv: mancano le colonne pid e decision")
+    out = {}
+    for line in lines[1:]:
+        if line.strip():
+            row = dict(zip(head, line.split("\t")))
+            out[row["pid"].strip()] = row.get("decision", "").strip()
+    return out
+
+
 def check_chunk(p, cid, stage, cfg, glossary, translation_dir=None):
     src_pars, src_err = parse_chunk_file(p["chunks"] / (cid + ".md"))
     tdir = Path(translation_dir) if translation_dir else p[stage]
@@ -746,6 +766,8 @@ def check_chunk(p, cid, stage, cfg, glossary, translation_dir=None):
     tgt_map = {a: (b, c) for a, b, c in tgt_pars}
     empty, scene, forb, placeholder_bad = [], [], [], []
     placeholders, ratios, ratio_out, english, gloss_miss = [], [], [], [], []
+    epi = load_epigraph_decisions(p)
+    epi_bad = []
     emph, identical = [], []
     forbidden = cfg.get("forbidden_chars", {})
     eng_words = set(cfg.get("english_markers", []))
@@ -765,7 +787,12 @@ def check_chunk(p, cid, stage, cfg, glossary, translation_dir=None):
             continue
         if tmd.strip() == PLACEHOLDER:
             placeholders.append(pid)
+            if epi is not None and epi.get(pid) != "original":
+                epi_bad.append("%s: segnaposto, ma in docs/epigraphs.tsv la decisione è %s"
+                               % (pid, epi.get(pid) or "assente"))
             continue
+        if epi is not None and epi.get(pid) == "original":
+            epi_bad.append("%s: decisione original in docs/epigraphs.tsv, manca il segnaposto" % pid)
         if PLACEHOLDER in tmd:
             placeholder_bad.append(pid)
         for ch, label in forbidden.items():
@@ -794,6 +821,7 @@ def check_chunk(p, cid, stage, cfg, glossary, translation_dir=None):
     gates["scene_breaks"] = scene
     gates["forbidden_chars"] = forb
     gates["placeholder_misuse"] = placeholder_bad
+    gates["epigraph_decisions"] = epi_bad
     flags["ratio_out_of_bounds"] = ratio_out
     flags["english_residue"] = english
     flags["glossary_misses"] = gloss_miss
