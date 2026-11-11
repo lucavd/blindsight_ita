@@ -531,3 +531,11 @@ Decisione: la voce sul motto sopravvivere e testimoniare (G093) dice ora che bea
 Motivazione: Watts usa bear witness per la squadra con ironia, sullo sfondo del motto di Siri; testimone tiene la radice e quindi l'eco, mentre l'espressione di ricerca precedente accettava solo testimoniare e testimoni e segnalava come errore una resa giusta. Le facce di un solido non sono sfaccettature in italiano.
 
 Deciso da: agente. Data: 2026-11-11. Stato: valida.
+
+## D-65 Una voce nuova del glossario dai termini del blocco 30, e la ricerca dei nuclei di James ristretta
+
+Decisione: entra nel glossario, approvata dall'agente, G190 emplacement e gun emplacement (blocchi 30, 36, 37): postazione, postazioni di tiro, la resa del traduttore. La voce sui nuclei di James (G083) non cerca più core-sampler (blocco 30, p02782, il carotatore). Gli altri termini proposti dal traduttore del blocco 30 compaiono solo lì (bow shock, onda d'urto; wavefront; core-sampler; blindtouch e le altre coniazioni sul modello della visione cieca; pidgin; quantum modules; Arrhenius equation; substrate stockpiles), oppure tornano in un altro blocco in un senso che può essere diverso (holding pattern, circuito d'attesa, nel blocco 35), oppure sono già regolati dalla guida (watt minuscolo): restano la sua scelta.
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi; postazioni torna nei blocchi 36 e 37 per le stesse armi. Il carotatore non ha a che fare con le personalità di James, e l'espressione di ricerca precedente lo segnalava come errore.
+
+Deciso da: agente. Data: 2026-11-11. Stato: valida.
