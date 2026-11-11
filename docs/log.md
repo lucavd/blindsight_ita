@@ -8,6 +8,10 @@ generated:
   at: "2026-11-09T23:30:00+01:00"
 ---
 
+## 2026-11-11
+
+Aperta la terza sessione di traduzione (T3) sui blocchi dal 23 al 34, con Opus 5.5, nella chat cloud svuotata e sul ramo `sessione-T3` (decisione sulla chat cloud riaperta, D-27). Sorgente integra (50 file), epubcheck 4.2.6 presente, nessuna pull request aperta, lavoro della seconda sessione di traduzione già unito nel ramo principale.
+
 ## 2026-11-10
 
 La seconda sessione di traduzione (T2) è chiusa. Il PI ha accettato le due raccomandazioni: «Scosse la loro testa» per il their di Susan nel blocco 16, con la scheda dei personaggi aggiornata, e la prigioniera al femminile dalla prima riga nel blocco 19 (decisione sulle scelte di T2, D-57). Le due scelte sono nei dubbi ricevuti della terza sessione di revisione. Prossima sessione: la terza di traduzione (T3), con Opus 5.5.
