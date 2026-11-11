@@ -555,3 +555,11 @@ Decisione: entra nel glossario, approvata dall'agente, G191 fitness nel senso de
 Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi; fitness torna in tre blocchi non ancora tradotti, nel discorso sulla selezione naturale, e l'alternativa idoneità esiste. Fitness è il termine usato dalla biologia evolutiva italiana e non tocca il senso.
 
 Deciso da: agente. Data: 2026-11-11. Stato: valida.
+
+## D-68 Due voci nuove del glossario dai termini del blocco 33
+
+Decisione: entrano nel glossario, approvate dall'agente, due voci per termini del blocco 33 che tornano in altri blocchi: G192 ampsat (blocchi 33 e 34): ampsat, invariato in tondo come le altre sigle di bordo; G193 official observer (blocchi 33 e 35): osservatore ufficiale. Gli altri termini proposti dal traduttore del blocco 33 compaiono solo lì (Nav-tac, nav-tattico; holding tanks, vasche di contenimento; cortical jack, presa corticale; preconditioning; deliberate practice; heuristic software), oppure hanno una sola resa possibile anche dove tornano (Rosetta, omuncolo nelle note del blocco 41), oppure tornano in un blocco già tradotto in un altro contesto (overclocked, detto del metabolismo dei colibrì nel blocco 14): restano la sua scelta.
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Osservatore ufficiale è il ruolo che Siri si dà e che Cunningham gli ritorce contro nel blocco 35: l'eco regge solo con le stesse parole. Ampsat è una sigla inventata, e sciolta in satellite ripetitore perderebbe il gergo di bordo. Holding tanks resta distinto dai recinti perché Watts usa una parola diversa.
+
+Deciso da: agente. Data: 2026-11-11. Stato: valida.
