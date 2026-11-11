@@ -515,3 +515,11 @@ Decisione: entrano nel glossario, approvate dall'agente, due voci per termini de
 Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Recinto distingue le celle degli scrambler dalle gabbie, che sono cage. Per la quarta ondata la maiuscola segue Watts, come per gli altri termini che lui scrive ora minuscoli ora maiuscoli (la voce sugli Umani).
 
 Deciso da: agente. Data: 2026-11-11. Stato: valida.
+
+## D-63 Una voce nuova del glossario dai termini del blocco 28
+
+Decisione: entra nel glossario, approvata dall'agente, G189 splitscreen (blocchi 28, 31, 33): schermo diviso, la resa del traduttore. Gli altri termini proposti dal traduttore del blocco 28 compaiono solo lì (carrier wave, onda portante; eyestalks, peduncoli oculari), oppure tornano in blocchi già tradotti con la stessa resa (enhancements, potenziamenti, come nel blocco 06; cascade, cascata, parola comune): restano la sua scelta.
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi; splitscreen torna in due blocchi non ancora tradotti, e l'alternativa di lasciarlo in inglese esiste. Schermo diviso è il termine italiano corrente e non tocca il senso.
+
+Deciso da: agente. Data: 2026-11-11. Stato: valida.
