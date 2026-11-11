@@ -499,3 +499,11 @@ Decisione: entra nel glossario, approvata dall'agente, G186 beanstalk (blocchi 2
 Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Watts usa beanstalk nel senso della fantascienza, il cavo fra un pianeta e l'orbita con il suo contrappeso: nel blocco 25 un beanstalk senza contrappeso si rovescia, nel blocco 32 i beanstalk cadono. Ascensore spaziale è il termine italiano corrente e tiene il senso; si perde l'eco della fiaba di Jack, annotata fra le perdite. Pianta di fagioli, letterale, renderebbe la frase incomprensibile.
 
 Deciso da: agente. Data: 2026-11-11. Stato: valida.
+
+## D-61 Methonia resa metoniaca, nessuna voce nuova dai termini del blocco 26
+
+Decisione: nel blocco 26 (p02387) compressed methonia si rende «metoniaca compressa», la resa del traduttore. La voce sui nuclei di James (G083) non cerca più foam-core, la schiuma espansa dello stesso blocco. Nessuna voce nuova: i termini proposti dal traduttore del blocco 26 compaiono solo lì (freakwire, invariato in tondo come wetware; cannon net, rete a cannone; biopsy dart, dardo da biopsia; uncomprehender, incomprensore; foam-core) oppure sono parole comuni rese a senso (initiative): restano la sua scelta.
+
+Motivazione: la tabella dei refusi della guida segna methonia come dubbio (metano, o fusione voluta di metano e ammoniaca) e chiede di tradurla com'è, con nota. L'atmosfera di *Rorschach* è metano, ammoniaca e idrogeno (blocco 14), e gli scrambler vanno conservati nella loro aria: la fusione è la lettura più probabile. Metoniaca la ricrea con lo stesso meccanismo (met- di metano, -oniaca di ammoniaca), quindi traduce la parola com'è. Metano avrebbe corretto Watts come se fosse un refuso; metonia, calco della forma inglese, in italiano non richiama l'ammoniaca e suona come un nome di malattia. Il traduttore aveva indicato biopsy dart come ricorrente nei blocchi 30 e 36, ma lì dart non compare.
+
+Deciso da: agente. Data: 2026-11-11. Stato: valida.

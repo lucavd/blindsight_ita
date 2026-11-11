@@ -81,7 +81,7 @@ G079	topology	\btopolog	topologia	topolog	approved	02	Lessico di Siri per legger
 G080	facets	\bfacets?\b	sfaccettature	sfaccettatur	approved	09	Lessico di Siri; anche le personalità di James.
 G081	rotate (synthesist jargon)	\brotat	ruotare, rotazione	ruot|rotaz	approved	05	Gergo del sintetista per elaborare informazioni; vale anche il senso fisico.
 G082	personae	\bpersonae\b	personae (in corsivo)	personae	approved	02	Watts usa il plurale latino; si mantiene.
-G083	cores (of James)	\b(multi)?cores?\b	nuclei	nucle	approved	05	Le personalità di James come nuclei; MCC (Multiple Core Complex) diventa complesso a nuclei multipli. Core nel senso di centro, nucleo di una scia o di un oggetto (blocco 07, p00555 e p00556), non è questa voce: falso allarme.
+G083	cores (of James)	(?<!foam-)\b(multi)?cores?\b	nuclei	nucle	approved	05	Le personalità di James come nuclei; MCC (Multiple Core Complex) diventa complesso a nuclei multipli. Core nel senso di centro, nucleo di una scia o di un oggetto (blocco 07, p00555 e p00556), non è questa voce: falso allarme. L'espressione di ricerca esclude foam-core (blocco 26, p02383, la schiuma espansa), che non c'entra (decisione sui termini del blocco 26, D-61).
 G084	meat	\bmeat\b	carne	carn	approved	01	Watts chiama carne i corpi umani: resa fissa.
 G085	eh? (Szpindel)	\beh\b	eh?	\beh\b	approved	02	Intercalare di Szpindel.
 G086	bleeding edge	bleeding edge	avanguardia estrema	avanguardi	approved	05	
