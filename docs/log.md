@@ -10,6 +10,8 @@ generated:
 
 ## 2026-11-11
 
+L'ultima sessione di traduzione (T4) è chiusa, senza decisioni per il PI; aspetta la sua lettura del riassunto. Prima stesura dei blocchi dal 35 al 41, 756 paragrafi, cancelli tutti superati; rapporto di lunghezza mediano 1,117, previsione confermata (il blocco delle note sta a 1,000 perché i riferimenti restano in inglese). Tutto il libro ha ora una prima stesura. Tre correzioni puntuali alla prima stesura (blocchi 35, 40 e 41). Glossario con una voce nuova approvata dall'agente, 197 in tutto, e due voci precisate (decisioni sui termini dei blocchi dal 35 al 41, da D-71 a D-74). Tutti e due i dubbi ricevuti chiusi; riprese fra blocchi passate alla prima, quinta e sesta sessione di revisione. Tempo del traduttore 2,5 minuti per mille parole (2,8 senza le note), aggiunto al piano. Prossima sessione: la prima di revisione (R1), con Opus 5.5.
+
 Aperta l'ultima sessione di traduzione (T4) sui blocchi dal 35 al 41, con Opus 5.5, nella chat cloud svuotata e sul ramo `sessione-T4` (decisione sulla chat cloud riaperta, D-27). Sorgente integra (50 file), epubcheck 4.2.6 presente, nessuna pull request aperta, lavoro della terza sessione di traduzione già unito nel ramo principale.
 
 La terza sessione di traduzione (T3) è chiusa. Il PI ha accettato la raccomandazione: self-awareness si rende «autoconsapevolezza», voce del glossario approvata (decisione sulla scelta di T3, D-70). Glossario con 196 voci, tutte approvate. Prossima sessione: l'ultima di traduzione (T4), blocchi dal 35 al 41, con Opus 5.5.
