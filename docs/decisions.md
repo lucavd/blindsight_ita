@@ -563,3 +563,11 @@ Decisione: entrano nel glossario, approvate dall'agente, due voci per termini de
 Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Osservatore ufficiale è il ruolo che Siri si dà e che Cunningham gli ritorce contro nel blocco 35: l'eco regge solo con le stesse parole. Ampsat è una sigla inventata, e sciolta in satellite ripetitore perderebbe il gergo di bordo. Holding tanks resta distinto dai recinti perché Watts usa una parola diversa.
 
 Deciso da: agente. Data: 2026-11-11. Stato: valida.
+
+## D-69 Due voci nuove del glossario dai termini del blocco 34, self-awareness proposta al PI
+
+Decisione: entrano nel glossario, approvate dall'agente, G195 awareness: consapevolezza, la resa che tutti i traduttori hanno già usato nei blocchi dal 09 al 32, e G196 feedback loop (blocco 34 e le note del blocco 41): anello di retroazione. Entra come proposta G194 self-awareness, self-aware (blocchi 34, 36, 39, 41): autoconsapevolezza, autoconsapevole, la resa del traduttore; è un termine chiave del libro e la resa spetta al PI. Gli altri termini proposti dal traduttore del blocco 34 compaiono solo lì (night crawler, verme della notte; babyfucker; brig, cella di rigore; golden oldies; infodump, spiegone): restano la sua scelta.
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Awareness torna in altri sei blocchi, e la resa già uniforme va fissata prima che arrivino traduttori nuovi. Self-awareness porta la tesi del libro (l'intelligenza senza autoconsapevolezza, blocco 34), e il protocollo riserva al PI i termini chiave.
+
+Deciso da: agente. Data: 2026-11-11. Stato: valida.
