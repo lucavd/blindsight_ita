@@ -78,7 +78,7 @@ G076	QuBit's, the Qube	QuBit|\bQube\b	QuBit's, il Qube (invariati)	QuBit|Qube	ap
 G077	Golem (disease)	(?-i:\bGolem\b)	Golem (invariato)	Golem	approved	32	La malattia ingegnerizzata che uccide Chelsea.
 G078	Hadzane	Hadzane	hadza (la lingua hadza)	hadza	approved	21	
 G079	topology	\btopolog	topologia	topolog	approved	02	Lessico di Siri per leggere le persone; da tenere fisso.
-G080	facets	\bfacets?\b	sfaccettature	sfaccettatur	approved	09	Lessico di Siri; anche le personalità di James.
+G080	facets	\bfacets?\b	sfaccettature	sfaccettatur	approved	09	Lessico di Siri; anche le personalità di James. Facet detto di un poliedro (blocco 29, p02648, twenty-six-faceted, one facet) è la faccia, resa facce: falso allarme (decisione sui termini del blocco 29, D-64).
 G081	rotate (synthesist jargon)	\brotat	ruotare, rotazione	ruot|rotaz	approved	05	Gergo del sintetista per elaborare informazioni; vale anche il senso fisico.
 G082	personae	\bpersonae\b	personae (in corsivo)	personae	approved	02	Watts usa il plurale latino; si mantiene.
 G083	cores (of James)	(?<!foam-)\b(multi)?cores?\b	nuclei	nucle	approved	05	Le personalità di James come nuclei; MCC (Multiple Core Complex) diventa complesso a nuclei multipli. Core nel senso di centro, nucleo di una scia o di un oggetto (blocco 07, p00555 e p00556), non è questa voce: falso allarme. L'espressione di ricerca esclude foam-core (blocco 26, p02383, la schiuma espansa), che non c'entra (decisione sui termini del blocco 26, D-61).
@@ -91,7 +91,7 @@ G089	postcards to posterity	postcards? to posterity	cartolina ai posteri, cartol
 G090	Technology Implies Belligerence	Technology Implies Belligerence	La tecnologia implica belligeranza	tecnologia implica belligeranza	approved	04	Slogan (blocchi 04, 07, 08). Watts lo scrive con le maiuscole a ogni parola nel blocco 04 e in minuscolo nel 07; in italiano la maiuscola resta solo all'inizio, perché le maiuscole a ogni parola sono una convenzione inglese di titoli e slogan (chiarimento della nota, decisione sui termini del blocco 04, D-41).
 G091	covert to invulnerable	covert to invulnerable	da occulto a invulnerabile	occult\w a invulnerabil|occult	approved	10	
 G092	Graduation Day	Graduation	il Giorno del Diploma	Diploma	approved	13	Il momento in cui Rorschach diventerà invulnerabile.
-G093	survive and bear witness	bear witness	sopravvivere e testimoniare	testimoni	approved	03	
+G093	survive and bear witness	bear witness	sopravvivere e testimoniare	testimon	approved	03	Bear witness detto d'altri (blocco 29, p02622, l'equipaggio che assiste all'interrogatorio) si rende con la stessa radice, testimone o testimoniare, perché l'eco del motto regga; l'espressione di ricerca italiana accetta ora testimone (decisione sui termini del blocco 29, D-64).
 G094	Devil's Baklava	Devil's Baklava	la Baklava del Diavolo	Baklava del Diavolo	approved	14	
 G095	twencen	twencen	novecentesco	novecent	approved	01	Gergo per ventesimo secolo; l'accorciamento si perde.
 G096	klicks	\bklicks?\b	chilometri	chilometr|\bkm\b	approved	05	Il gergo italiano non ha un equivalente diffuso.

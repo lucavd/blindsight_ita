@@ -523,3 +523,11 @@ Decisione: entra nel glossario, approvata dall'agente, G189 splitscreen (blocchi
 Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi; splitscreen torna in due blocchi non ancora tradotti, e l'alternativa di lasciarlo in inglese esiste. Schermo diviso è il termine italiano corrente e non tocca il senso.
 
 Deciso da: agente. Data: 2026-11-11. Stato: valida.
+
+## D-64 Nessuna voce nuova dai termini del blocco 29, due voci precisate
+
+Decisione: la voce sul motto sopravvivere e testimoniare (G093) dice ora che bear witness detto d'altri si rende con la stessa radice, testimone o testimoniare, e la sua espressione di ricerca italiana accetta testimone: nel blocco 29 (p02622) l'equipaggio che assiste all'interrogatorio «fosse testimone», resa del traduttore. La voce sulle sfaccettature (G080) dice ora che facet detto di un poliedro è la faccia (blocco 29, p02648), e che lì la segnalazione del controllo è un falso allarme. Nessuna voce nuova: i termini proposti dal traduttore del blocco 29 compaiono solo lì (Turing morphogens, mitotic spindles, learned helplessness, emergent complexity, touchpad), oppure sono già regolati dal glossario o dalla guida (baseline exposure, esposizione di riferimento, come prevede la nota della voce sull'umano di serie; Watts come unità di misura, watt minuscolo come vuole la sezione dei passi difficili del blocco 30): restano la sua scelta.
+
+Motivazione: Watts usa bear witness per la squadra con ironia, sullo sfondo del motto di Siri; testimone tiene la radice e quindi l'eco, mentre l'espressione di ricerca precedente accettava solo testimoniare e testimoni e segnalava come errore una resa giusta. Le facce di un solido non sono sfaccettature in italiano.
+
+Deciso da: agente. Data: 2026-11-11. Stato: valida.
