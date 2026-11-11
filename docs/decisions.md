@@ -547,3 +547,11 @@ Decisione: nel blocco 31 l'imprecazione ripetuta di Cunningham (p02814, *fuck fu
 Motivazione: la sezione dei passi difficili del blocco 30 chiede una resa a due battiti, e cazzo li ha, ed è l'imprecazione italiana con la forza di fuck; non esiste un'imprecazione italiana corrente di una sillaba. Ma Watts chiama il borbottio una sola sillaba, e scrivere sillaba prima di cazzo farebbe contraddire il testo italiano sotto gli occhi del lettore. Parola è lo scarto più piccolo: è ciò che viene ripetuto, come la sillaba inglese, e resta un suono di linguaggio; suono, la resa del traduttore, avrebbe perso anche questo. La perdita della sillaba è annotata nelle note del blocco 31. L'istruzione dei due battiti viene da un'interpretazione della sessione sul glossario (S1), che non aveva visto la sillaba di p02813.
 
 Deciso da: agente. Data: 2026-11-11. Stato: valida.
+
+## D-67 Una voce nuova del glossario dai termini del blocco 32
+
+Decisione: entra nel glossario, approvata dall'agente, G191 fitness nel senso della biologia evolutiva (blocchi 32, 34, 36 e le note del blocco 41): fitness, invariato e in tondo, la resa del traduttore. Gli altri termini proposti dal traduttore del blocco 32 compaiono solo lì (sneakernet, invariato in tondo come wetware; agnosiac; gelpad; MRI helmet; heavy-atom tunneling), hanno una sola resa possibile anche dove tornano (fibrodisplasia e osso ectopico nelle note del blocco 41; time-sharing), oppure tornano in blocchi già tradotti con la stessa resa (logic gates, porte logiche, come nel blocco 24; plessi): restano la sua scelta.
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi; fitness torna in tre blocchi non ancora tradotti, nel discorso sulla selezione naturale, e l'alternativa idoneità esiste. Fitness è il termine usato dalla biologia evolutiva italiana e non tocca il senso.
+
+Deciso da: agente. Data: 2026-11-11. Stato: valida.
