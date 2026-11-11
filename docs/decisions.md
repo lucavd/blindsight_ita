@@ -571,3 +571,11 @@ Decisione: entrano nel glossario, approvate dall'agente, G195 awareness: consape
 Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Awareness torna in altri sei blocchi, e la resa già uniforme va fissata prima che arrivino traduttori nuovi. Self-awareness porta la tesi del libro (l'intelligenza senza autoconsapevolezza, blocco 34), e il protocollo riserva al PI i termini chiave.
 
 Deciso da: agente. Data: 2026-11-11. Stato: valida.
+
+## D-70 La scelta della terza sessione di traduzione (T3): self-awareness
+
+Decisione: il PI accetta la raccomandazione del riassunto. Self-awareness si rende «autoconsapevolezza» e self-aware «autoconsapevole» (blocchi 34, 36, 39 e le note del blocco 41); la voce del glossario (G194) passa da proposta ad approvata.
+
+Motivazione: è una parola sola come in Watts, ha la radice di consapevolezza, con cui tutti i traduttori hanno già reso awareness, e resta distinta da coscienza (consciousness). Alternative scartate dal PI: consapevolezza di sé, più comune ma più lunga dove Watts è secco; autocoscienza, che la confonderebbe con coscienza.
+
+Deciso da: PI. Data: 2026-11-11. Stato: valida.
