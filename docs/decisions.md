@@ -475,3 +475,11 @@ Decisione: il PI accetta le due raccomandazioni del riassunto. Nel blocco 16 (p0
 Motivazione: «Scosse la loro testa» riproduce la frase storta di Watts, il singolare di lei e il plurale della testa condivisa, senza aggiungere nulla; la scheda presumeva che il their non avesse equivalente. Per la prigioniera l'italiano deve accordare subito: il femminile anticipa un'informazione che la scena non sfrutta, mentre il maschile generico farebbe immaginare un uomo e farebbe sembrare un errore il femminile dell'ultima riga. Alternative scartate dal PI: «Scosse la testa» con la perdita annotata; il maschile generico fino alla fine.
 
 Deciso da: PI. Data: 2026-11-10. Stato: valida.
+
+## D-58 Cinque voci nuove del glossario dai termini del blocco 23
+
+Decisione: entrano nel glossario, approvate dall'agente, cinque voci per termini del blocco 23 che tornano in altri blocchi: G180 hab (blocchi 23, 27, 30, 36): modulo; G181 click train (blocchi 08, 23, 28): treno di clic; G182 optical port (blocchi 13, 23, 38): apertura ottica; G183 inset, il riquadro sullo schermo (blocchi 12, 23, 37, 38): riquadro; G184 gun port (blocchi 23, 30, 36): bocca da fuoco. Nella prima stesura del blocco 23 (p02128) «l'habitat che si gonfiava» diventa «il modulo che si gonfiava». Gli altri termini proposti dal traduttore del blocco 23 compaiono solo lì (sled, dropgate, fiberop hub, nexus, Link Down, Batespeak, raceways), hanno una sola resa possibile anche dove tornano (beachhead, testa di ponte, nel blocco 26), oppure sono già nel glossario o resi allo stesso modo nei blocchi precedenti (vestibolo, fibrottica, campo base): restano la scelta del traduttore.
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Per hab il traduttore aveva scelto habitat, con modulo come alternativa; il glossario ha già modulo laboratorio per lab-hab (G047), e Watts usa la stessa parola per le due strutture, quindi modulo tiene l'eco, ed è anche il termine corrente per i moduli gonfiabili delle stazioni spaziali. Le altre quattro rese sono quelle già usate nei blocchi tradotti, e nessuna tocca il senso. Il traduttore aveva indicato sled come ricorrente nel blocco 37, ma lì la parola è sledgehammers.
+
+Deciso da: agente. Data: 2026-11-11. Stato: valida.
