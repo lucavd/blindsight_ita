@@ -539,3 +539,11 @@ Decisione: entra nel glossario, approvata dall'agente, G190 emplacement e gun em
 Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi; postazioni torna nei blocchi 36 e 37 per le stesse armi. Il carotatore non ha a che fare con le personalità di James, e l'espressione di ricerca precedente lo segnalava come errore.
 
 Deciso da: agente. Data: 2026-11-11. Stato: valida.
+
+## D-66 Il mantra di Cunningham: cazzo, e una parola invece di una sillaba
+
+Decisione: nel blocco 31 l'imprecazione ripetuta di Cunningham (p02814, *fuck fuck fuck fuck...*) si rende «*cazzo cazzo cazzo cazzo...*», e due righe prima (p02813) a single indistinct syllable si rende «un'unica parola indistinta», non «un'unica sillaba indistinta». Nel blocco 30 (p02754) il two-stroke mantra resta «un qualche mantra a due tempi».
+
+Motivazione: la sezione dei passi difficili del blocco 30 chiede una resa a due battiti, e cazzo li ha, ed è l'imprecazione italiana con la forza di fuck; non esiste un'imprecazione italiana corrente di una sillaba. Ma Watts chiama il borbottio una sola sillaba, e scrivere sillaba prima di cazzo farebbe contraddire il testo italiano sotto gli occhi del lettore. Parola è lo scarto più piccolo: è ciò che viene ripetuto, come la sillaba inglese, e resta un suono di linguaggio; suono, la resa del traduttore, avrebbe perso anche questo. La perdita della sillaba è annotata nelle note del blocco 31. L'istruzione dei due battiti viene da un'interpretazione della sessione sul glossario (S1), che non aveva visto la sillaba di p02813.
+
+Deciso da: agente. Data: 2026-11-11. Stato: valida.
