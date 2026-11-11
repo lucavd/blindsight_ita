@@ -579,3 +579,11 @@ Decisione: il PI accetta la raccomandazione del riassunto. Self-awareness si ren
 Motivazione: è una parola sola come in Watts, ha la radice di consapevolezza, con cui tutti i traduttori hanno già reso awareness, e resta distinta da coscienza (consciousness). Alternative scartate dal PI: consapevolezza di sé, più comune ma più lunga dove Watts è secco; autocoscienza, che la confonderebbe con coscienza.
 
 Deciso da: PI. Data: 2026-11-11. Stato: valida.
+
+## D-71 Il Diploma con la maiuscola, e nessuna voce nuova dai termini del blocco 35
+
+Decisione: graduation da solo, riferito al momento in cui *Rorschach* diventerà invulnerabile, si rende «il Diploma», con la maiuscola anche dove la sorgente ha la minuscola (blocco 35, p03161, «a soli nove giorni dal Diploma»; blocco 36, p03324, Graduation came nine days early). La voce del glossario sul Giorno del Diploma (G092) lo dice nella nota. Gli altri termini proposti dal traduttore del blocco 35 compaiono solo lì (shapeshifter, mutaforma; holding pattern, circuito d'attesa; Fate line, linea del destino; hands-off, da non intervento) oppure tornano nel blocco 37 con una sola resa naturale (object lesson, lezione pratica; stenographer, stenografo): restano la sua scelta, e il traduttore del blocco 37 li riceve nel prompt.
+
+Motivazione: nel blocco 36 la frase che chiude la scena riprende il conto alla rovescia del blocco 35, e l'eco regge solo con la stessa parola; «diploma» minuscolo farebbe pensare a un diploma di Siri. La maiuscola italiana su una minuscola della sorgente ha già un precedente deciso dal PI, la Banda (decisione sulle scelte di S1, D-26). Il criterio del glossario (decisione sulle voci tecniche, D-21) non chiede voci per termini di un solo blocco.
+
+Deciso da: agente. Data: 2026-11-11. Stato: valida.
