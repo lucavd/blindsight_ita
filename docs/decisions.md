@@ -587,3 +587,11 @@ Decisione: graduation da solo, riferito al momento in cui *Rorschach* diventerà
 Motivazione: nel blocco 36 la frase che chiude la scena riprende il conto alla rovescia del blocco 35, e l'eco regge solo con la stessa parola; «diploma» minuscolo farebbe pensare a un diploma di Siri. La maiuscola italiana su una minuscola della sorgente ha già un precedente deciso dal PI, la Banda (decisione sulle scelte di S1, D-26). Il criterio del glossario (decisione sulle voci tecniche, D-21) non chiede voci per termini di un solo blocco.
 
 Deciso da: agente. Data: 2026-11-11. Stato: valida.
+
+## D-72 Una voce nuova del glossario dai termini del blocco 37, e il controllo su burn allargato
+
+Decisione: entra nel glossario, approvata dall'agente, G197 dreamstate, dream state (blocchi 37 e 39): stato di sogno, la resa del traduttore. Nella voce su burn come manovra (G148) l'espressione di controllo accetta ora anche il participio («acceso i motori»). Gli altri termini proposti dal traduttore del blocco 37 compaiono solo lì (Shuttle bay, hangar delle navette; it takes one to know one, *il simile riconosce il simile*; Uncle Predator, zio Predatore; decapitation strike; cue, segnale d'entrata; spitballs; observatory, osservatorio) oppure hanno una sola resa possibile anche dove tornano (quadrochromatic, quadricromatico, nelle note del blocco 40): restano la sua scelta.
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi; dreamstate torna nel blocco 39, nel discorso di Siri sui vampiri, e l'alternativa stato onirico esiste. Il controllo su burn riconosceva accensione e accendere ma non acceso, e il traduttore del blocco 37 ha scelto una costruzione meno naturale per non far scattare la segnalazione: un controllo non deve spingere la traduzione.
+
+Deciso da: agente. Data: 2026-11-11. Stato: valida.
