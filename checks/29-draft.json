@@ -1,0 +1,29 @@
+{
+ "chunk": "29",
+ "stage": "draft",
+ "file": "/home/user/blindsight_ita/translation/draft/29.md",
+ "gates": {
+  "format": [],
+  "markers": [],
+  "empty": [],
+  "scene_breaks": [],
+  "forbidden_chars": [],
+  "placeholder_misuse": [],
+  "epigraph_decisions": []
+ },
+ "flags": {
+  "ratio_out_of_bounds": [],
+  "english_residue": [],
+  "glossary_misses": [
+   "p02630: baseline (human) -> atteso di serie (umano di serie, quelli di serie)",
+   "p02630: trickle-charger, trickler -> atteso erogatore a rilascio lento",
+   "p02648: facets -> atteso sfaccettature"
+  ],
+  "emphasis_count_differs": [],
+  "identical_to_source": []
+ },
+ "placeholders": [],
+ "ratio_median": 1.086,
+ "paragraphs": 83,
+ "ok": true
+}

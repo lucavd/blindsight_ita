@@ -1,0 +1,30 @@
+{
+ "chunk": "31",
+ "stage": "draft",
+ "file": "/home/user/blindsight_ita/translation/draft/31.md",
+ "gates": {
+  "format": [],
+  "markers": [],
+  "empty": [],
+  "scene_breaks": [],
+  "forbidden_chars": [],
+  "placeholder_misuse": [],
+  "epigraph_decisions": []
+ },
+ "flags": {
+  "ratio_out_of_bounds": [],
+  "english_residue": [],
+  "glossary_misses": [
+   "p02811: cores (of James) -> atteso nuclei"
+  ],
+  "emphasis_count_differs": [],
+  "identical_to_source": []
+ },
+ "placeholders": [
+  "p02806",
+  "p02807"
+ ],
+ "ratio_median": 1.122,
+ "paragraphs": 71,
+ "ok": true
+}

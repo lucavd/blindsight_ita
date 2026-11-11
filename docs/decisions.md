@@ -475,3 +475,107 @@ Decisione: il PI accetta le due raccomandazioni del riassunto. Nel blocco 16 (p0
 Motivazione: «Scosse la loro testa» riproduce la frase storta di Watts, il singolare di lei e il plurale della testa condivisa, senza aggiungere nulla; la scheda presumeva che il their non avesse equivalente. Per la prigioniera l'italiano deve accordare subito: il femminile anticipa un'informazione che la scena non sfrutta, mentre il maschile generico farebbe immaginare un uomo e farebbe sembrare un errore il femminile dell'ultima riga. Alternative scartate dal PI: «Scosse la testa» con la perdita annotata; il maschile generico fino alla fine.
 
 Deciso da: PI. Data: 2026-11-10. Stato: valida.
+
+## D-58 Cinque voci nuove del glossario dai termini del blocco 23
+
+Decisione: entrano nel glossario, approvate dall'agente, cinque voci per termini del blocco 23 che tornano in altri blocchi: G180 hab (blocchi 23, 27, 30, 36): modulo; G181 click train (blocchi 08, 23, 28): treno di clic; G182 optical port (blocchi 13, 23, 38): apertura ottica; G183 inset, il riquadro sullo schermo (blocchi 12, 23, 37, 38): riquadro; G184 gun port (blocchi 23, 30, 36): bocca da fuoco. Nella prima stesura del blocco 23 (p02128) «l'habitat che si gonfiava» diventa «il modulo che si gonfiava». Gli altri termini proposti dal traduttore del blocco 23 compaiono solo lì (sled, dropgate, fiberop hub, nexus, Link Down, Batespeak, raceways), hanno una sola resa possibile anche dove tornano (beachhead, testa di ponte, nel blocco 26), oppure sono già nel glossario o resi allo stesso modo nei blocchi precedenti (vestibolo, fibrottica, campo base): restano la scelta del traduttore.
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Per hab il traduttore aveva scelto habitat, con modulo come alternativa; il glossario ha già modulo laboratorio per lab-hab (G047), e Watts usa la stessa parola per le due strutture, quindi modulo tiene l'eco, ed è anche il termine corrente per i moduli gonfiabili delle stazioni spaziali. Le altre quattro rese sono quelle già usate nei blocchi tradotti, e nessuna tocca il senso. Il traduttore aveva indicato sled come ricorrente nel blocco 37, ma lì la parola è sledgehammers.
+
+Deciso da: agente. Data: 2026-11-11. Stato: valida.
+
+## D-59 Una voce nuova del glossario dai termini del blocco 24, e la voce sul riconoscimento di schemi precisata
+
+Decisione: entra nel glossario, approvata dall'agente, G185 eyespot (blocchi 24 e 40): macchia oculare, la resa del traduttore. La voce sul riconoscimento di schemi (G167) dice ora che nel blocco 24 (p02228) background pattern-matching è il mimetismo, reso «Adattamento del disegno allo sfondo», e che lì la segnalazione del controllo è un falso allarme. Gli altri termini proposti dal traduttore del blocco 24 compaiono solo lì (necropsy, setae, contractiles, cryptochrome, Sanduloviciu plasma, remote surgery, slaved), sono parole comuni con la stessa resa ovunque (malfunzionamento), oppure sono già nel glossario (teleoperatori, manipolatori, cloache, cripsi): restano la sua scelta.
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi; nelle note del blocco 40 Watts paragona le macchie oculari degli scrambler a quelle delle ofiure, e le due rese devono coincidere. Macchia oculare è il termine della zoologia, ocelli sono occhi semplici veri e propri. Nel blocco 24 Bates chiede se la creatura si mimetizza, e Cunningham risponde che lo sfondo non corrisponde al disegno: riconoscimento di schemi avrebbe tolto il senso e il gioco fra le due battute.
+
+Deciso da: agente. Data: 2026-11-11. Stato: valida.
+
+## D-60 Una voce nuova del glossario dai termini del blocco 25
+
+Decisione: entra nel glossario, approvata dall'agente, G186 beanstalk (blocchi 25 e 32): ascensore spaziale, la resa del traduttore. Gli altri termini proposti dal traduttore del blocco 25 compaiono solo lì (Rio Spire, la Guglia di Rio; neurotrope e trope, neurotropo e tropo; proprioceptive polyneuropathy; splicer; observer effect), oppure tornano in un blocco già tradotto con la stessa resa (force-feedback, ritorno di forza, come nel blocco 03; skin per il corpo virtuale, pelle, come nel blocco 22): restano la sua scelta.
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Watts usa beanstalk nel senso della fantascienza, il cavo fra un pianeta e l'orbita con il suo contrappeso: nel blocco 25 un beanstalk senza contrappeso si rovescia, nel blocco 32 i beanstalk cadono. Ascensore spaziale è il termine italiano corrente e tiene il senso; si perde l'eco della fiaba di Jack, annotata fra le perdite. Pianta di fagioli, letterale, renderebbe la frase incomprensibile.
+
+Deciso da: agente. Data: 2026-11-11. Stato: valida.
+
+## D-61 Methonia resa metoniaca, nessuna voce nuova dai termini del blocco 26
+
+Decisione: nel blocco 26 (p02387) compressed methonia si rende «metoniaca compressa», la resa del traduttore. La voce sui nuclei di James (G083) non cerca più foam-core, la schiuma espansa dello stesso blocco. Nessuna voce nuova: i termini proposti dal traduttore del blocco 26 compaiono solo lì (freakwire, invariato in tondo come wetware; cannon net, rete a cannone; biopsy dart, dardo da biopsia; uncomprehender, incomprensore; foam-core) oppure sono parole comuni rese a senso (initiative): restano la sua scelta.
+
+Motivazione: la tabella dei refusi della guida segna methonia come dubbio (metano, o fusione voluta di metano e ammoniaca) e chiede di tradurla com'è, con nota. L'atmosfera di *Rorschach* è metano, ammoniaca e idrogeno (blocco 14), e gli scrambler vanno conservati nella loro aria: la fusione è la lettura più probabile. Metoniaca la ricrea con lo stesso meccanismo (met- di metano, -oniaca di ammoniaca), quindi traduce la parola com'è. Metano avrebbe corretto Watts come se fosse un refuso; metonia, calco della forma inglese, in italiano non richiama l'ammoniaca e suona come un nome di malattia. Il traduttore aveva indicato biopsy dart come ricorrente nei blocchi 30 e 36, ma lì dart non compare.
+
+Deciso da: agente. Data: 2026-11-11. Stato: valida.
+
+## D-62 Due voci nuove del glossario dai termini del blocco 27
+
+Decisione: entrano nel glossario, approvate dall'agente, due voci per termini del blocco 27 che tornano in altri blocchi: G187 pen e holding pen, le celle degli scrambler (blocchi 27, 28, 30, 31): recinto, recinti di contenimento, la resa del traduttore; G188 fourth wave (blocchi 09 e 27): quarta ondata, minuscola dove Watts la scrive minuscola (blocco 09) e con le maiuscole dove le usa lui (blocco 27). Gli altri termini proposti dal traduttore del blocco 27 compaiono solo lì (squeezebulb, bulbo spremibile, in linea con la voce sul bulbo; transects, transetti; spinal lock, aggancio spinale; reconformation, riconformazione): restano la sua scelta.
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Recinto distingue le celle degli scrambler dalle gabbie, che sono cage. Per la quarta ondata la maiuscola segue Watts, come per gli altri termini che lui scrive ora minuscoli ora maiuscoli (la voce sugli Umani).
+
+Deciso da: agente. Data: 2026-11-11. Stato: valida.
+
+## D-63 Una voce nuova del glossario dai termini del blocco 28
+
+Decisione: entra nel glossario, approvata dall'agente, G189 splitscreen (blocchi 28, 31, 33): schermo diviso, la resa del traduttore. Gli altri termini proposti dal traduttore del blocco 28 compaiono solo lì (carrier wave, onda portante; eyestalks, peduncoli oculari), oppure tornano in blocchi già tradotti con la stessa resa (enhancements, potenziamenti, come nel blocco 06; cascade, cascata, parola comune): restano la sua scelta.
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi; splitscreen torna in due blocchi non ancora tradotti, e l'alternativa di lasciarlo in inglese esiste. Schermo diviso è il termine italiano corrente e non tocca il senso.
+
+Deciso da: agente. Data: 2026-11-11. Stato: valida.
+
+## D-64 Nessuna voce nuova dai termini del blocco 29, due voci precisate
+
+Decisione: la voce sul motto sopravvivere e testimoniare (G093) dice ora che bear witness detto d'altri si rende con la stessa radice, testimone o testimoniare, e la sua espressione di ricerca italiana accetta testimone: nel blocco 29 (p02622) l'equipaggio che assiste all'interrogatorio «fosse testimone», resa del traduttore. La voce sulle sfaccettature (G080) dice ora che facet detto di un poliedro è la faccia (blocco 29, p02648), e che lì la segnalazione del controllo è un falso allarme. Nessuna voce nuova: i termini proposti dal traduttore del blocco 29 compaiono solo lì (Turing morphogens, mitotic spindles, learned helplessness, emergent complexity, touchpad), oppure sono già regolati dal glossario o dalla guida (baseline exposure, esposizione di riferimento, come prevede la nota della voce sull'umano di serie; Watts come unità di misura, watt minuscolo come vuole la sezione dei passi difficili del blocco 30): restano la sua scelta.
+
+Motivazione: Watts usa bear witness per la squadra con ironia, sullo sfondo del motto di Siri; testimone tiene la radice e quindi l'eco, mentre l'espressione di ricerca precedente accettava solo testimoniare e testimoni e segnalava come errore una resa giusta. Le facce di un solido non sono sfaccettature in italiano.
+
+Deciso da: agente. Data: 2026-11-11. Stato: valida.
+
+## D-65 Una voce nuova del glossario dai termini del blocco 30, e la ricerca dei nuclei di James ristretta
+
+Decisione: entra nel glossario, approvata dall'agente, G190 emplacement e gun emplacement (blocchi 30, 36, 37): postazione, postazioni di tiro, la resa del traduttore. La voce sui nuclei di James (G083) non cerca più core-sampler (blocco 30, p02782, il carotatore). Gli altri termini proposti dal traduttore del blocco 30 compaiono solo lì (bow shock, onda d'urto; wavefront; core-sampler; blindtouch e le altre coniazioni sul modello della visione cieca; pidgin; quantum modules; Arrhenius equation; substrate stockpiles), oppure tornano in un altro blocco in un senso che può essere diverso (holding pattern, circuito d'attesa, nel blocco 35), oppure sono già regolati dalla guida (watt minuscolo): restano la sua scelta.
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi; postazioni torna nei blocchi 36 e 37 per le stesse armi. Il carotatore non ha a che fare con le personalità di James, e l'espressione di ricerca precedente lo segnalava come errore.
+
+Deciso da: agente. Data: 2026-11-11. Stato: valida.
+
+## D-66 Il mantra di Cunningham: cazzo, e una parola invece di una sillaba
+
+Decisione: nel blocco 31 l'imprecazione ripetuta di Cunningham (p02814, *fuck fuck fuck fuck...*) si rende «*cazzo cazzo cazzo cazzo...*», e due righe prima (p02813) a single indistinct syllable si rende «un'unica parola indistinta», non «un'unica sillaba indistinta». Nel blocco 30 (p02754) il two-stroke mantra resta «un qualche mantra a due tempi».
+
+Motivazione: la sezione dei passi difficili del blocco 30 chiede una resa a due battiti, e cazzo li ha, ed è l'imprecazione italiana con la forza di fuck; non esiste un'imprecazione italiana corrente di una sillaba. Ma Watts chiama il borbottio una sola sillaba, e scrivere sillaba prima di cazzo farebbe contraddire il testo italiano sotto gli occhi del lettore. Parola è lo scarto più piccolo: è ciò che viene ripetuto, come la sillaba inglese, e resta un suono di linguaggio; suono, la resa del traduttore, avrebbe perso anche questo. La perdita della sillaba è annotata nelle note del blocco 31. L'istruzione dei due battiti viene da un'interpretazione della sessione sul glossario (S1), che non aveva visto la sillaba di p02813.
+
+Deciso da: agente. Data: 2026-11-11. Stato: valida.
+
+## D-67 Una voce nuova del glossario dai termini del blocco 32
+
+Decisione: entra nel glossario, approvata dall'agente, G191 fitness nel senso della biologia evolutiva (blocchi 32, 34, 36 e le note del blocco 41): fitness, invariato e in tondo, la resa del traduttore. Gli altri termini proposti dal traduttore del blocco 32 compaiono solo lì (sneakernet, invariato in tondo come wetware; agnosiac; gelpad; MRI helmet; heavy-atom tunneling), hanno una sola resa possibile anche dove tornano (fibrodisplasia e osso ectopico nelle note del blocco 41; time-sharing), oppure tornano in blocchi già tradotti con la stessa resa (logic gates, porte logiche, come nel blocco 24; plessi): restano la sua scelta.
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi; fitness torna in tre blocchi non ancora tradotti, nel discorso sulla selezione naturale, e l'alternativa idoneità esiste. Fitness è il termine usato dalla biologia evolutiva italiana e non tocca il senso.
+
+Deciso da: agente. Data: 2026-11-11. Stato: valida.
+
+## D-68 Due voci nuove del glossario dai termini del blocco 33
+
+Decisione: entrano nel glossario, approvate dall'agente, due voci per termini del blocco 33 che tornano in altri blocchi: G192 ampsat (blocchi 33 e 34): ampsat, invariato in tondo come le altre sigle di bordo; G193 official observer (blocchi 33 e 35): osservatore ufficiale. Gli altri termini proposti dal traduttore del blocco 33 compaiono solo lì (Nav-tac, nav-tattico; holding tanks, vasche di contenimento; cortical jack, presa corticale; preconditioning; deliberate practice; heuristic software), oppure hanno una sola resa possibile anche dove tornano (Rosetta, omuncolo nelle note del blocco 41), oppure tornano in un blocco già tradotto in un altro contesto (overclocked, detto del metabolismo dei colibrì nel blocco 14): restano la sua scelta.
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Osservatore ufficiale è il ruolo che Siri si dà e che Cunningham gli ritorce contro nel blocco 35: l'eco regge solo con le stesse parole. Ampsat è una sigla inventata, e sciolta in satellite ripetitore perderebbe il gergo di bordo. Holding tanks resta distinto dai recinti perché Watts usa una parola diversa.
+
+Deciso da: agente. Data: 2026-11-11. Stato: valida.
+
+## D-69 Due voci nuove del glossario dai termini del blocco 34, self-awareness proposta al PI
+
+Decisione: entrano nel glossario, approvate dall'agente, G195 awareness: consapevolezza, la resa che tutti i traduttori hanno già usato nei blocchi dal 09 al 32, e G196 feedback loop (blocco 34 e le note del blocco 41): anello di retroazione. Entra come proposta G194 self-awareness, self-aware (blocchi 34, 36, 39, 41): autoconsapevolezza, autoconsapevole, la resa del traduttore; è un termine chiave del libro e la resa spetta al PI. Gli altri termini proposti dal traduttore del blocco 34 compaiono solo lì (night crawler, verme della notte; babyfucker; brig, cella di rigore; golden oldies; infodump, spiegone): restano la sua scelta.
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Awareness torna in altri sei blocchi, e la resa già uniforme va fissata prima che arrivino traduttori nuovi. Self-awareness porta la tesi del libro (l'intelligenza senza autoconsapevolezza, blocco 34), e il protocollo riserva al PI i termini chiave.
+
+Deciso da: agente. Data: 2026-11-11. Stato: valida.
+
+## D-70 La scelta della terza sessione di traduzione (T3): self-awareness
+
+Decisione: il PI accetta la raccomandazione del riassunto. Self-awareness si rende «autoconsapevolezza» e self-aware «autoconsapevole» (blocchi 34, 36, 39 e le note del blocco 41); la voce del glossario (G194) passa da proposta ad approvata.
+
+Motivazione: è una parola sola come in Watts, ha la radice di consapevolezza, con cui tutti i traduttori hanno già reso awareness, e resta distinta da coscienza (consciousness). Alternative scartate dal PI: consapevolezza di sé, più comune ma più lunga dove Watts è secco; autocoscienza, che la confonderebbe con coscienza.
+
+Deciso da: PI. Data: 2026-11-11. Stato: valida.

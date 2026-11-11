@@ -8,6 +8,14 @@ generated:
   at: "2026-11-09T23:30:00+01:00"
 ---
 
+## 2026-11-11
+
+La terza sessione di traduzione (T3) è chiusa. Il PI ha accettato la raccomandazione: self-awareness si rende «autoconsapevolezza», voce del glossario approvata (decisione sulla scelta di T3, D-70). Glossario con 196 voci, tutte approvate. Prossima sessione: l'ultima di traduzione (T4), blocchi dal 35 al 41, con Opus 5.5.
+
+La terza sessione di traduzione (T3) ha finito il lavoro e aspetta una decisione del PI (la resa di self-awareness). Prima stesura dei blocchi dal 23 al 34, 1.033 paragrafi, cancelli tutti superati; rapporto di lunghezza mediano 1,12, previsione confermata. Quattro correzioni puntuali alla prima stesura (blocchi 23, 25, 26, 31), fra cui il mantra di Cunningham (decisione sul mantra di Cunningham, D-66). Glossario con 17 voci nuove, 16 approvate dall'agente e una proposta al PI, 196 in tutto, e cinque voci precisate (decisioni sui termini dei blocchi dal 23 al 34, da D-58 a D-69). Tutti e due i dubbi ricevuti chiusi; riprese fra blocchi passate alla seconda, terza, quarta e quinta sessione di revisione e all'ultima di traduzione.
+
+Aperta la terza sessione di traduzione (T3) sui blocchi dal 23 al 34, con Opus 5.5, nella chat cloud svuotata e sul ramo `sessione-T3` (decisione sulla chat cloud riaperta, D-27). Sorgente integra (50 file), epubcheck 4.2.6 presente, nessuna pull request aperta, lavoro della seconda sessione di traduzione già unito nel ramo principale.
+
 ## 2026-11-10
 
 La seconda sessione di traduzione (T2) è chiusa. Il PI ha accettato le due raccomandazioni: «Scosse la loro testa» per il their di Susan nel blocco 16, con la scheda dei personaggi aggiornata, e la prigioniera al femminile dalla prima riga nel blocco 19 (decisione sulle scelte di T2, D-57). Le due scelte sono nei dubbi ricevuti della terza sessione di revisione. Prossima sessione: la terza di traduzione (T3), con Opus 5.5.
