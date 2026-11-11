@@ -483,3 +483,11 @@ Decisione: entrano nel glossario, approvate dall'agente, cinque voci per termini
 Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Per hab il traduttore aveva scelto habitat, con modulo come alternativa; il glossario ha già modulo laboratorio per lab-hab (G047), e Watts usa la stessa parola per le due strutture, quindi modulo tiene l'eco, ed è anche il termine corrente per i moduli gonfiabili delle stazioni spaziali. Le altre quattro rese sono quelle già usate nei blocchi tradotti, e nessuna tocca il senso. Il traduttore aveva indicato sled come ricorrente nel blocco 37, ma lì la parola è sledgehammers.
 
 Deciso da: agente. Data: 2026-11-11. Stato: valida.
+
+## D-59 Una voce nuova del glossario dai termini del blocco 24, e la voce sul riconoscimento di schemi precisata
+
+Decisione: entra nel glossario, approvata dall'agente, G185 eyespot (blocchi 24 e 40): macchia oculare, la resa del traduttore. La voce sul riconoscimento di schemi (G167) dice ora che nel blocco 24 (p02228) background pattern-matching è il mimetismo, reso «Adattamento del disegno allo sfondo», e che lì la segnalazione del controllo è un falso allarme. Gli altri termini proposti dal traduttore del blocco 24 compaiono solo lì (necropsy, setae, contractiles, cryptochrome, Sanduloviciu plasma, remote surgery, slaved), sono parole comuni con la stessa resa ovunque (malfunzionamento), oppure sono già nel glossario (teleoperatori, manipolatori, cloache, cripsi): restano la sua scelta.
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi; nelle note del blocco 40 Watts paragona le macchie oculari degli scrambler a quelle delle ofiure, e le due rese devono coincidere. Macchia oculare è il termine della zoologia, ocelli sono occhi semplici veri e propri. Nel blocco 24 Bates chiede se la creatura si mimetizza, e Cunningham risponde che lo sfondo non corrisponde al disegno: riconoscimento di schemi avrebbe tolto il senso e il gioco fra le due battute.
+
+Deciso da: agente. Data: 2026-11-11. Stato: valida.
