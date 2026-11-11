@@ -595,3 +595,11 @@ Decisione: entra nel glossario, approvata dall'agente, G197 dreamstate, dream st
 Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi; dreamstate torna nel blocco 39, nel discorso di Siri sui vampiri, e l'alternativa stato onirico esiste. Il controllo su burn riconosceva accensione e accendere ma non acceso, e il traduttore del blocco 37 ha scelto una costruzione meno naturale per non far scattare la segnalazione: un controllo non deve spingere la traduzione.
 
 Deciso da: agente. Data: 2026-11-11. Stato: valida.
+
+## D-73 Un miliardo di volte, il titolo italiano di Wegner e nessuna voce nuova dai termini del blocco 40
+
+Decisione: nel blocco 40 (p03725) a good billions times si rende «un buon miliardo di volte», al singolare, e la tabella dei refusi della guida lo registra. Nello stesso blocco (p03739) il libro di Wegner si cita con il titolo dell'edizione italiana, *L'illusione della volontà cosciente* (Carbonio, Milano 2020, traduzione di Olimpia Ellero); Pinker resta *Come funziona la mente*; Koch, Metzinger e Schroeder restano con il titolo originale in corsivo. Nessun termine proposto dal traduttore del blocco 40 entra nel glossario: quelli che hanno già una voce la seguono (schiera, retroazione, senzienza, cecità da disattenzione, saccadico), gli altri compaiono solo nei ringraziamenti e nel saggio (hackerare, intraorganismico, Regina Rossa, neuroni specchio, i titoli delle sezioni del saggio).
+
+Motivazione: la regola sui refusi vuole un numero tradotto com'è, ma a good billions times non si può rendere com'è, e il comunicato NASA che Watts cita nella nota 77 parla di un brillamento a billion times più intenso di quelli di Giove: la s è una lettera in più. La guida (sezione 10, punto 3) vuole il titolo italiano solo se l'edizione esiste ed è certa: per Wegner la ricerca in rete l'ha trovata (recensione sulla Rivista italiana di filosofia del linguaggio, 2020), per Koch non ha trovato un'edizione di *The Quest for Consciousness*, e il traduttore l'aveva data con certezza media.
+
+Deciso da: agente. Data: 2026-11-11. Stato: valida.
