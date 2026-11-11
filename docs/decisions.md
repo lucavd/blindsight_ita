@@ -491,3 +491,11 @@ Decisione: entra nel glossario, approvata dall'agente, G185 eyespot (blocchi 24 
 Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi; nelle note del blocco 40 Watts paragona le macchie oculari degli scrambler a quelle delle ofiure, e le due rese devono coincidere. Macchia oculare è il termine della zoologia, ocelli sono occhi semplici veri e propri. Nel blocco 24 Bates chiede se la creatura si mimetizza, e Cunningham risponde che lo sfondo non corrisponde al disegno: riconoscimento di schemi avrebbe tolto il senso e il gioco fra le due battute.
 
 Deciso da: agente. Data: 2026-11-11. Stato: valida.
+
+## D-60 Una voce nuova del glossario dai termini del blocco 25
+
+Decisione: entra nel glossario, approvata dall'agente, G186 beanstalk (blocchi 25 e 32): ascensore spaziale, la resa del traduttore. Gli altri termini proposti dal traduttore del blocco 25 compaiono solo lì (Rio Spire, la Guglia di Rio; neurotrope e trope, neurotropo e tropo; proprioceptive polyneuropathy; splicer; observer effect), oppure tornano in un blocco già tradotto con la stessa resa (force-feedback, ritorno di forza, come nel blocco 03; skin per il corpo virtuale, pelle, come nel blocco 22): restano la sua scelta.
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Watts usa beanstalk nel senso della fantascienza, il cavo fra un pianeta e l'orbita con il suo contrappeso: nel blocco 25 un beanstalk senza contrappeso si rovescia, nel blocco 32 i beanstalk cadono. Ascensore spaziale è il termine italiano corrente e tiene il senso; si perde l'eco della fiaba di Jack, annotata fra le perdite. Pianta di fagioli, letterale, renderebbe la frase incomprensibile.
+
+Deciso da: agente. Data: 2026-11-11. Stato: valida.
