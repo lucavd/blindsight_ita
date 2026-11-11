@@ -10,6 +10,8 @@ generated:
 
 ## 2026-11-11
 
+La terza sessione di traduzione (T3) ha finito il lavoro e aspetta una decisione del PI (la resa di self-awareness). Prima stesura dei blocchi dal 23 al 34, 1.033 paragrafi, cancelli tutti superati; rapporto di lunghezza mediano 1,12, previsione confermata. Quattro correzioni puntuali alla prima stesura (blocchi 23, 25, 26, 31), fra cui il mantra di Cunningham (decisione sul mantra di Cunningham, D-66). Glossario con 17 voci nuove, 16 approvate dall'agente e una proposta al PI, 196 in tutto, e cinque voci precisate (decisioni sui termini dei blocchi dal 23 al 34, da D-58 a D-69). Tutti e due i dubbi ricevuti chiusi; riprese fra blocchi passate alla seconda, terza, quarta e quinta sessione di revisione e all'ultima di traduzione.
+
 Aperta la terza sessione di traduzione (T3) sui blocchi dal 23 al 34, con Opus 5.5, nella chat cloud svuotata e sul ramo `sessione-T3` (decisione sulla chat cloud riaperta, D-27). Sorgente integra (50 file), epubcheck 4.2.6 presente, nessuna pull request aperta, lavoro della seconda sessione di traduzione già unito nel ramo principale.
 
 ## 2026-11-10
