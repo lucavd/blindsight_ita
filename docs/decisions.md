@@ -507,3 +507,11 @@ Decisione: nel blocco 26 (p02387) compressed methonia si rende «metoniaca compr
 Motivazione: la tabella dei refusi della guida segna methonia come dubbio (metano, o fusione voluta di metano e ammoniaca) e chiede di tradurla com'è, con nota. L'atmosfera di *Rorschach* è metano, ammoniaca e idrogeno (blocco 14), e gli scrambler vanno conservati nella loro aria: la fusione è la lettura più probabile. Metoniaca la ricrea con lo stesso meccanismo (met- di metano, -oniaca di ammoniaca), quindi traduce la parola com'è. Metano avrebbe corretto Watts come se fosse un refuso; metonia, calco della forma inglese, in italiano non richiama l'ammoniaca e suona come un nome di malattia. Il traduttore aveva indicato biopsy dart come ricorrente nei blocchi 30 e 36, ma lì dart non compare.
 
 Deciso da: agente. Data: 2026-11-11. Stato: valida.
+
+## D-62 Due voci nuove del glossario dai termini del blocco 27
+
+Decisione: entrano nel glossario, approvate dall'agente, due voci per termini del blocco 27 che tornano in altri blocchi: G187 pen e holding pen, le celle degli scrambler (blocchi 27, 28, 30, 31): recinto, recinti di contenimento, la resa del traduttore; G188 fourth wave (blocchi 09 e 27): quarta ondata, minuscola dove Watts la scrive minuscola (blocco 09) e con le maiuscole dove le usa lui (blocco 27). Gli altri termini proposti dal traduttore del blocco 27 compaiono solo lì (squeezebulb, bulbo spremibile, in linea con la voce sul bulbo; transects, transetti; spinal lock, aggancio spinale; reconformation, riconformazione): restano la sua scelta.
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi. Recinto distingue le celle degli scrambler dalle gabbie, che sono cage. Per la quarta ondata la maiuscola segue Watts, come per gli altri termini che lui scrive ora minuscoli ora maiuscoli (la voce sugli Umani).
+
+Deciso da: agente. Data: 2026-11-11. Stato: valida.
