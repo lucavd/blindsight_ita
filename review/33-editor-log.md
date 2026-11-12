@@ -71,3 +71,18 @@ Ogni intervento è stato verificato sul paragrafo inglese.
 # Da segnalare
 
 Nessuna voce del glossario o forma di cortesia da cambiare. Le tre scelte ricevute dalle sessioni precedenti (p02971, p02988, p03026) sono rimaste intatte; le battute di Sarasti non sono state completate.
+
+# Seconda lettura
+
+- p03045, nuance, medium, accettato con variante: «E contrattacca.»; «E reagisce.» in un capitolo sulle risposte automatiche potrebbe leggersi come semplice reazione a uno stimolo, contrattacca tiene la risposta colpo su colpo e l'aggressività della chiusa.
+- p02968, register, low, accettato: «Ma pensa, potremmo arrivare alle stelle.»; tiene l'interiezione ironica senza il colore antiquato, e riprende i due «Pensa» del paragrafo prima.
+- p02969, nuance, low, accettato: «i sogni e i fantasmi che restavano».
+- p02975, nuance, low, accettato: «La *Theseus* stava *ruotando su se stessa*»; su se stessa tiene la rotazione attorno all'asse della nave, che era la ragione del rifiuto in prima revisione, senza l'oscillazione del rollio né il gergo; la balena che si rigira e il ventre alle stelle restano nella similitudine. Corsivo sull'intero gruppo verbale, che corrisponde a rolling.
+- p02978, meaning, low, accettato con variante: «Sobbalzai. A sentirlo, sembrava che il vampiro fosse proprio lì, accanto alla mia spalla.»; corretto il tempo (congiuntivo imperfetto, contemporaneità), tenuto «A sentirlo» perché senza un appiglio uditivo It sounded si perde e «Dalla voce» era più pesante.
+- p02980, calque, low, accettato con variante: «il cuore mi si fece pesante»; non ricalca my heart sank, tiene l'immagine del cuore e un moto verso il basso, e dice lo sconforto (cuore pesante) e non la vergogna di «mi sentii sprofondare», che resta scartato. «Mi si strinse il cuore» scartato perché dice pena o compassione.
+- p02985, calque, low, accettato: «*Ha bevuto a sazietà*».
+- p02985, nuance, low, respinto: washed out è il lavaggio fisiologico (washout) con cui il sangue porta via il lattato, come dice la fine della frase; «irroravano» perde proprio la pulizia, che qui è lo scopo.
+- p03005, addition, low, accettato: «Stai *avvelenando*–»; la battuta troncata resta senza oggetto, come in inglese.
+- p03038, calque, low, accettato: «quasi un'aggiunta a cose fatte»; a cose fatte si accorda col corpo che ha già agito.
+
+Respinto 1 rilievo di gravità bassa (p02985, washed out). Modificati 9 paragrafi, solo quelli dei rilievi; p02971, p02988, p03026 intatti. Ogni intervento è stato verificato sul paragrafo inglese.
