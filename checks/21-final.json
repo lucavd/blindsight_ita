@@ -1,0 +1,30 @@
+{
+ "chunk": "21",
+ "stage": "final",
+ "file": "/home/user/blindsight_ita/translation/final/21.md",
+ "gates": {
+  "format": [],
+  "markers": [],
+  "empty": [],
+  "scene_breaks": [],
+  "forbidden_chars": [],
+  "placeholder_misuse": [],
+  "epigraph_decisions": []
+ },
+ "flags": {
+  "ratio_out_of_bounds": [],
+  "english_residue": [],
+  "glossary_misses": [
+   "p02028: bridge -> atteso plancia"
+  ],
+  "emphasis_count_differs": [
+   "p01955"
+  ],
+  "identical_to_source": []
+ },
+ "placeholders": [],
+ "ratio_median": 1.086,
+ "paragraphs": 77,
+ "changed_share": 0.187,
+ "ok": true
+}
