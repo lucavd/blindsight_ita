@@ -41,3 +41,17 @@
 - p01842, «che giocavano con il tuo ragazzo» diventa «giocare con il tuo ragazzo»: l'imperfetto stonava nel racconto al presente; l'infinito dopo guardare è la costruzione italiana di watching as.
 
 Ogni intervento è stato verificato sul paragrafo inglese.
+
+# Seconda lettura
+
+- p01838, calque, low, accettato: «è un bel risultato, per chiunque».
+- p01839, rhythm, low, accettato con variante: «cacciare le persone è quello che i succhiasangue si sono evoluti per *fare*», senza il «proprio» della proposta, che l'inglese non ha; l'enfasi torna in chiusura come in *do*.
+- p01840, nuance, low, accettato: «*Le prede corrono per salvarsi la vita.*» (run for their lives è fuggire per salvarsi, non «per sempre»).
+- p01842, calque, low, respinto: geckoed è un verbo coniato e passivo (fissata da altri con l'adesione a geco); «attaccata a geco», sul modello di «attaccata a ventosa», tiene la coniazione, mentre «come un geco» ne fa una similitudine e suggerisce che sia lei ad aggrapparsi.
+- p01842, calque, low, accettato: «Ma non lo permettono.»
+- p01850, nuance, low, accettato con variante: «stordita» invece di «inebetita», che resta lo stordimento emotivo di numbly senza l'ottusità che stride con «cercando di capire dov'è il trucco».
+- p01853, calque, low, accettato: «Non prometto niente.» (caporale aperta invariata).
+- p01859, addition, low, accettato: «Non sono del tutto ostile.»; il destinatario resta implicito come in unsympathetic.
+- p01870, nuance, low, respinto: la stesura è troncata prima del verbo come «We just—» e non completa nulla; «ci limitiamo a» è il modo italiano di dire we just; «E noi– e basta–» aggiunge una doppia esitazione e una congiunzione che l'inglese non ha.
+- p01872, meaning, medium, accettato con variante: «a braccia aperte in alto lungo la parete, come un corpo di ballo di Cristi in croce»; «lungo» tiene across (i quattro sparsi sulla parete).
+- p01878, nuance, low, accettato: «scalpi dei nostri», che rende friendly come forze proprie ed echeggia i «*nostri* assassini e stupratori» di p01877.
