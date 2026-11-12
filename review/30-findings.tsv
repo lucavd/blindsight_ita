@@ -1,0 +1,99 @@
+pid	verdict	type	severity	problem	proposal
+p02691	issue	doubt	low	Dubbio 1: concordo. «Più strani» tiene il rovesciamento di Nietzsche sulla forma italiana corrente; giusto far cadere la virgola fra soggetto e verbo. La perdita dell'assonanza è inevitabile ed è annotata.	«Ciò che non ci uccide ci rende più strani.»
+p02692	ok
+p02693	issue	doubt	low	Dubbio 2: concordo con il voi e con il pronome espresso, che oppone il voi al noi di «Qui non *votiamo*». «Continuate a non votare» potrebbe far pensare a un'astensione, ma il contesto lo esclude; «Ancora non votate» sarebbe più ambiguo (non avete ancora votato).	«Voi continuate a non votare», disse Sarasti.
+p02694	issue	doubt	low	Dubbio 3: concordo con il presente e il tu generico (Lascia perdere, pensa, Guardi), con «ammazzapianeti» e con «non a priori».
+p02694	issue	nuance	low	«Nelle desolazioni sconfinate»: il plurale astratto «desolazioni» per wastelands suona innaturale; meglio un nome concreto di spazio.	nelle distese desolate e sconfinate della nube di Oort
+p02695	issue	doubt	low	Dubbio 4: concordo con «alzare le mani», che dice la resa come throw up their hands; «allargare le braccia» perderebbe la resa.
+p02696	issue	doubt	low	Dubbio 5: concordo con «cattura e rilascio» senza trattini.
+p02696	issue	nuance	low	«Secondo qualunque criterio sano di mente»: un criterio non è «sano di mente»; by any sane measure vuol dire con qualunque metro ragionevole. Si può tenere l'eco della sanità mentale (contro il suicidio) con «senno».	a qualunque metro di buon senno, rasentava il suicidio
+p02697	issue	doubt	low	Dubbio 6: concordo con canne per muzzles e bocche da fuoco per gun ports (glossario), con «ogni superficie infestata di rilievi» e con «la cacò», che tiene la crudezza di shat.
+p02698	ok
+p02699	issue	nuance	low	«Mi voltai dall'oblò» è poco idiomatico: voltarsi da qualcosa non dice che si smette di guardarla, come turned from the port.	Mi staccai dall'oblò.
+p02700	ok
+p02701	issue	doubt	low	Dubbio 7: concordo; l'accordo di «necessari» (i cubi) e «necessarie» (le postazioni, p02731) segue il nome sottinteso senza cambiare il senso.
+p02702	ok
+p02703	ok
+p02704	issue	doubt	low	Dubbio 8: concordo; «per *quanto* addentro al sistema ci si trovasse» tiene l'ambiguità fra sistema solare e sistema di potere, e i due tratti in corsivo con la virgola in tondo sono corretti.
+p02705	issue	doubt	low	Dubbio 9: concordo con «Virai a babordo» e con la ripresa velica in p02737 («se ne andò veleggiando»).
+p02706	ok
+p02707	issue	calque	low	«Si mandavano colpetti avanti e indietro» ricalca tapping back and forth; in italiano lo scambio si dice con il verbo.	che si scambiavano colpetti
+p02708	ok
+p02709	ok
+p02710	ok
+p02711	ok
+p02712	ok
+p02713	ok
+p02714	issue	doubt	low	Dubbio 10: concordo con «vicinato», che tiene l'eco del «Benvenuti nel vicinato» di Rorschach.
+p02715	issue	doubt	low	Dubbio 11: concordo con «afferrai il concetto» / «Afferrai anche l'altro concetto», che tiene la ripetizione, e con il frammento «Un sintetista di prima categoria come te» in p02716.
+p02716	ok
+p02717	ok
+p02718	ok
+p02719	issue	doubt	low	Dubbio 12 e dubbio ricevuto: la resa è coerente con la versione finale di p00816 («Sapessimo prevedere i vampiri, non avremmo *bisogno* dei vampiri, eh?»): stessi «prevedere» e «non avere bisogno», qui con il se esplicito come nell'if inglese, al singolare e senza eh?. Corsivo sull'intera frase come nella sorgente. Il riferimento della nota alla forma vecchia del blocco 09 va ignorato.	«*Se sapessi prevedere un vampiro, non avresti bisogno di un vampiro*», ricordai.
+p02720	issue	doubt	low	Dubbio 13: concordo con «la pubblicità»; «la propaganda» caricherebbe il tono oltre the PR.
+p02721	ok
+p02722	issue	nuance	medium	Dubbio 14: «così fottutamente stupido da non crederci» è ambiguo, perché si può leggere come «tanto stupido da non credere (alla logica sovrumana)», cioè con Siri come soggetto di crederci. In inglese è lei che non riesce a crederci (she couldn't believe it). Serve una costruzione che dia a lei l'incredulità.	pensando che fossi così fottutamente stupido che quasi non ci credeva
+p02723	ok
+p02724	ok
+p02725	issue	doubt	low	Dubbio 15: concordo con la sintassi nominale e con «senza fili» per wireless.
+p02726	issue	nuance	medium	«Io me la passo in plancia»: passarsela vale «stare (bene o male)» (come te la passi?), non «aspettare che passi». I'm going to ride this out vuol dire superare la manovra restando lì.	Io aspetto che passi in plancia.
+p02727	ok
+p02728	ok
+p02729	ok
+p02730	ok
+p02731	ok
+p02732	ok
+p02733	issue	doubt	low	Dubbio 16: concordo; lo spazio prima della virgoletta di chiusura è un refuso tipografico da non riprodurre, e «uccisa» al femminile è corretto.
+p02734	ok
+p02735	ok
+p02736	issue	doubt	low	Dubbio 17: concordo con «Come niente di niente», che mette in primo piano il nulla della morte di Bates; l'indescrivibile resta affidato a «Non potresti mai immaginarlo».
+p02737	issue	nuance	medium	Dubbio 18: «Forse non ti serve» (presente, aver bisogno) scioglie il legame con imagine della battuta prima e spegne la minaccia: Maybe you don't have to vuol dire che Siri potrebbe non doverlo immaginare perché lo proverà. L'ellissi con dovere tiene il legame e la minaccia.	«Forse non dovrai», aggiunse
+p02739	issue	nuance	low	«Pigiava con indifferenza» attenua stabbed (colpi secchi, a scatti); indifferently qui vale anche svogliatamente, in linea con listless di p02781.	picchiettava svogliata su un tastierino
+p02740	issue	doubt	low	Dubbio 19: concordo con «forme fatte con lo stampino», che tiene lo stampo e lo stereotipo, e con «trisceli».
+p02741	ok
+p02742	ok
+p02743	issue	doubt	low	Dubbio 20: concordo con «soggetto-verbo» minuscolo.
+p02744	issue	doubt	low	Dubbio 21: concordo con «le braccia vertebrate, che si dimenavano» e con «piastra tattile» come nel blocco 29.
+p02745	ok
+p02746	issue	doubt	low	Dubbio 22: concordo con «circuito d'attesa» e con «i picchi e le frastagliature» (picchi di grafico, falso allarme sulla voce del picco del campo).
+p02747	ok
+p02748	issue	doubt	low	Dubbio 23: concordo con «su cui era inciampato» e con la ripresa «inciampino» in p02753, che lega le due frasi senza aggiungere senso.
+p02749	ok
+p02750	ok
+p02751	ok
+p02752	ok
+p02753	issue	doubt	low	Dubbio 24: concordo con l'eco «La seconda volta ci ha preso» / «La seconda volta ci prese» (p02784) e con «col pensiero dà dei punti a un vampiro», coerente con il blocco 29.
+p02754	issue	doubt	low	Dubbio 25 e dubbio ricevuto: «un qualche mantra a due tempi» ha i due battiti che il blocco 31 scioglierà in «cazzo cazzo»; qui non compare a single indistinct syllable, quindi nulla da cambiare rispetto alla decisione sul mantra di Cunningham (D-66).
+p02755	issue	doubt	low	Dubbio 26: concordo con *visione cieca* e con le coniazioni «il *tatto* cieco», «l'*olfatto* cieco», «l'*udito* cieco» (corsivo sulla parte enfatizzata); la battuta sulla sordità in p02758 regge.
+p02756	ok
+p02757	ok
+p02758	ok
+p02759	issue	doubt	low	Dubbio 27: concordo con la lineetta attaccata e seguita da spazio negli anacoluti («non ne sei– consapevole», e in p02761 «Questi scrambler– le risposte»), come vuole la guida.
+p02760	ok
+p02761	ok
+p02762	ok
+p02763	ok
+p02764	issue	doubt	low	Dubbio 28: concordo con *trasparente*, che dice la leggibilità per Siri meglio di «limpida».
+p02765	ok
+p02766	issue	doubt	low	Dubbio 29: concordo con «nell'aria» (glossario, resa a senso per questo blocco) e con «Cunningham il borbottatore».
+p02767	issue	doubt	low	Dubbio 30: concordo con «Poteva anche esserlo. Potevamo esserlo tutti.», con il punto fuori dal corsivo di *parcheggiato* e con il frammento «Che si riempivano di un esercito».
+p02768	issue	doubt	low	Dubbio 31 e dubbio ricevuto: «aculeo» è anzitutto il pungiglione di un animale e rimanda agli aculei di Rorschach (spines), che Watts qui non nomina; aggiunge un'immagine. Consiglio «spuntone»: è la resa di spikes per le sporgenze di Rorschach nel blocco 12 (stessa parola inglese), ha il peso di un oggetto che si pianta e lascia trasparire il paletto nel cuore del vampiro senza dichiararlo. «Punta» è corretto ma più debole. Decide il redattore.	conficcare un qualche spuntone invisibile nel cuore della *Theseus*
+p02769	issue	doubt	low	Dubbio 32: concordo con «la pompa di antieuclidei» (glossario); le cinque persone tornano.
+p02770	issue	doubt	low	Dubbio 33: concordo con «scalciato via», che tiene il calcio e l'immagine del parto (scalciare via si usa anche transitivo); «sganciato» lo perderebbe. Postazioni di tiro e postazioni conformi al glossario.
+p02771	ok
+p02772	ok
+p02773	issue	doubt	low	Dubbio 34: concordo con «il transiente si era fatto silenzioso», che tiene l'eco dell'orca di Szpindel (glossario).
+p02774	issue	doubt	low	Dubbi 35 e 36: concordo con «L'immancabile bastoncino di nicotina» e con «scaglie» per i due flecks (qui e in p02775).
+p02775	ok
+p02776	ok
+p02777	issue	doubt	low	Dubbio 37: il modo di dire con Letteralmente va tenuto, ma «Alcuni pezzi tornano al loro posto. Altri– hanno i nervi a pezzi» ripete pezzi a due parole di distanza, un'eco assente in inglese. «A brandelli» è un modo di dire che regge Letteralmente e recupera lo sfilacciamento di frayed (e il tentacolo sfilacciato di p02740).	Altri– hanno i nervi a brandelli, senza un buon motivo. Letteralmente.
+p02778	ok
+p02779	issue	doubt	low	Dubbio 38: concordo con «il valore preesponenziale», fedele a value, e con «e– *merda*–».
+p02780	ok
+p02781	issue	meaning	medium	«Stretch osservò quello che lei aveva digitato con la sua meravigliosa pelle vedente»: il complemento si attacca a «digitato», e si legge che Susan ha digitato con la pelle. La pelle vedente è di Stretch: va messa accanto a «osservò». Per il resto concordo con il dubbio 39 («quello che lei aveva digitato» per her input; «svogliata quanto i prigionieri a cui dava ordini»).	Stretch osservò con la sua meravigliosa pelle vedente quello che lei aveva digitato.
+p02782	issue	doubt	low	Dubbi 40 e 41: concordo con «Lui» come soggetto (senza, il gesto andrebbe a Stretch), con «carotatore clinico», «Con o senza visione cieca», lo stupro non attenuato, «il fantasma nella macchina in persona» e con «e–» / «–e all'improvviso».
+p02782	issue	rhythm	low	«Non serviva quasi.» ha un ordine delle parole innaturale per It was hardly necessary.	Non ce n'era quasi bisogno.
+p02783	ok
+p02784	ok
+p02785	ok
+p02786	issue	doubt	low	Dubbio 42: concordo con il corsivo spezzato e «nessuno» in tondo come anyone.
