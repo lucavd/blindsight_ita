@@ -47,3 +47,18 @@ Ogni intervento è stato verificato sul paragrafo inglese.
 # Da segnalare
 
 Nessuna voce del glossario o forma di cortesia da cambiare. Il passaggio di Bates al tu con Sarasti resta in p03088, e i presenti di Sarasti fluente (p03081-p03084, p03089) restano intatti. In p03088 «ne sei fuori» potrebbe richiamare per un attimo il colloquiale «sei fuori» (sei pazzo); il «ne» lo ancora ai fanti, e lo si lascia.
+
+# Seconda lettura
+
+- p03049, addition, low, accettato: «quando il leone ti balza addosso dall'erba»; alta non c'è in from the grasses.
+- p03059, omission, low, accettato: «tutto quello che avessi mai avuto per toccare* qualcuno»; torna had (avere) con ever, e il periodo scorre meglio nel flusso d'ira.
+- p03077, nuance, low, accettato: «Be', *noi* le abbiamo *battute*, porca miseria, *le alternative*.»; porca miseria rende l'imprecazione leggera di damn well, e il corsivo resta su noi e su battere le alternative.
+- p03104, nuance, low, accettato: «della mia riservatezza e della mia umiliazione»; disgrace è la condizione di chi è stato umiliato, non il sentimento.
+- p03111, nuance, low, accettato con variante: «aveva soltanto un gran bisogno di distrarsi dall'imminenza del nemico»; tiene la forza di craved senza il «disperato» proposto, che il testo non ha.
+- p03116, meaning, medium, accettato con variante: «l'evoluzione la estirpa in un *attimo*»; in un attimo rende just like that, con il corsivo sulla parola che porta l'enfasi; si tiene estirpa invece di «fa fuori» perché p03117 lo riprende («Forse l'ha estirpata»), e quel paragrafo non si tocca.
+- p03123, calque, low, accettato: «completamente inconsapevole di quello che fa».
+- p03125, calque, low, accettato con variante: «Basta andare avanti abbastanza a lungo e nessun essere cosciente»; la proposta («Va' avanti così») restava un imperativo rivolto a Sascha, mentre «basta» rende generico Keep it up.
+
+Nota su p03125, senza modifica: would be able è un condizionale e il testo ha «sarà in grado»; lo si lascia perché fuori dal rilievo, e il futuro regge con «Sarà perfino in grado» della frase dopo (It'll).
+
+Ogni modifica della seconda lettura è stata verificata sul paragrafo inglese.
