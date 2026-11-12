@@ -54,3 +54,14 @@ Nessun rilievo respinto.
 - p00259: «origami strappato» diventa «origami strappati»; in italiano origami è un nome numerabile e invariabile, l'accordo al singolare suonava come un errore.
 
 Ogni intervento è stato verificato sul paragrafo inglese.
+
+# Seconda lettura
+
+- p00202, calque, low: accettato con una variante («sono chiamato a fare»: si fa un'imitazione, e «chiamato a» tiene called on, che «mi tocca» attenuava).
+- p00215, rhythm, low: accettato («ci avessero messo così a lungo»).
+- p00259, nuance, low: accettato con una variante («*rientrava* da un lavoro»: l'articolo indeterminativo toglie il rientro quotidiano e «lavoro» resta in parallelo con «partiva per un lavoro» del paragrafo prima, che «incarico» avrebbe rotto).
+- p00261, nuance, low: accettato («Tirai il filo con estrema delicatezza»).
+- p00298, calque, low: accettato con una variante («agli elementi critici per la missione non era concesso il lusso della scelta»: «concesso» rende get, il lusso ricevuto e non scelto).
+- p00300, nuance, low: accettato con una variante («È il meno, di tutto quello che abbiamo fatto.»: «tutto» rende chiaro che è la più piccola fra le cose fatte).
+
+Nessun rilievo respinto. Ogni modifica è stata verificata sul paragrafo inglese.
