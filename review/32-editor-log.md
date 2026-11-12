@@ -65,3 +65,16 @@ Ogni intervento è stato verificato sul paragrafo inglese.
 
 - p02887: la frase «*Rorschach* non vi fa niente che non vi facciate già da soli» è rimasta identica alla prima stesura. Il blocco 40 (p03714) non va riallineato.
 - p02885: il passaggio dal tu al voi in bocca a Sarasti è una scelta sul destinatario, non sulla forma di cortesia: il voi è un plurale rivolto alla specie, come previsto dalla scheda dei personaggi. Nessuna voce del glossario o forma di cortesia da cambiare.
+
+# Seconda lettura
+
+- p02933, meaning, medium, accettato: «Mi piombò addosso come un fulmine dalla nube di Oort»; il fulmine richiama «un fulmine a ciel sereno» con la nube di Oort al posto del cielo, come Watts mette Oort al posto di blue, e la similitudine toglie l'idea che Chelsea chiamasse davvero da lì (è a Boston, p02936).
+- p02859, rhythm, low, accettato: «illuminata da sotto dal tavolo delle riunioni».
+- p02869, nuance, low, accettato: «e crivelliamo di *buchi* i loro conduttori»; tiene la violenza di blowing holes e il corsivo.
+- p02869, nuance, low, accettato: «quei campi dovrebbero essere configurati»; would be è un'ipotesi di Cunningham.
+- p02910, nuance, low, accettato: «nessuno di quei diodi avrebbe nemmeno baluginato».
+- p02929, nuance, low, accettato: «Tu lasciala stare.»; chiude la serie dei Tu di Cruncher.
+- p02941, nuance, low, accettato: «la notizia era già uscita»; rende by the time.
+- p02958, typography, low, accettato: «Siri, io... solo...»; la guida fissa i tre punti, e lo spazio dopo i puntini seguiti da parola è l'uso dei blocchi già finali quando non si tratta di balbettio.
+
+Nessun rilievo respinto. Modificati solo i paragrafi dei rilievi; p02885 e p02887 non toccati.
