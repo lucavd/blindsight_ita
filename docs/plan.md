@@ -47,6 +47,8 @@ Tempi misurati nella terza sessione di traduzione (T3), su 12 blocchi (dal 23 al
 
 Tempi misurati nell'ultima sessione di traduzione (T4), su 7 blocchi (dal 35 al 41, 21.779 parole), con Opus 5.5. Durata del traduttore da 6,1 a 9,5 minuti per blocco, 55,3 minuti in tutto: 2,5 minuti per mille parole, ma il blocco 41 è quasi tutto note bibliografiche da ricopiare; senza di lui 2,8, come in T1 e T2. Dal primo lancio all'ultimo controllo sono passati 64 minuti, quindi il coordinamento ha preso circa 9 minuti, poco più di un minuto per blocco. La stima per le sessioni di revisione resta quella del pilota.
 
+Tempi misurati nella prima sessione di revisione (R1), su 6 blocchi (dal 02 al 07, 16.338 parole), con Opus 5.5. Revisore da 2,8 a 4,1 minuti per blocco, redattore da 2,3 a 3,2; insieme 37,1 minuti, 2,3 minuti per mille parole (nel pilota 2,9). Dal primo lancio all'ultimo controllo 45 minuti, compresa una seconda lettura del blocco 02 (revisore sulla versione finale, verifica dei rilievi medi, redattore sui fondati) che è costata 4,6 minuti, 1,4 minuti per mille parole. Una sessione di revisione dura quindi meno della stima del pilota; con la seconda lettura come passaggio fisso resterebbe dentro la stima.
+
 # Perché questi modelli
 
 Sonnet 5.5 solo per S0, che è lavoro meccanico (scaricare, dividere, contare) dove un modello più grande non cambia il risultato.
