@@ -1,0 +1,99 @@
+pid	verdict	type	severity	problem	proposal
+p00956	issue	doubt	low	Dubbio 1: d'accordo nel tradurre il testo di Watts, che rovescia Hare; la battuta va resa com'è, non corretta sulla fonte.	nessuna modifica
+p00957	issue	doubt	low	Dubbio 1: d'accordo con il titolo originale in corsivo; non risulta un'edizione italiana certa di Without Conscience, e la guida chiede il titolo italiano solo se certo.	nessuna modifica
+p00958	issue	nuance	low	«finché non si furono consumati del tutto» fa pensare agli specchi che si consumano; burned dry è il carburante dei petardi che si esaurisce.	finché non ebbero bruciato fino all'ultimo
+p00958	issue	doubt	low	Dubbio 2: d'accordo con «Ci riuscimmo con gli specchi» (gli specchi sono veri, la perdita dell'eco del trucco è annotata), con «mercuriali» e con «nevischio di gamma».	nessuna modifica
+p00959	issue	doubt	low	Dubbio 3: d'accordo con «accendevano i motori» per burned, conforme alla voce del glossario, e con il polisindeto tenuto.	nessuna modifica
+p00960	issue	doubt	low	Dubbio 4: d'accordo con «Quando arrivò il momento in cui non tornò in vista», che tiene la stortura voluta. Sfaccettature per l'occhio composto va bene: il termine tecnico sarebbe faccette, ma l'eco con le sfaccettature di Siri in p00996 vale di più. «Uno schema che esplode» e «posizione dominante» vanno bene.	nessuna modifica
+p00961	ok
+p00962	issue	calque	low	«setacciò i bagliori dal cielo» ricalca sieved from the heavens: in italiano si setaccia un luogo, non i bagliori da un luogo.	Il Capitano setacciò il cielo in cerca di bagliori e li cucì insieme in una vista composita.
+p00962	issue	doubt	low	Dubbio 5: d'accordo con «a sinistra della scena» e con il passato remoto per setacciò e cucì.	nessuna modifica
+p00963	ok
+p00964	issue	doubt	low	Dubbio 6: d'accordo con «sforzo di taglio» e «strati limite», forme della fluidodinamica italiana.	nessuna modifica
+p00965	issue	doubt	low	Termine proposto 1: d'accordo con «effetto facola», minuscolo anche in p00973; i sottotitoli che seguono glossano il termine come in Watts.	nessuna modifica
+p00966	ok
+p00967	issue	doubt	low	Termini proposti 2 e 6: d'accordo con «subnana di Oasa» (coerente con la voce su Oasa) e con «transatlantico a effetto suolo».	nessuna modifica
+p00968	ok
+p00969	issue	calque	low	«impacchettare l'enigma come un regalo nello sfondo rifratto»: nello sfondo si legge come luogo (sullo sfondo), non come la carta da regalo; l'inglese dice che lo sfondo è l'incarto.	si limitava a incartare l'enigma con lo sfondo rifratto, come un regalo
+p00969	issue	doubt	low	Dubbio 7: d'accordo con «toroide» (toro si leggerebbe come l'animale), «cristallo fumé» e «guglie affusolate».	nessuna modifica
+p00970	ok
+p00971	issue	doubt	low	Dubbio 8: d'accordo con «Rispondi», tu di Sarasti a James come da scheda.	nessuna modifica
+p00973	issue	rhythm	low	«Poco prima di uscire veleggiando dalla portata» è contorto; uscire dalla portata non è italiano corrente, si dice fuori portata.	Poco prima di allontanarsi veleggiando fuori portata, uno specchio cruciale intravide un altro aculeo
+p00973	issue	doubt	low	Dubbio 9 e termine proposto 7: d'accordo con «E così fece», le cifre con la virgola, «gli altri lo spiavano» ambiguo come in inglese, «fischi radio» e «Successione di Fibonacci».	nessuna modifica
+p00974	issue	doubt	low	Dubbio 10: d'accordo con «Ditemi», al gruppo.	nessuna modifica
+p00975	issue	doubt	low	Dubbio 11: d'accordo con «Capsula seminale»: è il termine botanico e la segnalazione sul glossario delle capsule mediche è un falso allarme.	nessuna modifica
+p00976	issue	doubt	low	Dubbio 12: d'accordo con «stillicidio»; la segnalazione su trickle è un falso allarme già previsto nella voce del glossario.	nessuna modifica
+p00977	ok
+p00978	issue	doubt	low	Dubbio 13: d'accordo con «cintura nera kepleriana» minuscolo e con il refuso di accordo assorbito. Per «esattamente, totalmente caotiche» si può tenere la congiunzione di Watts (precisely and utterly), che fa sentire meglio la coppia precisione e caos.	esattamente e totalmente caotiche
+p00979	ok
+p00980	ok
+p00981	issue	rhythm	low	«fino alla decima cifra decimale» ripete decima e decimale; to ten decimal places si rende più piano.	fino a dieci cifre decimali
+p00981	issue	doubt	low	Dubbio 14: d'accordo con «Dati luminosi» e con let along assorbito; la perdita di intel è annotata.	nessuna modifica
+p00982	ok
+p00983	issue	addition	low	Il secondo «Nemmeno» non c'è in inglese (Quanticle computers can't do that): Bates passa dai vampiri alle macchine con una frase piana, e la ripetizione di ci riescono basta a fare il parallelo.	I computer a quanticelle non ci riescono.
+p00983	issue	doubt	low	Termine proposto 3: d'accordo con «computer a quanticelle», che tiene l'invenzione di Watts; computer quantistici la cancellerebbe.	nessuna modifica
+p00984	ok
+p00985	ok
+p00986	issue	doubt	low	Dubbio 15: d'accordo con il voi, coerente con il noi della risposta di Rorschach e con la scheda (il tu di Sascha arriva in p01030-p01032).	nessuna modifica
+p00987	issue	doubt	low	Dubbio 16: d'accordo con «specifiche» contro «specifiche tecniche» di p00988; la perdita è annotata.	nessuna modifica
+p00988	ok
+p00989	ok
+p00990	issue	doubt	low	Dubbio 17: d'accordo con «Con quel cazzo di Gesù di Nazareth», stessa forza e posizione naturale; l'alternativa con fottuta sarebbe un calco.	nessuna modifica
+p00991	ok
+p00992	issue	terminology	medium	«equivalente informativo» si legge come equivalente che informa; informational qui è tecnico (teoria dell'informazione). Il glossario, per informational topologies, sceglie informazionale proprio per evitare informativo.	l'equivalente informazionale di *Dobbiamo dare il tributo a Cesare*
+p00992	issue	doubt	low	Dubbio 18: d'accordo con «Dobbiamo dare il tributo a Cesare» senza punto interrogativo, sul modello della CEI.	nessuna modifica
+p00993	ok
+p00994	issue	doubt	low	Dubbio 19: d'accordo con «se il giudeo calza...»: calzare regge l'immagine della scarpa e il lettore riconosce il gioco; giudeo è più tagliente di ebreo, come vuole Sascha. La perdita del suono è annotata.	nessuna modifica
+p00995	ok
+p00996	issue	doubt	low	Dubbio 20: d'accordo con «macchiolina», «Si eclissò» e l'impersonale «Si accettano richieste di informazioni», coerente con il protocollo.	nessuna modifica
+p00997	ok
+p00998	ok
+p00999	ok
+p01000	ok
+p01001	ok
+p01002	issue	doubt	low	Dubbio 21: d'accordo con i due punti prima della battuta.	nessuna modifica
+p01003	issue	rhythm	low	«confermò la mia ipotesi: il limite ipotetico» ripete la radice; in inglese è guess contro hypothetical, due parole diverse.	ConSensus confermò la mia supposizione: il limite ipotetico della vista delle Lucciole.
+p01003	issue	doubt	low	Dubbio 24: d'accordo con le lineette attaccate a timone e a la macchia, secondo la guida, e con «cosa rara».	nessuna modifica
+p01004	issue	doubt	low	Dubbio 22: d'accordo con «Non tutti noi abbiamo» e con «vasche» senza aggiunte.	nessuna modifica
+p01005	issue	doubt	low	Dubbio 23: d'accordo con le virgolette alte su “Vasche”: senza, l'accordo singolare sembrerebbe un errore.	nessuna modifica
+p01006	ok
+p01007	issue	doubt	low	Dubbio 25: d'accordo con «Prende troppe cose per buone».	nessuna modifica
+p01008	issue	doubt	low	Dubbio 26: d'accordo con la resa di cycled back e con «Ancora non sapevano», senza accordo di genere.	nessuna modifica
+p01009	ok
+p01010	issue	doubt	low	Dubbio 27: d'accordo con il voi di Rorschach qui e in p01029; la scheda riserva il tu di Rorschach a Susan.	nessuna modifica
+p01011	issue	doubt	low	Dubbio 28: d'accordo; ricamano, albero di famiglia, nipoti e il fastidio dei cugini danno almeno tre ambiguità reali, e p01013 regge. La lettura sessuale di lie with si perde, ma è annotata.	nessuna modifica
+p01012	ok
+p01013	issue	meaning	low	«averla analizzata» rimanda a un femminile (la frase) che nel testo non c'è; that in inglese è neutro.	Non *può* averlo analizzato.
+p01013	issue	doubt	low	Dubbio 29: d'accordo con essere in tondo dentro il corsivo, come be in Watts.	nessuna modifica
+p01014	ok
+p01015	ok
+p01016	issue	calque	low	«fuori dal giro» in italiano vuol dire di solito escluso da un ambiente; out of the loop qui è non aver capito, non essere informato. Il refuso tipografico della sorgente è assorbito bene (dubbio 30).	Bates era ancora all'oscuro.
+p01017	ok
+p01018	ok
+p01019	issue	rhythm	low	«non andava del tutto» suona monco; wasn't quite right è non era del tutto a posto.	Qualcosa sul lato opposto del tamburo non era del tutto a posto.
+p01019	issue	doubt	low	Dubbio 31: d'accordo con «condotti», conforme al glossario, e con «fascio spinale».	nessuna modifica
+p01020	issue	doubt	low	Dubbio 32: d'accordo con «non quadrasse tornò a quadrare», che tiene la simmetria wrong/right.	nessuna modifica
+p01021	issue	nuance	low	some alien artefact ha un tono sbrigativo, Siri distratto che sminuisce: «un manufatto alieno» lo perde.	Sascha parlava con un qualche manufatto alieno all'altro capo di un raggio laser.
+p01021	issue	doubt	low	Dubbio 33: d'accordo con «cugini di secondo grado della madre» (precisione assurda tenuta, la non coincidenza dei gradi è annotata), con «giunture» e con «Cro-Magnon».	nessuna modifica
+p01022	ok
+p01023	ok
+p01024	issue	doubt	low	Dubbio 34: d'accordo con l'impersonale «Bisognava parlarne», che tiene la frase senza soggetto.	nessuna modifica
+p01026	issue	doubt	low	Dubbio 35 e termine proposto 4: d'accordo con «duri come Hobbliniti» e con il suffisso -iti, che tiene insieme popoli e minerali.	nessuna modifica
+p01027	ok
+p01028	ok
+p01029	ok
+p01030	issue	doubt	low	Dubbio 36: d'accordo con la virgola fuori dalle caporali e la lineetta attaccata per la battuta che si interrompe.	nessuna modifica
+p01031	ok
+p01032	issue	doubt	low	Dubbio 37: d'accordo, nessuna modifica proposta. La dislocazione «me lo succhi e basta, il mio cazzone grosso e peloso» è parlato italiano naturale, rende just con e basta e tiene la crudezza; la ripresa di p01086 (il cazzone grosso e peloso) resta allineata così com'è.	nessuna modifica
+p01033	issue	calque	low	«fissavano, a bocca aperta» senza complemento è un calco di stared; in italiano fissare vuole l'oggetto.	Bates e Szpindel la fissavano a bocca aperta.
+p01034	ok
+p01035	ok
+p01036	ok
+p01037	issue	doubt	low	Dubbio 38: d'accordo con «quello che *risponde*», corsivo sul verbo.	nessuna modifica
+p01038	ok
+p01039	issue	rhythm	low	Dubbio 39: la scelta regge, ma «emergeva in dissolvenza in primo piano» accumula due in; affiorava rende meglio il moto dal basso di melting to the fore e tiene in primo piano del glossario.	Ed ecco Susan, che affiorava in primo piano in dissolvenza:
+p01040	ok
+p01041	ok
+p01042	ok
+p01043	issue	doubt	low	Dubbio 40: d'accordo con «stanza cinese» minuscolo come nel glossario e in corsivo come in Watts.	nessuna modifica
+p01044	issue	doubt	low	Dubbio 41: d'accordo con «dannazione», forza media come bloody; accidenti sarebbe più debole.	nessuna modifica
