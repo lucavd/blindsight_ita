@@ -10,6 +10,10 @@ generated:
 
 ## 2026-11-12
 
+Aperta la terza sessione di revisione (R3) sui blocchi dal 15 al 21 (il 18 ha già la versione finale del pilota: solo le correzioni del confronto alla cieca), con Opus 5.5, nella chat cloud svuotata e sul ramo `sessione-R3` (decisione sulla chat cloud riaperta, D-27). Sorgente integra (50 file), epubcheck 4.2.6 presente, nessuna pull request aperta, lavoro della seconda sessione di revisione già unito nel ramo principale.
+
+La seconda sessione di revisione (R2) è chiusa: il PI ha approvato il riassunto senza dubbi nuovi. Prossima sessione: la terza di revisione (R3), blocchi dal 15 al 21, con Opus 5.5.
+
 La seconda sessione di revisione (R2) è chiusa, senza decisioni per il PI; aspetta la sua lettura del riassunto. Versione finale dei blocchi dal 08 al 14, 662 paragrafi esaminati, cancelli tutti superati; rapporto di lunghezza mediano 1,113, quota di paragrafi cambiati mediana 0,164, un rilievo alto in sette blocchi: previsioni confermate, i blocchi 12 e 13 sotto l'intervallo della quota, spiegati. Seconda lettura: 31 correzioni accolte su 662 paragrafi, 4,7 ogni 100, previsione confermata; un rilievo medio fondato. Il Tattico con la maiuscola anche dove Watts scrive minuscolo (decisione sul Tattico con la maiuscola, D-78). Battuta di Szpindel del blocco 09 cambiata e passata alla quinta sessione di revisione; «grande male» in tondo passato alla sesta. Tempi aggiunti al piano. Prossima sessione: la terza di revisione (R3), blocchi dal 15 al 21, con Opus 5.5.
 
 Aperta la seconda sessione di revisione (R2) sui blocchi dal 08 al 14, con Opus 5.5, nella chat cloud svuotata e sul ramo `sessione-R2` (decisione sulla chat cloud riaperta, D-27). Sorgente integra (50 file), epubcheck 4.2.6 presente, nessuna pull request aperta, lavoro della prima sessione di revisione già unito nel ramo principale.
