@@ -83,3 +83,15 @@ Ogni intervento è stato verificato sul paragrafo inglese.
 Nessuna voce del glossario o forma di cortesia da cambiare. Le frasi legate ad altri blocchi restano come nella prima stesura: «osservatore ufficiale» (p03211), «a soli nove giorni dal Diploma» (p03161), «il loro stenografo» (p03221), «lezione pratica» (p03253), «Nørretranders diceva che era un inganno» (p03149). Nessun allineamento richiesto agli altri blocchi.
 
 Quota di paragrafi cambiati bassa: 15 paragrafi su 141 marcatori (13 per rilievi, 2 interventi redazionali). Gran parte del blocco è dialogo breve e la revisione ha confermato quasi tutti i dubbi del traduttore senza modifiche; non si sono fatti interventi per alzare il numero.
+
+# Seconda lettura
+
+- p03149, nuance, low, accettato: «Le IA sostennero di esserne venute a capo»; la frase su Nørretranders non è toccata.
+- p03156, nuance, low, accettato con variante: «facevano i preparativi, quali che fossero, che il mio aguzzino aveva stabilito per loro»; l'inciso tiene whatever e scorre meglio del «quali che fossero i preparativi» della proposta.
+- p03179, nuance, low, accettato: «Affrontare un vampiro senza armi?».
+- p03188, meaning, low, respinto: in italiano «leggere qualcosa in» indica già la fonte (leggere la paura negli occhi), quindi «in ogni guizzo» rende read off; «da ogni guizzo» farebbe del guizzo chi legge.
+- p03195, nuance, low, accettato con variante: «la maggior parte delle persone giurerebbe che ho indossato la loro stessa anima»; «la sua stessa anima» della proposta si poteva riferire a Cunningham, «persone» regge il «loro».
+- p03215, calque, low, accettato con variante: «Scosse la testa, a conferma di una qualche nuova opinione.»; senza il «come» della proposta, che aggiungeva un'attenuazione assente nell'inglese.
+- p03219, addition, low, accettato con variante: «Più che altro schizofrenia, solo che...»; tolta l'attenuazione «una specie di», tenuta la forma nominale secca di More like schizophrenia in risposta a «Visione cieca».
+- p03240, nuance, low, accettato: «Ne parlavi tenendomi fuori fin dall'inizio, vero? Tutti voi.»; il plurale del seguito («Non mi avete coinvolto») resta e segue l'allargamento.
+- p03254, nuance, medium, accettato: «*E tu me l'hai nascosto. Tutti voi. Tu e tutta la tua Banda e anche Amanda.»; il seguito al plurale («Ne discutete», «avete fatto») resta coerente.
