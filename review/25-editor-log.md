@@ -51,3 +51,15 @@
 - p02295: «Trangugiai un sorso di birra» diventa «Mandai giù una sorsata di birra», per lo stesso motivo del rilievo su p02278 (trangugiare non va con sorso; gulped è una sorsata abbondante).
 
 Ogni intervento è stato verificato sul paragrafo inglese.
+
+# Seconda lettura
+
+- p02258, nuance, low, accettato con variante: «a combinarmi l'incontro con Chelsea», che tiene il ruolo da sensale di set me up; «a combinare tra me e Chelsea» non regge in italiano.
+- p02284, calque, low, accettato: «Si interessa a te, tutto qui.»
+- p02285, nuance, low, accettato: «non lo so che di lei mi posso fidare per *qualunque cosa*?», stesso verbo nei due trust come vuole la retorica di Helen, senza la rigidità di «fidarmi di lei per qualunque cosa» rilevata dalla prima revisione; corsivi invariati.
+- p02295, terminology, low, respinto: lo splicer di Chelsea giunta cervelli, non geni (Nobody who spliced brains for a living, blocco 22, reso «giuntasse cervelli»; splicing reso «giuntando» nel blocco 41); «ricombinatore» sposterebbe il senso verso la genetica e romperebbe la coerenza fra i blocchi.
+- p02326, rhythm, low, accettato con variante: «dovevano solo aver fede che fosse arrivato», che tiene l'atto di fede di take it on faith senza la locuzione sovrapposta e senza la dislocazione della proposta.
+- p02336, nuance, low, accettato: «con pezzi avanzati, ma questo non fa che rendere la tua impresa ancora più grande.»
+- p02337, nuance, low, accettato: «Per dovere, lo feci tintinnare contro il mio.»
+
+Ogni modifica è stata verificata sul paragrafo inglese.
