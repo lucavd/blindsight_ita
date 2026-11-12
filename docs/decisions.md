@@ -650,7 +650,7 @@ Decisione: quando tweak è detto della pistola di manovra o dei getti si rende �
 
 Motivazione: «Diede un ritocco alla pistola» si legge come una regolazione dell'arma, mentre Watts descrive il breve colpo di spinta con cui ci si muove in assenza di peso; rilievo di gravità media della revisione bilingue del blocco 20. La voce sui ritocchi riguarda i ritocchi neurali di Chelsea; la prima stesura aveva usato «ritocco» anche qui perché l'espressione di ricerca del controllo prende ogni tweak. È lo stesso caso di feed verbo e feed flusso di dati: un altro senso della stessa parola, non un cambio della resa della voce.
 
-Deciso da: agente. Data: 2026-11-12. Stato: valida.
+Deciso da: agente. Data: 2026-11-12. Stato: valida; allineamenti fatti nella quarta sessione di revisione (R4): blocco 23, p02184, «Diedi un breve impulso ai getti.»; blocco 26, p02360, «con un breve impulso ai getti, di tanto in tanto».
 
 ## D-80 Il tu generico di Cunningham può avere l'accordo al maschile
 
