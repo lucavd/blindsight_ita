@@ -8,6 +8,12 @@ generated:
   at: "2026-11-09T23:30:00+01:00"
 ---
 
+## 2026-11-12
+
+Aperta la prima sessione di revisione (R1) sui blocchi dal 02 al 07 (il blocco 01 ha già la versione finale del pilota), con Opus 5.5, nella chat cloud svuotata e sul ramo `sessione-R1` (decisione sulla chat cloud riaperta, D-27). Sorgente integra (50 file), epubcheck 4.2.6 presente, nessuna pull request aperta, lavoro dell'ultima sessione di traduzione già unito nel ramo principale.
+
+L'ultima sessione di traduzione (T4) è chiusa: il PI ha approvato il riassunto senza dubbi nuovi. Il Diploma resta con la maiuscola. Prossima sessione: la prima di revisione (R1), con Opus 5.5.
+
 ## 2026-11-11
 
 L'ultima sessione di traduzione (T4) è chiusa, senza decisioni per il PI; aspetta la sua lettura del riassunto. Prima stesura dei blocchi dal 35 al 41, 756 paragrafi, cancelli tutti superati; rapporto di lunghezza mediano 1,117, previsione confermata (il blocco delle note sta a 1,000 perché i riferimenti restano in inglese). Tutto il libro ha ora una prima stesura. Tre correzioni puntuali alla prima stesura (blocchi 35, 40 e 41). Glossario con una voce nuova approvata dall'agente, 197 in tutto, e due voci precisate (decisioni sui termini dei blocchi dal 35 al 41, da D-71 a D-74). Tutti e due i dubbi ricevuti chiusi; riprese fra blocchi passate alla prima, quinta e sesta sessione di revisione. Tempo del traduttore 2,5 minuti per mille parole (2,8 senza le note), aggiunto al piano. Prossima sessione: la prima di revisione (R1), con Opus 5.5.
