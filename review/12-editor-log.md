@@ -62,3 +62,13 @@
 - p01103: «in un numero qualsiasi di schemi cromatici a richiesta» diventa «in ogni sorta di schemi cromatici a richiesta»: any number of vale molti, a piacere, e «un numero qualsiasi» era un calco che in italiano suona come una quantità indifferente.
 
 Ogni intervento è stato verificato sul paragrafo inglese.
+
+# Seconda lettura
+
+- p01060, calque, low: accettato («Ma rende l'idea»).
+- p01074, nuance, low: accettato con una variante («il Capitano l'aveva fatta nascere, adattata per il contatto ravvicinato»: la sonda è chiaramente quella che nasce; la proposta «ne aveva indotto il parto, adattandola» aggiungeva l'induzione, che l'inglese non dice, e lasciava ambiguo di chi fosse il parto).
+- p01091, nuance, low: accettato («la cipolla si fece bacata»: grew è un cambiamento, non una scoperta).
+- p01100, rhythm, low: accettato («di alcun tipo»).
+- p01133, omission, low: accettato («la cui stessa mezza luce riflessa»: rende own).
+
+Ogni intervento è stato verificato sul paragrafo inglese.
