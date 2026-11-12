@@ -618,7 +618,7 @@ Decisione: il PI accetta la raccomandazione del riassunto della prima sessione d
 
 Motivazione: la seconda lettura del blocco 02 ha trovato 1 rilievo medio fondato su 68 paragrafi (1,5 ogni 100), sopra la soglia di 1 ogni 100 fissata prima della misura; la rilettura del blocco 18 con l'altro modello ne aveva trovati 3,0 ogni 100. Costo misurato: 4,6 minuti per 3.295 parole; stima per il resto del libro circa 2 ore, una ventina di minuti a sessione. Limiti dichiarati al PI: un blocco e un errore solo, e chi giudica fondato un rilievo gira con lo stesso modello del revisore. Il totale della sessione al posto della mediana: per blocco i rilievi fondati sono 0, 1 o 2, e la mediana dei blocchi sarebbe quasi sempre 0 senza dire nulla. Alternative scartate dal PI: passaggio fisso senza recupero dei blocchi già chiusi (circa 8 errori medi stimati resterebbero nel Prologue e nei blocchi dal 03 al 07); nessuna seconda lettura (una quarantina di errori medi stimati nel resto del libro).
 
-Deciso da: PI (passaggio fisso e recupero); agente (esclusione del blocco 18, previsione e suo giudizio sul totale della sessione). Data: 2026-11-12. Stato: valida.
+Deciso da: PI (passaggio fisso e recupero); agente (esclusione del blocco 18, previsione e suo giudizio sul totale della sessione). Data: 2026-11-12. Stato: valida; la previsione è sostituita dalla decisione sulla seconda lettura dopo il recupero (D-77).
 
 ## D-76 Gli orari all'italiana: 10.35, non 1035
 
@@ -627,3 +627,11 @@ Decisione: i due orari del libro scritti da Watts in formato militare si scrivon
 Motivazione: in italiano «le 1035» non si legge come un orario; il formato militare non è un tratto voluto di un personaggio ma la grafia inglese corrente per gli orari nei contesti tecnici. Così i due orari del libro sono scritti nello stesso modo. Non ci sono altri orari a quattro cifre nella sorgente.
 
 Deciso da: agente. Data: 2026-11-12. Stato: valida.
+
+## D-77 La seconda lettura resta fissa, come rifinitura
+
+Decisione: il PI accetta la raccomandazione del riassunto rivisto della prima sessione di revisione (R1): la seconda lettura resta un passaggio fisso delle sessioni di revisione, con la procedura della decisione sulla seconda lettura fissa (D-75). Cambia la previsione: si misurano le correzioni accolte dal redattore dopo la seconda lettura, di ogni gravità, ogni 100 paragrafi, sul totale della sessione; atteso 7, intervallo di rilevanza da 2 a 15. Sotto 2 la seconda lettura trova quasi nulla e si propone al PI di toglierla; sopra 15 la prima revisione lascia troppo e si rivedono le istruzioni del revisore prima della sessione successiva. I rilievi alti e medi fondati si riportano senza previsione.
+
+Motivazione: sui sette blocchi di R1 la seconda lettura ha trovato 1 rilievo medio fondato su 611 paragrafi (0,16 ogni 100), sotto la soglia di 1 della decisione sulla seconda lettura (D-37): con quella regola non sarebbe stata proposta. Ha trovato però da 6 a 8 rilievi bassi per blocco, 45 in tutto, 41 accolti dal redattore dopo la verifica sull'inglese (6,7 ogni 100 paragrafi, da 4,2 a 14,8 per blocco), alcuni sulla fedeltà: un termine tecnico sbagliato, due ambiguità di riferimento, il gergo di Pag. Costo misurato: 1,6 minuti per mille parole, circa 2,2 ore sul resto del libro. Il PI tiene il passaggio sapendo che la ragione non è quella per cui era stato misurato. Alternativa scartata dal PI: toglierlo dalla seconda sessione di revisione, come voleva la regola fissata prima.
+
+Deciso da: PI. Data: 2026-11-12. Stato: valida.
