@@ -80,3 +80,15 @@
 | p01397 | «su un qualunque EM che mettiamo su» diventa «su nessun EM che mettiamo su» | in frase negativa any si rende in italiano con nessun; un qualunque suonava tradotto, il senso resta |
 
 Ogni intervento è stato verificato sul paragrafo inglese.
+
+# Seconda lettura
+
+| pid | tipo | gravità | esito | motivo se respinto |
+|---|---|---|---|---|
+| p01315 | addition | low | respinto | their own è un possessivo enfatico, e «davvero» ne rende l'own; senza, «che siano loro» torna ambiguo (loro come le madri), l'ambiguità che la prima revisione aveva corretto |
+| p01357 | rhythm | low | accettato con variante («intento a sniffare vasopressina»: participio descrittivo come snorting, senza la relativa appesa e senza il «com'era... mentre» della proposta) | |
+| p01402 | calque | low | accettato con variante («La condizione era pura formalità»: rende la proposizione con if senza evocare il modo verbale e senza aggiungere un corsivo assente in inglese) | |
+| p01402 | nuance | low | accettato con variante («a esplorare da sole: strizzavano gli occhi... e immagazzinavano...»: descrive il modo di esplorare invece dello scopo; il gerundio della proposta, dopo «Avevamo provato», riattribuirebbe le azioni all'equipaggio, mentre la terza plurale le lascia alle macchine) | |
+| p01450 | meaning | medium | accettato («E non sottovalutare nemmeno Sarasti.»: Sarasti solo complemento, registro diretto di Bates) | |
+
+Ogni modifica della seconda lettura è stata verificata sul paragrafo inglese.
