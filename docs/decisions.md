@@ -579,3 +579,35 @@ Decisione: il PI accetta la raccomandazione del riassunto. Self-awareness si ren
 Motivazione: è una parola sola come in Watts, ha la radice di consapevolezza, con cui tutti i traduttori hanno già reso awareness, e resta distinta da coscienza (consciousness). Alternative scartate dal PI: consapevolezza di sé, più comune ma più lunga dove Watts è secco; autocoscienza, che la confonderebbe con coscienza.
 
 Deciso da: PI. Data: 2026-11-11. Stato: valida.
+
+## D-71 Il Diploma con la maiuscola, e nessuna voce nuova dai termini del blocco 35
+
+Decisione: graduation da solo, riferito al momento in cui *Rorschach* diventerà invulnerabile, si rende «il Diploma», con la maiuscola anche dove la sorgente ha la minuscola (blocco 35, p03161, «a soli nove giorni dal Diploma»; blocco 36, p03324, Graduation came nine days early). La voce del glossario sul Giorno del Diploma (G092) lo dice nella nota. Gli altri termini proposti dal traduttore del blocco 35 compaiono solo lì (shapeshifter, mutaforma; holding pattern, circuito d'attesa; Fate line, linea del destino; hands-off, da non intervento) oppure tornano nel blocco 37 con una sola resa naturale (object lesson, lezione pratica; stenographer, stenografo): restano la sua scelta, e il traduttore del blocco 37 li riceve nel prompt.
+
+Motivazione: nel blocco 36 la frase che chiude la scena riprende il conto alla rovescia del blocco 35, e l'eco regge solo con la stessa parola; «diploma» minuscolo farebbe pensare a un diploma di Siri. La maiuscola italiana su una minuscola della sorgente ha già un precedente deciso dal PI, la Banda (decisione sulle scelte di S1, D-26). Il criterio del glossario (decisione sulle voci tecniche, D-21) non chiede voci per termini di un solo blocco.
+
+Deciso da: agente. Data: 2026-11-11. Stato: valida.
+
+## D-72 Una voce nuova del glossario dai termini del blocco 37, e il controllo su burn allargato
+
+Decisione: entra nel glossario, approvata dall'agente, G197 dreamstate, dream state (blocchi 37 e 39): stato di sogno, la resa del traduttore. Nella voce su burn come manovra (G148) l'espressione di controllo accetta ora anche il participio («acceso i motori»). Gli altri termini proposti dal traduttore del blocco 37 compaiono solo lì (Shuttle bay, hangar delle navette; it takes one to know one, *il simile riconosce il simile*; Uncle Predator, zio Predatore; decapitation strike; cue, segnale d'entrata; spitballs; observatory, osservatorio) oppure hanno una sola resa possibile anche dove tornano (quadrochromatic, quadricromatico, nelle note del blocco 40): restano la sua scelta.
+
+Motivazione: il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi; dreamstate torna nel blocco 39, nel discorso di Siri sui vampiri, e l'alternativa stato onirico esiste. Il controllo su burn riconosceva accensione e accendere ma non acceso, e il traduttore del blocco 37 ha scelto una costruzione meno naturale per non far scattare la segnalazione: un controllo non deve spingere la traduzione.
+
+Deciso da: agente. Data: 2026-11-11. Stato: valida.
+
+## D-73 Un miliardo di volte, il titolo italiano di Wegner e nessuna voce nuova dai termini del blocco 40
+
+Decisione: nel blocco 40 (p03725) a good billions times si rende «un buon miliardo di volte», al singolare, e la tabella dei refusi della guida lo registra. Nello stesso blocco (p03739) il libro di Wegner si cita con il titolo dell'edizione italiana, *L'illusione della volontà cosciente* (Carbonio, Milano 2020, traduzione di Olimpia Ellero); Pinker resta *Come funziona la mente*; Koch, Metzinger e Schroeder restano con il titolo originale in corsivo. Nessun termine proposto dal traduttore del blocco 40 entra nel glossario: quelli che hanno già una voce la seguono (schiera, retroazione, senzienza, cecità da disattenzione, saccadico), gli altri compaiono solo nei ringraziamenti e nel saggio (hackerare, intraorganismico, Regina Rossa, neuroni specchio, i titoli delle sezioni del saggio).
+
+Motivazione: la regola sui refusi vuole un numero tradotto com'è, ma a good billions times non si può rendere com'è, e il comunicato NASA che Watts cita nella nota 77 parla di un brillamento a billion times più intenso di quelli di Giove: la s è una lettera in più. La guida (sezione 10, punto 3) vuole il titolo italiano solo se l'edizione esiste ed è certa: per Wegner la ricerca in rete l'ha trovata (recensione sulla Rivista italiana di filosofia del linguaggio, 2020), per Koch non ha trovato un'edizione di *The Quest for Consciousness*, e il traduttore l'aveva data con certezza media.
+
+Deciso da: agente. Data: 2026-11-11. Stato: valida.
+
+## D-74 Le note del blocco 41: cosa si traduce e cosa si corregge, e nessuna voce nuova
+
+Decisione: nel blocco 41 si traducono la prosa del saggio (dal p03740 al p03756) e le sole due note che sono frasi in prosa (la 12, p03814, con l'indirizzo invariato, e la 51, p03853); le altre 142 note restano come sono, comprese le formule di servizio (available at, Personal communication, Excerpted from). Nei riferimenti si correggono i refusi di nomi, titoli e riviste reali (per esempio Ehat in What, Prigonine in Prigogine, Emporer in Emperor, Americal in American) e i numeri di nota attaccati al cognome; anni e numeri sospetti restano come sono e sono elencati nelle note del blocco. Le lineette lunghe di tre riferimenti diventano lineette medie spaziate e le virgolette dritte di uno diventano curve, perché i cancelli le vietano in tutto il libro. La tesi di Nørretranders, «Consciousness is a fraud» (p03742), si rende «La coscienza è un inganno», come la stessa tesi riassunta da Siri nel blocco 35 (p03149). Nessun termine proposto dal traduttore del blocco 41 entra nel glossario: sono termini standard delle neuroscienze e della biologia (nucleo dinamico, teoria della mente, circuito della ricompensa, morte termica, corpo calloso) o compaiono solo nel saggio (hack, protesi giuntate, facce di Chernoff, casi anomali).
+
+Motivazione: la guida (sezione 10) vuole i riferimenti bibliografici come sono e la prosa tradotta; una nota che è una frase è prosa. La regola sui refusi (sezione 11) vuole corretti i nomi reali scritti male e intatti i numeri. L'eco con il blocco 35 regge solo con la stessa parola; inganno sta vicino all'illusione dell'utente, il titolo del libro di Nørretranders.
+
+Deciso da: agente. Data: 2026-11-11. Stato: valida.

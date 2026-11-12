@@ -174,6 +174,8 @@ Il rimedio a un calco non è mai un'omissione: se una parola sembra di troppo in
 | p02387 | methonia | dubbio (metano, o fusione voluta di metano e ammoniaca): si traduce com'è, con nota |
 | p02874 | cryonic (in bocca a un personaggio) | si traduce com'è (crionico) |
 | p03726 | trans-Newtonian comet (2000 CR105 è transnettuniano) | errore di fatto dell'autore: si traduce com'è, con nota per il PI |
+| p03725 | a good billions times | «un buon miliardo di volte»: la fonte di Watts (nota 77, il comunicato NASA del luglio 2000 sulla nana bruna LP 944-20) dice a billion times (decisione sui termini del blocco 40, D-73) |
+| p03726 | 2000 Cr105 | 2000 CR105, la designazione dell'oggetto |
 
 # 12. Lista di controllo del traduttore
 
