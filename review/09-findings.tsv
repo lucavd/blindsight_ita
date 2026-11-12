@@ -1,0 +1,118 @@
+pid	verdict	type	severity	problem	proposal
+p00757	issue	nuance	low	"his way with the ladies" vuol dire il successo con le donne, il saperci fare; «il suo modo di fare con le signore» è neutro e non dice che gli riusciva.	invidiavo a Szpindel quel suo saperci fare con le signore
+p00757	issue	doubt	low	Dubbio 1: «Ricucito e tagliuzzato» si può tenere. Spliced richiama più l'innesto (genetico, di cavi) che la sutura, ma nessuna alternativa tiene insieme rima e doppio senso. La perdita è annotata.	Ricucito e tagliuzzato (nessuna modifica)
+p00758	ok
+p00759	issue	meaning	high	"two-party nonvirtual sex pairing" è la coppia, la relazione a due. In italiano «accoppiamento sessuale» è l'atto, e «ne avevo provato uno» fa dire a Siri di aver provato un amplesso, non una relazione (quella con Chelsea, nel paragrafo dopo).	insieme alla coppia sessuale non virtuale a due. Ma perfino io ne avevo provata una;
+p00760	ok
+p00761	issue	omission	low	"in the first place" non è reso: «come fossero nati» perde l'idea dell'origine, che prepara le regole ultime della selezione naturale.	senza mai pensare a come fossero nati in origine
+p00761	issue	doubt	low	Dubbio 2: d'accordo con «Forse non sapeva davvero» (l'eco di honesty non regge senza forzare) e con «aveva modificato cervelli».	nessuna modifica
+p00762	issue	doubt	low	Dubbio 3: d'accordo con «accrescere la sua consapevolezza», che tiene awareness (voce del glossario) e il tono da campagna di sensibilizzazione.	nessuna modifica
+p00763	ok
+p00764	issue	doubt	low	Dubbio 4: d'accordo con lo Spermatozoo e l'Uovo e con le costruzioni che evitano gli accordi di genere; il registro biblico è tenuto senza arcaismi.	nessuna modifica
+p00765	ok
+p00766	ok
+p00767	ok
+p00768	issue	terminology	low	"hydrothermal vents" sono le bocche (o camini) idrotermali dei fondali; «sorgenti idrotermali» in italiano fa pensare alle sorgenti termali in superficie.	la melma sulfurea delle bocche idrotermali
+p00768	issue	doubt	low	Dubbio 5: d'accordo con il voi per tutta la battuta; il passaggio tu/voi in italiano sembrerebbe un errore.	nessuna modifica
+p00769	ok
+p00770	issue	doubt	low	Dubbio 6: d'accordo con «per quanto si dibatta al mio fianco», che regge con «non lo lascerò sviarsi».	nessuna modifica
+p00771	ok
+p00772	ok
+p00773	ok
+p00774	ok
+p00775	issue	doubt	low	Dubbio 7: d'accordo con «la *coscienza*» senza aggiunte (tiene anche il senso del libro) e con «soffitto di cristallo», forma corrente.	nessuna modifica
+p00776	ok
+p00777	issue	doubt	low	Dubbio 8: d'accordo con «il Quadro Generale»: le maiuscole tengono l'ironia di Watts.	nessuna modifica
+p00778	ok
+p00779	ok
+p00780	ok
+p00782	issue	calque	low	"kicked Theseus in the side": «su un fianco» suona ricalcato; in italiano il calcio si dà in un fianco.	Un marshmallow gigante diede un calcio alla *Theseus* in un fianco.
+p00782	issue	doubt	low	Dubbio 9: d'accordo con «per poco non mi scottai *davvero*» e con «Il *basso*», ripreso in p00814.	nessuna modifica
+p00783	issue	nuance	low	"This is it" vuol dire ci siamo, è arrivato il momento; «Ecco» da solo è più debole e generico. Per non ripetere ci siamo, si cambia il verbo della frase dopo.	*Ci siamo*, pensai. *Siamo andati troppo vicino. Stanno contrattaccando.*
+p00784	ok
+p00785	issue	doubt	low	Termine proposto party line: d'accordo con «canale comune».	nessuna modifica
+p00786	issue	doubt	low	Dubbio 10: d'accordo con «Ordini di chi?», che regge la risposta «Miei».	nessuna modifica
+p00787	ok
+p00788	issue	rhythm	low	"Drifting into the drum through the stern hatchway: the sound..." è una frase nominale; «arrivava nel tamburo, fluttuando: il rumore» mette un verbo finito davanti ai due punti e la frase zoppica.	Dal portello di poppa, alla deriva nel tamburo: il rumore di qualcosa che *macinava*.
+p00788	issue	doubt	low	Dubbio 11: d'accordo con «Interrogai» e «lo stack di allocazione delle risorse»; «Il reparto di fabbricazione» è conforme al glossario.	nessuna modifica
+p00789	ok
+p00790	ok
+p00791	ok
+p00792	ok
+p00793	ok
+p00794	issue	nuance	medium	"even now", in una narrazione al passato, vuol dire in quello stesso momento; «perfino adesso» aggiunge una sfumatura di sorpresa (perfino) e con adesso sembra arrivare al presente di Siri.	al ritmo di qualcosa che proprio in quel momento si allungava dalla sommità delle nubi e strappava detriti all'orbita
+p00795	ok
+p00796	ok
+p00797	issue	calque	low	"frozen solid" è un'espressione unica (congelato del tutto); «congelato, solido» la spezza in due attributi. "snapped" (spezzato di netto) è indebolito in «staccato»; «fuori allineamento» è ricalcato.	un raggio di luce congelato fino a farsi solido, con un segmento spezzato via dalla parte centrale e disallineato appena di un capello
+p00798	ok
+p00799	ok
+p00800	issue	doubt	low	Dubbio 12: d'accordo con «Artefatto di rifrazione»; «rotazione-contro-spam» segue la guida (si traduce com'è, con nota); «nel senso della rotazione» va bene.	nessuna modifica
+p00801	issue	terminology	low	"No backlight": manca una luce alle spalle dell'oggetto che lo faccia stagliare; «retroilluminazione» è il termine degli schermi.	«Niente controluce», suggerì Szpindel.
+p00802	ok
+p00803	issue	doubt	low	Dubbio 13: d'accordo con «artefatto» qui (l'artefatto ottico) e «manufatto» in p00829 (l'oggetto).	nessuna modifica
+p00804	ok
+p00805	ok
+p00806	issue	terminology	medium	Dubbio 14: "on tactical" senza articolo è già lo schermo usato come nome proprio, lo stesso uso che la voce sul Tattico rende con la maiuscola dal blocco 12; per la Banda il glossario tiene la maiuscola anche dove Watts scrive minuscolo. Consiglio la maiuscola, per coerenza nel libro.	Era tutto lì sul Tattico:
+p00806	issue	addition	low	«non avevano perso tempo a cazzeggiare» aggiunge perso tempo; "hadn't dicked around with" basta da solo.	le sonde che avevamo lanciato non avevano cazzeggiato con i trasferimenti di Hohmann
+p00807	ok
+p00808	issue	doubt	low	Dubbio 15: d'accordo con «Penso sia chiaramente visibile»; togliere il verbo forzerebbe la stranezza oltre l'inglese. La perdita è annotata.	nessuna modifica
+p00809	ok
+p00810	issue	doubt	low	Dubbio 16: d'accordo con «Ci sta–» / «*Seguendo*.»: la battuta completata regge.	nessuna modifica
+p00811	ok
+p00812	ok
+p00813	ok
+p00814	issue	doubt	low	Dubbio 17: d'accordo con «riepilogo esecutivo» (voce approvata) e con «al diavolo i siluri».	nessuna modifica
+p00815	ok
+p00816	issue	doubt	low	Dubbio 18: d'accordo con «prevedere». Si perde il secondo senso di second-guess (contestare a posteriori la decisione, ciò che Sascha sta facendo), ma nessuna resa naturale tiene entrambi. Non propongo modifiche: la ripresa del blocco 30 resta allineata così com'è.	nessuna modifica
+p00817	ok
+p00818	ok
+p00819	ok
+p00820	issue	doubt	low	Dubbio 19: d'accordo con il presente «gli facciamo saltare la copertura».	nessuna modifica
+p00821	ok
+p00822	ok
+p00823	ok
+p00824	ok
+p00825	issue	doubt	low	Dubbio 20: «Salutiamo, senz'altro» suona rigido in bocca a Susan; "by all means" è più vicino all'alternativa del traduttore, più naturale.	«Be', allora», osservò una voce gradita. «Salutiamo, ci mancherebbe.»
+p00826	ok
+p00828	ok
+p00829	ok
+p00830	ok
+p00831	issue	doubt	low	Dubbio 21: d'accordo con «Salve», «Rorschach a nave» e la troncatura «avvicinam».	nessuna modifica
+p00832	ok
+p00833	ok
+p00834	issue	nuance	low	"Welcome to the neighborhood" è una formula colloquiale americana; l'italiano corrente è benvenuti nel quartiere, mentre «vicinato» suona più letterario.	Salve Theseus. Benvenuti nel quartiere.
+p00835	issue	calque	low	«squisitamente scolpiti»: in italiano squisitamente vale di solito puramente (squisitamente tecnico), non con finezza.	tutti scolpiti con finezza squisita dallo stesso grumo di materia grigia
+p00835	issue	doubt	low	Termine proposto hub personalities: d'accordo con «personalità centrali», distinte dai nuclei del glossario.	nessuna modifica
+p00836	ok
+p00837	issue	doubt	low	Dubbio 22: d'accordo con «La stretta di mano», che tiene gesto e protocollo; p00852 resta conforme al glossario.	nessuna modifica
+p00838	ok
+p00839	ok
+p00840	issue	nuance	low	«ritrasmise» si legge anche come trasmise di nuovo lo stesso messaggio; "sent back" è una risposta. Dubbio 23: d'accordo con la Banda maiuscola.	*Richiesta di informazioni sul pericolo*, rispose la Banda.
+p00841	ok
+p00842	ok
+p00843	issue	doubt	low	Dubbio 24: d'accordo con «Prego.» e «Rocce e radiazioni». "we're like that" può essere anche il modo di dire (dita incrociate) per siamo intimi, Rorschach e l'ambiente pappa e ciccia; «siamo fatti così» sceglie una lettura. Si può tenere, ma la seconda lettura va aggiunta nelle note.	nessuna modifica
+p00844	ok
+p00845	ok
+p00846	ok
+p00847	issue	doubt	low	Dubbio 25: d'accordo con «celebrazione», che prepara le osservanze religiose di p00862.	nessuna modifica
+p00848	ok
+p00849	issue	doubt	low	Dubbio 26: d'accordo con «la *loro* voce», che tiene la pluralità della Banda.	nessuna modifica
+p00850	ok
+p00851	issue	nuance	low	«così si era chiamato» si legge anche come si era dato quel nome; "it had called itself" dice come si era presentato nel messaggio.	*Rorschach*, così si era presentato.
+p00852	ok
+p00853	ok
+p00854	ok
+p00855	issue	doubt	low	Dubbio 27: d'accordo con «Voi siete?», che tiene le due letture.	nessuna modifica
+p00856	ok
+p00857	ok
+p00858	issue	doubt	low	Dubbio 28: d'accordo con «Qui *Theseus*» e «Qui Susan James», paralleli.	nessuna modifica
+p00859	issue	doubt	low	Dubbio 29: «umano di serie» aggiunge umano e scioglie un'ambiguità: "baseline" può essere un vocativo (a Susan, che di serie non è) o un commento (cosa di base, ovvia). «di serie» da solo, nella voce già stramba di Rorschach, tiene le due letture e la voce del glossario.	«Questo lo so, di serie.»
+p00860	ok
+p00861	ok
+p00862	issue	doubt	low	Dubbio 30: d'accordo con la frase nominale «Credenze religiose feticistiche coinvolte».	nessuna modifica
+p00863	ok
+p00864	ok
+p00865	ok
+p00866	ok
+p00867	issue	doubt	low	Dubbio 31: d'accordo con «perturbazioni», che riprende p00794.	nessuna modifica
+p00868	ok
