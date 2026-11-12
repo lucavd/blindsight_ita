@@ -1,0 +1,31 @@
+{
+ "chunk": "20",
+ "stage": "final",
+ "file": "/home/user/blindsight_ita/translation/final/20.md",
+ "gates": {
+  "format": [],
+  "markers": [],
+  "empty": [],
+  "scene_breaks": [],
+  "forbidden_chars": [],
+  "placeholder_misuse": [],
+  "epigraph_decisions": []
+ },
+ "flags": {
+  "ratio_out_of_bounds": [],
+  "english_residue": [],
+  "glossary_misses": [
+   "p01893: headspace -> atteso spazio mentale",
+   "p01921: tweak(s) -> atteso ritocco, ritoccare"
+  ],
+  "emphasis_count_differs": [
+   "p01890"
+  ],
+  "identical_to_source": []
+ },
+ "placeholders": [],
+ "ratio_median": 1.116,
+ "paragraphs": 66,
+ "changed_share": 0.172,
+ "ok": true
+}
