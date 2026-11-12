@@ -61,3 +61,15 @@
 Ogni intervento è stato verificato sul paragrafo inglese.
 
 Paragrafi cambiati rispetto alla prima stesura: 19 (18 per i rilievi, 1 per l'intervento redazionale).
+
+# Seconda lettura
+
+| pid | tipo | gravità | esito | note |
+|---|---|---|---|---|
+| p00637 | nuance | low | accettato | «era più essenziale degli armamenti», che tiene l'eco di time is of the essence in of greater essence than armament |
+| p00649 | rhythm | low | accettato | «avesse già assegnato a Fermi la vittoria ai punti»; vittoria ai punti tiene la metafora sportiva di on points ed è la formula corrente |
+| p00649 | nuance | low | respinto | nasty è generico e colloquiale (sgradevoli e cattivi insieme); schifosi ne tiene il tono da videogioco, feroci alza il registro e restringe il senso alla sola aggressività |
+| p00652 | calque | low | accettato | «uno specialista addestrato al combattimento», trained combat specialist senza ambiguità sull'aggettivo |
+| p00751 | nuance | low | accettato | «Al tipo l'istinto dice di stare zitto», Man's instincts riferito a Sarasti, non al tipo di orca |
+
+Ogni intervento è stato verificato sul paragrafo inglese.
