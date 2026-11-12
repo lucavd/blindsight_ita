@@ -10,6 +10,8 @@ generated:
 
 ## 2026-11-12
 
+Aperta la seconda sessione di revisione (R2) sui blocchi dal 08 al 14, con Opus 5.5, nella chat cloud svuotata e sul ramo `sessione-R2` (decisione sulla chat cloud riaperta, D-27). Sorgente integra (50 file), epubcheck 4.2.6 presente, nessuna pull request aperta, lavoro della prima sessione di revisione già unito nel ramo principale.
+
 La prima sessione di revisione (R1) è chiusa. Il PI tiene la seconda lettura come passaggio fisso, come rifinitura; la previsione delle sessioni di revisione dalla seconda alla sesta misura le correzioni accolte ogni 100 paragrafi, atteso 7, intervallo da 2 a 15 (decisione sulla seconda lettura dopo il recupero, D-77). Versione finale dei blocchi dal 01 al 07 e del 18. Prossima sessione: la seconda di revisione (R2), blocchi dal 08 al 14, con Opus 5.5.
 
 Il PI ha scelto la seconda lettura come passaggio fisso e il recupero subito (decisione sulla seconda lettura fissa, D-75); procedura delle sessioni di revisione dalla seconda alla sesta aggiornata. Recupero fatto sui blocchi 01 e dal 03 al 07: nessun rilievo alto o medio su 543 paragrafi, previsione smentita; 45 rilievi bassi sui sette blocchi, 41 accolti. Con il blocco 02, 1 rilievo medio fondato su 611 paragrafi, sotto la soglia di 1 ogni 100: la decisione torna al PI. Orari all'italiana (decisione sugli orari, D-76).
