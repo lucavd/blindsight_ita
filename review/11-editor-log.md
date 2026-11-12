@@ -66,3 +66,16 @@ Nessun rilievo respinto.
 - p00969: «In un qualche modo oscuro, inquietante» diventa «In qualche modo oscuro, inquietante»: l'articolo davanti a qualche suonava ricalcato su some; il senso di In some dark, haunting way resta intero.
 
 Ogni intervento è stato verificato sul paragrafo inglese.
+
+# Seconda lettura
+
+- p00958, nuance, low: accettato («Ci riuscimmo con un gioco di specchi»: tiene gli specchi veri e l'eco del trucco da illusionista).
+- p00960, rhythm, low: accettato con una variante («Al momento in cui non tornò in vista»: più breve, conserva la stranezza dell'inglese; la proposta «venne il momento di non tornare in vista» faceva sembrare la scomparsa un atto voluto di Rorschach).
+- p00994, nuance, low: accettato («se il giudeo calza a pennello...»: il modo di dire italiano rende riconoscibile la storpiatura).
+- p01019, rhythm, low: accettato («non andava del tutto bene»: toglie l'eco con «fuori posto»).
+- p01021, meaning, low: accettato con una variante («cugini alla lontana della madre»: corregge l'errore di grado, dice una parentela lontana e intricata senza appesantire l'elenco; la proposta «con due generazioni di scarto» era troppo pesante per le chiacchiere di Sascha, e l'italiano non ha un termine corrente per twice removed).
+- p01039, nuance, low: accettato con una variante («che affiorava fluida in primo piano»: fluida rende melting senza l'ambiguità di «in dissolvenza»; la proposta «come in una dissolvenza incrociata» aggiungeva un paragone cinematografico che l'inglese non ha; «in primo piano» resta come nel glossario).
+
+Nessun rilievo respinto.
+
+Ogni intervento è stato verificato sul paragrafo inglese.
