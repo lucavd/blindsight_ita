@@ -45,3 +45,13 @@ Nessun rilievo respinto.
 3. p00108: «costruire anche un altro equipaggio, anche se» diventa «costruire pure un altro equipaggio, anche se». Toglie la ripetizione di anche a due parole di distanza senza perdere l'as well dell'inglese.
 
 Ogni intervento è stato verificato sul paragrafo inglese.
+
+# Seconda lettura
+
+1. p00071, nuance, low: respinto. «Inserire» è il verbo corrente dell'ingegneria genetica in italiano (inserto, inserzione) e regge la metafora del codice; «giuntare» con «codice» non è idiomatico, e «innestare» si confonderebbe con «innesti» (inlays, voce approvata) nello stesso paragrafo.
+2. p00073, calque, medium: respinto su verifica della chat principale.
+3. p00084, nuance, low: accettato con una variante («ci trascinammo di ritorno dalla morte»). Tiene il back dell'inglese; «di nuovo indietro dalla morte» era goffo e «di nuovo» si leggerebbe come «ancora una volta».
+4. p00086, register, medium: respinto su verifica della chat principale.
+5. p00095, nuance, low: accettato («ne custodiva, eccome se ne custodiva»). Il rafforzativo resta dentro la frase come damn well, senza l'imprecazione in coda che l'inglese non ha.
+6. p00099, nuance, low: accettato con una variante («Se poi la nave parlava, parlava con lui»). «Se poi» dà l'enfasi contrastiva di did speak dopo «non rispondeva mai» senza aggiungere «le rare volte», che l'inglese non dice; toglie la lettura «parlava sul serio».
+7. p00102, meaning, medium: accettato («Lui ci aveva dato quattro ore per tornare in noi»): soggetto esplicito, Sarasti come nell'inglese.
