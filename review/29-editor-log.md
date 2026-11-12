@@ -54,3 +54,10 @@
 - p02671: «Ovviamente non le hai ancora trovate» diventa «Ovviamente è solo che non le hai ancora trovate», perché la prima stesura perdeva just (you just haven't found them yet), che fa dell'obiezione di Bates una spiegazione banale a cui Cunningham ribatte con lo stesso «ovviamente».
 
 Ogni intervento è stato verificato sul paragrafo inglese.
+
+# Seconda lettura
+
+- p02611, calque, low, accettato: «fui io quello con cui rimase Susan James»; tiene James come soggetto di was left with (le rimase lui, non lo scelse) senza il senso di Siri lasciato in dote.
+- p02614, nuance, low, accettato: «Ecco come abbatti la parete:»; stessa parola della parete tra i recinti in p02609 e nel blocco 28 («la parete confinante con l'altro recinto», «l'altro lato della parete»), così wall vale insieme la parete fisica e la barriera.
+- p02662, nuance, low, accettato con variante: «esseri che col pensiero ci stracciano...»; think rings around us è colloquiale e «ci stracciano» lo è altrettanto, mentre «ci surclassano nel pensiero» è più formale di un grido.
+- p02669, nuance, low, accettato: «James affondò il viso nella mano.» (put her face in her hand, gesto di sconforto, non di copertura).
