@@ -1,0 +1,78 @@
+pid	verdict	type	severity	problem	proposal
+p00065	ok
+p00066	ok
+p00067	ok
+p00068	issue	doubt	low	Dubbio 1 (leuenkephalin): d'accordo, leu-encefalina è la forma corrente e la correzione della grafia rientra nella regola sui refusi dei termini scientifici.	leu-encefalina
+p00068	issue	doubt	low	Dubbio 2 (sleep apnea): d'accordo, «apnea del sonno» è il termine medico e tiene l'ironia clinica; «da record assoluto» rende bene record-shattering.	un episodio di apnea del sonno da record assoluto
+p00069	ok
+p00070	issue	nuance	low	«ricuciti insieme da geni spazzatura» si può leggere con «da» d'agente (i geni che ricuciono); stitched together from indica il materiale.	ricuciti insieme con geni spazzatura e midollo fossile intriso del sangue di sociopatici e autistici ad alto funzionamento
+p00071	ok
+p00072	ok
+p00073	issue	doubt	low	Dubbio 3: d'accordo, «giusto» nel senso di esatto è uso italiano corrente e tiene l'aggancio con «se lo è» e con «sbagliata»; il rischio di lettura morale (non è equo) è minimo nel contesto della telemetria.	*Non può essere giusto*
+p00074	issue	doubt	low	Dubbio 4: d'accordo, «Sei diventato *interstellare*» tiene corsivo ed enfasi; la perdita del gone idiomatico è annotata.	Sei diventato *interstellare*
+p00075	ok
+p00076	ok
+p00077	issue	calque	low	Possessivi ricalcati sull'inglese («I suoi occhi... i suoi collegamenti») e «riacquisisce» un po' meccanico per reacquires his own links.	Gli occhi grandi e infossati gli ballano nelle orbite mentre ristabilisce i propri collegamenti
+p00078	ok
+p00079	ok
+p00080	ok
+p00081	issue	doubt	low	Dubbio 5: d'accordo, «...Ssstangati» tiene sibilo e senso di raggiro; la perdita dell'eco di suck è annotata correttamente.	«...Ssstangati», sibila.
+p00082	issue	doubt	low	Dubbio 6: accettabile, ma «surclassando» è più formale del colloquiale running rings around you; un verbo più parlato terrebbe il registro senza portare immagini estranee.	e già ti stanno rigirando come vogliono
+p00084	ok
+p00085	issue	doubt	low	Dubbio 7: d'accordo, «mormorava a se stesse» ricrea il meccanismo di herselves (riflessivo plurale per soggetto singolare), come chiede la scheda dei personaggi.	mormorava a se stesse
+p00085	issue	doubt	low	Dubbio 8: d'accordo, prima occorrenza «commissario politico» come da glossario; «'Giorno» rende bene il Morning accorciato.	«'Giorno, commissario politico.»
+p00086	issue	doubt	low	Dubbio 9: la correzione in «armadio a quattro ante» è giusta, perché «cesso» detto di una donna giudicherebbe l'aspetto; la volgarità di brick shit-house si perde e la perdita è annotata. Accettabile.	l'armadio a quattro ante potenziato al carboplatino
+p00086	issue	doubt	low	Dubbio 10: d'accordo, «La James pre-morte» tiene la coniazione di Watts.	La James pre-morte
+p00087	issue	nuance	low	«erano davvero tutti uguali» perde il look the same, che regge il gioco con how to look nella stessa frase e con l'aspetto del paragrafo dopo.	i Non morti sembravano davvero tutti uguali, se non sapevi come guardarli
+p00087	issue	doubt	low	Dubbio 11: d'accordo, maiuscola come in Watts (stesso criterio di Umano); la voce del glossario resta rispettata nella forma.	i Non morti
+p00088	ok
+p00089	ok
+p00090	ok
+p00091	ok
+p00092	ok
+p00093	issue	doubt	low	Dubbio 13: d'accordo, «cagare» ha la stessa forza di take a dump; «farla» attenuerebbe.	«Potrebbe anche cagare quassù»
+p00094	issue	doubt	low	Dubbio 12: d'accordo, «uno le fa da solo» / «uno se le teneva *per* sé» tiene il parallelo e l'enfasi sulla preposizione.	E certe cose uno se le teneva *per* sé.
+p00095	issue	nuance	low	Dubbio 14: damn well è un rafforzativo dentro la frase, non un'esclamazione; «dannazione» in coda aggiunge un'interiezione e «lo faceva» è debole come ripresa di keeping secrets.	Dopotutto, la *Theseus* di segreti ne custodiva eccome, dannazione se ne custodiva.
+p00097	issue	terminology	medium	«aveva bruciato implacabile» rende Theseus had burned con bruciare, mentre la voce approvata su burn come manovra vuole accensione per il sostantivo e accendere i motori o simili per il verbo; in italiano «la nave aveva bruciato» suona come un incendio.	La *Theseus* aveva tenuto i motori accesi, implacabile, fin quasi al momento della nostra resurrezione.
+p00097	issue	doubt	low	Dubbi 15 e 16: d'accordo su «la Prima di Newton» (il contesto con quantità di moto la rende leggibile) e sul lessico di manovra (accensione, volo inerziale, capovolgimento, dissanguato).
+p00098	issue	doubt	low	Dubbio 17: la ripetizione va tenuta, ma «a quest'ora avremmo saputo» senza complemento suona monco in italiano; basta il pronome.	se ci fosse stato un bisogno urgente di saperlo a quest'ora, a quest'ora lo avremmo saputo
+p00098	issue	calque	low	«al cuore della nave» è un francesismo (in italiano: nel cuore) e perde our ship; «ci nutriva» restringe nurtured, che è anche accudire.	l'IA Quantica nel cuore della nostra nave. Restava così discretamente sullo sfondo, ci accudiva e ci trasportava
+p00099	issue	doubt	low	Dubbio 18: d'accordo, «la chiamava» si accorda con la nave (it = the ship), e il Capitano resta maschile come nome.	e Sarasti la chiamava *Capitano*
+p00100	ok
+p00102	issue	doubt	low	Dubbio 19: d'accordo, «per tornare in noi» è naturale e lascia sentire il ritorno; «tra i vivi» esplicita.	per tornare in noi
+p00103	ok
+p00104	issue	meaning	medium	it took all of thirty seconds è ironico e vuol dire appena trenta secondi (le cose erano poche); «ben trenta secondi» in italiano sottolinea che il tempo è tanto e rovescia l'enfasi.	ci vollero sì e no trenta secondi per attaccarle alla parete, e altri trenta per programmare l'ambiente della tenda
+p00104	issue	doubt	low	Dubbio 20: d'accordo, «non mi attirava» è il verbo naturale e il piccolo gioco con la gravità non tradisce Watts.	non mi attirava
+p00105	ok
+p00106	ok
+p00107	ok
+p00108	ok
+p00109	ok
+p00110	ok
+p00111	ok
+p00112	ok
+p00113	issue	doubt	low	Dubbio 21: d'accordo, «affettività» è il termine clinico ed è leggibile.	la sua affettività
+p00113	issue	nuance	low	the swatting of an insect è l'atto di schiacciare un insetto (macchia morale); «quella di un insetto schiacciato» lo rende una macchia fisica.	una macchia più grande dello schiacciare un insetto
+p00114	ok
+p00115	issue	doubt	low	Dubbio 22: d'accordo su «riportato in vita» e sul tondo di bisogno dentro il corsivo.	non ti avremmo nemmeno riportato in vita, se non avessimo avuto* bisogno *di te
+p00115	issue	nuance	low	«concesso un po' di margine» è piatto per cut you some slack; l'immagine della corda allentata prepara il guinzaglio del paragrafo dopo.	*Forse ti hanno lasciato un po' di corda*, non gli dissi.
+p00116	ok
+p00117	issue	doubt	low	Dubbio 23: d'accordo, «ombrosità» rende skittishness con la stessa immagine animale; visore conforme al glossario.	per riguardo verso l'ombrosità Umana
+p00118	ok
+p00119	issue	doubt	low	Dubbio 24: d'accordo su «pavimento» per deck dentro il tamburo e su «plessi» per plexii.
+p00120	ok
+p00121	issue	omission	low	found myself back in the crypt: Siri torna nella cripta da cui era uscito; «mi ritrovai nella cripta» perde il back.	mi ritrovai di nuovo nella cripta
+p00122	ok
+p00123	ok
+p00124	ok
+p00125	ok
+p00126	ok
+p00127	ok
+p00128	issue	doubt	low	Dubbio 25: d'accordo, «già morti e partiti dal Paradiso» rende il rovesciamento quanto l'italiano permette; perdita annotata.	già morti e partiti dal Paradiso
+p00129	issue	omission	low	slid smoothly back into the hull: la schermatura rientra nello scafo; «scivolava dolcemente dentro lo scafo» perde il back.	mentre la schermatura rientrava dolcemente nello scafo
+p00130	ok
+p00131	ok
+p00132	issue	doubt	low	Dubbio 26: «mascone di dritta» è esatto ma oscuro per il lettore italiano comune, mentre starboard bow è nautica corrente per il lettore inglese; una forma nautica più trasparente tiene lo stesso grado di difficoltà.	*Un'astronave madre aliena sospesa a dritta di prua?*
+p00133	ok
+p00134	ok
+p00135	ok
