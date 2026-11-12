@@ -1,0 +1,91 @@
+pid	verdict	type	severity	problem	proposal
+p02523	issue	doubt	low	Dubbio 1: concordo con «perfino a chi era topologicamente cieco», chiaro e fedele; commissario senza glossa è corretto (la glossa sta alla prima occorrenza).	Era evidente perfino a chi era topologicamente cieco.
+p02524	issue	calque	low	Possessivo superfluo ricalcato su «his expressionless face».	Non era solo il viso inespressivo.
+p02524	issue	doubt	low	Dubbio 2: concordo con «immaginare quell'uomo» (è il modello che Siri si costruisce) e con «questa talpa», che tiene l'indiretto libero.	Avevo sempre fatto fatica a immaginare quell'uomo.
+p02525	ok
+p02526	issue	nuance	low	«when home receded too deeply into the distance»: «sprofondava» porta un'immagine di caduta assente; recede è allontanarsi.	Nemmeno quello, quando casa si allontanava troppo.
+p02526	issue	doubt	low	Dubbio 3: accettabile «al servizio delle menti piccine rimaste a casa»; «al servizio» esplicita il for ma non aggiunge contenuto. Massa superflua va bene.	Io ero solo uno spione al servizio delle menti piccine rimaste a casa.
+p02527	ok
+p02528	issue	doubt	low	Dubbio 4: concordo con «Posseduti da uno spirito» e «granchio ragno». Il its mouth reso senza possessivo perde un poco la spersonalizzazione del corpo come oggetto, ma la resa è accettabile.	Posseduti da uno spirito, si abbassavano e guizzavano intorno a una creatura olografica semiplausibile.
+p02529	issue	doubt	low	Dubbio 5: concordo con «membra vicarie».	Le sue membra vicarie si rilassarono.
+p02530	issue	nuance	low	«I tapped my temple»: «Mi toccai» è più debole del gesto ripetuto e allusivo (picchiettare).	Mi picchiettai la tempia.
+p02531	issue	omission	low	«Those clusters aimed back at me»: si perde back, il rovesciamento dello sguardo che regge tutto il paragrafo.	Quei grappoli erano puntati a loro volta su di me, su di *noi*
+p02531	issue	doubt	low	Dubbio 6: concordo con «sensi bastardi» senza trattino e con «peduncoli oculari smembrati».	qualunque fossero gli inimmaginabili sensi bastardi
+p02532	issue	doubt	low	Dubbio 7 (anche p02533): concordo con «potenziamenti», coerente con il blocco 06 e con la voce sugli augments; l'ironia del guardaroba regge lo stesso.	«I potenziamenti?»
+p02533	ok
+p02534	ok
+p02535	issue	doubt	low	Dubbio 8: la regola di Cunningham riguarda i pronomi per persone in terza persona, non il tu generico, quindi «obsoleto» non la violerebbe; ma evitare l'accordo è innocuo. «da rottamare» aggiunge però un'immagine (la rottamazione) assente: meglio un'invariabile più vicina a obsolete.	Se non ti riqualifichi, nel giro di un mese sei roba vecchia
+p02536	ok
+p02537	ok
+p02538	ok
+p02539	ok
+p02540	ok
+p02541	issue	doubt	low	Dubbio 9: concordo con «cambi l'*io* che fa il guardare?», che tiene la stortura senza normalizzarla; «sobbalzarono per simpatia» va bene (risonanza meccanica).	cambi l'*io* che fa il guardare?
+p02542	ok
+p02543	ok
+p02544	ok
+p02545	issue	doubt	low	Dubbio 10: concordo con «onda portante», «la dicevano lunga ... le loro voci» e «impastate di feedback e distorsione».	Tutti i suoi angoli e le sue superfici la dicevano lunga
+p02546	issue	nuance	low	«to wander past»: «passare di lì» perde il passo casuale, distratto, che rende più beffarda l'interruzione.	scelse proprio quel momento per passare di lì per caso e fare a pezzi
+p02546	issue	doubt	low	Dubbio 11: concordo con «fare a pezzi, con precisione chirurgica, i miei piani meglio congegnati»; la perdita dell'eco di Burns è inevitabile e già annotata.	fare a pezzi, con precisione chirurgica, i miei piani meglio congegnati
+p02547	issue	doubt	low	Dubbio 12: concordo; presente corretto per Sarasti.	«Ma non quando la cosa lo tocca troppo da vicino.»
+p02548	issue	doubt	low	Dubbio 13: concordo con «invocazione di misericordia» e «Ciò» maiuscolo come What.	da Ciò che sta sopra di lui
+p02549	ok
+p02550	issue	doubt	low	Dubbio 14 (anche p02553, p02554): concordo con la catena tenerci / tenere a, che regge tutte e quattro le occorrenze di care; «mi sto facendo il culo» ha la forza giusta.	Devi tenerci abbastanza da *provarci*, capisci?
+p02551	issue	nuance	medium	«She thought she was breaking the news»: il punto è che lei credeva di darmi una notizia nuova (la frase dopo lo chiarisce); «di essere lei a darmi» sposta l'accento su chi la dà, come se potesse darla qualcun altro.	Credeva di darmi una notizia.
+p02552	issue	doubt	low	Dubbio 15: concordo con «Avevo lo stomaco sottosopra», più vicino a sick to my stomach del generico «la nausea».	Avevo lo stomaco sottosopra.
+p02553	ok
+p02554	issue	doubt	low	Dubbio 16: concordo con «computer da battaglia» e «a guidarti il corpo».	lasci questo, questo *computer da battaglia* a guidarti il corpo
+p02555	ok
+p02556	issue	doubt	low	Dubbio 17: concordo con «tutto si, si accumula» e «valvola di sfogo».	tutto si, si accumula
+p02557	ok
+p02558	issue	nuance	low	«I could tell you were—disconnected»: è lei che se ne accorgeva; «Si vedeva» rende la percezione impersonale e toglie il soggetto.	Capivo che eri– scollegato, dal giorno in cui ci siamo conosciuti.
+p02558	issue	doubt	low	Dubbio 18: concordo con l'inciso a lineette spaziate (la sorgente ha uno spazio irregolare) e con l'ordine che riprende «l'avevo visto arrivare».	gli occhi – per una volta – restarono asciutti
+p02559	issue	doubt	low	Dubbio 19 (anche p02560): concordo con «schiantarsi e andare in fiamme», uguale nelle due battute; il controllo sull'accensione è un falso allarme.	Se sapevi che ci saremmo schiantati e saremmo andati in fiamme così?
+p02560	ok
+p02561	issue	rhythm	low	Dubbio 20: tipografia corretta. Però «sono durati» detto di persone suona strano, e «Più di così» per longer than this è ellittico: meglio «hanno tenuto» e «più a lungo».	*Mamma e papà hanno tenuto*. *Più a lungo di così, comunque*.
+p02562	issue	doubt	low	Dubbio 21: concordo con «prese quel silenzio per un silenzio ferito» e con «Aiutarti ad aggiustare», che lega la catena di fix.	Aiutarti ad aggiustare qualunque cosa ti rendesse così– così *arrabbiato* tutto il tempo.
+p02563	ok
+p02564	ok
+p02565	issue	doubt	low	Dubbio 22: concordo con «Sono una casa da aggiustare»: l'immagine regge in italiano e la radice lega aggiustare e inaggiustabile.	«Certo. Sono una casa da aggiustare.»
+p02566	issue	doubt	low	Dubbio 23: concordo con «inaggiustabile», «cascata di base» e «Boh».	potrebbe essere davvero, eternamente inaggiustabile. Boh.
+p02567	ok
+p02568	issue	doubt	low	Dubbio 24 (anche p02570): concordo con dire sul serio / vuol dire, che salva in parte il gioco mean / means.	Adesso mi chiedo se ne hai mai detta sul serio anche solo una parola.
+p02569	ok
+p02570	ok
+p02571	issue	doubt	low	Dubbio 25: concordo con «spolverata di carboncino».	La farfalla era una delicata spolverata di carboncino, quasi immobile.
+p02572	ok
+p02573	issue	doubt	low	Dubbio 26: concordo con «Sono svuotata».	«È troppo tardi, Siri. Sono svuotata.»
+p02574	issue	doubt	low	Dubbio 27: «richiamassi indietro» è pleonastico; dato che lei non se n'è ancora andata, «trattenessi» rende meglio call her back senza il rischio del telefono.	Forse voleva che la trattenessi.
+p02575	issue	doubt	low	Dubbio 28: concordo con la disposizione degli asterischi e con «Non ho mai voluto», che fa eco a p02577.	*Non ho mai voluto allontanarti* del tutto*, solo un po'
+p02576	issue	nuance	low	«taking all baggage with her» è simultaneo all'uscita; il trapassato «si era portata via» sposta l'azione prima.	la farfalla non c'era più, e nemmeno lei, che si portava via tutto il bagaglio.
+p02576	issue	doubt	low	Dubbio 29: concordo con il passato remoto «non seppi mai», coerente con il racconto; il passato prossimo sarebbe difendibile ma rompe la serie.	e io non seppi mai nemmeno chi avesse preso quella decisione finale.
+p02577	ok
+p02579	issue	doubt	low	Dubbio 30: concordo con il plurale in «L'avete sentito» e «Controllate i flussi», e con il singolare di «Alza il volume».	«*Dio mio! L'avete sentito!?*»
+p02580	issue	doubt	low	Dubbio 31: concordo con «uno gnu che salta a zampe tese»; il termine etologico inglese sarebbe opaco.	come uno gnu che salta a zampe tese
+p02581	issue	doubt	low	Dubbio 32: concordo con «Uno scrambler che fluttuava», che riprende il floating scrambler dei paragrafi seguenti.	Uno scrambler che fluttuava; l'altro ancora pigiato nel suo angolo.
+p02582	ok
+p02583	ok
+p02584	issue	doubt	low	Dubbio 33: concordo con «la mandò all'indietro» e «spinto al massimo».	James aprì una finestra a schermo diviso e la mandò all'indietro.
+p02585	ok
+p02586	ok
+p02587	ok
+p02588	ok
+p02589	ok
+p02590	issue	doubt	low	Dubbio 34: concordo con «Labbra che scoreggiano», che tiene labbra e crudezza.	Labbra che scoreggiano.
+p02591	issue	doubt	low	Dubbio 35: concordo con «spazio mentale» (glossario) e «si fece largo a spallate».	James si fece largo a spallate nello spazio mentale di Cunningham
+p02592	issue	doubt	low	Dubbio 36 (anche p02594): concordo con «tic» e con «*tic tic ticchettava*» per tick tick ticking.	*Tic tic...tic...tic tic tic...tic...tic tic tic...*
+p02593	issue	doubt	low	Dubbio 37: concordo con «Abbassato per effetto Doppler»; il conio inglese si perde ma il senso resta preciso.	Abbassato per effetto Doppler fin quasi allo zero assoluto
+p02594	ok
+p02595	issue	rhythm	low	«era tornato alla deriva, senza meta, al centro» si può leggere come «aveva ripreso a derivare»; drifted aimlessly back è un solo movimento verso il centro. Sul dubbio 38: concordo con «spazio chiuso» per enclosure.	era tornato al centro del suo spazio chiuso, alla deriva e senza meta.
+p02596	issue	doubt	low	Dubbio 39: concordo con «il resto del–», che non presuppone il nome mancante.	«Dobbiamo controllare il resto del–»
+p02597	ok
+p02598	ok
+p02599	issue	doubt	low	Dubbio 40: «Come fanno un sacco di cose» suona zoppo in bocca a Cunningham; meglio l'alternativa del traduttore. Calcolo infinitesimale e ape che danza vanno bene.	«Lo fanno un sacco di cose.
+p02600	ok
+p02601	ok
+p02602	issue	doubt	low	Dubbio 41: concordo con gli aggettivi senza nome, «È flessibile ... È *intelligente*», come nella sorgente.	È flessibile, Robert. È *intelligente*.
+p02603	issue	doubt	low	Dubbio 42 (anche p02605): concordo con «mh?», «Davvero?» e con «tanto felice», invariabile, che rispetta il tratto di Cunningham.	«E se anche lo fosse, mh?
+p02604	ok
+p02605	ok
+p02606	ok
+p02607	issue	doubt	low	Dubbio 43: concordo con «*esso*» in corsivo, conforme alla scheda dei personaggi e al blocco 27.	«Scommetto che *esso* lo sa...»
