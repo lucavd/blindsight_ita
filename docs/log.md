@@ -8,6 +8,18 @@ generated:
   at: "2026-11-09T23:30:00+01:00"
 ---
 
+## 2026-11-12
+
+La prima sessione di revisione (R1) è chiusa. Il PI tiene la seconda lettura come passaggio fisso, come rifinitura; la previsione delle sessioni di revisione dalla seconda alla sesta misura le correzioni accolte ogni 100 paragrafi, atteso 7, intervallo da 2 a 15 (decisione sulla seconda lettura dopo il recupero, D-77). Versione finale dei blocchi dal 01 al 07 e del 18. Prossima sessione: la seconda di revisione (R2), blocchi dal 08 al 14, con Opus 5.5.
+
+Il PI ha scelto la seconda lettura come passaggio fisso e il recupero subito (decisione sulla seconda lettura fissa, D-75); procedura delle sessioni di revisione dalla seconda alla sesta aggiornata. Recupero fatto sui blocchi 01 e dal 03 al 07: nessun rilievo alto o medio su 543 paragrafi, previsione smentita; 45 rilievi bassi sui sette blocchi, 41 accolti. Con il blocco 02, 1 rilievo medio fondato su 611 paragrafi, sotto la soglia di 1 ogni 100: la decisione torna al PI. Orari all'italiana (decisione sugli orari, D-76).
+
+La prima sessione di revisione (R1) ha finito il lavoro e aspetta una decisione del PI (la seconda lettura come passaggio fisso). Versione finale dei blocchi dal 02 al 07, 557 paragrafi esaminati, cancelli tutti superati; rapporto di lunghezza mediano 1,116, quota di paragrafi cambiati mediana 0,153, nessun rilievo alto: previsioni confermate, tre blocchi di dialogo (04, 06, 07) sotto l'intervallo della quota, spiegati. Seconda lettura del blocco 02: 1 rilievo medio fondato su 68 paragrafi, 1,5 ogni 100, sopra la soglia fissata, quindi proposta al PI. Revisore e redattore 2,3 minuti per mille parole, aggiunto al piano.
+
+Aperta la prima sessione di revisione (R1) sui blocchi dal 02 al 07 (il blocco 01 ha già la versione finale del pilota), con Opus 5.5, nella chat cloud svuotata e sul ramo `sessione-R1` (decisione sulla chat cloud riaperta, D-27). Sorgente integra (50 file), epubcheck 4.2.6 presente, nessuna pull request aperta, lavoro dell'ultima sessione di traduzione già unito nel ramo principale.
+
+L'ultima sessione di traduzione (T4) è chiusa: il PI ha approvato il riassunto senza dubbi nuovi. Il Diploma resta con la maiuscola. Prossima sessione: la prima di revisione (R1), con Opus 5.5.
+
 ## 2026-11-11
 
 L'ultima sessione di traduzione (T4) è chiusa, senza decisioni per il PI; aspetta la sua lettura del riassunto. Prima stesura dei blocchi dal 35 al 41, 756 paragrafi, cancelli tutti superati; rapporto di lunghezza mediano 1,117, previsione confermata (il blocco delle note sta a 1,000 perché i riferimenti restano in inglese). Tutto il libro ha ora una prima stesura. Tre correzioni puntuali alla prima stesura (blocchi 35, 40 e 41). Glossario con una voce nuova approvata dall'agente, 197 in tutto, e due voci precisate (decisioni sui termini dei blocchi dal 35 al 41, da D-71 a D-74). Tutti e due i dubbi ricevuti chiusi; riprese fra blocchi passate alla prima, quinta e sesta sessione di revisione. Tempo del traduttore 2,5 minuti per mille parole (2,8 senza le note), aggiunto al piano. Prossima sessione: la prima di revisione (R1), con Opus 5.5.

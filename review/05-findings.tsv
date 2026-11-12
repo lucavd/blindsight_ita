@@ -1,0 +1,90 @@
+pid	verdict	type	severity	problem	proposal
+p00310	issue	doubt	low	Dubbio 1 (could not unmake): concordo con «non poteva disfare», che tiene l'opposizione fare/disfare; l'eco con il blocco 04 resta leggibile dal contesto.	Ecco ciò che mio padre non poteva disfare.
+p00311	issue	doubt	low	Dubbio 2 (dead center): concordo con «il centro morto»; «punto morto» porterebbe l'idea di stallo, assente. Dubbio 3 (curtain): concordo con «tenda», la resa corrente del film.	Sono il ponte tra l'avanguardia estrema e il centro morto.
+p00312	ok
+p00313	issue	meaning	medium	«They were vital enough in their way» vale indispensabili, importanti; «erano abbastanza vitali» detto di persone in italiano si legge come pieni di vita.	A modo loro erano piuttosto indispensabili.
+p00313	issue	nuance	low	Passato remoto «ebbero» stride con «C'è sempre stato» nella stessa frase: è un bilancio della storia che arriva fino al presente di Siri (guida 5.7); «costoro» è pesante.	ma per quasi tutta la storia hanno avuto poco a che fare con l'aumentarne la *chiarezza*.
+p00314	issue	rhythm	low	«semplicemente» ripetuto a una riga di distanza (merely, just): la seconda occorrenza si può rendere diversamente senza perdere just.	sono davvero troppo intricati perché il nostro cervello riesca a seguirli
+p00314	issue	doubt	low	Dubbio 4: concordo con il passato prossimo e la minuscola. Dubbio 5: la resa con «quello del tronco encefalico» è accettabile; un po' più compatta senza aggiunte di senso: «il bruto imperativo del tronco encefalico, l'interesse personale».	davanti al bruto imperativo del tronco encefalico, l'interesse personale
+p00315	issue	doubt	low	Dubbio 6: concordo con «cortecce motorie»; «strisce motorie» non è italiano corrente.	costringiamo le loro cortecce motorie sovraccariche
+p00316	issue	calque	low	«le tue creazioni che ti superano» ricalca your surpassing creations con una relativa pesante; «credere sulla parola» resta senza oggetto (their word).	E quando le creazioni che ti hanno superato trovano le risposte che hai chiesto [...] Devi credere loro sulla parola, per fede–
+p00316	issue	doubt	low	Dubbio 7: concordo con le lineette attaccate («fede–» / «–Oppure»), coerenti con la guida per la frase troncata e ripresa.
+p00317	issue	doubt	low	Dubbio 8: concordo con il plurale e la maiuscola di Watts. Dubbio 9 (proof assistants): la forma italiana in uso per i software è «assistente alla dimostrazione», che regge anche la lettura umana; «di dimostrazione» suona meno naturale.	la progenie ibrida di profiler e assistenti alla dimostrazione e teorici dell'informazione
+p00318	issue	doubt	low	Dubbio 10 (chaperone): concordo con *chaperon*, registrato nei dizionari. Termine proposto poppy: *pop* come nomignolo di una persona è debole, ma le alternative sono peggiori (papavero rovescia il senso); accettabile, con la perdita già annotata.
+p00319	issue	doubt	low	Dubbio 11: concordo con *commissario* da solo; la prima occorrenza con «politico» è nel blocco 02 e il contesto dei soprannomi esclude la polizia.
+p00320	issue	doubt	low	Dubbi 12 e 13: concordo con «il sottoscritto, piccolo piccolo» e con «polli e bari», che tiene il gergo della truffa.
+p00321	ok
+p00322	ok
+p00323	ok
+p00324	issue	doubt	low	Dubbio 14: concordo con «promosso dai simulatori a tappe forzate». Termine proposto multicorp: concordo, invariabile, tiene il conio di Watts.
+p00325	issue	doubt	low	Dubbio 15: concordo con «partite dai blocchi», immagine sportiva equivalente e naturale.
+p00326	ok
+p00327	issue	doubt	low	Dubbi 16, 17, 18: concordo con il maschile (my twin brother), con «spingo a tanti g» e con «cento chilometri stereoscopici», che tiene la stranezza dell'aggettivo spostato.
+p00328	issue	doubt	low	Dubbio 19: concordo con «la sfidiamo con lo sguardo».
+p00329	ok
+p00330	issue	omission	medium	Manca far di «far too recently»: l'intensivo regge l'ironia sul sole insignificante.	fin troppo di recente perché l'insignificante sole alle nostre spalle possa essere in alcun modo sospettato
+p00331	ok
+p00332	issue	doubt	low	Dubbio 20: correzione in «Burns-Caulfield» conforme alla tabella dei refusi.
+p00333	ok
+p00334	issue	doubt	low	Dubbio 21: concordo con «Sole»; Sol in italiano resterebbe opaco e la serie dei saluti è colloquiale.
+p00335	ok
+p00337	ok
+p00338	issue	calque	low	«virtualmente onniscienti» ricalca virtually (praticamente); in italiano virtualmente vale soprattutto potenzialmente, e in questo libro virtuale ha un senso tecnico preciso.	che ci rendono praticamente onniscienti
+p00339	issue	doubt	low	Dubbio 22: concordo con «bruciamo da tutti e due i capi», che richiama la candela e la doppia accensione; la voce del glossario lascia la scelta al traduttore.
+p00340	ok
+p00341	issue	doubt	low	Dubbio 23: concordo con «olograficamente».
+p00342	ok
+p00343	issue	terminology	low	«Le mie schiere» per i sensori di una sonda è poco trasparente e richiama la schiera Icarus del glossario, che è altra cosa; meglio esplicitare il tipo di schiera.	Le mie schiere di sensori tornano operative in pochi secondi
+p00344	ok
+p00346	issue	doubt	low	Dubbio 24: concordo con «le orde dei non Ascesi». Termini proposti orders of mag e First Contact: conformi alle voci approvate del glossario.
+p00347	issue	doubt	low	Dubbio 25: concordo con *personae* in corsivo, come vuole la voce approvata.
+p00348	issue	nuance	low	stuck there for eighteen out of every twenty-four: «ci saremmo rimasti» perde stuck, la costrizione.	e saremmo rimasti bloccati lì diciotto ore su ventiquattro
+p00348	issue	doubt	low	Dubbi 26 e 27: concordo con «Primo Concavo» e con «postumi della sbornia», letterale come Watts. Termine proposto nouveaux undead: concordo con *nouveaux non morti*.
+p00349	ok
+p00350	ok
+p00351	issue	doubt	low	Dubbio 28: concordo con «proiezione» per display, coerente con le sculture di luce.
+p00352	issue	doubt	low	Dubbio 29: concordo con «era– niente», lineetta attaccata come nelle battute che esitano.
+p00353	ok
+p00354	issue	doubt	low	Dubbi 30 e 31: concordo con «mappatura a microonde» e con «IAU» senza articolo nel parlato nominale di Sarasti. La frase sul brillamento (ripresa nel blocco 38) è corretta: nessun cambio proposto.
+p00355	issue	doubt	low	Dubbio 32: refuso caterpillers assorbito correttamente.
+p00356	issue	doubt	low	Dubbi 33 e 34: concordo con «ritorta» e con «oggetto subnano», che non corregge Watts. Termini proposti metabase e spike: concordo con «la metabase» invariato e con «picco».
+p00357	ok
+p00358	ok
+p00359	issue	doubt	low	Dubbio 35: concordo con «forma d'onda», come la lettera di Watts.
+p00360	issue	doubt	low	Dubbio 36: l'immagine del fazzoletto è giusta, ma l'idioma italiano usa in («girare in un fazzoletto»); con sul suona meno naturale.	lei poteva girare nel proverbiale fazzoletto
+p00361	ok
+p00362	issue	doubt	low	Dubbio 37: accettabile; «Altro che tiri dalla distanza» tiene la distanza e la difficoltà del tiro, la sfumatura di scommessa improbabile si indebolisce ed è già annotata fra le perdite.
+p00363	ok
+p00364	ok
+p00365	ok
+p00366	issue	doubt	low	Dubbio 38: la forma nominale va bene, ma «raccomandazione» in italiano evoca anche il favoritismo; in un contesto operativo «proposta» è più netto.	«Questa la tua proposta?»
+p00367	ok
+p00368	issue	doubt	low	Dubbi 39 e 40: concordo con «rigor residuo» e con «primi passi». Rigor è latino non adattato: secondo la guida (4.7) andrebbe in corsivo.	metà Coriolis, metà *rigor* residuo
+p00369	ok
+p00370	ok
+p00371	ok
+p00372	issue	doubt	low	Dubbi 41 e 42: concordo con il proverbio reso alla lettera, con gli infiniti da rapporto (che evitano la scelta tra tu e lei senza aggiungere un noi) e con «amici o ostili».
+p00373	ok
+p00374	ok
+p00375	issue	doubt	low	Dubbio 43: concordo con «diversivo» in entrambi i paragrafi.
+p00376	ok
+p00377	ok
+p00378	issue	doubt	low	Dubbio 44: concordo con «Rischio di rilevamento», nominale come il parlato di Sarasti.
+p00379	ok
+p00380	ok
+p00381	issue	register	low	shut up nella narrazione è secco ma neutro; «chiuse il becco» aggiunge una sfumatura derisoria che il narratore non ha.	Sascha si zittì.
+p00382	ok
+p00383	issue	doubt	low	Dubbio 45: concordo con «a parlare con quella bocca».
+p00384	issue	rhythm	low	«per cui darlo in permuta» si inciampa (per cui si legge come perciò); il lessico da concessionario, che il dubbio 46 vuole tenere, regge meglio con permutarlo.	«Ne hai un altro con cui permutarlo?»
+p00385	ok
+p00386	ok
+p00387	ok
+p00388	ok
+p00389	ok
+p00390	ok
+p00391	issue	doubt	low	Dubbio 47: concordo con il presente e con *Theseus* senza articolo nella bocca di Sarasti, coerente con il suo parlato nominale.
+p00392	ok
+p00393	ok
+p00394	ok
+p00395	ok
+p00396	ok

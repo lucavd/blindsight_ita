@@ -1,0 +1,55 @@
+pid	verdict	type	severity	problem	proposal
+p00003	ok
+p00004	ok
+p00013	ok
+p00014	ok
+p00015	ok
+p00016	ok
+p00017	ok
+p00018	ok
+p00019	ok
+p00020	ok
+p00021	ok
+p00022	ok
+p00023	ok
+p00024	ok
+p00025	ok
+p00026	ok
+p00027	ok
+p00028	ok
+p00029	ok
+p00030	ok
+p00031	ok
+p00032	ok
+p00033	issue	calque	low	«mi promise che ero morto» ricalca «promised me I was dead»: in italiano la minaccia suona più naturale con giurare.	Uno dei più coraggiosi mi giurò che ero morto
+p00034	ok
+p00035	ok
+p00036	ok
+p00037	issue	calque	low	«si raggomitolò come una palla» ricalca «curled up in a ball»: raggomitolarsi dice già la palla, e «come una palla» suona come un paragone aggiunto.	e si rannicchiò a palla
+p00038	ok
+p00039	issue	nuance	low	«I thought of something to say» vuol dire che gli venne in mente qualcosa da dire; «Pensai a qualcosa da dire» si può leggere come «riflettei su cosa dire», più incerto.	Mi venne in mente qualcosa da dire. «Tutto bene?»
+p00040	ok
+p00041	ok
+p00042	ok
+p00043	ok
+p00044	issue	register	low	«You'da never done that before» è parlato contratto da bambino (segnalato fra i passi difficili); «Prima non l'avresti mai fatto» è italiano corretto e neutro, senza traccia di parlato.	«Tu prima mica l'avresti *mai* fatto», disse Pag.
+p00045	ok
+p00046	ok
+p00047	ok
+p00048	ok
+p00049	ok
+p00050	ok
+p00051	ok
+p00052	ok
+p00053	ok
+p00054	ok
+p00055	ok
+p00056	issue	nuance	low	«suddenly quiet» descrive la voce che si abbassa dopo la rabbia, con un sottinteso minaccioso; «d'un tratto quieto» dice piuttosto calmo, placido.	dissi, d'un tratto a voce bassa,
+p00057	issue	meaning	low	In «che è solo, solo *ricresciuto*» il primo «è solo» si legge per un attimo come «è da solo»: il balbettio di «just, just» crea un'ambiguità che l'inglese non ha.	che è, che è solo *ricresciuto* da quello che era rimasto
+p00058	ok
+p00059	ok
+p00060	ok
+p00061	issue	typography	low	«was—heartfelt» è un'esitazione in cerca della parola, non un inciso: per la guida (discorso che esita e riprende) la lineetta va attaccata alla parola che precede e seguita da uno spazio, non spaziata da entrambi i lati.	Poco di tutto questo era– sentito, credo che la parola sia questa.
+p00062	issue	nuance	low	«some beaten bloody friend» ha un «some» che prende le distanze da Pag (un amico qualunque); «un amico picchiato a sangue» perde il distacco, che è il tema del paragrafo.	da quando un qualche amico picchiato a sangue, su un campo di battaglia dell'infanzia,
+p00063	ok
+p00064	ok

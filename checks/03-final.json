@@ -1,0 +1,26 @@
+{
+ "chunk": "03",
+ "stage": "final",
+ "file": "/home/user/blindsight_ita/translation/final/03.md",
+ "gates": {
+  "format": [],
+  "markers": [],
+  "empty": [],
+  "scene_breaks": [],
+  "forbidden_chars": [],
+  "placeholder_misuse": [],
+  "epigraph_decisions": []
+ },
+ "flags": {
+  "ratio_out_of_bounds": [],
+  "english_residue": [],
+  "glossary_misses": [],
+  "emphasis_count_differs": [],
+  "identical_to_source": []
+ },
+ "placeholders": [],
+ "ratio_median": 1.1,
+ "paragraphs": 63,
+ "changed_share": 0.295,
+ "ok": true
+}

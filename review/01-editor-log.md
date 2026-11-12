@@ -41,3 +41,16 @@ Ogni intervento è stato verificato sul paragrafo inglese.
 
 - Glossario, voce del sintetista: il glossario dà sintesi per synthesis senza dire nulla della maiuscola; in p00062 Watts scrive Synthesis come disciplina e la stesura usa Sintesi. La resa non è sbagliata, ma la voce va precisata (maiuscola quando indica la disciplina, minuscola altrimenti) prima che altri blocchi la incontrino.
 - Forma della riga di attribuzione delle epigrafi (lineetta media più spazio, p00014, p00016, p00019): non è materia di glossario né di cortesia, ma vale per tutto il libro e va registrata come decisione tecnica.
+
+# Seconda lettura
+
+- p00033, calque, low: accettato («mi giurò che ero morto»; resta morto, che regge l'ironia di p00034).
+- p00037, calque, low: accettato con variante: «si raggomitolò a palla»; tolto «come una», ma resta raggomitolò per l'eco con p00029, dove l'inglese ha lo stesso curled up riferito a Pag.
+- p00039, nuance, low: accettato («Mi venne in mente qualcosa da dire»).
+- p00044, register, low: accettato con variante: «Tu prima non l'avresti *mai* fatto»; il soggetto esplicito dà il tono parlato, mentre «mica» accanto a «mai» raddoppierebbe la negazione che in inglese è una sola.
+- p00056, nuance, low: accettato («d'un tratto a voce bassa»).
+- p00057, meaning, low: accettato («che è, che è solo *ricresciuto*»; il balbettio resta, senza la lettura «da solo»).
+- p00061, typography, low: accettato («era– sentito», esitazione con lineetta attaccata come da guida).
+- p00062, nuance, low: accettato («un qualche amico picchiato a sangue»).
+
+Ogni modifica è stata verificata sul paragrafo inglese.
