@@ -60,3 +60,13 @@ Nessun rilievo respinto.
 - p00882: «I nomi strani delle navi» diventa «I nomi insoliti delle navi»: l'inglese ripete unusual nella frase e nella battuta della fiaba (*che nome insolito che hai*), e la ripetizione regge il gioco.
 
 Ogni intervento è stato verificato sul paragrafo inglese.
+
+# Seconda lettura
+
+- p00894, nuance, low: accettato con una variante («Burns-Caulfield non poteva che essere pensata come un'azione ritardatrice»: rende intended as; la proposta «servire da» dice la funzione, non l'intenzione).
+- p00904, nuance, low: accettato («anche se adesso forse potremmo tenergli testa»).
+- p00920, nuance, low: accettato («potrebbe non essere consapevole delle incoerenze su un'altra»: aware con la radice della voce del glossario su awareness, accanto ad «accesso cosciente»).
+- p00947, omission, low: accettato con una variante («senza aver predisposto delle salvaguardie»: rende in place e regge il contrasto con «le loro già incorporate» meglio di «salvaguardie predisposte»).
+- p00947, typography, low: accettato («attacco di grande male» in tondo). L'inglese ha *grand mal* in corsivo perché è francese, non per enfasi; la forma italiana non è una parola straniera (guida di stile, regola 7). Il controllo dei corsivi segnalerà la differenza su questo paragrafo: è voluta. Nel blocco 40 (p03710) la prima stesura ha «*grande male*» in corsivo: va allineato in tondo nella sua revisione.
+
+Ogni intervento è stato verificato sul paragrafo inglese.

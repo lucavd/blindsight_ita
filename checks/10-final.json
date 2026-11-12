@@ -15,12 +15,14 @@
   "ratio_out_of_bounds": [],
   "english_residue": [],
   "glossary_misses": [],
-  "emphasis_count_differs": [],
+  "emphasis_count_differs": [
+   "p00947"
+  ],
   "identical_to_source": []
  },
  "placeholders": [],
  "ratio_median": 1.1,
  "paragraphs": 87,
- "changed_share": 0.188,
+ "changed_share": 0.212,
  "ok": true
 }
