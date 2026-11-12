@@ -1,0 +1,34 @@
+{
+ "chunk": "05",
+ "stage": "final",
+ "file": "/home/user/blindsight_ita/translation/final/05.md",
+ "gates": {
+  "format": [],
+  "markers": [],
+  "empty": [],
+  "scene_breaks": [],
+  "forbidden_chars": [],
+  "placeholder_misuse": [],
+  "epigraph_decisions": []
+ },
+ "flags": {
+  "ratio_out_of_bounds": [],
+  "english_residue": [],
+  "glossary_misses": [
+   "p00339: burn (manovra) -> atteso accensione (sostantivo); accendere i motori o simili (verbo)"
+  ],
+  "emphasis_count_differs": [
+   "p00347",
+   "p00368"
+  ],
+  "identical_to_source": []
+ },
+ "placeholders": [
+  "p00322",
+  "p00323"
+ ],
+ "ratio_median": 1.128,
+ "paragraphs": 88,
+ "changed_share": 0.176,
+ "ok": true
+}
