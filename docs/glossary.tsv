@@ -40,7 +40,7 @@ G038	bridge	(?-i:\bbridge\b)	plancia	plancia|ponte	approved	02	Della nave; nel s
 G039	crypt	\bcrypts?\b	cripta	cript	approved	02	Dove dormono i membri dell'equipaggio; conserva l'eco vampiresca. L'espressione di ricerca prende solo crypt e crypts, non cryptic e cryptically, che si rendono a senso (decisione sui termini del blocco 16, D-53).
 G040	coffin	\bcoffins?\b	bara	\bbar[ae]\b	approved	01	I contenitori di ibernazione nella cripta. Da tenere distinti dai pod (capsule).
 G041	pod (resurrection, medical)	(?-i:\bpods?\b)	capsula	capsul	approved	01	Distinto da coffin (bara). Pod-man è un'altra voce.
-G042	observation blister, blister	\bblisters?\b	bolla di osservazione, bolla	\bboll[ae]\b|vescic	approved	02	Da tenere distinta da dome (cupola). In p03103 blisters vale vesciche.
+G042	observation blister, blister	\bblisters?\b	bolla di osservazione, bolla	\bboll[ae]\b|vescic	approved	02	Da tenere distinta da dome (cupola). Nel senso anatomico vale vescica: in p02043 (like a blister, la tenda sopra la ferita di Rorschach) e in p03103 (blisters).
 G043	dome (observation)	\bdome\b	cupola	cupol	approved	02	
 G044	galley	\bgalley	cambusa	cambus	approved	08	Il locale dove l'equipaggio mangia.
 G045	tent	\btents?\b	tenda	tend	approved	02	La struttura gonfiabile aggrappata a Rorschach.

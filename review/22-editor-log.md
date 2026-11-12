@@ -47,3 +47,12 @@
 - p02054, virgola dopo «le sue volute cariche»: senza, la costruzione assoluta si leggeva come «cariche intricate», un aggettivo appeso all'altro; senso e immagine restano.
 
 Ogni intervento è stato verificato sul paragrafo inglese.
+
+# Seconda lettura
+
+- p02042, nuance, low, accettato: «sorpresa e contentissima», che rende la forza di delighted.
+- p02043, terminology, medium, respinto: like a blister è una similitudine anatomica sopra una ferita (anatomia, ferita, fianco), non la bolla di osservazione della nave; la voce del glossario sulla bolla ammette «vescic» nella sua espressione di ricerca proprio per il senso anatomico. «Vescica» resta (motivo verificato dalla chat principale).
+- p02047, nuance, medium, accettato: «le riflessioni più profonde che stavano dietro», che tiene l'eco riflessi/riflessioni del doppio senso di reflections.
+- p02052, nuance, low, accettato: «A causa nostra», senza la colpa che on our account non contiene.
+- p02062, calque, low, accettato: «che guizzava lungo le linee ad alto contrasto» al posto del calco «giocava».
+- p02064, nuance, low, respinto: All downhill from here contiene anche il senso di declino, e qui lo chiude la caduta «di ritorno in territorio nemico»; «si va solo giù» tiene la discesa letterale e il presagio (la ragione per cui la prima revisione l'aveva scelto), mentre «è tutta discesa» in italiano vale solo «da qui è facile» e perderebbe il presagio, cambiando il tono della chiusa.
