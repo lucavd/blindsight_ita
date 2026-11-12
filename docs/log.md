@@ -10,6 +10,10 @@ generated:
 
 ## 2026-11-12
 
+Aperta la quarta sessione di revisione (R4) sui blocchi dal 22 al 29, con Opus 5.5, nella chat cloud svuotata e sul ramo `sessione-R4` (decisione sulla chat cloud riaperta, D-27). Sorgente integra (50 file), epubcheck 4.2.6 presente, nessuna pull request aperta, lavoro della terza sessione di revisione già unito nel ramo principale.
+
+La terza sessione di revisione (R3) è chiusa: il PI ha approvato il riassunto senza dubbi nuovi. Prossima sessione: la quarta di revisione (R4), blocchi dal 22 al 29, con Opus 5.5.
+
 La terza sessione di revisione (R3) è chiusa, senza decisioni per il PI; aspetta la sua lettura del riassunto. Versione finale dei blocchi 15, 16, 17, 19, 20 e 21, 502 paragrafi esaminati, cancelli tutti superati; rapporto di lunghezza mediano 1,093, quota di paragrafi cambiati mediana 0,163, un rilievo alto nei blocchi 15, 19 e 21: previsioni confermate, i blocchi 15 e 16 sotto l'intervallo della quota, spiegati. Seconda lettura: 35 correzioni accolte su 502 paragrafi, 7,0 ogni 100, previsione confermata; 7 rilievi medi fondati. Blocco 18: applicate le otto correzioni del confronto alla cieca e 28 dei 34 rilievi bassi. Tweak della pistola e dei getti reso «breve impulso» (decisione su tweak per la pistola e i getti, D-79), nota della voce del glossario aggiornata, allineamento dei blocchi 23 e 26 passato alla quarta sessione di revisione. Tempi aggiunti al piano. Prossima sessione: la quarta di revisione (R4), blocchi dal 22 al 29, con Opus 5.5.
 
 Aperta la terza sessione di revisione (R3) sui blocchi dal 15 al 21 (il 18 ha già la versione finale del pilota: solo le correzioni del confronto alla cieca), con Opus 5.5, nella chat cloud svuotata e sul ramo `sessione-R3` (decisione sulla chat cloud riaperta, D-27). Sorgente integra (50 file), epubcheck 4.2.6 presente, nessuna pull request aperta, lavoro della seconda sessione di revisione già unito nel ramo principale.
