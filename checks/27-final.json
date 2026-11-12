@@ -1,0 +1,31 @@
+{
+ "chunk": "27",
+ "stage": "final",
+ "file": "/home/user/blindsight_ita/translation/final/27.md",
+ "gates": {
+  "format": [],
+  "markers": [],
+  "empty": [],
+  "scene_breaks": [],
+  "forbidden_chars": [],
+  "placeholder_misuse": [],
+  "epigraph_decisions": []
+ },
+ "flags": {
+  "ratio_out_of_bounds": [],
+  "english_residue": [],
+  "glossary_misses": [
+   "p02442: feed (data) -> atteso flusso",
+   "p02482: burn (manovra) -> atteso accensione (sostantivo); accendere i motori o simili (verbo)"
+  ],
+  "emphasis_count_differs": [
+   "p02433"
+  ],
+  "identical_to_source": []
+ },
+ "placeholders": [],
+ "ratio_median": 1.12,
+ "paragraphs": 111,
+ "changed_share": 0.128,
+ "ok": true
+}
