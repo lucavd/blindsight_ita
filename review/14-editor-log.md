@@ -38,3 +38,12 @@
 | p01307 | «nel foro sottile come una matita che il laser aveva aperto» diventa «nel foro, sottile come una matita, che il laser aveva aperto» | la relativa si poteva leggere riferita alla matita; le virgole la riportano al foro senza cambiare parole |
 
 Ogni intervento è stato verificato sul paragrafo inglese.
+
+# Seconda lettura
+
+| pid | tipo | gravità | esito | motivo se respinto |
+|---|---|---|---|---|
+| p01286 | typo | medium | accettato («Orsi e tamia»: tamia è maschile e invariabile; il resto della frase non cambia) | |
+| p01310 | rhythm | low | accettato con variante («una densa pasta sfoglia di lamine in fibra di carbonio»: toglie la ripetizione sfoglia/fogli e, a differenza di «strati» della proposta, non ripete «quegli strati» della frase dopo; tiene la distinzione di Watts tra leaves e layers) | |
+
+Ogni intervento è stato verificato sul paragrafo inglese.
