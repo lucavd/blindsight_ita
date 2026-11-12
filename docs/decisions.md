@@ -619,3 +619,11 @@ Decisione: il PI accetta la raccomandazione del riassunto della prima sessione d
 Motivazione: la seconda lettura del blocco 02 ha trovato 1 rilievo medio fondato su 68 paragrafi (1,5 ogni 100), sopra la soglia di 1 ogni 100 fissata prima della misura; la rilettura del blocco 18 con l'altro modello ne aveva trovati 3,0 ogni 100. Costo misurato: 4,6 minuti per 3.295 parole; stima per il resto del libro circa 2 ore, una ventina di minuti a sessione. Limiti dichiarati al PI: un blocco e un errore solo, e chi giudica fondato un rilievo gira con lo stesso modello del revisore. Il totale della sessione al posto della mediana: per blocco i rilievi fondati sono 0, 1 o 2, e la mediana dei blocchi sarebbe quasi sempre 0 senza dire nulla. Alternative scartate dal PI: passaggio fisso senza recupero dei blocchi già chiusi (circa 8 errori medi stimati resterebbero nel Prologue e nei blocchi dal 03 al 07); nessuna seconda lettura (una quarantina di errori medi stimati nel resto del libro).
 
 Deciso da: PI (passaggio fisso e recupero); agente (esclusione del blocco 18, previsione e suo giudizio sul totale della sessione). Data: 2026-11-12. Stato: valida.
+
+## D-76 Gli orari all'italiana: 10.35, non 1035
+
+Decisione: i due orari del libro scritti da Watts in formato militare si scrivono all'italiana, ore e minuti separati dal punto: «le 10.35» per 1035 Greenwich Mean Time (blocco 03, p00185, cambiato dalla seconda lettura) e «le 13.50» per by 1350 (blocco 15, p01436, già così nella prima stesura).
+
+Motivazione: in italiano «le 1035» non si legge come un orario; il formato militare non è un tratto voluto di un personaggio ma la grafia inglese corrente per gli orari nei contesti tecnici. Così i due orari del libro sono scritti nello stesso modo. Non ci sono altri orari a quattro cifre nella sorgente.
+
+Deciso da: agente. Data: 2026-11-12. Stato: valida.

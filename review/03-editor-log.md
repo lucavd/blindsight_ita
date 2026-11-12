@@ -49,3 +49,13 @@ Nessun rilievo respinto.
 - p00183: «a livello della strada» diventa «al livello della strada»; at street level indica il piano della strada, contrapposto alle torri, e «a livello di» suona burocratico.
 
 Ogni intervento è stato verificato sul paragrafo inglese.
+
+# Seconda lettura
+
+- p00143, nuance, low: accettato («collasso» per meltdown, più vicino al cedimento di un sistema che «tracollo»).
+- p00155, nuance, low: accettato con una variante («per raggiungerla» invece di «per arrivarci», che lascia il «ci» senza riferimento; resta l'idea di gauntlet come prova lungo la strada verso di lei).
+- p00160, nuance, low: accettato con una variante («forse, in realtà, non gliel'avevo detto», senza il «mai» della proposta, già tolto come aggiunta nella prima revisione).
+- p00170, nuance, low: respinto. «It just—» è troncato e non si sa come finisce; «Non fa altro che–» impone un completamento affermativo che Watts non dà, mentre «È solo che–» è il modo naturale in italiano di lasciare la frase sospesa.
+- p00178, rhythm, low: accettato con una variante («da che si aveva memoria»: impersonale, tiene l'iperbole di living memory, che riguarda la memoria di chiunque e non solo quella di Siri).
+- p00184, nuance, low: accettato («rivoltato come un guanto»: è la forma corrente italiana di inside-out, mentre «rovesciato» si legge come capovolto).
+- p00185, typography, low: accettato con una variante («le 10.35» con il punto, cifre come nel testo secondo la guida; resta «tempo medio di Greenwich», che rende Mean e che la proposta toglieva). Lo stesso formato andrà usato per «by 1350» in p01436, blocco 15.
