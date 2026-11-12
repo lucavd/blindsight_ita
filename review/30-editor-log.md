@@ -54,3 +54,15 @@
 - p02768: «era più debole di ordini di grandezza che all'interno» diventa «era di ordini di grandezza più debole che all'interno», perché nell'ordine della stesura si leggeva «più debole di (= rispetto a) ordini di grandezza»; il senso di orders of magnitude weaker here than within resta identico.
 
 Ogni intervento è stato verificato sul paragrafo inglese.
+
+# Seconda lettura
+
+- p02693, nuance, medium, accettato: «Voi ancora non votate», disse Sarasti. Dice che l'equipaggio resta senza diritto di voto (You still don't vote) e riprende il «Qui non *votiamo*» del blocco 15.
+- p02695, nuance, low, accettato: «scrollare le spalle e allargare le braccia», il gesto di resa davanti all'incomprensibile di throw up their hands.
+- p02714, nuance, low, accettato: «non è il genere di quartiere dove vuoi tenere gli occhi chiusi», resa di neighborhood nei blocchi 01, 07 e 09, con l'eco di «Benvenuti nel quartiere».
+- p02749, nuance, low, accettato: «Era una cosa stupida», che tiene l'eco di stupid con «errore stupido» di p02753.
+- p02753, nuance, low, accettato: «per una cosa che col pensiero straccia un vampiro», la formula di think rings around già usata da Susan nel blocco 29.
+- p02768, terminology, low, accettato: «addentro all'onda d'urto di prua», forma italiana di bow shock; «spuntone» resta com'era.
+- p02770, calque, low, accettato: «era stato sganciato dalla nave con una spinta» per kicked free, al posto del calco «scalciato via».
+
+Ogni modifica della seconda lettura è stata verificata sul paragrafo inglese.
