@@ -62,3 +62,14 @@
 - p02115, «la sua traiettoria un arco regolare e prevedibile» diventa «su una traiettoria ad arco regolare e prevedibile»: la costruzione assoluta ricalcava l'inglese (its trajectory a smooth and predictable arc); restano traiettoria, arco, regolare e prevedibile.
 
 Ogni intervento è stato verificato sul paragrafo inglese.
+
+# Seconda lettura
+
+- p02115, omission, low, accettato: «forse con questa missione Sarasti aveva preso due piccioni con una fava».
+- p02127, nuance, low, accettato: «Il marchingegno dalle zampe esili».
+- p02144, nuance, low, accettato con variante: «Guardai in fondo al mio, a disagio.»; «in fondo al» rende la direzione di «down» lungo il passaggio in modo più naturale di «lungo il».
+- p02152, calque, low, accettato: «fissai la fioca foschia sanguigna a mezza distanza».
+- p02156, nuance, low, accettato: «a tre metri dalla mia spalla destra».
+- p02178, nuance, low, accettato con variante: «ebbro di un sollievo isterico»; «ebbro» tiene insieme l'euforia e il capogiro di «giddy», che «euforico» perderebbe a metà.
+
+Ogni modifica della seconda lettura è stata verificata sul paragrafo inglese.
