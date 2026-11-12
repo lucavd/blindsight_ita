@@ -10,8 +10,8 @@ T4	opus	closed	yes 2026-11-12	35-41	Prima stesura dei blocchi 35-41 (fine di Ror
 R1	opus	closed	yes 2026-11-12	01-07	Revisione dei blocchi 01-07 (Prologue e prima metà di Theseus)
 R2	opus	closed	yes 2026-11-12	08-14	Revisione dei blocchi 08-14 (seconda metà di Theseus)
 R3	opus	closed	yes 2026-11-12	15-21	Revisione dei blocchi 15-21 (inizio di Rorschach)
-R4	opus	closed	pending	22-29	Revisione dei blocchi 22-29 (parte centrale di Rorschach)
-R5	opus	todo	-	30-36	Revisione dei blocchi 30-36 (Rorschach verso la fine)
+R4	opus	closed	yes 2026-11-12	22-29	Revisione dei blocchi 22-29 (parte centrale di Rorschach)
+R5	opus	open	-	30-36	Revisione dei blocchi 30-36 (Rorschach verso la fine)
 R6	opus	todo	-	37-41	Revisione dei blocchi 37-41 (fine di Rorschach, Charybdis, Acknowledgments, Notes and References)
 F	opus	todo	-	all	Coerenza sull'intero libro ed EPUB
 C	opus	optional	-	-	Correzioni dalle note di lettura del PI
