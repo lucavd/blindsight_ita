@@ -63,3 +63,13 @@
 - p02442: «non c'è nessuna informazione» diventa «non c'è dentro nessuna informazione», perché la frase senza appoggio non diceva dove manca l'informazione (no information in it, nel gesto delle braccia).
 
 Ogni intervento è stato verificato sul paragrafo inglese.
+
+# Seconda lettura
+
+- p02430, calque, low, accettato: «coprivano il territorio a piccoli passi cauti» (in careful increments).
+- p02455, nuance, low, respinto: «dati e intelligenza» aggiunge una parola che l'inglese non ha e rende esplicito un doppio senso che Watts lascia implicito; nessuna parola italiana tiene insieme informazioni e intelligenza («intelligenza» da sola perde il senso letterale, «intelligence» come prestito vale solo spionaggio), quindi resta «informazioni».
+- p02497, nuance, low, accettato con variante: «Gli *scrambler* sono davvero vivi?»; tiene il dubbio radicale di even come la proposta, senza il «Ma» iniziale che l'inglese non ha.
+- p02508, nuance, low, respinto: in una replica «È una semplificazione» dice già in italiano che si semplifica troppo, e «colossale» tiene la misura; «e grossolana» aggiunge un giudizio che l'inglese non ha, «semplificare in modo colossale» non recupera l'eccesso e appesantisce.
+- p02510, calque, low, respinto: «essere, tenere nel giro» è un uso colloquiale italiano (stare dentro la cerchia di chi sa) e regge la ripresa «Un giro lungo» come in inglese keep in the loop / long loop; «delle informazioni» è un'esplicitazione che appesantisce la battuta senza renderla più corrente.
+- p02519, calque, low, accettato: «quella mente superiore da vampiro».
+- p02521, nuance, low, accettato con variante: «Ma non mi piace essere *giocato*, Keeton»; giocare qualcuno in italiano vuol dire raggirarlo, quindi recupera la manipolazione di being played e tiene l'eco con «sto al gioco» (play along) del paragrafo p02519, che «manovrato» perdeva.
