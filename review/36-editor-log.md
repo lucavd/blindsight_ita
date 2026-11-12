@@ -62,3 +62,16 @@
 - p03373: «*Forse ha più paura di* noi...» diventa «*Forse è più spaventato di* noi...». Con «avere paura di» la frase si leggeva anche come «forse ha paura di noi», mentre Watts dice more afraid than we are; «più spaventato di noi» tiene solo il paragone. Corsivo invariato, noi in tondo come we.
 
 Ogni intervento è stato verificato sul paragrafo inglese.
+
+# Seconda lettura
+
+- p03292, rhythm, low, accettato: «Alcuni segnali potrebbero perfino provenire» (may even arise), tolta la ripetizione di possono.
+- p03299, nuance, low, respinto: «intelligence» in italiano vale solo spionaggio e qui sarebbe un anglicismo; stesso giudizio dato nel blocco 27 (p02455). Il gioco del paragrafo, struttura intelligente e nascita *per* caso, resta intatto.
+- p03311, omission, low, accettato con variante: «Per fare il minimo movimento, persino solo per restare in piedi» rende at all senza il giro «in qualunque modo».
+- p03329, meaning, low, accettato: «le fecero a pezzi prima ancora che fossero arrivate», concordato con le stelle da lancio di p03328 come they in inglese.
+- p03330, nuance, low, accettato: «si agganciavano per le braccia, uno all'altro e all'altro ancora» (ripristinata anche la e di one to another to another).
+- p03337, register, low, accettato con variante: «un cambiamento termico *e* microallometrico», due aggettivi asciutti senza aggiungere «dati»; corsivo sulla e invariato.
+- p03340, nuance, low, accettato: «Modulo laboratorio sta per schiantarsi», senza articolo come in inglese e come vuole la scheda di Sarasti; termine del glossario invariato.
+- p03352, nuance, low, accettato con variante: «ancora tanto, tanto lontana» per so very far away («così tanto lontana» non è italiano corretto); la serie «dure e fredde e senza ammiccare» della prima revisione non è toccata.
+- p03360, rhythm, low, accettato con variante: «appena a portata di braccio» (just within reach) toglie l'eco con «Per darti una mano»; «quasi a sfiorarmi» cambiava l'immagine.
+- p03364, rhythm, low, accettato con variante: «stagliato contro l'orrenda luce cadaverica» (backlit against); la proposta teneva ancora controluce accanto a luce.
