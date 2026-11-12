@@ -89,3 +89,14 @@ Ogni intervento è stato verificato sul paragrafo inglese.
 Le due battute di Bates riprese a memoria da Siri più avanti non sono cambiate: p01215 resta «Sono più che altro una misura di sicurezza.» (ripresa nel blocco 18) e p01229 resta «Stiamo facendo uno scasso, Siri.» (ripresa nel blocco 19).
 
 Nessuna segnalazione su glossario o forme di cortesia.
+
+# Seconda lettura
+
+| pid | tipo | gravità | esito | motivo se respinto |
+|---|---|---|---|---|
+| p01172 | calque | low | accettato («Gli incerti del mestiere», frammento senza verbo come in Price of doing business) | |
+| p01181 | nuance | low | accettato («Non avremmo uno straccio di speranza», rafforzativo colloquiale per a hope in hell) | |
+| p01216 | calque | low | accettato («correggendo ancora il nostro assetto» per giving us more attitude; resta il cambio d'assetto) | |
+| p01229 | rhythm | low | accettato («incustodita» per unguarded; la prima frase, ripresa nel blocco 19, è invariata) | |
+
+Ogni intervento è stato verificato sul paragrafo inglese.
