@@ -1,0 +1,76 @@
+pid	verdict	type	severity	problem	proposal
+p01954	ok
+p01955	issue	rhythm	low	«Through it all, Szpindel stared»: il passato remoto puntuale «fissò» senza oggetto non rende la durata di «through it all»; suona come un gesto unico.	Per tutto il tempo Szpindel continuò a fissare senza battere ciglio, sotto il foro che aveva in fronte.
+p01956	ok
+p01957	ok
+p01958	ok
+p01959	issue	nuance	low	«I should mourn» è un verbo d'azione (piangere un morto); «essere in lutto» indica uno stato sociale e suona burocratico nel monologo interiore.	Dovrei piangerlo.
+p01960	issue	nuance	medium	«this sick sinking fear» è un unico sostantivo con due aggettivi; la resa lo spezza in tre elementi («nausea», «sprofondare», «paura»), facendo di «sick» una nausea autonoma e cambiando la struttura dell'immagine.	*Dovrei provare qualcosa di più di questa paura nauseante, che mi trascina a fondo, di poter essere il prossimo...*
+p01961	ok
+p01962	issue	typo	low	«Guardò oltre di me»: con senso spaziale «oltre di me» suona scorretto (oltre di vale di solito «in aggiunta a»).	Guardò oltre me e prese il corpo.
+p01963	ok
+p01964	ok
+p01965	issue	calque	low	«We're hot» è gergo per «contaminati da radiazioni»; «Siamo caldi» in italiano si legge prima come temperatura, e il senso arriva solo dalla frase dopo.	«Scottiamo», disse Bates.
+p01966	ok
+p01967	ok
+p01968	ok
+p01969	ok
+p01970	ok
+p01971	ok
+p01972	issue	nuance	low	«It slung Bates and the Gang and Sarasti around»: «slung» dice un lancio in tondo, con forza; «Faceva girare» è più neutro.	Faceva roteare Bates e la Banda e Sarasti come pesi in fondo a un filo.
+p01973	ok
+p01974	ok
+p01975	ok
+p01976	ok
+p01977	ok
+p01978	ok
+p01979	ok
+p01980	ok
+p01981	ok
+p01982	ok
+p01983	ok
+p01984	ok
+p01985	ok
+p01986	ok
+p01987	ok
+p01988	ok
+p01989	ok
+p01990	ok
+p01991	ok
+p01992	ok
+p01993	ok
+p01994	ok
+p01995	ok
+p01996	ok
+p01997	ok
+p01998	ok
+p01999	ok
+p02000	ok
+p02001	issue	nuance	medium	«it just sort of *bumped*»: «bump» è un urto leggero, coerente con «wasn't loud or harsh»; «sbattuto» evoca un colpo forte e rumoroso, in contraddizione con la frase che lo precede.	non era forte né aspro, ha solo tipo *urtato*
+p02002	ok
+p02003	ok
+p02004	ok
+p02005	ok
+p02006	ok
+p02007	ok
+p02008	ok
+p02009	ok
+p02010	ok
+p02011	ok
+p02012	ok
+p02013	ok
+p02014	issue	rhythm	low	«Andai alla deriva di sbieco contro le cinghie»: «andare alla deriva» suggerisce uno spostamento lungo e libero, mentre Siri è legato e scivola appena contro le cinghie quando torna il peso.	Scivolai di sbieco contro le cinghie.
+p02015	ok
+p02016	ok
+p02017	ok
+p02018	issue	terminology	medium	«Diffraction patterns»: in fisica italiana il termine standard è «figure di diffrazione», non «schemi di diffrazione» (guida, sezione 6, punto 3). Anche «consistent with» in contesto scientifico è di norma «compatibili con».	«Le figure di diffrazione non sono compatibili con una singola sorgente luminosa in spazio aperto.
+p02019	ok
+p02020	ok
+p02021	ok
+p02022	ok
+p02024	ok
+p02025	ok
+p02026	ok
+p02027	ok
+p02028	ok
+p02029	ok

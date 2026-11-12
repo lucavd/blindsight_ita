@@ -1,0 +1,66 @@
+pid	verdict	type	severity	problem	proposal
+p01567	ok
+p01568	ok
+p01569	ok
+p01570	issue	nuance	low	«ripresentavano» rende debolmente «recast ... in an entirely new light»: in italiano suona come riproporre lo stesso mondo, non come rimodellarlo sotto una luce nuova.	Per me, le competenze di Chelsea mostravano uno strano vecchio mondo sotto una luce del tutto nuova
+p01571	issue	calque	low	«Lascia che ti faccia il dono» ricalca «Let me give you» e suona letterario in bocca a Chelsea, che parla colloquiale; il «dono della felicità» va tenuto per l'eco di p01583.	«Lasciati fare il dono della felicità», disse.
+p01572	ok
+p01573	ok
+p01574	ok
+p01575	ok
+p01576	ok
+p01577	ok
+p01578	ok
+p01579	ok
+p01580	ok
+p01581	ok
+p01582	ok
+p01583	ok
+p01584	ok
+p01585	ok
+p01586	ok
+p01587	issue	calque	low	«costruire dei compositi» ricalca «building composites»: compositi come sostantivo isolato in italiano richiama i materiali, non le immagini mentali composte.	Il cervello ha la buffa abitudine di costruire immagini composite.
+p01588	ok
+p01589	ok
+p01590	ok
+p01591	ok
+p01592	ok
+p01593	ok
+p01594	ok
+p01595	issue	nuance	low	«garbage» di Helen fa eco al «garbage pail» da cui spunta il flacone (p01599) e al «kitchen-catcher» lasciato aperto; «idiozie» perde il richiamo, che regge anche in italiano con spazzatura.	«È solo *spazzatura*», disse Helen.
+p01596	ok
+p01597	ok
+p01598	ok
+p01599	ok
+p01600	issue	typography	low	Il punto dentro il corsivo («*ragionevole.*») riproduce una svista di formattazione della sorgente; in italiano la punteggiatura che chiude la frase sta fuori dall'enfasi (diverso dal caso deciso di p01630, che riguarda solo quel paragrafo).	«Jim, sii *ragionevole*. È così *distante*, a me quasi non *parla* neanche.»
+p01601	ok
+p01602	ok
+p01603	ok
+p01604	ok
+p01605	ok
+p01606	ok
+p01607	ok
+p01608	ok
+p01609	ok
+p01610	ok
+p01611	ok
+p01612	ok
+p01613	ok
+p01614	ok
+p01615	ok
+p01617	ok
+p01618	ok
+p01619	ok
+p01620	ok
+p01621	ok
+p01622	ok
+p01623	ok
+p01624	ok
+p01625	ok
+p01626	issue	calque	medium	«Perché mi faresti» ricalca il «would» inglese: in italiano il condizionale suona come un'ipotesi futura, mentre Siri chiede conto di ciò che lei ha appena fatto e vuole rifare. L'infinito tiene entrambe le letture, come l'inglese.	«Perché farmi una cosa del genere?»
+p01627	ok
+p01628	issue	rhythm	low	L'anafora «For a while, I could feel ... For a while I could feel like» si spezza in «sentirmi ... credere»; il secondo «feel like» è una sensazione, non una convinzione.	Per un po' riuscivo a sentirmi un pochino al sicuro. Per un po' riuscivo a sentire che il fondo non avrebbe ceduto da un momento all'altro.
+p01629	ok
+p01630	ok
+p01631	ok
+p01632	ok

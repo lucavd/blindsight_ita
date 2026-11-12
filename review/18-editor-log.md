@@ -73,3 +73,70 @@
 La lettura in solo italiano ha segnalato anche «un prendiappunti nudo» (p01730), «finita giù per lo scarico, fino agli atomi» (p01803), «Era tutta retroazione e correlazione» (p01747) e «Abituatici» (p01786): verificati sull'inglese, rendono naked note-taker, flushed down to the atoms, It was all just feedback e Get used to it senza perdite né aggiunte e restano come sono.
 
 Ogni intervento è stato verificato sul paragrafo inglese.
+
+# Correzioni dal confronto alla cieca
+
+Correzioni della terza sessione di revisione (R3): note di lettura e rilievi della tabella del confronto incrociato, ciascuno verificato sul paragrafo inglese.
+
+Note di lettura:
+
+- p01655: «Hai allungato la mano» diventa «Hai allungato la mano per afferrarla»; ripristinato for it. «L'hai quasi presa» resta (esempio della guida).
+- p01721: «discretamente distante» diventa «a distanza, con discrezione,» dentro le lineette; discreetly è il modo (per riserbo), non il grado.
+- p01726: «affamato» diventa «famelico»; ravenous è più forte, e «fame» a fine paragrafo resta distinta.
+- p01747: «Era tutta retroazione e correlazione» diventa «Era solo retroazione e correlazione, nient'altro»; solo rende just, nient'altro rende all. «telepate» resta.
+- p01790: «sbloccarsi» diventa «scollarsi»; una sola immagine con «appiccicosi», come sticky e unstuck. TAT resta al maschile.
+- p01835: «sentiti libero di infilare» diventa «infila pure»; calco di feel free to.
+- p01649: «capsula dei sensori» diventa «la capsula»; dei sensori non è nell'inglese (the pod). Nessuna ambiguità con le capsule di risurrezione: la scena è nella tenda dentro *Rorschach*, dove capsule della cripta non ce ne sono; il paragrafo prima nomina il trasduttore e l'articolo determinativo riprende la capsula dei sensori che Bates ha schiaffato sulla tenda nel blocco 16. Pod resta capsula come vuole la voce approvata del glossario.
+- p01832: «Se sarai circondato» diventa «Se devi ritrovarti circondato»; If you're going to be è una premessa, non una previsione. Senza «proprio», che rafforzerebbe.
+
+Rilievi della tabella del confronto incrociato (oltre a quelli già sopra):
+
+- p01637, nuance, low: accettato («disse Szpindel in un soffio» per breathed).
+- p01647, addition, low: accettato con variante: tolto «poi» (asindeto come nell'inglese); «E poi» per Besides resta, perché senza il primo poi non c'è più ripetizione.
+- p01648, calque, low: respinto: il corsivo sull'ausiliare («*ha* messo») si legge bene in italiano e tiene l'enfasi di did sul fatto; la proposta aggiunge una dislocazione senza guadagno di senso.
+- p01649, addition, high: accettato (vedi sopra).
+- p01649, nuance, low: accettato («Il mio HUD fu inondato di numeri», che fa coppia con «si diradò» di p01693).
+- p01650, rhythm, low: accettato con variante: tolta la «e», «un secondo dopo si ritrasse» nell'ordine già in uso.
+- p01658, nuance, low: accettato con variante: «I recettori sono a posto», parlato e breve come Nothing wrong with the receptors.
+- p01662, rhythm, low: accettato con variante: «Non da nessuno nella tenda, quella voce.», frase nominale con la negazione italiana.
+- p01670, nuance, low: respinto: «a qualche centinaio di baud» dice esattamente un numero di baud a tre cifre; la proposta appesantisce senza aggiungere senso.
+- p01675, rhythm, low: accettato («Forse non la sua voce, dopotutto.», nominale come la frase dopo).
+- p01698, rhythm, low: accettato («da fuori»).
+- p01699, meaning, low: accettato con variante: «Amanda Bates si affacciò a guardarci attraverso la membrana scoperta»; tiene looked in e at us senza la lettura «dentro di noi» e senza la doppia virgola della proposta.
+- p01707, terminology, medium: non applicato (giudicato non fondato).
+- p01717, nuance, low: accettato con variante: «antichi strumenti»; antique senza il giudizio di «antiquati» e senza il collezionismo di «d'antiquariato».
+- p01718, calque, low: accettato («riducendo le cellule in poltiglia»).
+- p01719, rhythm, low: accettato («forse per una settimana»).
+- p01721, nuance, medium: accettato (vedi sopra).
+- p01721, nuance, low: accettato («per trattenere i nostri effetti personali» per to capture).
+- p01726, nuance, medium: accettato (vedi sopra).
+- p01729, calque, low: accettato con variante: «era già guizzato indietro, sparendo alla vista»; tiene guizzato per whipped.
+- p01730, nuance, low: respinto: «prendiappunti» è la resa annotata nelle note del blocco e ripresa nel blocco 26 per lo stesso note-taker.
+- p01733, meaning, low: accettato («La mia voce era molto meno ferma di quanto avessi sperato»).
+- p01735, addition, low: accettato («Coriolis mi spinse», come «metà Coriolis» nel blocco 05).
+- p01745, calque, low: accettato con variante: «ognuna delle quali faceva germogliare triangoli più piccoli dalle punte»; tiene la relativa del testo senza il germogliare transitivo.
+- p01746, calque, low: accettato («Il wetware con cui Susan stessa riconosceva gli schemi»).
+- p01747, omission, medium: accettato (vedi sopra).
+- p01747, typo, medium: respinto per istruzione: «telepate» resta, verificato come forma prevalente.
+- p01749, nuance, low: respinto: «pentagramma» in italiano è anche la stella a cinque punte, e con «asimmetrici intrecciati» e «squame di pesce» la lettura musicale non regge; la proposta allunga e perde la parola unica.
+- p01755, nuance, low: accettato («il giorno in cui sei nata»).
+- p01758, rhythm, low: accettato («le ha viste prima d'ora. *Mai*.»).
+- p01766, calque, low: accettato con variante: «Mi sdraiai.»; «Obbedii» aggiungerebbe una sfumatura di obbedienza che I did non ha.
+- p01769, nuance, low: accettato («Scrutò la cuvetta»).
+- p01782, nuance, low: accettato («È probabile che il tuo corpo se ne occupi da solo»).
+- p01784, rhythm, low: accettato («tutto ciò che quella cosa»).
+- p01787, addition, low: accettato («Gli altri vedono queste cose?»).
+- p01790, nuance, medium: accettato (vedi sopra).
+- p01794, calque, low: accettato («finché Sarasti non dirà il contrario»).
+- p01806, calque, low: respinto: «Solo un guizzo, davvero» in bocca a Siri che minimizza si legge come ammissione schiva, che è il senso di really; «in realtà» darebbe una correzione che il testo non fa.
+- p01807, calque, low: respinto: nel contesto delle allucinazioni «che ci faccia vedere cose» è chiaro; «che non ci sono» esplicita ciò che Watts lascia implicito.
+- p01811, calque, low: accettato («Non peggio di noi altri, in fondo»); qui really è riflessivo e «davvero» suonava tradotto.
+- p01815, nuance, medium: non applicato (giudicato non fondato).
+- p01831, register, medium: non applicato (giudicato non fondato).
+- p01832, meaning, medium: accettato con variante (vedi sopra).
+- p01833, nuance, low: accettato («Sì, la gente continua a dirlo»).
+- p01835, calque, medium: accettato (vedi sopra).
+
+Ogni correzione è stata verificata sul paragrafo inglese.
+
+Ripristino della chat principale (p01746): «Il wetware con cui Susan stessa riconosceva gli schemi» scioglieva in un verbo la voce approvata del glossario sul riconoscimento di schemi, che torna in tutto il libro e cita proprio questo paragrafo; il protocollo non ammette di cambiarla senza decisione. Ora «Il wetware di Susan stessa per il riconoscimento degli schemi reagiva»: tiene il termine e toglie la fila di tre complementi del rilievo.

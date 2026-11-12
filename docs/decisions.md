@@ -643,3 +643,11 @@ Decisione: lo schermo tattico della nave, quando è usato come nome («sul Tatti
 Motivazione: Watts scrive lo stesso schermo ora con la maiuscola ora con la minuscola, anche a poche righe di distanza (blocco 12); in italiano la stessa cosa scritta in due modi si legge come due cose. Il glossario ha già scelto la maiuscola fissa per la Banda e per il Diploma; la prima stesura era incoerente (blocco 12 minuscolo, blocco 38 maiuscolo). Rilievo di gravità media della revisione bilingue del blocco 09. Sostituisce il criterio usato nella prima stesura del blocco 12 (maiuscola solo dove la usa Watts), che il blocco 38 già non seguiva. Come per il Diploma (decisione sul Diploma, D-71), è una conseguenza di una regola già decisa, non una convenzione nuova.
 
 Deciso da: agente. Data: 2026-11-12. Stato: valida.
+
+## D-79 Tweak per la pistola e i getti: «breve impulso», non «ritocco»
+
+Decisione: quando tweak è detto della pistola di manovra o dei getti si rende «breve impulso»: blocco 20, p01921, She tweaked her pistol, «Diede un breve impulso con la pistola» (cambiato dalla terza sessione di revisione, R3); blocco 23, p02184, I tweaked my jets, e blocco 26, p02360, an occasional tweak of her jets, da allineare nella quarta sessione di revisione (R4). La voce del glossario sui ritocchi resta approvata com'è per i ritocchi neurali e per le correzioni fini; la sua nota ora lo dice.
+
+Motivazione: «Diede un ritocco alla pistola» si legge come una regolazione dell'arma, mentre Watts descrive il breve colpo di spinta con cui ci si muove in assenza di peso; rilievo di gravità media della revisione bilingue del blocco 20. La voce sui ritocchi riguarda i ritocchi neurali di Chelsea; la prima stesura aveva usato «ritocco» anche qui perché l'espressione di ricerca del controllo prende ogni tweak. È lo stesso caso di feed verbo e feed flusso di dati: un altro senso della stessa parola, non un cambio della resa della voce.
+
+Deciso da: agente. Data: 2026-11-12. Stato: valida.

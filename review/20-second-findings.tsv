@@ -1,0 +1,65 @@
+pid	verdict	type	severity	problem	proposal
+p01887	ok
+p01888	ok
+p01889	issue	rhythm	low	«lasciammo che ci masticasse... finché la Theseus non ci ripescava e ci ricuciva»: l'imperfetto dopo il passato remoto della reggente stride; la serie delle cinque orbite è già riassunta dal remoto (lasciammo, Strisciammo).	finché la *Theseus* non ci ripescò e non ci ricucì
+p01890	ok
+p01891	ok
+p01892	ok
+p01893	ok
+p01894	ok
+p01895	ok
+p01896	issue	terminology	medium	«dalle punte dei suoi aculei» per «tips of its thorns»: aculei è nel glossario la resa di spines di Rorschach, mentre thorns è un'altra parola di Watts, resa «spine» nel blocco 12 con la stessa espressione (p01103, «dalle punte delle spine») e nella corona di spine (p01133). Così thorns e spines si confondono e l'eco con il blocco 12 si perde.	*Rorschach* cresceva soprattutto dalle punte delle sue spine; avevamo fatto la nostra incursione a centinaia di metri dalla più vicina
+p01897	issue	terminology	medium	«verso l'aculeo» per «towards the thorn»: stesso problema del paragrafo precedente, da allineare a «spine» del blocco 12.	appena un centinaio di metri più in là verso la spina
+p01898	ok
+p01899	ok
+p01900	ok
+p01902	ok
+p01903	issue	nuance	low	«it was dedicated» reso «era specializzato»: Watts usa il senso del circuito dedicato (votato a un solo compito); specializzato sposta un po' l'accento sulla competenza.	ed era dedicato
+p01904	ok
+p01905	issue	nuance	low	«the static» reso «le scariche»: static è il rumore, l'interferenza di fondo, non la scarica; si perde l'immagine del segnale disturbato.	trovai le interferenze che avevano mandato Bates in estasi
+p01906	ok
+p01907	ok
+p01908	ok
+p01909	ok
+p01910	ok
+p01911	ok
+p01912	ok
+p01913	ok
+p01915	ok
+p01916	ok
+p01917	ok
+p01918	ok
+p01919	ok
+p01920	ok
+p01921	ok
+p01922	ok
+p01923	ok
+p01924	ok
+p01925	issue	rhythm	low	«come un'acrobata in avanti veloce»: la sequenza si legge male (avanti veloce sembra una direzione di moto); fast-forward è l'immagine del filmato accelerato.	come un'acrobata a velocità accelerata
+p01926	ok
+p01927	ok
+p01928	ok
+p01929	issue	nuance	low	«We're taking you first» reso al futuro «Prenderemo»: il progressivo inglese dice un'azione imminente, già in corso; il presente italiano tiene l'immediatezza della minaccia.	*Prendiamo te per* prima*.*
+p01930	ok
+p01931	ok
+p01932	ok
+p01933	ok
+p01934	ok
+p01935	ok
+p01936	ok
+p01937	ok
+p01938	ok
+p01939	ok
+p01940	issue	nuance	low	«haunted» detto del lamento reso «spettrale»: haunted qui è tormentato, ossessionato (il suono di chi è perseguitato), non simile a uno spettro. Il verbo sussurrare resta com'è.	un lamento animale sommesso, angosciato e dissonante
+p01941	ok
+p01942	ok
+p01943	ok
+p01944	ok
+p01945	ok
+p01946	ok
+p01947	ok
+p01948	ok
+p01949	ok
+p01950	ok
+p01951	ok
+p01952	ok

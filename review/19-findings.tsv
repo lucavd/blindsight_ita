@@ -1,0 +1,56 @@
+pid	verdict	type	severity	problem	proposal
+p01837	issue	doubt	low	Dubbio 1: il femminile dalla prima riga è scelta del PI; concordo, gli accordi restano coerenti fino a p01878.
+p01838	issue	doubt	low	Dubbio 2: superato, il testo usa già Realisti con la maiuscola come vuole il glossario. Termine biosol invariato: accettabile.
+p01838	issue	nuance	low	«una bella corsa» per «a good run» non è un modo di dire italiano e suona come un calco; l'eco con la corsa di p01840 è comunque debole, già annotata come perdita.	è un bel periodo, per gli standard di chiunque
+p01839	issue	doubt	low	Dubbio 3: concordo con «Gran Ganga Gemente», tiene allitterazione e stranezza.
+p01839	issue	calque	low	«quello che i succhiasangue si sono evoluti per *fare*» ricalca la sintassi inglese; si può tenere l'enfasi su *fare* con una costruzione più italiana.	dopotutto, i succhiasangue si sono evoluti apposta per *fare* questo: cacciare le persone
+p01840	issue	nuance	low	«Le prede corrono per la pelle» non è un modo di dire italiano (si dice salvare la pelle); il detto è noto in italiano come la volpe corre per la cena, il coniglio per la vita, e «per la vita» tiene anche lives senza perdita.	*Le prede corrono per la vita.*
+p01841	issue	doubt	low	Dubbio 4: concordo con «fottiture mentali a doppio rovescio»; «inculate» alzerebbe la volgarità.
+p01842	issue	meaning	medium	«gli altri due della tua cella»: in un gruppo di sabotatori cell è la cellula clandestina (i quattro complici), non la cella di prigione; «cella» fa pensare a compagni di detenzione.	come gli altri due della tua cellula, i cui pezzi sono sparsi per la stanza
+p01842	issue	rhythm	low	«Da sei ore sei attaccata» ripete «sei» a distanza di una parola e inciampa. Dubbio 5: «attaccata a geco» accettabile.	Sono sei ore che stai attaccata a geco alla parete
+p01843	issue	rhythm	low	«solo un altro po' di delinquenti sadici» è goffo: un altro po' si usa con i non numerabili.	Questi sono solo altri delinquenti sadici investiti di Autorità
+p01844	issue	nuance	low	«scontento» per displeased è debole per chi ha appena terrorizzato gli aguzzini; «sia potente e scontento» va corretto in sia... sia.	sia potente sia contrariato
+p01845	ok
+p01846	issue	doubt	low	Dubbio 6 e termine sub-q: concordo con «sovrapposizione gelatinosa» e con «antenna sottocute» al singolare.
+p01846	issue	omission	low	Manca «only» in «of only average height»: la corteccia ridimensiona Bates, e il «soltanto» lo dice.	insiste che è soltanto di statura media
+p01847	issue	rhythm	low	«alcun segno del grado» suona innaturale; il grado non è ancora noto, quindi senza articolo.	Non vedi nessun segno di grado.
+p01848	ok
+p01849	issue	doubt	low	Termine microwave pistol: concordo con «pistola a microonde».
+p01850	issue	nuance	low	«intorpidita» per numbly è letterale e fisico; qui è uno stordimento emotivo.	Fissi la pistola, inebetita, cercando di capire dov'è il trucco.
+p01851	ok
+p01852	ok
+p01853	issue	doubt	low	Dubbio 7: concordo con la caporale lasciata aperta come nella sorgente e con «Nessuna promessa».
+p01854	ok
+p01855	issue	doubt	low	Dubbio 8: concordo con «lavoro ai fianchi».
+p01856	issue	doubt	low	Dubbio 9: concordo, tu della prigioniera a Bates già qui, come da scheda dei personaggi.
+p01857	ok
+p01858	issue	rhythm	low	«Non può che scherzare» è rigido e ambiguo (può sembrare una deduzione logica); l'inglese è incredulità parlata.	Deve per forza scherzare.
+p01859	issue	doubt	medium	Dubbio 10: «Non sono del tutto insensibile» sposta il senso: unsympathetic qui vuol dire non solidale con la causa realista (lo spiega la frase dopo), mentre insensibile in italiano vuol dire senza cuore, lettura stonata dopo le torture. Si può tenere la litote. Su spin concordo con «retorica», perdita già annotata.	«Non sono del tutto ostile alle vostre ragioni.
+p01859	issue	rhythm	low	«Non è un problema mio, non è il mio lavoro» scioglie l'ellissi secca di Bates (Not my problem, not my job); si può tenere asciutta.	Non è un problema mio, non è compito mio, è solo la mia opinione, e potrei sbagliarmi.
+p01860	issue	doubt	low	Dubbio 11: concordo con «troia», che tiene forza e bersaglio di genere; stronza resta per twat in p01878, così i due insulti restano distinti.
+p01861	ok
+p01862	issue	doubt	low	Termine offline: concordo.
+p01863	ok
+p01864	ok
+p01865	ok
+p01866	ok
+p01867	ok
+p01868	ok
+p01869	ok
+p01870	issue	doubt	low	Dubbio 12: «Noi ci limitiamo a–» è accettabile; la battuta incredula si legge forse meglio con l'incompiuta più vicina a just.	«E noi semplicemente–»
+p01871	ok
+p01872	issue	nuance	medium	«il riflesso delle parti rovesciate»: «parti rovesciate» non è un modo di dire italiano e qui, fra pezzi di corpi, si legge come parti del corpo. L'idiomatico «le sorti si rovesciano» tiene l'immagine del ribaltamento. Dubbio 13: concordo con «corpo di ballo di Cristi in croce» e con «si sporcano i pantaloni».	il riflesso delle sorti rovesciate
+p01873	ok
+p01874	issue	meaning	low	«Ma basta» si legge anche come l'esclamazione basta!, non come «it's enough». Dubbio 14: concordo con «questa tale Bates».	Ma è abbastanza, e non vuoi abusare della benevolenza di questa tale Bates.
+p01875	ok
+p01877	issue	meaning	high	Falso amico: «Occupati delle indiscrezioni» per indiscretions; in italiano indiscrezioni sono soprattutto le notizie trapelate, e a quattro paragrafi da «se la storia non fosse trapelata» il lettore capisce fughe di notizie, non le malefatte dei soldati.	Occupati delle mancanze, se proprio devi
+p01877	issue	doubt	low	Dubbio 19: concordo con «il tenente» al maschile e accordi al femminile, come per il maggiore.
+p01878	issue	doubt	low	Dubbio 15: concordo con «una stronza di terrorista» e con «scalpi amici» sul modello di fuoco amico.
+p01879	issue	doubt	low	Termini franchise e Duluth Staging Grounds: concordo con «franchising Realista» e con «l'Area di ammassamento di Duluth».
+p01880	ok
+p01881	ok
+p01882	ok
+p01883	issue	doubt	low	Dubbio 16: concordo con «carcere militare» e «scuola ufficiali» e con la frase sospesa senza punteggiatura.
+p01884	issue	doubt	low	Dubbio 17: la battuta coincide con la versione finale del blocco 13 più i puntini dell'originale; resta così.
+p01885	ok
+p01886	issue	doubt	low	Dubbio 18: «un'intesa» è neutro, mentre consorting with the enemy ha un tono di sospetto; l'eco con p01857 si tiene anche con il verbo.	chiunque abbia come momento decisivo della propria carriera l'essersela intesa con il nemico.
