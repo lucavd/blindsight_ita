@@ -56,3 +56,13 @@ Nessun rilievo respinto.
 - p00813: «un insieme di cose frastagliate più piccole ammucchiate» diventa «un insieme di cose più piccole e frastagliate, ammucchiate»: l'ordine degli aggettivi ricalcava l'inglese.
 
 Ogni intervento è stato verificato sul paragrafo inglese.
+
+# Seconda lettura
+
+- p00757, nuance, low: accettato («Innestato e sminuzzato»: innestato rende splice, cioè innesto genetico e di cavi, e sminuzzato tiene il sapore da cucina di diced; le due parole rimano).
+- p00772, nuance, low: accettato con una variante («fino al giorno stesso in cui si resero da sé obsoleti»: passato remoto come nell'inglese; «fin proprio al» suonava goffo, «stesso» rende l'enfasi di even unto).
+- p00788, calque, low: accettato («Dal portello di poppa, filtrando nel tamburo: il rumore...»).
+- p00816, rhythm, low: accettato. La battuta cambia. Frase finale esatta nel blocco 09: «Sapessimo prevedere i vampiri, non avremmo *bisogno* dei vampiri, eh?». Il congiuntivo senza se rende l'ellissi dell'inglese (nessun if) e il parlato di Szpindel. La parte della proposta che chiede la stessa modifica nel blocco 30 non va applicata: lì l'inglese ha If you could second-guess a vampire, quindi «*Se sapessi prevedere un vampiro, non avresti bisogno di un vampiro*» resta corretto e le parole restano allineate (sapessi prevedere, bisogno). Da portare nei dubbi ricevuti della sessione di revisione che rivede il blocco 30, perché le note di quel blocco citano ancora la vecchia forma con «Se sapessimo».
+- p00859, meaning, low: accettato («Questo lo so, umano di serie.»). Sull'inglese baseline si legge come vocativo; la seconda lettura (commento: cosa di base) è debole, mentre «di serie» da solo introduce una lettura avverbiale («lo so di default») che l'inglese non ha. «Umano di serie» è la forma prevista dal glossario. Questo rovescia la scelta della prima redazione.
+
+Ogni intervento è stato verificato sul paragrafo inglese.
