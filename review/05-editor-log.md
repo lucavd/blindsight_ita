@@ -55,3 +55,14 @@ Nessun rilievo respinto.
 - p00339: «avremmo accelerato fin da subito fino a una velocità ottimale» diventa «avremmo accelerato subito fino a una velocità ottimale»; built early, e «fin da subito fino a» inciampava sul doppio «fin».
 
 Ogni intervento è stato verificato sul paragrafo inglese.
+
+# Seconda lettura
+
+- p00313, rhythm, low: accettato con una variante («A modo loro erano necessari quanto basta»: «piuttosto importanti» perdeva vital, già difeso nella prima revisione; «quanto basta» gradua senza stonare e tiene enough).
+- p00341, nuance, low: accettato («il radar ha ormai le onde troppo lunghe per i dettagli fini»: tiene la lunghezza d'onda, «ormai» conserva un'eco della vecchiaia).
+- p00347, meaning, low: accettato («per parlare con loro»).
+- p00362, nuance, low: accettato con una variante («Questo sì che è un tiro da metà campo»: tiene la distanza e l'improbabilità; «tiro della disperazione» aggiungeva una disperazione che l'inglese non ha).
+- p00372, calque, low: accettato («Ci saremo anche bruciati la ricognizione di punta nel Kuiper, ma…»).
+- p00392, nuance, low: accettato («con una precisione disinvolta, inimmaginabile»).
+
+Nessun rilievo respinto. Ogni modifica è stata verificata sul paragrafo inglese; nessun altro paragrafo è stato toccato, p00354 compreso.
