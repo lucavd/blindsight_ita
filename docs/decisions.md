@@ -651,3 +651,20 @@ Decisione: quando tweak è detto della pistola di manovra o dei getti si rende �
 Motivazione: «Diede un ritocco alla pistola» si legge come una regolazione dell'arma, mentre Watts descrive il breve colpo di spinta con cui ci si muove in assenza di peso; rilievo di gravità media della revisione bilingue del blocco 20. La voce sui ritocchi riguarda i ritocchi neurali di Chelsea; la prima stesura aveva usato «ritocco» anche qui perché l'espressione di ricerca del controllo prende ogni tweak. È lo stesso caso di feed verbo e feed flusso di dati: un altro senso della stessa parola, non un cambio della resa della voce.
 
 Deciso da: agente. Data: 2026-11-12. Stato: valida.
+
+## D-80 Il tu generico di Cunningham può avere l'accordo al maschile
+
+Decisione: la regola della scheda dei personaggi per cui Cunningham non mostra il genere delle persone riguarda le persone a cui si riferisce (il suo it, reso esso, e gli accordi che ne dipendono), non il tu generico. Nel blocco 28, p02535, If you don't retrain you're obsolete inside a month si rende «Se non ti riqualifichi, nel giro di un mese sei obsoleto». La scheda dei personaggi ora lo dice. Le costruzioni senza genere già scelte altrove per un tu generico restano: non sono sbagliate, solo non obbligatorie.
+
+Motivazione: nella scheda il divieto di accordo sta nella stessa frase che parla di it riferito a una persona; in inglese il tu generico non mostra nulla, e in italiano il suo maschile è la forma non marcata, che non attribuisce un genere a nessuno. Estendere la regola costringeva a cambiare l'immagine: la prima stesura aveva «sei da rottamare», segnalato come perdita e lasciato al revisore; la chat principale di questa sessione aveva provato «sei un modello superato», che la seconda lettura ha segnalato come aggiunta. Due revisioni indipendenti e il redattore chiedevano «obsoleto», la parola esatta.
+
+Deciso da: agente. Data: 2026-11-12. Stato: valida.
+
+## D-81 Blister detto di una ferita resta vescica
+
+Decisione: la nota della voce del glossario sulla bolla di osservazione ora dice che nel senso anatomico vale vescica, citando il blocco 22, p02043 (la tenda-patella copriva la ferita aperta nel fianco di *Rorschach* like a blister, «come una vescica»), oltre a p03103. La resa della voce non cambia.
+
+Motivazione: la seconda lettura del blocco 22 aveva segnalato «vescica» come voce del glossario non rispettata. È una similitudine anatomica (anatomia, ferita, fianco), non la bolla della nave, e l'espressione di ricerca della voce ammetteva già vescica per questo senso; la nota citava solo p03103. È lo stesso caso dei falsi allarmi su feed e tweak: un altro senso della stessa parola.
+
+Deciso da: agente. Data: 2026-11-12. Stato: valida.
+

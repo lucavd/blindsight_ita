@@ -63,3 +63,15 @@ Ogni intervento è stato verificato sul paragrafo inglese.
 # Interventi della chat principale
 
 - p02535: «sei obsoleto» diventa «sei un modello superato». La scheda dei personaggi vuole che Cunningham non mostri il genere delle persone dove l'italiano imporrebbe un accordo, e la prima stesura (sessione di traduzione T3) aveva applicato la regola anche a questo tu generico. «Un modello superato» tiene il senso di obsolete (superato, fuori corso, detto di una macchina come Cunningham descrive se stesso) senza l'immagine della rottamazione che il revisore voleva togliere, e senza accordo con la persona.
+
+# Seconda lettura
+
+- p02531, nuance, low, accettato: «peduncoli oculari recisi» (dismembered eyestalks, staccati dal corpo; «smembrati» si dice del corpo fatto a pezzi).
+- p02535, addition, low, accettato: «nel giro di un mese sei obsoleto». La chat principale ritira il proprio intervento («un modello superato»): la regola della scheda dei personaggi vieta l'accordo per le persone a cui Cunningham si riferisce (il suo it), non per il tu generico, il cui maschile non attribuisce un genere a nessuno; «obsoleto» è la parola esatta di obsolete e non aggiunge l'immagine del modello di serie.
+- p02541, calque, low, accettato: «cambi l'*io* che guarda?».
+- p02551, nuance, low, accettato con variante: «Credeva di darmi la notizia.», senza «lei»; l'articolo determinato rende breaking the news (quella notizia) e resta l'accento della prima revisione sul fatto che per lei era nuova, non su chi la dava.
+- p02559, omission, low, accettato: «Perché anche solo provarci, allora? Se sapevi che ci saremmo schiantati e incendiati così?» (even; un solo «saremmo»).
+- p02590, nuance, low, accettato: «Labbra che fanno una pernacchia.»
+- p02595, rhythm, low, accettato: «era tornato alla deriva, senza meta, al centro del suo recinto.» (enclosure è la stessa cella del recinto di p02585, resa del glossario per pen).
+- p02597, calque, low, accettato con variante: «Ma la *Theseus* intanto guardava [...] e sfornato i risultati»; si accoglie «sfornato» per served up, ma non «era stata a guardare», che in italiano vuol dire anche assistere senza intervenire, il contrario di una nave che lavora per conto suo; «intanto guardava» rende l'anteriorità di had been watching senza ripetere il «già» della frase dopo.
+- p02599, register, low, accettato con variante: «Lo fanno molte cose.», senza «altre», che non è nell'inglese (So do a lot of things); resta la struttura scelta dalla prima revisione.
