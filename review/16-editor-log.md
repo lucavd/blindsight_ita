@@ -27,3 +27,14 @@
 Ogni intervento è stato verificato sul paragrafo inglese.
 
 Parole riprese in altri blocchi: «voci che sussurrano» (p01513), «*Infestato*.» (p01510) e «capsula dei sensori» (p01542) sono rimaste invariate.
+
+# Seconda lettura
+
+- p01455, rhythm, low: accettato con variante: «senza diventare troppo affollato»; come in without getting too crowded il soggetto resta il cervello, ma l'affollamento è quello dei nuclei.
+- p01461, typography, low: accettato: «*In teoria un cazzo*.», il corsivo copre l'eco delle parole di James come in Bull*shit in theory*.
+- p01466, typography, low: respinto: la resa del glossario per Mom è «mamma» minuscolo, con la maiuscola solo a inizio frase (armonizzazione dei blocchi 08, 15, 16 e 21 nella seconda sessione di traduzione); qui «chiamati» e il corsivo bastano a farne dei nomi.
+- p01471, nuance, low: respinto: «tirare in ballo» vuol già dire introdurre per primi l'argomento e rende in the first place; «per primo» sposterebbe il senso su un confronto tra chi parla.
+- p01472, calque, low: accettato: «tutti a bordo della *Theseus* erano *alter*», corsivo del glossario invariato.
+- p01475, nuance, low: accettato con variante: «palombari di un secolo passato»; a previous century è un secolo precedente qualsiasi, «del secolo scorso» lo restringe all'ultimo.
+- p01518, terminology, low: accettato: «la piastra della cima laterale»; «tampone» fa pensare a un tappo.
+- p01557, nuance, low: respinto, come nella prima revisione: «condurre» è il verbo del cane da conduzione e regge già l'immagine del border collie; «ci radunò al riparo» è sintassi forzata.
