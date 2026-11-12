@@ -1,0 +1,70 @@
+pid	verdict	type	severity	problem	proposal
+p02788	ok
+p02789	issue	rhythm	low	«adatto ogni parola su misura» è ridondante (adattare e su misura dicono la stessa cosa): customize si rende con un solo verbo.	confeziono ogni parola su misura
+p02790	issue	rhythm	low	«Credo che stessi» con soggetto identico è goffo, e «stessi» si legge anche come seconda persona: meglio l'infinito.	Credo di stare modellando il sistema sbagliato.
+p02791	ok
+p02792	ok
+p02793	ok
+p02794	ok
+p02795	ok
+p02796	issue	calque	low	«odio di sé radiante» ricalca radiant; radiante in italiano è termine tecnico (calore radiante) e suona strano riferito a un sentimento.	vedo un odio di sé che irradia da ogni superficie che ricordo
+p02797	ok
+p02798	issue	rhythm	low	«quello che faceva da modellatore» è contorto per the one doing the modelling: basta il verbo.	da dimenticarmi di quello che modellava
+p02799	ok
+p02801	ok
+p02802	ok
+p02803	ok
+p02804	ok
+p02805	ok
+p02806	ok
+p02807	ok
+p02808	ok
+p02809	ok
+p02810	ok
+p02811	ok
+p02812	ok
+p02813	ok
+p02814	ok
+p02815	ok
+p02816	issue	nuance	low	at his shoulder vuol dire accanto alla sua spalla, a un passo da lui; «alle spalle» in italiano significa dietro di lui e sposta la posizione di Siri.	quando ero quasi al suo fianco
+p02817	ok
+p02818	ok
+p02819	ok
+p02820	ok
+p02821	ok
+p02822	ok
+p02823	ok
+p02824	ok
+p02825	ok
+p02826	ok
+p02827	ok
+p02828	ok
+p02829	ok
+p02830	ok
+p02831	ok
+p02832	ok
+p02833	ok
+p02834	ok
+p02835	ok
+p02836	ok
+p02837	ok
+p02838	ok
+p02839	ok
+p02840	ok
+p02841	ok
+p02842	ok
+p02843	ok
+p02844	ok
+p02845	ok
+p02846	ok
+p02847	ok
+p02848	ok
+p02849	ok
+p02850	ok
+p02851	ok
+p02852	ok
+p02853	ok
+p02854	ok
+p02855	ok
+p02856	issue	meaning	medium	Ventilators, breathing: sono i ventilatori a respirare (participio riferito a ventilators, l'unico suono nel silenzio prima della voce di Sarasti). «Ventilatori, respiri» trasforma il participio in un sostantivo e introduce respiri umani che l'inglese non ha.	Ventilatori che respiravano.
+p02857	ok

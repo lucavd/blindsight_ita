@@ -63,3 +63,14 @@ Nessun rilievo respinto.
 Ogni intervento è stato verificato sul paragrafo inglese.
 
 Dubbi ricevuti: p02813 e p02814 restano come da decisione sul mantra di Cunningham (D-66), «un'unica parola indistinta» e «*cazzo cazzo cazzo cazzo...*». In questo blocco il tu generico di Cunningham (p02843, p02845) non ha accordi di genere, quindi la decisione sul tu generico di Cunningham (D-80) non ha richiesto interventi.
+
+# Seconda lettura
+
+- p02789, rhythm, low, accettato: «confeziono ogni parola su misura».
+- p02790, rhythm, low, accettato con variante: «Credo di aver modellato il sistema sbagliato.»; la proposta «Credo di stare modellando» porta l'azione al presente, mentre l'inglese dice I was modeling.
+- p02796, calque, low, accettato: «vedo un odio di sé che irradia da ogni superficie che ricordo».
+- p02798, rhythm, low, accettato con variante: «da dimenticarmi di quello che li modellava»; «quello che modellava» da solo si può leggere come l'oggetto modellato, il «li» riferito agli altri sistemi rende chiaro che è chi modella.
+- p02816, nuance, low, accettato: «quando ero quasi al suo fianco».
+- p02856, meaning, medium, accettato con variante: «Il respiro dei ventilatori.»; tiene il frammento breve e attribuisce il respiro ai ventilatori, come il participio inglese.
+
+Nessun rilievo respinto. Modificati solo i 6 paragrafi dei rilievi, ciascuno verificato sul paragrafo inglese.
