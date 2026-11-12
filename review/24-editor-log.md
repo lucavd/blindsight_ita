@@ -57,3 +57,11 @@
 - p02255: «tanto più facilmente» diventa «molto più facilmente», perché in italiano «tanto più» si legge come «a maggior ragione» e non rende so much easier.
 
 Ogni intervento è stato verificato sul paragrafo inglese.
+
+# Seconda lettura
+
+- p02194, nuance, low, accettato con variante: «fanno i cazzi loro da soli», che rimette l'accento su on their own e tiene la volgarità; respinta la parola «cazzate» della proposta, che aggiungerebbe un giudizio (sciocchezze) assente in shit.
+- p02234, rhythm, low, accettato con variante: «dovrete darmi su cui lavorare qualcosa di più di *quello*», con il paragone in fondo come nell'inglese; l'ordine della proposta («su cui lavorare di più di») restava ambiguo.
+- p02242, omission, low, accettato: «per tutto il cablaggio in più».
+- p02249, calque, low, accettato: «mentre richiamavo una scheda sintetica», tolto «io».
+- p02253, typo, medium, accettato: «erano sfasate, ancora intente»; nessun altro accordo dello stesso soggetto nel paragrafo («criminali condannati» è il termine di paragone, resta al maschile).
