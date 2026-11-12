@@ -44,3 +44,16 @@
 - p02395: «sapeva con la mente» diventa «sapeva con la testa», la forma italiana per il sapere razionale contrapposto alle viscere (in her mind / in her gut).
 
 Ogni intervento è stato verificato sul paragrafo inglese.
+
+# Seconda lettura
+
+- p02360, calque, low, accettato con variante: «con un breve impulso ai getti, di tanto in tanto»; cambia solo la resa di occasional, «breve impulso ai getti» resta come vuole la decisione su tweak per la pistola e i getti (D-79).
+- p02361, calque, low, accettato: «e le probabilità di un testa o croce» (the odds of a coin toss).
+- p02374, meaning, medium, accettato: «Sascha che non aveva nessuno di riserva»; no backup è l'assenza di un'altra personalità che subentri, non l'assenza di esitazioni.
+- p02377, rhythm, low, accettato: «finalmente Sascha si scosse, si diede una mossa»; toglie l'eco mosse/mossa che l'inglese non ha.
+- p02385, rhythm, low, accettato: «una mano gigantesca che scaccia un insetto», senza «con un colpo», più vicino all'asciuttezza di batting an insect.
+- p02387, nuance, low, respinto: «metoniaca» è la resa decisa per methonia (decisione su methonia, D-61), che ricrea la fusione di metano e ammoniaca come chiede la tabella dei passi dubbi della guida.
+- p02389, nuance, low, accettato: «una torma di alieni»; a mob è una massa aggressiva, «calca» dice solo affollamento.
+- p02395, omission, low, accettato: «lo vedeva più chiaramente di noi» (than we); la ripetizione di noi c'è anche nell'inglese (beyond all of us, than we).
+- p02395, nuance, low, accettato: «dovevamo *anticipare*»; preempt è agire per primi, e l'eco con «preventivamente» di p02405 resta.
+- p02401, nuance, low, accettato: «Oh, si sa che di tanto in tanto contesti le direttive, o cerchi un quadro più ampio di quanto sia strettamente necessario per il compito del momento»; you've been known to torna a essere reputazione, senza la forma «sei nota per» tolta dalla prima revisione, e i verbi al presente concordano con il resto del paragrafo (viene, servi, fai).
