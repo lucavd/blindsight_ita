@@ -15,14 +15,15 @@
   "ratio_out_of_bounds": [],
   "english_residue": [],
   "glossary_misses": [
-   "p01650: transient (orca) -> atteso transiente (orca transiente, orche transienti e residenti)"
+   "p01650: transient (orca) -> atteso transiente (orca transiente, orche transienti e residenti)",
+   "p01721: feed (data) -> atteso flusso"
   ],
   "emphasis_count_differs": [],
   "identical_to_source": []
  },
  "placeholders": [],
- "ratio_median": 1.106,
+ "ratio_median": 1.101,
  "paragraphs": 203,
- "changed_share": 0.154,
+ "changed_share": 0.284,
  "ok": true
 }
