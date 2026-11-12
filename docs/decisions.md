@@ -635,3 +635,11 @@ Decisione: il PI accetta la raccomandazione del riassunto rivisto della prima se
 Motivazione: sui sette blocchi di R1 la seconda lettura ha trovato 1 rilievo medio fondato su 611 paragrafi (0,16 ogni 100), sotto la soglia di 1 della decisione sulla seconda lettura (D-37): con quella regola non sarebbe stata proposta. Ha trovato però da 6 a 8 rilievi bassi per blocco, 45 in tutto, 41 accolti dal redattore dopo la verifica sull'inglese (6,7 ogni 100 paragrafi, da 4,2 a 14,8 per blocco), alcuni sulla fedeltà: un termine tecnico sbagliato, due ambiguità di riferimento, il gergo di Pag. Costo misurato: 1,6 minuti per mille parole, circa 2,2 ore sul resto del libro. Il PI tiene il passaggio sapendo che la ragione non è quella per cui era stato misurato. Alternativa scartata dal PI: toglierlo dalla seconda sessione di revisione, come voleva la regola fissata prima.
 
 Deciso da: PI. Data: 2026-11-12. Stato: valida.
+
+## D-78 Il Tattico con la maiuscola anche dove Watts scrive minuscolo
+
+Decisione: lo schermo tattico della nave, quando è usato come nome («sul Tattico»), si scrive con la maiuscola in tutto il libro, anche dove la sorgente ha la minuscola: blocco 09, p00806 (on tactical), blocco 12, p01105 (On tactical, nella prima stesura «Sul tattico»), blocco 38, p03643 (on tactical, già «sul Tattico» nella prima stesura). Nota della voce del glossario aggiornata. L'aggettivo resta minuscolo («la grafica tattica», «sovrapposizioni tattiche»).
+
+Motivazione: Watts scrive lo stesso schermo ora con la maiuscola ora con la minuscola, anche a poche righe di distanza (blocco 12); in italiano la stessa cosa scritta in due modi si legge come due cose. Il glossario ha già scelto la maiuscola fissa per la Banda e per il Diploma; la prima stesura era incoerente (blocco 12 minuscolo, blocco 38 maiuscolo). Rilievo di gravità media della revisione bilingue del blocco 09. Sostituisce il criterio usato nella prima stesura del blocco 12 (maiuscola solo dove la usa Watts), che il blocco 38 già non seguiva. Come per il Diploma (decisione sul Diploma, D-71), è una conseguenza di una regola già decisa, non una convenzione nuova.
+
+Deciso da: agente. Data: 2026-11-12. Stato: valida.

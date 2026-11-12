@@ -1,0 +1,34 @@
+pid	verdict	type	severity	problem	proposal
+p01285	issue	nuance	low	«Avere la meglio» vuol dire vincere, prevalere alla fine; «had the upper hand» indica la posizione di vantaggio, che è proprio il punto: si nascondevano pur essendo in vantaggio.	anche quando avevano il sopravvento
+p01285	issue	doubt	low	Dubbio 1: d'accordo nello scartare «il coltello dalla parte del manico» (immagine assente); «appena al di là del mito» va bene. Resta il rilievo sopra su «la meglio».	Restavano sempre appena al di là del mito.
+p01286	issue	nuance	medium	«Overnight» qui è letterale: il torpore li coglie al tramonto, senza di esso morirebbero entro la notte. «Da un giorno all'altro» perde la notte e diventa un generico «all'improvviso».	sarebbero morti di fame nel giro di una notte
+p01286	issue	doubt	low	Dubbi 2 e 3: «fuorigiri», «tamie», «pesci polmonati», «in zona rossa» e il passato remoto «furono tutt'altro che i primi» vanno bene; «dipnoi» sarebbe più tecnico del tono di Watts. Per «overnight» vedi la riga sopra.	nessuna modifica oltre a quella della riga precedente
+p01287	issue	calque	low	«Di comune varietà boschiva» è un calco opaco di «woodland-variety» (gioco su garden-variety): in italiano non evoca nessun modo di dire. Meglio un'espressione corrente piegata al bosco, che tiene il meccanismo.	Non era la dinamica lince-lepre di ordinaria amministrazione boschiva
+p01287	issue	doubt	low	Dubbio 4: tenere «di serie» è giusto (baseline umano, voce approvata), ma «modello di serie ancestrale» suona come un catalogo di auto e accumula tre determinazioni sul sostantivo. Si tiene il termine con un sostantivo biologico. Dubbio 5: «non si erano differenziati» va bene; mollare l'acceleratore e metabolismo su di giri vanno bene.	si erano staccati così di recente dal ceppo ancestrale di serie
+p01288	ok
+p01289	issue	doubt	low	Dubbi 6 e 7: «livelli da mietitura», «Aveva senso sotto due aspetti», «farneticazioni senili attorno al fuoco» e «demoni che braccano nella notte» vanno bene.	nessuna modifica
+p01290	issue	doubt	low	Dubbi 8 e 9: «il sole» minuscolo va bene, tiene l'ambiguità; le due lineette spaziate funzionano come inciso esitante; l'imperativo in corsivo dopo i due punti rende bene la voce interiore. Il resto del paragrafo è completo.	nessuna modifica
+p01291	ok
+p01293	issue	doubt	low	Dubbio 10: d'accordo su «discrezione e valore» per l'eco di Enrico IV e la ripresa di «distanza discreta» in p01295.	nessuna modifica
+p01294	issue	nuance	low	«Sfrecciare» aggiunge un'idea di velocità che «swinging through» non ha: è il passaggio dell'orbita attraverso la tormenta.	quando si passava in orbita attraverso una tormenta di roccia e macchinari impregnata di radiazioni
+p01294	issue	doubt	low	Dubbio 11: «satelliti ripetitori» e «portarsi sulla sua stessa orbita» vanno bene. Per «si sfrecciava» vedi la riga sopra.	nessuna modifica oltre a quella della riga precedente
+p01295	issue	doubt	low	Dubbio 12: «era un po' irrilevante», «accendere i motori» (glossario), «distanza di tiro» e «aver toccato il fondo» vanno bene. Nota: fra i termini proposti le note indicano ancora «contromisure anti-intrusione», ma il glossario approvato vuole «misure anti-intrusione», che è ciò che la stesura usa correttamente.	nessuna modifica
+p01296	issue	doubt	low	Dubbio 13: «buttarci giù dal cielo con una manata» tiene lo swat senza esplicitare l'insetto; preferibile all'alternativa.	nessuna modifica
+p01297	issue	doubt	low	Dubbio 14: «saliva per inerzia verso l'apogeo» e «Ora.» vanno bene.	nessuna modifica
+p01298	issue	doubt	low	Dubbio 15: «I fasci balbettavano» tiene la personificazione di «stuttered» e va bene; «schermatura drogata» e «profondo appena trentaquattro centimetri» vanno bene. «Orientò i laser» è accettabile; «puntò» renderebbe più direttamente «brought to bear».	Adesso puntò i laser e cominciò a scavare
+p01299	issue	calque	low	Dubbio 16: «Figlio di puttana» come esclamazione di stupore è un calco da doppiaggio; in italiano suona come un insulto rivolto a qualcuno. «Porca puttana» ha la stessa forza ed è l'esclamazione naturale.	«Porca puttana», mormorò Szpindel. «*Funziona*.»
+p01300	issue	meaning	medium	«Bruciammo un'epidermide» dice che la distrussero col fuoco, non che la attraversarono: si perde in tutte e tre le frasi il «through», che è il filo dell'anafora e prepara il «*through*» di p01301. La perdita annotata si può evitare tenendo la ripetizione.	Bruciando, attraversammo un'epidermide fibrosa e coriacea. Bruciando, attraversammo vene di isolante che forse erano una specie di amianto programmabile. Bruciando, attraversammo strati alternati di rete superconduttrice, e le stratificazioni di carbonio sfaldato che li separavano.
+p01301	issue	doubt	low	Dubbio 17: «Bruciammo *da parte a parte*» funziona come chiusa, anche con la modifica proposta per p01300; in alternativa «Bruciando, *passammo*.», che riprende l'anafora.	nessuna modifica
+p01302	ok
+p01303	issue	doubt	low	Dubbio 18: «Niente rispose al fuoco» e «che ghiacciava non appena veniva rilevato» vanno bene.	nessuna modifica
+p01304	issue	doubt	low	Dubbio 19: «Pre-Palla di neve» è oscuro, ma lo è anche «Pre-Snowball» per il lettore inglese non specialista; tiene la secchezza di Szpindel. Accettabile; «grugnì» corretto.	nessuna modifica
+p01305	issue	doubt	low	Dubbio 20: accordo femminile corretto, «lavoro in corso» va bene.	nessuna modifica
+p01306	ok
+p01307	issue	nuance	medium	«Lambendo il bordo» attenua il doppio senso osceno di «rimming», che le note sui passi difficili chiedono di conservare e la guida vieta di ammorbidire. Con la «lingua» appena nominata e «orifizio», «leccando» rende la crudezza senza parole inglesi.	Si srotolò giù per il foro, leccando il bordo dell'orifizio appena squarciato di *Rorschach*.
+p01308	ok
+p01309	issue	doubt	low	Dubbio 22: d'accordo nel tenere «281 °K» come Watts, senza normalizzare; «Ma caldo.» ellittico va bene.	nessuna modifica
+p01310	issue	nuance	low	«Pastry» è la pasticceria a strati, l'immagine che prepara la baklava; «una pasta densa» in italiano evoca un impasto, non la sfoglia.	Il substrato di base sembrava una densa pasta sfoglia di fogli in fibra di carbonio.
+p01310	issue	doubt	low	Dubbio 23: la lineetta attaccata «di un– un tunnel» segue la guida per l'esitazione e va bene; «Vicoli ciechi» e «accatastarci dei corpi» vanno bene.	nessuna modifica
+p01311	issue	typography	low	Dubbio 24: in italiano la ripresa della battuta dopo l'inciso va in minuscolo; la «L» maiuscola sembra un refuso. L'effetto di titolo resta affidato alle maiuscole di Baklava e Diavolo (glossario: la Baklava del Diavolo).	«Signore e signori», disse piano Szpindel, «la Baklava del Diavolo.»
+p01312	ok
+p01313	issue	doubt	low	Dubbio 25: «La telecamera morì» tiene l'immagine della morte; va bene.	nessuna modifica

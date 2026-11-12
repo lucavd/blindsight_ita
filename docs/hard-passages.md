@@ -85,7 +85,7 @@ Raccolti dagli esploratori della sessione sul glossario (S1). Ogni voce dice dov
 
 1. p00763-p00772. Parodia biblica: registro da Bibbia antica, genere grammaticale di Sperm ed Egg (Uovo è maschile in italiano), Dio con pronome neutro "Its" (p00772).
 2. p00773. Fiori come genitali recisi offerti in dono: ironia cruda.
-3. p00831-p00868. Testo di Rorschach in tondo, risposte della Gang in corsivo; errori voluti (minuscola in p00841, p00843 "I can take it but we're like that"); passaggio al mandarino senza cambiare la lingua scritta (p00859).
+3. p00831-p00868. Testo di Rorschach in tondo, risposte della Gang in corsivo; errori voluti (minuscola in p00841, p00843 "I can take it but we're like that", dove we're like that si legge anche come il modo di dire delle dita incrociate, siamo intimi: la traduzione tiene la lettura letterale, «siamo fatti così», rilevata nella seconda sessione di revisione); passaggio al mandarino senza cambiare la lingua scritta (p00859).
 
 ## Blocco 10 (Theseus)
 

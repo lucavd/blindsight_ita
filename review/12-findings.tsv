@@ -1,0 +1,97 @@
+pid	verdict	type	severity	problem	proposal
+p01046	issue	doubt	low	Dubbio 1 (Chinese Room minuscolo): concordo. La voce del glossario è minuscola e la versione finale del blocco 11 (p01032 e seguenti) usa «stanza cinese»; lo stesso vale per «L'intera stanza» in p01064 e «l'ipotesi della stanza cinese» in p01073.	Sapevo tutto delle stanze cinesi.
+p01047	ok
+p01048	issue	doubt	low	Dubbio 2: concordo con «incalzò Chelsea» e «Prima che imparasse a conoscermi»; rendono demanded e la chiusa amara senza aggiunte.	incalzò Chelsea
+p01049	issue	doubt	low	Dubbio 3: concordo; «un'avanguardia poi così estrema» tiene la voce del glossario e l'ironia di very bleeding-edge.	tanto per cominciare non sarebbero un'avanguardia poi così estrema
+p01050	ok
+p01051	issue	calque	medium	«si accoda per il viaggio» ricalca alla lettera l'idioma comes along for the ride (lasciarsi portare, venire dietro senza sforzo) e in italiano suona strano; «si accoda» basta già a dare l'immagine del passeggero.	quel contenuto semplicemente– si lascia portare.
+p01051	issue	doubt	low	Dubbio 4: «fuori dal settore» è comprensibile ma burocratico; outside the field indica i profani. Preferisco l'alternativa del traduttore, adattata.	Una protesta comune, fra chi non è del mestiere.
+p01052	ok
+p01053	ok
+p01054	issue	doubt	low	Dubbio 5: concordo con «argomentazione», «smentisce» e «scarabocchi».	un'argomentazione che in teoria smentisce i test di Turing
+p01055	ok
+p01056	issue	doubt	low	Dubbio 6: concordo con la resa letterale; un idioma italiano porterebbe un'immagine assente. «i resti del cavallo» basta a far capire che il cavallo è morto; la perdita è annotata.	Ripetere finché i resti del cavallo non sono stati bastonati ben bene e fino in fondo.
+p01057	issue	doubt	low	Dubbio 7: concordo, la battuta sull'Inquisizione spagnola regge alla lettera.	altrimenti l'avrebbero chiamata Inquisizione spagnola
+p01058	issue	rhythm	low	«elementari algoritmi» con l'aggettivo anteposto suona ricercato; in italiano tecnico l'aggettivo segue. Dubbio 8: concordo con «un uomo di spirito e un affabulatore».	puoi usare algoritmi elementari di riconoscimento di schemi
+p01059	ok
+p01060	issue	doubt	low	Dubbio 9: concordo; «l'input» è prestito corrente nel parlato tecnico di Siri, «interlocutore» rende conversant.	l'input mi arriva in cantonese
+p01061	ok
+p01062	issue	doubt	low	Dubbio 10: concordo con «inconsciamente» e «bersagli» (targets, lessico freddo di Siri).	lo fai inconsciamente
+p01063	issue	calque	low	«le giocava all'angolo della bocca» ricalca played at the corner of her mouth; in italiano il sorriso aleggia o affiora.	Un sottile mezzo sorriso le aleggiava all'angolo della bocca.
+p01064	ok
+p01065	issue	doubt	low	Dubbio 11: concordo con «A volte uno è tutto quello che mi avanza»; la perdita è annotata correttamente.	A volte uno è tutto quello che mi avanza.
+p01066	ok
+p01067	ok
+p01068	issue	doubt	low	Dubbio 12: concordo con «fattori confondenti», «si spunta», «ti invischi».	Troppi fattori confondenti.
+p01069	issue	doubt	low	Dubbio 13: concordo; il singolare riferito all'attrezzo lascia leggibile il doppio senso su Siri e sul sesso.	Ancora utilizzabile all'occorrenza, però.
+p01071	issue	doubt	low	Dubbio 14: concordo; battuta aperta che prosegue in p01072 e presente di Sarasti rispettati.	«Ora si nasconde», disse Sarasti. «Ora è vulnerabile.
+p01072	ok
+p01073	issue	calque	low	«portare l'invadenza al livello successivo» ricalca take to the next level; l'italiano dice «a un livello superiore». Termine proposto 1 (ipotesi della stanza cinese, minuscolo): concordo.	ci preparammo a portare l'invadenza a un livello superiore
+p01074	issue	typo	low	Accordo misto nella stessa frase: «la miriade di tuffatori ... che ... si trovavano» al plurale, poi «non era programmata» al singolare. Va scelto un solo accordo; il plurale a senso è il più naturale (risponde al dubbio 15).	la miriade di tuffatori dalle grandi altezze che per caso in quel momento si trovavano in linea di vista non erano programmati per fare la spia
+p01074	issue	nuance	low	«In un momento qualunque» aggiunge l'idea di casualità che Sometime between briefings non ha (vale solo «a un certo punto»).	A un certo punto, fra un briefing e l'altro, il Capitano l'aveva portata al parto
+p01074	issue	rhythm	low	«in previsione di esigenze impreviste» fa rimbalzare previsione e impreviste in modo più vistoso del paradosso di Watts (anticipation of unforeseen).	in vista di esigenze impreviste della missione
+p01075	ok
+p01076	issue	doubt	low	Dubbio 16: concordo con il maschile delle apposizioni e con «specialista della porta sul retro»; «uno scasso» rende B&E, perdita annotata.	un ambasciatore presso i riluttanti
+p01077	issue	doubt	low	Dubbio 17: concordo con «Keplero», «Maelstrom» e «propulsori d'assetto» (voce G170 approvata).	Keplero non poteva fare tutto, però
+p01078	issue	doubt	low	Dubbio 18: concordo con la virgola dopo il corsivo e con «mai».	*Nessun piano sopravvive mai al contatto con il nemico*, ricordai
+p01079	issue	doubt	low	Dubbio 19: concordo con «Ce l'ho» nei due punti e con «Avvio di prossimità» (boot, avvio di sistema).	«Avvio di prossimità.»
+p01080	issue	doubt	low	Dubbio 20: concordo con «spuntoni», distinti da aculei e spine; l'eco delle squame dagli occhi resta.	si svegliò davanti a spuntoni e spirali di vetro fumé
+p01081	ok
+p01082	issue	doubt	low	Dubbio 21: concordo con «propulsore a torcia» e «delta-v». «Sul Tattico» è conforme alla voce G034.	accese il propulsore a torcia
+p01083	ok
+p01084	issue	doubt	low	Dubbio 22: concordo con «Passalo», asciutto come Pipe it.	«Passalo.»
+p01085	ok
+p01086	issue	doubt	low	Dubbio 23: verificato. La ripresa «il cazzone grosso e peloso» coincide con la versione finale del blocco 11, p01032; il punto dopo sogghignò è corretto.	Nonostante il cazzone grosso e peloso.
+p01087	ok
+p01088	ok
+p01089	issue	doubt	low	Dubbio 24 (chaff): «pula» non è il termine militare italiano (che usa chaff), ma tiene l'immagine agricola e si legge senza inciampi accanto agli aghi di bussola; accettabile, e la perdita del gergo è annotata. Lo stesso in p01097.	Pula argentata schizzò nel vuoto verso il bersaglio
+p01090	issue	doubt	low	Dubbio 25: concordo, l'onomatopea regge invariata.	«*Sproinnnng*», disse Szpindel.
+p01091	issue	doubt	low	Dubbio 26: concordo con «bacata» e «gallerie serpeggianti».	la cipolla si rivelò bacata
+p01092	issue	doubt	low	Dubbio 27: concordo, voi alla nave come da scheda dei personaggi e «*Rorschach* a *Theseus*» come nel blocco 09.	Ci siete?
+p01093	ok
+p01094	issue	doubt	low	Dubbio 28: concordo con i tre punti.	Vi *vedooo*...
+p01095	issue	rhythm	low	«di quanto *lui* abbia mai avuto» è sgraziato (manca il partitivo che riprende l'aria).	«Lei ha un'aria più disinvolta di quanta ne abbia mai avuta *lui*.»
+p01095	issue	calque	low	«ora che ci eravamo impegnati» ricalca committed; il senso è che non si poteva più tornare indietro. Dubbio 29: per il resto concordo.	ora che non potevamo più tirarci indietro
+p01096	ok
+p01097	issue	doubt	low	Dubbio 30: concordo con «grandi cerchi» e «anelli cardanici annidati»; «sul Tattico» conforme.	come gli anelli cardanici annidati di un qualche immenso giroscopio fantasma
+p01098	ok
+p01099	ok
+p01100	issue	calque	low	«si sia infilato sotto il radar» ricalca snuck in under the radar; l'espressione italiana corrente è passare sotto i radar.	Pare che sia passato sotto i radar.
+p01101	issue	doubt	low	Dubbio 31: concordo con «tracciata» costante e con il plurale «le aveste» in p01121.	«Roccia non tracciata.»
+p01102	ok
+p01103	issue	doubt	low	Dubbio 32: concordo, la frase nominale resta tale; «bordo d'attacco» e «iridescevano» corretti.	Enormi scariche elettriche che eruttavano dalle punte delle spine, rese in pastelli color limone.
+p01104	ok
+p01105	issue	terminology	medium	«Sul tattico» minuscolo viola la decisione sul Tattico con la maiuscola (D-78) e la nota della voce G034, che citano proprio questo paragrafo; nello stesso blocco p01082, p01097 e p01120 hanno «Tattico». Il dubbio 33 è quindi chiuso dalla decisione: va la maiuscola.	Sul Tattico, un altro detrito appena tracciato sfilò a discreti seimila metri a babordo.
+p01106	issue	doubt	low	Dubbio 34: concordo con «*porca puttana!*», stessa forza di holy shit.	per favore– *porca puttana!*
+p01107	ok
+p01108	ok
+p01109	issue	doubt	low	Dubbio 35: concordo; alternanza I/we tenuta («ho capito», «siamo»).	Credete che quaggiù siamo dei fottuti *ciechi*?
+p01110	ok
+p01111	ok
+p01112	issue	doubt	low	Dubbio 36: concordo con «*spa*–», troncatura coerente e corsivo sul frammento.	«Ma ha *spa*–»
+p01113	ok
+p01114	issue	doubt	low	Dubbio 37: concordo, l'immagine del negoziare resta e le lineette seguono la guida.	«Ho ancora– un secondo–»
+p01115	issue	doubt	low	Dubbio 38: concordo con «*subito, cazzo*».	*Subito, cazzo.*
+p01116	issue	doubt	low	Dubbio 39: concordo con «corrente di fondo» (risacca sarebbe il moto delle onde sulla riva, non di un fiume).	preso da un'improvvisa corrente di fondo
+p01117	issue	doubt	low	Dubbio 40: concordo con «manufatto» e «sfarfallava».	Il flusso sfarfallava.
+p01118	issue	doubt	low	Dubbio 41: concordo con il tu, coerente con la scheda (Sarasti dà del tu a Bates).	«Mantieni l'avvicinamento»
+p01119	issue	doubt	low	Dubbio 42: concordo.	«Mi piacerebbe», disse Bates a denti stretti. «Ci provo.»
+p01120	ok
+p01121	ok
+p01122	ok
+p01123	ok
+p01124	ok
+p01125	issue	doubt	low	Dubbio 43: concordo; «parecchio significativi» tiene il gioco con insignificant.	sembravano parecchio significativi
+p01126	ok
+p01127	issue	rhythm	low	«Non avevo idea di cosa volesse dire nulla di tutto ciò» è contorto (doppio reggente con nulla). Dubbio 44: per il resto concordo con «aculei nervati», «tratteggiavano», «l'aria».	Non avevo idea di cosa significasse, nemmeno in minima parte.
+p01128	ok
+p01129	ok
+p01130	ok
+p01131	ok
+p01132	issue	rhythm	low	«nudo perfino per occhi Umani» suona poco italiano; con nudo si dice agli occhi. Dubbio 45: concordo con la maiuscola di Umani e la lineetta spaziata.	Eccolo lì, finalmente, nudo perfino agli occhi Umani.
+p01133	issue	rhythm	low	«il buio ovunque altrove» è un calco di everywhere else. Dubbio 46: concordo con imperativo alla seconda singolare e passato in baluginavano.	non facevano che sottolineare il buio in ogni altro punto
+p01134	ok
+p01135	ok
+p01136	issue	doubt	low	Dubbio 47: concordo con il polisindeto.	immenso e scuro e contorto
+p01137	issue	doubt	low	Dubbio 48: «da dentro, dal profondo» raddoppia un poco deep inside ma senza aggiungere contenuto; accettabile. Concordo con «fino all'ultimo» e la battuta aperta.	disse qualcosa da dentro, dal profondo
+p01138	issue	doubt	low	Dubbio 49: concordo con «per *prima*», che rende il femminile per Susan e tiene l'enfasi.	«Prenderemo te per *prima*.»

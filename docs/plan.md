@@ -51,6 +51,8 @@ Tempi misurati nella prima sessione di revisione (R1), su 6 blocchi (dal 02 al 0
 
 Seconda lettura dei blocchi 01 e dal 03 al 07, fatta in R1 dopo la decisione sulla seconda lettura fissa (D-75): 14.698 parole in 24 minuti dal primo lancio all'ultimo controllo, 1,6 minuti per mille parole; sotto-agenti 20,8 minuti. Sul resto del libro (83.114 parole) sono circa 2,2 ore, quasi mezz'ora per sessione di revisione.
 
+Tempi misurati nella seconda sessione di revisione (R2), su 7 blocchi (dal 08 al 14, 16.475 parole), con Opus 5.5 e la seconda lettura fissa. Revisore da 2,3 a 4,7 minuti per blocco, redattore da 1,7 a 3,0: insieme 42,1 minuti, 2,6 minuti per mille parole. Seconda lettura (revisore e redattore) 23,6 minuti, 1,4 minuti per mille parole. Sotto-agenti 65,8 minuti in tutto, 4,0 minuti per mille parole; dal primo lancio all'ultimo controllo circa 73 minuti.
+
 # Perché questi modelli
 
 Sonnet 5.5 solo per S0, che è lavoro meccanico (scaricare, dividere, contare) dove un modello più grande non cambia il risultato.
