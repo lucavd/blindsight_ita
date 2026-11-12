@@ -51,3 +51,14 @@ Ogni intervento è stato verificato sul paragrafo inglese.
 
 - Blocco 23, p02184, I tweaked my jets: oggi «Diedi un ritocco ai getti». Resa proposta, coerente con p01921 di questo blocco: «Diedi un breve impulso con i getti». Tweak qui è il breve colpo di spinta, non il ritocco neurale della voce del glossario su tweak: lì la segnalazione del controllo sarà un falso allarme, come qui in p01921.
 - Stesso senso nel blocco 26, p02360, an occasional tweak of her jets: oggi «con un ritocco occasionale ai getti». Resa proposta per coerenza: «con un breve impulso occasionale ai getti» (o «con qualche breve impulso dei getti»), da decidere nella sessione che rivede il blocco 26.
+
+# Seconda lettura
+
+- p01889, rhythm, low, accettato con variante: «finché la *Theseus* non ci ripescò e ci ricucì» (passato remoto come la reggente, senza il secondo «non» della proposta, più pesante).
+- p01896, terminology, medium, accettato: «dalle punte delle sue spine», «dalla più vicina»; thorns resta distinto da spines (aculei) e riprende il blocco 12. Il plurale riferito a *Rorschach* non richiama la spina dorsale.
+- p01897, terminology, medium, accettato: «verso la spina», stessa ragione; il contesto (zone apicali, tubo) esclude la spina dorsale.
+- p01903, nuance, low, respinto: «era dedicato» senza complemento in italiano resta sospeso (dedicato a cosa?) e suona calcato; «specializzato» rende già il circuito votato a un solo compito.
+- p01905, nuance, low, respinto: «le scariche» è la resa italiana corrente della static radiofonica (il rumore di fondo del segnale) e tiene insieme le scariche neurali delle convulsioni di Michelle; «interferenze» perderebbe questo secondo senso.
+- p01925, rhythm, low, accettato con variante: «come un'acrobata in un filmato accelerato», che rende l'immagine del fast-forward senza la ridondanza di «a velocità accelerata».
+- p01929, nuance, low, accettato: «*Prendiamo te per* prima*.*», presente di imminenza.
+- p01940, nuance, low, accettato: «angosciato» per haunted (il lamento è di Susan, terrorizzata, p01942); il verbo sussurrare resta.
