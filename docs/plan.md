@@ -49,6 +49,8 @@ Tempi misurati nell'ultima sessione di traduzione (T4), su 7 blocchi (dal 35 al 
 
 Tempi misurati nella prima sessione di revisione (R1), su 6 blocchi (dal 02 al 07, 16.338 parole), con Opus 5.5. Revisore da 2,8 a 4,1 minuti per blocco, redattore da 2,3 a 3,2; insieme 37,1 minuti, 2,3 minuti per mille parole (nel pilota 2,9). Dal primo lancio all'ultimo controllo 45 minuti, compresa una seconda lettura del blocco 02 (revisore sulla versione finale, verifica dei rilievi medi, redattore sui fondati) che è costata 4,6 minuti, 1,4 minuti per mille parole. Una sessione di revisione dura quindi meno della stima del pilota; con la seconda lettura come passaggio fisso resterebbe dentro la stima.
 
+Seconda lettura dei blocchi 01 e dal 03 al 07, fatta in R1 dopo la decisione sulla seconda lettura fissa (D-75): 14.698 parole in 24 minuti dal primo lancio all'ultimo controllo, 1,6 minuti per mille parole; sotto-agenti 20,8 minuti. Sul resto del libro (83.114 parole) sono circa 2,2 ore, quasi mezz'ora per sessione di revisione.
+
 # Perché questi modelli
 
 Sonnet 5.5 solo per S0, che è lavoro meccanico (scaricare, dividere, contare) dove un modello più grande non cambia il risultato.

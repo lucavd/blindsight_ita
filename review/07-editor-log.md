@@ -58,3 +58,16 @@
 Ogni intervento è stato verificato sul paragrafo inglese.
 
 Paragrafi cambiati rispetto alla prima stesura: 12 (11 per i rilievi; dei 3 interventi redazionali, solo p00559 tocca un paragrafo non già cambiato, perché p00573 e p00578 erano cambiati anche per un rilievo).
+
+# Seconda lettura
+
+| pid | tipo | gravità | esito | note |
+|---|---|---|---|---|
+| p00554 | terminology | low | accettato | «Metalli alcalini neutri negli strati superiori»: neutral alkalis sono sodio e potassio neutri |
+| p00559 | calque | low | accettato | «dall'espressione del viso», senza il possessivo |
+| p00572 | nuance | low | accettato | «si riavvolse e si ripiegò da sé»: wound down per un parasole è il riavvolgersi, non un rallentare |
+| p00588 | meaning | low | accettato | «non hanno opinioni quando sono in servizio», on the job |
+| p00600 | register | low | accettato | variante: «Se avevano fretta, il lavoro sarebbe andato molto più veloce», senza l'invece della proposta, che l'inglese non ha |
+| p00604 | calque | low | accettato | «Seme si arena e fa germogliare scrematori», telegrafico senza germogliare transitivo |
+
+Ogni modifica è stata verificata sul paragrafo inglese. Paragrafi cambiati nella seconda lettura: 6.
