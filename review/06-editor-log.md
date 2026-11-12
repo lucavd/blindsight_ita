@@ -55,3 +55,18 @@ Nessun rilievo respinto.
 Ogni intervento è stato verificato sul paragrafo inglese.
 
 Paragrafi cambiati rispetto alla prima stesura: 14 (11 per i rilievi, 3 per gli interventi redazionali).
+
+# Seconda lettura
+
+| pid | tipo | gravità | esito | note |
+|---|---|---|---|---|
+| p00400 | nuance | low | respinto | «come niente» rende just come facilità, non aggiunge un'immagine; la proposta perde melted (si scioglieva) e aggiunge l'improvviso di «di colpo» |
+| p00405 | nuance | low | accettato | «al tiggì»: parlato e storpiato nella grafia come noose; l'eco del cappio resta persa, come già annotato |
+| p00410 | meaning | low | accettato | variante: «Finché non ci scontriamo sul serio.»; toglie il plurale senza antecedente e tiene il contrasto con l'allenamento, senza il calco «la cosa vera» |
+| p00424 | register | low | accettato | variante: «riuscivano a fare 'ste cazzo di cose»; la volgarità sta sul nome come shit like that, invece di un cazzo esclamativo in coda |
+| p00475 | nuance | low | respinto | «dev standard» non è un accorciamento del parlato italiano e si leggerebbe come oscuro (dev come sviluppatore); perdita già annotata nelle note del blocco |
+| p00521 | nuance | low | accettato | variante: «che non puoi tagliare», lessico del montaggio come edit out; la proposta aggiungeva la foto e ritocco nel blocco rende tweak |
+| p00532 | rhythm | low | accettato | «visto che» al posto del primo perché |
+| p00540 | nuance | low | accettato | variante: «E lasciami farti un ritocco o due: scommetto che ti passerebbe del tutto.», con farti per give you |
+
+Ogni rilievo è stato verificato sul paragrafo inglese. Paragrafi cambiati nella seconda lettura: 6 (p00405, p00410, p00424, p00521, p00532, p00540).
