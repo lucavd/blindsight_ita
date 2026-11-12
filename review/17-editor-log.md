@@ -50,3 +50,16 @@ Nessun rilievo respinto.
 - p01579: «era destinata a essere un'impresa in salita» diventa «partiva per forza in salita»: un'argomentazione che «è un'impresa» non suona italiano; «partire in salita» tiene l'immagine di uphill proposition e «per forza» rende bound to be.
 
 Ogni intervento è stato verificato sul paragrafo inglese.
+
+# Seconda lettura
+
+- p01571, calque, low: respinto: «Lascia che ti faccia il dono» è italiano corrente per Let me give you, e la formula del dono è già un po' solenne in bocca a Chelsea anche in inglese; «Lasciati fare il dono» sposta il senso (lasciarsi fare qualcosa) e suona peggio. L'eco di p01583 resta.
+- p01587, calque, low: accettato: «costruire immagini composite»; «compositi» da solo evoca i materiali, e le immagini reggono il paragone con fotografie e quadri subito dopo.
+- p01595, nuance, low: respinto: That's just garbage è una replica a un argomento, e in italiano «È solo spazzatura» usato così è un calco; il secchio della spazzatura di p01599 è un oggetto concreto e il richiamo è casuale, non un gioco del testo. «Sono solo *idiozie*» resta.
+- p01600, typography, low: respinto: il punto in corsivo della sorgente si tiene come in p01630 e come nei blocchi 26 (p02362) e 37 (p03428), per coerenza della pratica del progetto; la svista non si vede e la scelta generale non si cambia su un solo paragrafo.
+- p01626, calque, medium: accettato con variante: «Perché mi fai una cosa del genere?»; il presente chiede conto di ciò che lei sta facendo, senza il condizionale ipotetico e senza la sfumatura retorica dell'infinito proposto.
+- p01628, rhythm, low: accettato: «Per un po' riuscivo a sentire che il fondo non avrebbe ceduto», che ripristina l'anafora di could feel.
+
+- p01570, nuance, low: accettato con variante: «le competenze di Chelsea mettevano uno strano vecchio mondo sotto una luce del tutto nuova»; «mettere sotto una luce nuova» rende recast meglio di «ripresentavano» e meglio del semplice «mostravano» proposto.
+
+Ogni modifica è stata verificata sul paragrafo inglese.
