@@ -1,0 +1,98 @@
+pid	verdict	type	severity	problem	proposal
+p00542	issue	doubt	low	Dubbio 1: «I leader» va bene, tiene il registro manageriale della frase; la caporale aperta qui e chiusa in p00543 rispecchia le virgolette inglesi.
+p00543	ok
+p00544	ok
+p00545	issue	doubt	low	Dubbio 2: «il nostro esploratore» va bene; tiene la parola generica di scout senza aggiungere sonda.
+p00546	issue	rhythm	low	«aveva fatto la fine di un animale investito sulla strada» diluisce road kill, due parole secche in inglese; la frase si allunga e perde la battuta (dubbio 3: preferibile l'alternativa breve).	ed era finita spiaccicata sulla strada
+p00546	issue	doubt	low	Dubbio 3: «limite di Rayleigh» e «Cane Maggiore» vanno bene.
+p00547	issue	doubt	low	Dubbio 4: «parfait» in tondo va bene, è termine di pasticceria corrente.
+p00548	ok
+p00549	issue	doubt	low	Dubbio 5: «Meteoriti» va bene; anche in inglese meteorites è improprio, correggerlo in meteore correggerebbe il personaggio.
+p00550	ok
+p00551	ok
+p00552	issue	doubt	low	Dubbio 6: «Ve l'avevo detto» va bene; la battuta è detta davanti a tutti.
+p00553	ok
+p00554	issue	doubt	low	Dubbio 7: «Idrosolfuro d'ammonio» è la lettura giusta (NH4SH, strato di nubi dei giganti gassosi); «alogenuri alcalini» e «31 e 400 m» vanno bene.
+p00555	issue	doubt	low	Dubbio 8: «scariche» va bene e tiene la ripresa con p00588.
+p00556	issue	nuance	low	«prevedibili all'infinito» fa pensare a una previsione che si estende nel tempo; infinitely predictable è prevedibile con precisione assoluta in ogni istante t.	le nostre posizioni relative infinitamente prevedibili in qualunque istante *t*
+p00556	issue	calque	low	«spostato fuori allineamento» ricalca knocked out of alignment; «infinitesimamente» è forma rara, la corrente è infinitesimalmente.	come se il fascio venisse ripetutamente, infinitesimalmente disallineato
+p00557	ok
+p00558	issue	doubt	low	Dubbio 9: «La sonda è fritta», «picco» e «spirale di Parker» vanno bene.
+p00559	ok
+p00560	ok
+p00561	issue	doubt	low	Dubbio 10: «Porca puttana» va bene, stessa forza di Holy shit sussurrato.
+p00562	issue	doubt	low	Dubbio 11: «amnio» tiene la nascita ma perde la superstizione; «camicia» la recupera, perché in italiano il bambino con il caul nasce con la camicia, e resta immagine di nascita. Zeugma tenuto bene.	C'era la stessa scheggia scura avvolta in una camicia di fiamma
+p00563	ok
+p00564	ok
+p00565	ok
+p00566	ok
+p00567	issue	nuance	low	«risanata» è participio compiuto, endlessly healing è un processo in corso, che si ripete come la ferita; il chiasmo poi non è di Watts (dubbio 12).	ferita senza fine, senza fine in via di guarigione
+p00567	issue	doubt	low	Dubbio 12: «mirino» e «inquadratura di prua» vanno bene ed evitano visore.
+p00568	ok
+p00569	ok
+p00571	issue	addition	low	«ma» introduce un'opposizione che l'inglese non ha (headed in and hedged); la soluzione delle scommesse è buona (dubbio 13).	Puntammo verso l'interno e ci tenemmo coperti.
+p00572	issue	rhythm	low	«la sua energia, che non deviava mai, perduta nello spaziotempo» è macchinoso con la relativa tra virgole; unswerving è un solo aggettivo.	la sua energia inflessibile perduta nello spaziotempo
+p00573	issue	doubt	low	Dubbio 14: «restare attaccati alla gonnella» va bene e prosegue lo svezzamento. Per wondered meglio «chiese»: senza virgolette «si chiese» si legge come pensiero, e Sarasti risponde subito dopo.	Susan James chiese perché non l'avessimo fatto.
+p00574	ok
+p00575	ok
+p00576	issue	doubt	low	Dubbio 15: «tuffatori dalle grandi altezze» e «picchiare e volteggiare» vanno bene.
+p00577	ok
+p00578	issue	meaning	low	«i nuovi avvistamenti si stabilizzarono» fa pensare a un ritmo costante di avvistamenti; leveled off qui vuol dire che si esaurirono, come dice la curva cumulativa che si appiattisce.	dopo, i nuovi avvistamenti si diradarono, con la curva cumulativa che si appiattiva
+p00578	issue	doubt	low	Dubbio 16: «muso a pala» va bene, conforme al glossario.
+p00579	ok
+p00580	ok
+p00581	ok
+p00582	ok
+p00583	issue	doubt	low	Dubbio 17: la correzione della chat principale («La grafica tattica») è giusta e conforme al glossario; «valve» e «mosaico» vanno bene.
+p00584	issue	doubt	low	Dubbio 18: «L'uomo illustrato» in tondo va bene, titolo italiano corrente di Bradbury.
+p00585	issue	doubt	low	Dubbio 19: «Sì, ma non abbastanza da farne una questione» rende bene il sì come mi dispiace.
+p00586	issue	typography	low	Il corsivo passa da is a «quello»: l'enfasi inglese è sul verbo, sullo stupore, non sul dimostrativo.	«Ma che *cos'è*?»
+p00587	ok
+p00588	ok
+p00589	ok
+p00590	issue	nuance	low	«prenderci la mano» è acquisire un'abilità pratica, non capire o apprezzare una musica; got the hang of qui è capire il meccanismo (dubbio 20).	«Nemmeno quello l'ho mai capito davvero.»
+p00591	issue	doubt	low	Dubbio 21: «silenziò il registro acuto» e «occhi ballerini» vanno bene.
+p00592	ok
+p00593	ok
+p00594	ok
+p00595	ok
+p00596	ok
+p00597	ok
+p00598	ok
+p00599	ok
+p00600	ok
+p00601	issue	doubt	low	Dubbio 22: «*grooosso*» e «Quegli stronzi» vanno bene, stesso meccanismo e stessa forza.
+p00603	issue	doubt	low	Dubbio 23: «al centro di tutto» va bene ed evita in primo piano, riservato alla Banda.
+p00604	issue	typography	low	«R-strategista» in apertura mette la maiuscola al parametro r, che in ecologia è sempre minuscolo; Watts apre con Von Neumann proprio per evitarlo.	«Autoreplicante di von Neumann, r-strategista.
+p00604	issue	doubt	low	Dubbio 24: «r-strategista» va bene, forma dell'ecologia italiana; «si arena» tiene la sintassi senza articoli di Sarasti.
+p00605	ok
+p00606	ok
+p00607	ok
+p00608	issue	doubt	low	Dubbio 25: «Più numerosi di noi di ordini di grandezza» va bene, con la voce del glossario.
+p00609	ok
+p00610	ok
+p00611	ok
+p00612	ok
+p00613	ok
+p00614	issue	meaning	low	«fin quaggiù» vuol dire giù in basso; way out here è là fuori, lontano nello spazio, come «qua fuori» in p00578.	se si costruiscono una casa fin qua fuori
+p00615	ok
+p00616	ok
+p00617	ok
+p00618	issue	doubt	low	Dubbio 26: minuscolo dopo l'inciso, conforme al glossario.
+p00619	issue	doubt	low	Dubbio 27: «affettività» e «mulinello di polvere» vanno bene.
+p00620	ok
+p00621	ok
+p00622	ok
+p00623	issue	doubt	low	Dubbio 28: refuso tipografico assorbito correttamente; «Li avremmo sentiti» va bene.
+p00624	issue	doubt	low	Dubbio 29: «mandare un ping» va bene.
+p00625	ok
+p00626	issue	doubt	low	Dubbio 30: «maledetto» va bene; la perdita del colore britannico è annotata.
+p00627	issue	doubt	low	Dubbio 31: «Pessima teoria dei giochi» e «raccolse la palla» vanno bene.
+p00628	ok
+p00629	issue	doubt	low	Dubbio 32: «Colpo su colpo» va bene, usato anche nella letteratura italiana sulla teoria dei giochi; pan per focaccia porterebbe un'immagine assente.
+p00630	issue	doubt	low	Dubbio 33: «bisognosi» in italiano fa pensare al bisogno materiale; needy qui è chi cerca troppo l'altro. «Appiccicosi» è più vicino, ma «bisognosi» regge: si accetta l'una o l'altra.
+p00631	ok
+p00632	ok
+p00633	issue	doubt	low	Dubbio 34: «nessuno» nei due paragrafi regge la ripresa; «supergioviani» e «marine» conformi al glossario.
+p00634	ok
+p00635	issue	doubt	low	Dubbio 35: «dissero» al passato remoto va bene.
