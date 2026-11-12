@@ -1,0 +1,83 @@
+pid	verdict	type	severity	problem	proposal
+p01954	ok
+p01955	issue	rhythm	low	«Susan removed helmet and backpack and breastplate»: il polisindeto di Watts (and... and) diventa un elenco normale; lo stesso polisindeto è tenuto invece in p01972 («Bates e la Banda e Sarasti»).	Susan tolse il casco e lo zaino e la piastra pettorale.
+p01955	issue	rhythm	low	«His glazed eyes focused on distant quasars» ha un soggetto attivo; «erano messi a fuoco su» è un passivo pesante.	Gli occhi vitrei mettevano a fuoco quasar lontani.
+p01955	issue	doubt	low	Dubbio 1: concordo con *personae* in corsivo (glossario), pelle piombata e quasar al maschile.
+p01956	ok
+p01957	issue	doubt	low	Dubbio 2: concordo con la forma CEI senza punto finale, ammessa dalla tabella delle epigrafi; la perdita del but è già annotata.	«Avete occhi e non vedete»
+p01958	ok
+p01959	issue	calque	low	«Non so che cosa provare per questo» ricalca about this e si legge anche come causale (a causa di questo).	Non so che cosa provare, davanti a questo
+p01959	issue	doubt	low	Dubbio 3: «Dovrei essere in lutto» tiene l'intransitivo ma suona come uno stato sociale; accettabile. Alternativa più viva senza complemento esplicito: «Dovrei soffrire».	Dovrei essere in lutto.
+p01960	issue	rhythm	low	L'inciso «che mi fa sprofondare» separa paura dal suo complemento «di poter essere il prossimo», e la frase si inceppa; sick sinking è una coppia di aggettivi compatta.	Dovrei provare qualcosa di più di questa paura nauseante, che mi fa sprofondare lo stomaco, di poter essere il prossimo... (oppure) Dovrei provare qualcosa di più di questo sprofondare nauseante, la paura di poter essere il prossimo...
+p01961	ok
+p01962	issue	typo	low	«Guardò oltre me»: con il pronome personale l'italiano vuole la preposizione («oltre di me» o «oltre a me»).	Guardò oltre di me e prese il corpo.
+p01963	ok
+p01964	issue	doubt	low	Dubbio 5: concordo con «preservativo da salma», che tiene la crudezza di body condom.
+p01965	issue	calque	low	«un conto di sievert letale» ricalca count; in italiano la quantità accumulata di radiazione è una dose.	l'escursione aveva accumulato una dose letale di sievert
+p01965	issue	doubt	low	Dubbio 6: «Siamo caldi» è accettabile e il contesto (sievert, nausea) lo chiarisce subito; detto di persone può far pensare all'eccitazione, ma «Scottiamo» farebbe pensare alla febbre. Tengo la scelta.	«Siamo caldi», disse Bates.
+p01966	issue	doubt	low	Dubbio 7: concordo con l'infinito da ordine «Decontaminare dopo».
+p01967	ok
+p01968	issue	doubt	low	Dubbio 8: concordo con «titolare sfortunato» e con lo zeugma tenuto da teneva.
+p01969	issue	nuance	low	«There wouldn't be much he could do about them» è una constatazione (non avrebbe potuto farci molto); «Non che potesse farci granché» la rende una concessione sprezzante che l'inglese non ha.	Non avrebbe potuto farci granché, comunque.
+p01970	ok
+p01971	issue	doubt	low	Dubbio 10: concordo con «Aveva gli occhi nudi» e con Umani maiuscolo.
+p01972	issue	nuance	low	«rolled smoothly past»: scorreva davanti, non via; «scorreva via» suggerisce che si allontani.	il resto del tamburo scorreva oltre senza scosse
+p01973	ok
+p01974	issue	doubt	low	Dubbio 13: concordo con «optional» (eco di di serie) e con il soggetto sottinteso, che tiene l'ambiguità di it; debriefing invariato va bene.
+p01975	ok
+p01976	issue	meaning	medium	«Yeah.» è la risposta di Sascha chiamata per nome da Sarasti (presente, eccomi); «Già.» in italiano è assenso a un'affermazione e qui non risponde a nulla.	«Sì.» (oppure «Eccomi.»)
+p01976	issue	nuance	low	«stark fucking blind»: l'imprecazione è dentro il sintagma e rafforza cieca; spostata in coda come «cazzo» isolato perde la saldatura. Accettabile, ma si può tenere più vicina.	Sono diventata sorda muta e cieca, ma cieca del cazzo, quando è svenuta.
+p01977	issue	doubt	low	Dubbio 15: concordo con «perdi coscienza» al presente; è italiano corrente e tiene il termine del glossario.
+p01978	ok
+p01979	ok
+p01980	ok
+p01981	ok
+p01982	issue	nuance	low	surmised è una congettura, non una deduzione logica; «dedusse» attribuisce a Sarasti un ragionamento che il verbo inglese non dice.	«Niente ti tocca», ipotizzò il vampiro.
+p01983	ok
+p01984	ok
+p01985	issue	doubt	low	Dubbio 16: concordo con il punto dentro le caporali (refuso tipografico della sorgente) e con «compagnia mista».
+p01986	ok
+p01987	ok
+p01988	ok
+p01989	ok
+p01990	ok
+p01991	ok
+p01992	ok
+p01993	ok
+p01994	ok
+p01995	ok
+p01996	ok
+p01997	ok
+p01998	ok
+p01999	ok
+p02000	ok
+p02001	issue	rhythm	low	«ha solo come *urtato*» è goffo anche per un parlato affannato: urtare senza oggetto non regge; sort of bumped è un verbo intransitivo d'impatto.	non era forte né aspro ha solo tipo *sbattuto*
+p02001	issue	doubt	low	Dubbio 20: concordo con la battuta lasciata aperta e senza virgola, come la sorgente.
+p02002	ok
+p02003	ok
+p02004	ok
+p02005	ok
+p02006	ok
+p02007	ok
+p02008	ok
+p02009	ok
+p02010	ok
+p02011	ok
+p02012	ok
+p02013	ok
+p02014	issue	doubt	low	Dubbio 23: concordo con «qualunque intruso» e «filarsela».
+p02015	ok
+p02016	ok
+p02017	ok
+p02018	issue	doubt	low	Dubbio 25: «resta inspiegato» aggiunge un resta che l'inglese non ha e suona come un mistero più che come un dato che non torna; unaccounted for è il non identificato del rapporto tecnico.	L'altro non è identificato.
+p02019	ok
+p02020	issue	doubt	low	Dubbio 26: concordo con «Lei *sente*».
+p02021	ok
+p02022	issue	doubt	low	Dubbio 27: concordo con «C'è qualcuno in casa»; la perdita è annotata.
+p02024	ok
+p02025	issue	doubt	low	Dubbio 28: concordo con «perse» al passato remoto e con grugniti per grunts.
+p02026	issue	meaning	high	«badare a chi stava parlando» in italiano si legge come prestare attenzione a chi parlava (l'interlocutore che parla), non a chi lei si rivolgeva; who she was talking to è il destinatario, e il paragrafo dopo (intended recipient) lo conferma.	Era l'unica che sembrasse mai badare a chi si stava rivolgendo.
+p02027	ok
+p02028	ok
+p02029	issue	calque	medium	«che mi fido a lasciar parlare per sé»: il relativo oggetto dentro fidarsi a + infinito è sgrammaticato e fidarsi a vale osare; whom I trust to speak for herself è fiducia nella persona.	Tranne Susan James, linguista e Capobanda, che lascio parlare per sé, perché di lei mi fido.
+p02029	issue	doubt	low	Dubbio 32: concordo con Capobanda, che tiene il legame con la Banda.
