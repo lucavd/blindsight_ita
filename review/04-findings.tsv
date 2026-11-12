@@ -1,0 +1,115 @@
+pid	verdict	type	severity	problem	proposal
+p00200	ok
+p00201	ok
+p00202	issue	doubt	low	Dubbio 1 (impersonation): concordo con «imitazione», coerente con il blocco 03; «immedesimazione» attribuirebbe a Siri un'empatia che il testo nega.	è un'imitazione molto più semplice di quelle che di solito sono chiamato a interpretare
+p00203	issue	doubt	low	Dubbio 2 (coast): concordo, «Procedo per inerzia» tiene il senso tecnico del volo balistico.	Procedo per inerzia nell'abisso
+p00203	issue	doubt	low	Dubbio 3 (Absolute Zero): concordo con la minuscola, secondo le maiuscole all'italiana; la maiuscola di Watts non regge un'enfasi che l'italiano debba conservare.	a un soffio dallo zero assoluto
+p00203	issue	doubt	low	Dubbio 4 (gone to crystal): concordo, «si erano fatti cristallo» tiene l'immagine; «cristallizzati» la banalizzerebbe.	ma che si erano fatti cristallo
+p00204	ok
+p00205	issue	doubt	low	Termine proposto 1 (handshaking protocols): è già voce approvata del glossario; la resa è conforme.	i protocolli di handshake
+p00206	issue	doubt	low	Dubbio 5 (bearing): concordo con «rilevamento» nella sezione della sonda, dove il lessico tecnico è voluto; per la battuta di Jim vedi la riga di p00280.	questo è il rilevamento in cui l'intensità del segnale era massima
+p00207	ok
+p00208	issue	doubt	low	Dubbio 6 (precessive tumble): concordo con «ribaltamento precessivo controllato»; «capriola» sarebbe troppo giocosa per la voce della sonda.	un ribaltamento precessivo controllato
+p00209	issue	doubt	low	Termine proposto 2 (afferent array): concordo con «schiera afferente», coerente con la schiera Icarus.	la mia schiera afferente
+p00210	ok
+p00211	ok
+p00213	issue	nuance	low	«usher in» vale aprire, inaugurare un'epoca: «introdotto» è piatto e burocratico accanto all'immagine teatrale delle quinte.	avrebbe inaugurato una Singolarità che aspettava impaziente dietro le quinte
+p00213	issue	doubt	low	Termine proposto 3 (quantum-glial paradox): concordo con «paradosso quantistico-gliale», forma regolare dell'aggettivo composto.	il paradosso quantistico-gliale
+p00214	ok
+p00215	issue	doubt	low	Termine proposto 4 (Martian Loop): è già voce approvata del glossario; resa conforme.	Le navi commerciali del Circuito marziano
+p00215	issue	doubt	low	Termine proposto 8 (post-scarcity economy): concordo con «economia della post-scarsità», forma corrente.	la nostra nuova e scintillante economia della post-scarsità
+p00216	ok
+p00217	ok
+p00218	issue	doubt	low	Dubbio 7 (split a bulb): concordo con «aprii un bulbo», conforme al glossario; «spaccai» suonerebbe violento.	aprii un bulbo di Glenfiddich
+p00218	issue	doubt	low	Dubbio 8 (Everyone Icons): la sorgente HTML ha proprio «Everyone Icons» con due maiuscole; concordo con «Le Icone di Tutti», che tiene entrambe le letture, e con la perdita annotata.	Le Icone di Tutti dibattevano da ogni parte
+p00219	ok
+p00220	ok
+p00221	ok
+p00222	ok
+p00223	ok
+p00224	ok
+p00225	issue	doubt	low	Dubbio 9 (Do the math): concordo con «Fate i conti», rivolto a tutto il coro di voci allarmate.	Fate i conti.
+p00226	issue	doubt	low	Dubbio 10 (stealthed): concordo con «occultate» e con il corsivo rovesciato; la radice coincide con quella del glossario per cloaked (occultato), ma il concetto è lo stesso e l'eco non nuoce.	*Erano* occultate*!*
+p00227	ok
+p00228	ok
+p00229	issue	nuance	low	«Jesus Christ.» qui è un'imprecazione esasperata; «Gesù Cristo.» in italiano suona più come nominare la persona che come sbottare. «Cristo santo.» ha la stessa forza e lo stesso tono.	Cristo santo. Ci hanno solo fatto una *foto*.
+p00230	ok
+p00231	ok
+p00232	ok
+p00233	ok
+p00234	issue	doubt	low	Termine proposto 10 (O'Neills): concordo con «gli O'Neill», invariato al plurale come nella guida per p03680.	Niente ha toccato gli O'Neill.
+p00235	issue	doubt	low	Dubbio 11: la nota della voce del glossario è già stata chiarita dalla decisione sui termini del blocco 04 (D-41): maiuscola solo all'inizio. La resa è conforme.	*La tecnologia implica belligeranza!*
+p00236	issue	doubt	low	Dubbio 12: concordo con «Torneranno?»/«Tornerai?» e con lo spostamento dell'enfasi sul verbo in p00242; l'eco con il pensiero finale di Siri in p00307 resta visibile.	\(Torneranno?)
+p00237	ok
+p00238	issue	doubt	low	Dubbio 13: concordo con «*Per ora*» senza punto e «*Finora.*»; «Non ancora» aggiungerebbe una negazione. La perdita è annotata.	*Per ora*
+p00239	ok
+p00240	ok
+p00241	ok
+p00242	ok
+p00243	ok
+p00244	issue	doubt	low	Dubbio 14: concordo con «Solo voce», «cifrata» (chiamata sottintesa) e «Accettare?», forma impersonale da interfaccia.	Jim Moore Solo voce
+p00245	ok
+p00246	ok
+p00247	ok
+p00248	ok
+p00249	ok
+p00250	issue	doubt	low	Dubbio 15: concordo con «cagarci addosso», stessa forza di crapping our pants.	festeggiare o cagarci addosso
+p00251	issue	nuance	medium	«It's a big question, all right» riconosce la gravità della domanda; «È una gran bella domanda» in italiano è la battuta colloquiale di chi non sa rispondere, più ironica e sciolta del registro piatto e misurato di Jim.	«È una domanda importante, questo sì», disse infine.
+p00252	issue	doubt	low	Dubbio 16: concordo con «Qui a terra», che tiene i due sensi di ground level.	Qui a terra non ci dicono niente.
+p00252	issue	calque	low	«Immagino che tu non possa darmi qualche consiglio?» ricalca I don't suppose you could; con il punto interrogativo la frase italiana è incerta fra affermazione e domanda.	«Non è che potresti darmi qualche consiglio?
+p00253	issue	doubt	low	Dubbio 17: concordo con «è saltata», colloquiale e non più netto di went down.	dicono che la schiera Icarus è saltata, e–»
+p00254	ok
+p00255	ok
+p00256	ok
+p00257	ok
+p00258	issue	doubt	low	Dubbio 18: concordo con «diventava irraggiungibile»; «spariva dai radar» aggiungerebbe un'immagine.	diventava irraggiungibile
+p00259	issue	doubt	low	Dubbio 19: concordo con «*tornava* dal lavoro», che tiene il contrasto con «partiva per un lavoro» di p00258.	Perché anche quando mio padre *tornava* dal lavoro
+p00260	ok
+p00261	ok
+p00262	issue	doubt	low	Dubbio 20: concordo con «*Milleuno, milledue–*», equivalente italiano corrente.	*Milleuno, milledue–*
+p00263	issue	doubt	low	Dubbio 21: concordo con «dare un calcio alle gomme nuove», l'immagine si capisce anche in italiano.	a dare un calcio alle gomme nuove
+p00264	ok
+p00265	ok
+p00266	issue	doubt	medium	Dubbio 22: «Lì vicino» sceglie solo il senso spaziale e perde l'evasività di Close enough (quasi giusto). «Abbastanza vicino» tiene entrambe le letture: vicino alla verità e vicino alla Luna.	Pausa. «Abbastanza vicino.»
+p00267	ok
+p00268	ok
+p00269	ok
+p00270	issue	doubt	low	Termine proposto 5 (recons): concordo con «ricostruiti», coerente con i vampiri ricostruiti delle note finali.	dei ricostruiti e degli ibridi in mezzo a noi
+p00271	ok
+p00272	ok
+p00273	issue	doubt	low	Dubbio 23: concordo con «Le onde radio»; «la radio» indicherebbe l'apparecchio.	Le onde radio rimbalzarono avanti e indietro.
+p00274	ok
+p00275	ok
+p00276	issue	doubt	low	Termine proposto 6 (WestHem): concordo con «EmisOvest», contrazione come l'inglese; unica occorrenza nel libro.	in un laboratorio dell'EmisOvest
+p00277	ok
+p00278	ok
+p00279	ok
+p00280	issue	nuance	low	Dubbio 5, battuta di Jim: «tracciato il rilevamento» è una collocazione innaturale in italiano (si traccia una rotta, non un rilevamento). «Ricavato» tiene il termine tecnico e richiama il «ricavarne» di p00208.	Ne abbiamo ricavato il rilevamento.
+p00281	ok
+p00282	issue	typo	low	«È stato quasi un colpo di fortuna che siamo riusciti» vuole il congiuntivo concordato con il passato; «riusciti» inoltre aggiunge uno sforzo che l'inglese non dice.	È stato quasi un colpo di fortuna che avessimo anche solo intercettato la trasmissione.
+p00283	ok
+p00284	ok
+p00285	ok
+p00286	ok
+p00287	issue	doubt	low	Termine proposto 9 (Interplanetary Age): concordo con «l'Era interplanetaria». Anche la resa di *You're sending* me con «*Mandate* me» tiene l'enfasi rovesciata di Watts.	L'Era interplanetaria si era arenata agli asteroidi.
+p00288	issue	doubt	low	Dubbio 24: concordo con «qualcosa *in viaggio*» in corsivo; per la ripresa nella battuta di Jim vedi p00291.	qualcosa *in viaggio*
+p00289	ok
+p00290	ok
+p00291	issue	nuance	medium	«gli aggiornamenti si possono mandare in viaggio» si legge come «spedire in viaggio gli aggiornamenti»: en route vale «durante il tragitto». L'eco con p00288 regge anche così.	gli aggiornamenti si possono mandare durante il viaggio.
+p00292	ok
+p00293	issue	doubt	low	Dubbio 25: concordo con il femminile, coerente con la voce del glossario (la cometa delle sonde) e con p00209.	Ma *Burns-Caulfield* si era nascosta.
+p00294	ok
+p00295	ok
+p00296	ok
+p00297	ok
+p00298	ok
+p00299	issue	doubt	low	Dubbio 26: concordo con la correzione in Kurzweil e con «affossato».	«Hai affossato tu il mio contratto con il Kurzweil», capii.
+p00300	issue	doubt	low	Dubbio 27: «È il meno di quello che abbiamo fatto» è comprensibile ma macchinoso; la forma italiana corrente è più asciutta, come Jim.	«È il meno che abbiamo fatto.»
+p00301	ok
+p00302	ok
+p00303	ok
+p00304	ok
+p00305	ok
+p00306	ok
+p00307	ok
+p00308	issue	doubt	low	Dubbio 28: concordo con «Buono a sapersi», formula fredda come quella di Siri.	«Buono a sapersi.»
