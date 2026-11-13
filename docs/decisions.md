@@ -668,3 +668,10 @@ Motivazione: la seconda lettura del blocco 22 aveva segnalato «vescica» come v
 
 Deciso da: agente. Data: 2026-11-12. Stato: valida.
 
+## D-82 Il messaggio del Capitano all'equipaggio è al voi
+
+Decisione: nel blocco 38, p03639, U dislke ordrs frm mchnes. Happier ths way. si rende al plurale, «Nn v piaccno gli ordni dll mcchne. + felici csì.». La scheda dei personaggi resta al tu fra il Capitano e Siri e ora indica questa eccezione.
+
+Motivazione: Siri ha appena chiesto «Abbiamo mai seguito i *suoi* ordini, o sei sempre stato soltanto tu?» (p03637), e il blocco 39 (p03677) scioglie il messaggio con We: «Eravamo più felici così. Non ci piacevano gli ordini dalle macchine.». U è l'equipaggio, non Siri. Voi è il plurale del tu, quindi non cambia la forma di cortesia, come nel blocco 32 (p02885), dove Sarasti passa al voi rivolgendosi alla specie. La prima stesura aveva il tu singolare («Nn t piaccno ... + felice»), che restringeva il messaggio a Siri e non si scioglieva nel blocco 39; l'ha segnalato la revisione bilingue con un rilievo medio.
+
+Deciso da: agente. Data: 2026-11-13. Stato: valida.
