@@ -79,3 +79,14 @@
 - p03466: «Mi è servita» diventa «Mi è servito»; it può riferirsi alla stanza cinese o a tutto il modo di fare di Siri descritto da Sarasti, e il maschile lascia aperte le due letture come in inglese.
 
 Ogni intervento è stato verificato sul paragrafo inglese.
+
+# Seconda lettura
+
+- p03377, nuance, low, accettato: «era già morto nel momento stesso in cui aveva tentato la sorte» (dead from the moment, già spacciato da allora).
+- p03430, rhythm, low, accettato con variante: «Alzò le spalle, con un'umanità sconcertante.» (breve come disconcertingly human, l'accento resta su human).
+- p03462, addition, low, accettato: «con i minuti contati e niente da perdere» (minutes to live, senza il pochi aggiunto).
+- p03477, nuance, low, accettato: «un residuo del bambino» (the boy operato da piccolo).
+- p03491, register, low, accettato: «Ora di fare il tuo lavoro.» (Sarasti, frase senza verbo come in inglese).
+- p03500, nuance, low, accettato con variante: «Sarasti fece un cenno con la mano.» (waved come gesto di congedo; cenno è più preciso di gesto).
+
+Ogni modifica della seconda lettura è stata verificata sul paragrafo inglese.
