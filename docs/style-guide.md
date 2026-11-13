@@ -158,15 +158,18 @@ Il rimedio a un calco non è mai un'omissione: se una parola sembra di troppo in
 | p03824 | Shuster | Schuster |
 | p03837 | An Odd Kind of Fame Stories: of Phineas Gage | An Odd Kind of Fame: Stories of Phineas Gage |
 | p03839 | Gottleib | Gottlieb |
-| p03852 | Blacstone | Blackstone, come in p03722 |
+| p03852 | Blacstone; H 2 S (il pedice perso nella pagina web) | Blackstone, come in p03722; H~2~S, che l'EPUB rende come pedice (decisione sui refusi aggiunti nelle note del blocco 41, D-84) |
 | p03854 | Pittburgh | Pittsburgh |
 | p03872 | Astrophysics Journal Letters | Astrophysical Journal Letters |
 | p03873 | overacheiving | overachieving |
+| p03882 | Trends in Neuroscience | Trends in Neurosciences (D-84) |
+| p03890 | Stewart, S. (l'articolo è di Jack Cohen e Ian Stewart) | Stewart, I.; l'anno resta 2005 come nella sorgente (D-84) |
 | p03898 | Prigonine, Nicholis | Prigogine, Nicolis |
 | p03903 | Emporer | Emperor |
 | p03919 | SCience | Science |
 | p03926 | concensus | consensus |
 | p03931 | Keiffer | Kieffer |
+| p03941 | Change-induced | Charge-induced, il titolo dell'articolo di Weissmüller e colleghi (D-84) |
 | p03945 | Americal | American |
 | p03946 | Gaithersberg | Gaithersburg |
 | p00800 | spin-against-spam | dubbio sul senso (forse span o spin): si traduce com'è, con nota |
