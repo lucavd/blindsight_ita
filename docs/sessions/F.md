@@ -4,7 +4,7 @@ title: "F: coerenza sull'intero libro ed EPUB"
 description: Controlla che termini, nomi, forme di cortesia e voce siano coerenti dall'inizio alla fine, fa una controprova a campione sull'originale e costruisce l'EPUB definitivo.
 model: opus
 status: closed
-pi_approval: pending
+pi_approval: yes 2026-11-13
 generated:
   by: blindsight-agent/protocollo-v1
   at: "2026-11-09T23:30:00+01:00"
@@ -105,7 +105,7 @@ EPUB: indice nell'ordine Blindsight (dedica ed epigrafi iniziali), Prologo, Thes
 
 ## Dubbi ricevuti
 
-1. Copertina: guardata nell'EPUB finale. Misura 606 per 897 pixel; nitida in miniatura, un po' morbida a tutto schermo su un lettore ad alta densità. Scelta del PI, nel riassunto.
+1. Copertina: guardata nell'EPUB finale. Misura 606 per 897 pixel; nitida in miniatura, un po' morbida a tutto schermo su un lettore ad alta densità. Scelta del PI, nel riassunto. Il PI l'ha tenuta (decisione sulla copertina di 606 per 897 pixel, D-89).
 2. Impaginazione riportata dalla pagina: guardata nell'EPUB finale (sopra), corretta. Il PI la controlla sul suo lettore; è scritto nel riassunto.
 
 ## Tempi
@@ -137,6 +137,10 @@ Comunque:
 3. Se annoti errori o dubbi mentre leggi, la sessione facoltativa di correzioni li applica e rifà l'EPUB.
 
 Appena decidi questo punto, la sessione è chiusa.
+
+# Approvazione
+
+Il 2026-11-13 il PI ha letto il riassunto e ha deciso il solo punto aperto: la copertina resta quella di adesso (decisione sulla copertina di 606 per 897 pixel, D-89). Nessun dubbio nuovo: la sessione è chiusa e approvata.
 
 # Dubbi rinviati
 

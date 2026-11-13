@@ -724,3 +724,11 @@ Decisione: la lettura di coerenza della sessione finale (F) ha unificato 17 rese
 Motivazione: in ogni caso la stessa cosa era detta in due modi senza un motivo nel testo; dove una delle due rese era stata scelta dopo l'altra per eco (la ripresa di una battuta, il saggio che cita il romanzo), si è tenuta quella della prima occorrenza o del romanzo, salvo il motto delle prede, dove «per la vita» si poteva leggere «per tutta la vita» e si è tenuta la resa più chiara. Fra «scoreggia» e «scorreggia», tutte e due corrette, si è tenuta la grafia che compare per prima. Ogni correzione è stata verificata sull'inglese dal redattore.
 
 Deciso da: agente. Data: 2026-11-13. Stato: valida.
+
+## D-89 La copertina resta quella di 606 per 897 pixel
+
+Decisione: la copertina dell'EPUB resta `epub/cover.jpg`, il fronte della sovraccoperta fornita dal PI (decisione sulla copertina, D-17), di 606 per 897 pixel. Non si cerca un'immagine più grande.
+
+Motivazione: alla chiusura della sessione finale (F) il PI ha visto l'EPUB e il riassunto, dove l'agente raccomandava di tenerla: nitida in miniatura, un po' morbida a tutto schermo su un lettore ad alta densità. Il PI ha risposto che va bene così. Chiude il dubbio sulla copertina ricevuto dalla sessione sulla sorgente (S0).
+
+Deciso da: PI. Data: 2026-11-13. Stato: valida.
