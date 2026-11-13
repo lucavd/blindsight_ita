@@ -66,3 +66,13 @@ Richiami di nota: in tutti i paragrafi cambiati i richiami in apice restano iden
 - p03738, addition, low, accettato: tolto «anche» («molto dopo che l'ultimo mozzicone di canna è finito»), che l'inglese non ha.
 
 Paragrafi cambiati nella seconda lettura: p03701, p03738. Richiami di nota in apice invariati. Ogni intervento è stato verificato sul paragrafo inglese.
+
+# Coerenza (sessione finale)
+
+- p03696, I13, accettata: «del Tamburo» diventa «del tamburo», minuscolo come nel glossario e nel romanzo.
+- p03709, I14, accettata: «Leuencefalina» diventa «Leu-encefalina», la grafia del blocco 2.
+- p03721, I15, accettata: il richiamo in apice ^e.g.,^ diventa ^per es.,^, come *per es.* in p03716; il rimando ^45^ resta identico e nella stessa posizione. Lo spazio dentro l'apice è protetto da una barra rovesciata (^per\ es.,^) perché pandoc lo legga come apice.
+- p03722, I11, accettata: «scorregge» diventa «scoregge», la grafia dei blocchi 7, 25 e 27.
+- p03732, I16, accettata: «il tunneling di atomi pesanti» diventa «l'effetto tunnel di atomi pesanti», la resa del blocco 32; il richiamo ^*85*^ resta invariato.
+
+Ogni intervento è stato verificato sul paragrafo inglese.

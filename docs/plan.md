@@ -61,6 +61,8 @@ Tempi misurati nella quinta sessione di revisione (R5), su 7 blocchi (dal 30 al 
 
 Tempi misurati nella sesta sessione di revisione (R6), su 5 blocchi (dal 37 al 41, 16.356 parole, di cui buona parte dei blocchi 40 e 41 sono note bibliografiche), con Opus 5.5 e la seconda lettura fissa. Revisore da 3,4 a 5,7 minuti per blocco, redattore da 2,6 a 3,5: insieme 38,1 minuti, 2,33 minuti per mille parole. Seconda lettura (revisore e redattore) 19,7 minuti, 1,20 minuti per mille parole. Sotto-agenti 57,8 minuti, 3,5 minuti per mille parole; dal primo lancio all'ultimo controllo circa 68 minuti, meno della stima perché le note si controllano senza tradurle. Con questa la revisione del libro è finita.
 
+Tempi misurati nella sessione finale (F), sull'intero libro (41 blocchi), con Opus 5.5. Lettura di coerenza con quattro lettori in parallelo, da 6,5 a 9,8 minuti ciascuno, 33,1 minuti di sotto-agenti e circa 10 di orologio; correzioni con un redattore per blocco, 15 lanci in 14 blocchi, 4,5 minuti in tutto. Dalla prima verifica all'EPUB finale circa 35 minuti di orologio, con i controlli meccanici, la controprova su 20 paragrafi e la costruzione dell'EPUB: molto meno della stima di 1-2 ore, perché le incoerenze erano poche e piccole.
+
 # Perché questi modelli
 
 Sonnet 5.5 solo per S0, che è lavoro meccanico (scaricare, dividere, contare) dove un modello più grande non cambia il risultato.

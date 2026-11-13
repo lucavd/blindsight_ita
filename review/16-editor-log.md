@@ -38,3 +38,11 @@ Parole riprese in altri blocchi: «voci che sussurrano» (p01513), «*Infestato*
 - p01475, nuance, low: accettato con variante: «palombari di un secolo passato»; a previous century è un secolo precedente qualsiasi, «del secolo scorso» lo restringe all'ultimo.
 - p01518, terminology, low: accettato: «la piastra della cima laterale»; «tampone» fa pensare a un tappo.
 - p01557, nuance, low: respinto, come nella prima revisione: «condurre» è il verbo del cane da conduzione e regge già l'immagine del border collie; «ci radunò al riparo» è sintassi forzata.
+
+# Coerenza (sessione finale)
+
+- p01476, I04: accettata: «*Scylla* corse avanti» diventa «La *Scylla* corse avanti»; il femminile della nave si accorda con «come una bambina smaniosa», corsivo invariato.
+- p01482, I04: accettata: «Gli oblò di *Scylla*» diventa «Gli oblò della *Scylla*», come nei blocchi 23, 26 e 34.
+- Nel blocco 16 non ci sono altre occorrenze di *Scylla*: nessun altro intervento.
+
+Ogni intervento è stato verificato sul paragrafo inglese.

@@ -62,3 +62,10 @@ Ogni intervento è stato verificato sul paragrafo inglese.
 - p01925, rhythm, low, accettato con variante: «come un'acrobata in un filmato accelerato», che rende l'immagine del fast-forward senza la ridondanza di «a velocità accelerata».
 - p01929, nuance, low, accettato: «*Prendiamo te per* prima*.*», presente di imminenza.
 - p01940, nuance, low, accettato: «angosciato» per haunted (il lamento è di Susan, terrorizzata, p01942); il verbo sussurrare resta.
+
+# Coerenza (sessione finale)
+
+- p01929, I02, accettata: «*Prendiamo te per* prima*.*» diventa «*Prenderemo te per* prima*.*», la stessa resa della minaccia nel blocco 12 (p01138), di cui qui è il ricordo; supera la variante al presente della seconda lettura. Corsivi invariati (first in tondo, come nell'inglese).
+- p01950, I08, accettata: «è in– *visibile*» diventa «è in–*visibile*», lineetta senza spazio dentro la parola spezzata come vuole la guida (balbettio dentro una parola) e come nella ripresa del blocco 23 (p02174); il primo «in– è» resta spaziato perché la frase riprende.
+
+Ogni intervento è stato verificato sul paragrafo inglese.

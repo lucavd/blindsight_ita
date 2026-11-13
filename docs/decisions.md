@@ -700,3 +700,35 @@ Motivazione: la seconda lettura del blocco 41 ha trovato altri refusi nei riferi
 
 Deciso da: agente. Data: 2026-11-13. Stato: valida.
 
+
+## D-86 La lettura di coerenza e la controprova della sessione finale
+
+Decisione: nella sessione finale (F) la lettura di coerenza si fa in quattro gruppi di blocchi (dal 01 al 14, dal 15 al 26, dal 27 al 39, 40 e 41) con quattro lettori in parallelo, che leggono solo l'italiano e scrivono, oltre ai rilievi, un inventario di ciò che deve restare uguale in tutto il libro (forme di cortesia osservate, termini ricorrenti fuori dal glossario, formule ripetute, nomi); la chat principale unisce gli inventari e confronta le parti. A questo si aggiungono controlli meccanici sull'intero libro: frasi ripetute da Watts in paragrafi lontani, grafie dei nomi, segni tipografici. La previsione sulle incoerenze si giudica sulle incoerenze confermate dopo la verifica sull'inglese, contate una volta ciascuna; i rilievi non fondati e i refusi si contano a parte. La controprova a campione usa il seme 20261109 sui paragrafi di testo, senza epigrafi, segnaposto e riferimenti bibliografici rimasti in inglese. I dettagli sono nella sezione "Precisazioni prima di cominciare" del file della sessione.
+
+Motivazione: la procedura scritta prevedeva un lettore per parte, ma un lettore che vede una parte sola non può accorgersi che un termine cambia da una parte all'altra, che è proprio ciò che questa sessione deve trovare; e Rorschach da sola è più di metà del libro. Gli inventari e i controlli meccanici coprono il confronto fra parti. I lettori in parallelo non si intralciano, perché non toccano la traduzione e scrivono ciascuno file propri; le correzioni restano un sotto-agente alla volta. La regola per contare va scritta prima di vedere i risultati.
+
+Deciso da: agente. Data: 2026-11-13. Stato: valida.
+
+## D-87 L'EPUB ha un identificativo fisso
+
+Decisione: i metadati dell'EPUB (`epub/metadata.yaml`) hanno un identificativo fisso, urn:uuid:a16cd47e-8f58-43f4-8247-dad9a8c4854e, che ogni costruzione riporta uguale.
+
+Motivazione: senza identificativo pandoc ne inventa uno nuovo a ogni costruzione. Alcuni lettori (per esempio Apple Libri) riconoscono un libro dall'identificativo: se dopo una sessione di correzioni (C) il PI carica l'EPUB rifatto, lo vedrebbero come un libro diverso, con un doppione e il segno di lettura perso. La prova con due costruzioni di fila dà lo stesso identificativo ed epubcheck resta senza errori né avvisi.
+
+Deciso da: agente. Data: 2026-11-13. Stato: valida.
+
+## D-88 Le rese unificate dalla lettura di coerenza
+
+Decisione: la lettura di coerenza della sessione finale (F) ha unificato 17 rese che cambiavano da una parte all'altra del libro, elencate con paragrafi, gravità e motivo in `review/coherence-corrections.tsv` e applicate dal redattore blocco per blocco. Le rese di riferimento, da tenere anche in eventuali correzioni successive: mission-critical «critico per la missione»; tactical overlays «sovrimpressioni»; big picture «quadro generale» (con la maiuscola dove Watts la mette); la *Scylla* con l'articolo nel racconto (senza nelle apposizioni e nelle battute alla radio); il motto «I predatori corrono per la cena. Le prede corrono per salvarsi la vita.»; We're taking you first «Prenderemo te per prima»; breaking and entering «scasso»; flickering at the edge of vision «guizzare ai margini del campo visivo»; think rings around «col pensiero stracciare»; «in BioMed»; «scoreggia», «scoregge»; nel saggio le stesse parole del romanzo («tamburo», «Leu-encefalina», «effetto tunnel», «potenziamenti di carboplatino») e l'abbreviazione «per es.» anche nei richiami di nota in apice, con lo spazio protetto (`^per\ es.,^`) perché pandoc lo legga come apice. Non entrano nel glossario: la traduzione è finita e questa decisione basta come riferimento.
+
+Motivazione: in ogni caso la stessa cosa era detta in due modi senza un motivo nel testo; dove una delle due rese era stata scelta dopo l'altra per eco (la ripresa di una battuta, il saggio che cita il romanzo), si è tenuta quella della prima occorrenza o del romanzo, salvo il motto delle prede, dove «per la vita» si poteva leggere «per tutta la vita» e si è tenuta la resa più chiara. Fra «scoreggia» e «scorreggia», tutte e due corrette, si è tenuta la grafia che compare per prima. Ogni correzione è stata verificata sull'inglese dal redattore.
+
+Deciso da: agente. Data: 2026-11-13. Stato: valida.
+
+## D-89 La copertina resta quella di 606 per 897 pixel
+
+Decisione: la copertina dell'EPUB resta `epub/cover.jpg`, il fronte della sovraccoperta fornita dal PI (decisione sulla copertina, D-17), di 606 per 897 pixel. Non si cerca un'immagine più grande.
+
+Motivazione: alla chiusura della sessione finale (F) il PI ha visto l'EPUB e il riassunto, dove l'agente raccomandava di tenerla: nitida in miniatura, un po' morbida a tutto schermo su un lettore ad alta densità. Il PI ha risposto che va bene così. Chiude il dubbio sulla copertina ricevuto dalla sessione sulla sorgente (S0).
+
+Deciso da: PI. Data: 2026-11-13. Stato: valida.

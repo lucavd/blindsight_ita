@@ -1,0 +1,200 @@
+id	status	source_pars	first_chunk	translated_pars	matching_it	term
+G001	approved	131	01	131	131	Theseus
+G002	approved	7	02	7	7	Scylla
+G003	approved	7	02	7	7	Charybdis
+G004	approved	14	02	14	14	Icarus (array, stream)
+G005	approved	20	18	20	20	blindsight
+G006	approved	79	01	79	79	scrambler
+G007	approved	68	08	68	68	grunt(s)
+G008	approved	18	02	18	14	baseline (human)
+G009	approved	23	01	23	23	synthesist, synthesis
+G010	approved	7	05	7	7	jargonaut
+G011	approved	79	05	79	78	Gang of Four, the Gang
+G012	approved	70	02	70	70	ConSensus
+G013	approved	20	02	20	20	Heaven
+G014	approved	18	02	18	18	inlays
+G015	approved	17	01	17	17	Fireflies, 'flies
+G016	approved	7	04	7	7	Firefall
+G017	approved	28	15	28	28	sentience, sentient, nonsentient
+G018	approved	9	06	9	9	Pod-man, Pod (nickname of Siri)
+G019	approved	5	06	5	5	Crucifix glitch
+G020	approved	13	07	13	13	skimmers
+G021	approved	25	29	25	25	Stretch, Clench
+G022	approved	181	01	181	181	Rorschach
+G023	approved	46	01	46	46	Big Ben, Ben
+G024	approved	15	04	15	15	Burns-Caulfield, Burnsie
+G025	approved	5	05	5	5	Oasa emitter, Oasa object
+G026	approved	8	02	8	8	Kuiper (belt)
+G027	approved	6	02	6	6	Oort (cloud)
+G028	approved	11	02	11	11	Mission Control
+G029	approved	3	04	3	3	Kurzweil Institute
+G030	approved	22	02	22	22	the Captain
+G031	approved	10	02	10	10	BioMed
+G032	approved	10	02	10	10	Fab
+G033	approved	9	05	9	9	Commons
+G034	approved	7	07	7	7	Tactical
+G035	approved	60	01	60	59	drum
+G036	approved	40	02	40	40	spine (of Theseus); spines (of Rorschach)
+G037	approved	11	02	11	11	carapace
+G038	approved	14	02	14	12	bridge
+G039	approved	10	02	10	10	crypt
+G040	approved	11	01	11	11	coffin
+G041	approved	20	01	20	18	pod (resurrection, medical)
+G042	approved	8	02	8	8	observation blister, blister
+G043	approved	10	02	10	10	dome (observation)
+G044	approved	9	08	9	9	galley
+G045	approved	36	02	36	36	tent
+G046	approved	7	02	7	7	telematter
+G047	approved	3	36	3	3	lab-hab
+G048	approved	6	24	6	6	teleops
+G049	approved	28	05	28	28	drones
+G050	approved	15	16	15	15	HUD
+G051	approved	6	15	6	6	fiberop
+G052	approved	5	24	5	5	waldoes
+G053	approved	5	15	5	5	Faraday (mesh, bell, shielding; verb)
+G054	approved	8	07	8	8	accretion belt
+G055	approved	4	07	4	4	superjovian
+G056	approved	17	06	17	13	tweak(s)
+G057	approved	3	02	3	3	carboplatinum
+G058	approved	8	06	8	3	trickle-charger, trickler
+G059	approved	76	01	76	76	vampire
+G060	approved	4	40	4	4	Homo sapiens vampiris
+G061	approved	5	05	5	5	bloodsucker
+G062	approved	10	02	10	10	undead
+G063	approved	10	01	10	10	zombie
+G064	approved	49	02	49	49	Human, Humans, Humanity (capitalized)
+G065	approved	6	03	6	6	Realists
+G066	approved	4	03	4	4	Ascended, Ascendants
+G067	approved	46	02	46	34	conscious, consciousness
+G068	approved	14	05	14	14	Major (Bates)
+G069	approved	10	02	10	10	commissar
+G070	approved	12	02	12	12	conduit
+G071	approved	15	11	15	15	Cruncher
+G072	approved	20	12	20	20	Jack (probe)
+G073	approved	10	06	10	10	Cygnus, Cyg, Cyggers
+G074	approved	22	06	22	22	nicknames: Mandy, Meesh, Suze, Ike, Chelse, Rob, Burnsie
+G075	approved	10	08	10	10	Mom (Susan for her personalities; Siri's mother)
+G076	approved	3	06	3	3	QuBit's, the Qube
+G077	approved	2	32	2	2	Golem (disease)
+G078	approved	3	21	3	3	Hadzane
+G079	approved	27	02	27	27	topology
+G080	approved	9	09	9	8	facets
+G081	approved	16	05	16	16	rotate (synthesist jargon)
+G082	approved	4	02	4	4	personae
+G083	approved	15	05	15	9	cores (of James)
+G084	approved	29	01	29	29	meat
+G085	approved	38	02	38	38	eh? (Szpindel)
+G086	approved	4	05	4	4	bleeding edge
+G087	approved	12	11	12	12	Chinese Room
+G088	approved	9	22	9	9	N minutes to apogee/perigee
+G089	approved	2	18	2	2	postcards to posterity
+G090	approved	3	04	3	3	Technology Implies Belligerence
+G091	approved	3	10	3	3	covert to invulnerable
+G092	approved	4	13	4	4	Graduation Day, graduation
+G093	approved	3	03	3	3	survive and bear witness
+G094	approved	2	14	2	2	Devil's Baklava
+G095	approved	3	01	3	3	twencen
+G096	approved	4	05	4	4	klicks
+G097	approved	4	09	4	3	headspace
+G098	approved	3	20	3	2	inattentional blindness
+G099	approved	3	18	3	3	Cotard's syndrome
+G100	approved	2	18	2	2	Anton's syndrome
+G101	approved	3	20	3	3	alien hand syndrome
+G102	approved	4	01	4	2	hemispherectomy
+G103	approved	13	08	13	13	brain stem
+G104	approved	5	31	5	5	saccades, saccadic
+G105	approved	3	25	3	3	proprioception
+G106	approved	6	07	6	6	synesthesia, synesthete
+G107	approved	8	17	8	6	transcranial magnetic stimulation, TMS
+G108	approved	2	06	2	2	Necker cube
+G109	approved	2	18	2	2	form constants (Klüver)
+G110	approved	2	03	2	2	vasopressin
+G111	approved	4	10	4	4	protocadherin
+G112	approved	4	10	4	4	antieuclideans
+G113	approved	4	16	4	3	multiple personality disorder, MPD
+G114	approved	5	15	5	5	alters
+G115	approved	7	04	7	7	savant, savantism
+G116	approved	3	29	3	3	splinter skills
+G117	approved	10	08	10	8	transient (orca)
+G118	approved	2	30	2	2	extended phenotype
+G119	approved	2	13	2	2	kin selection
+G120	approved	12	07	12	12	game theory
+G121	approved	7	15	7	7	anaerobe, anaerobic
+G122	approved	11	20	11	11	septum, septa
+G123	approved	8	16	8	8	vestibule
+G124	approved	4	22	4	4	chromatophores
+G125	approved	3	24	3	3	cloacae
+G126	approved	2	24	2	2	crypsis
+G127	approved	4	27	4	4	prion, prionic
+G128	approved	4	16	4	4	Seiverts (sievert)
+G129	approved	5	03	5	5	noosphere
+G130	approved	8	05	8	8	magnetosphere
+G131	approved	3	16	3	3	Grey Syndrome
+G132	approved	12	05	12	3	brown dwarf
+G133	approved	19	05	19	14	spike (field surge in Rorschach)
+G134	approved	3	18	3	3	subdrum
+G135	approved	2	18	2	2	wetware
+G136	approved	2	18	2	2	diagnostic couch
+G137	approved	3	18	3	3	multijointed
+G138	approved	5	07	5	5	Tesla (unit)
+G139	approved	3	16	3	3	diving bell
+G140	approved	4	05	4	4	spinal bundle
+G141	approved	2	07	2	2	jarhead
+G142	approved	3	18	3	3	on top (Gang)
+G143	approved	34	07	34	30	feed (data)
+G144	approved	12	16	12	12	faceplate
+G145	approved	7	02	7	7	visor (Sarasti)
+G146	approved	3	02	3	3	feedback gloves
+G147	approved	3	02	3	3	ramscoop
+G148	approved	12	02	12	9	burn (manovra)
+G149	approved	3	04	3	2	handshaking protocols, handshake
+G150	approved	2	04	2	2	Martian Loop
+G151	approved	4	04	4	4	bulb (contenitore di bevande)
+G152	approved	2	05	2	2	orders of mag
+G153	approved	4	05	4	4	First Contact, first contact
+G154	approved	7	03	7	5	airspace (lo spazio fisico)
+G155	approved	2	06	2	2	Body Economic
+G156	approved	2	06	2	2	lightscape
+G157	approved	2	06	2	2	neuropharm
+G158	approved	3	07	3	3	scramjet
+G159	approved	4	07	4	3	divers, high divers
+G160	approved	4	07	4	4	shovelnose, shovelnosed
+G161	approved	4	08	4	4	payoff (teoria dei giochi)
+G162	approved	3	08	3	3	pseudograv, pseudogravity
+G163	approved	4	09	4	4	blind spot
+G164	approved	4	09	4	4	augments (potenziamenti del corpo)
+G165	approved	3	09	3	3	cloaked, cloak (occultamento)
+G166	approved	3	09	3	3	executive summary
+G167	approved	9	06	9	8	pattern-matching
+G168	approved	2	10	2	2	Broadcast Age
+G169	approved	2	10	2	2	omnisavantism, omnisavantic
+G170	approved	2	12	2	2	attitude jets
+G171	approved	2	13	2	2	battlebot
+G172	approved	2	05	2	2	informational topologies
+G173	approved	3	14	3	3	counterintrusion
+G174	approved	3	15	3	3	baseline environment
+G175	approved	2	16	2	2	thrust pistol, pistol
+G176	approved	7	01	7	7	rewiring, rewire
+G177	approved	2	16	2	2	nominal (dei sistemi)
+G178	approved	2	17	2	2	functional cluster
+G179	approved	5	07	5	5	enhance (sostantivo, dell'immagine)
+G180	approved	6	23	6	6	hab
+G181	approved	3	08	3	3	click train
+G182	approved	3	13	3	3	optical port
+G183	approved	5	12	5	5	inset (sostantivo, sullo schermo)
+G184	approved	3	23	3	3	gun port
+G185	approved	3	24	3	3	eyespot
+G186	approved	2	25	2	2	beanstalk
+G187	approved	9	27	9	9	pen, holding pen (degli scrambler)
+G188	approved	4	09	4	4	fourth wave
+G189	approved	5	28	5	5	splitscreen
+G190	approved	5	30	5	5	emplacement, gun emplacement
+G191	approved	5	32	5	5	fitness (biologia evolutiva)
+G192	approved	2	33	2	2	ampsat
+G193	approved	2	33	2	2	official observer
+G194	approved	9	34	9	8	self-awareness, self-aware
+G195	approved	15	09	15	13	awareness
+G196	approved	2	34	2	2	feedback loop
+G197	approved	2	37	2	2	dreamstate, dream state
+G198	approved	3	29	3	3	time-lapse, time-lapsed
+CANCELLO glossario: superato (ogni voce trova il termine nella sorgente).

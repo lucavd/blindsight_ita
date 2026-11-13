@@ -61,3 +61,10 @@ Ogni intervento è stato verificato sul paragrafo inglese.
 - p02614, nuance, low, accettato: «Ecco come abbatti la parete:»; stessa parola della parete tra i recinti in p02609 e nel blocco 28 («la parete confinante con l'altro recinto», «l'altro lato della parete»), così wall vale insieme la parete fisica e la barriera.
 - p02662, nuance, low, accettato con variante: «esseri che col pensiero ci stracciano...»; think rings around us è colloquiale e «ci stracciano» lo è altrettanto, mentre «ci surclassano nel pensiero» è più formale di un grido.
 - p02669, nuance, low, accettato: «James affondò il viso nella mano.» (put her face in her hand, gesto di sconforto, non di copertura).
+
+# Coerenza (sessione finale)
+
+- p02622, I01, accettata: «nessuna ragione essenziale per la missione» diventa «nessuna ragione critica per la missione», la resa di mission-critical adottata in tutto il libro.
+- p02650, I10, accettata: «restava a BioMed» diventa «restava in BioMed», come nelle altre occorrenze del luogo (halfway around BioMed).
+
+Ogni intervento è stato verificato sul paragrafo inglese.

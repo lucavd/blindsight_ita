@@ -1,0 +1,94 @@
+category	key	it	pids	note
+address	Bates -> Sarasti	lei, poi tu	p03026,p03088,p03090	Lei fino a p03026 («Si fermi, adesso, cazzo!»); dal tu con Jukka in p03088 come da scheda. Dopo p03090 le battute di Bates verso Sarasti (p03517, p03520) non marcano la forma.
+address	Sarasti -> Bates	tu	p03087,p03091	In p03091 il vocativo maggiore con il tu, come da scheda; p03087 («Soddisfatta?») non marca la forma.
+address	Sarasti -> Siri	tu	p02984,p03001,p03016,p03033,p03465,p03509	Keeton nell'aggressione (p03028, p03033) e in p03465.
+address	Siri -> Sarasti	tu	p03005,p03429,p03431,p03474,p03482	Lo chiama Jukka (p03431).
+address	Sarasti -> l'equipaggio, la specie	voi	p02693,p02885,p02887,p03081,p03084,p03340	In p03081-p03084 il voi per gli umani regge la domanda di Michelle (p03083).
+address	Sarasti -> Cunningham	tu	p02860	In p02876 parla al noi.
+address	Bates -> Siri	tu	p02702,p02736,p03580,p03618,p03622	Siri fuori servizio (p02702, p03610), Keeton nell'emergenza (p03577, p03622).
+address	Siri -> Bates	tu	p02701,p02705,p03582,p03621
+address	Cunningham -> Siri	tu	p02468,p02494,p02817,p02820,p03221	Quasi sempre Keeton; Siri in p02468 come nella sorgente.
+address	Siri -> Cunningham	tu	p02462,p02506,p02850,p03173,p03176
+address	Cunningham -> Bates	tu	p02881,p03085
+address	Bates -> Cunningham	tu	p02671,p02689
+address	Cunningham -> Susan	tu	p02603,p02605,p02663
+address	Susan -> Cunningham	tu	p02600,p02653,p02659
+address	Cunningham -> Sascha	tu	p03113,p03123,p03135
+address	Sascha -> Cunningham	tu	p03112,p03114,p03118	Lo chiama Rob (p03126).
+address	Cunningham -> l'equipaggio	voi	p02879,p02883	gente in p02883.
+address	Cunningham -> Sarasti	impersonale	p02853	Solo il vocativo «Non è vero, Jukka?»; nessuna forma verbale rivolta a lui.
+address	Susan -> Siri	tu	p02431,p02448,p02637,p03239,p03268
+address	Siri -> Susan	tu	p02634,p03253,p03259	In p02443 «Avete provato» è rivolto a Susan e Cunningham insieme.
+address	Sascha -> Siri	tu	p02450,p02452,p03279,p03282	Usa il cognome (Keeton, Siri Keeton).
+address	Cruncher -> Siri	tu	p02922,p02924,p02928
+address	Siri -> Cruncher	tu	p02927
+address	Siri -> la Banda (tutte le personalità)	voi	p02919	«se qualcuno di voi cambia».
+address	Susan -> Sarasti	tu	p03026,p03027
+address	Chelsea -> Siri	tu	p02550,p02554,p02566,p02950,p02956
+address	Siri -> Chelsea	tu	p02553,p02559,p02572
+address	il Capitano -> Siri	tu, voi	p03630,p03636,p03639	Tu nei messaggi a Siri; voi in p03639, dove U è l'equipaggio (decisione sul messaggio del Capitano, D-82).
+address	Siri -> il Capitano	tu	p03555,p03637	In p03555 la richiesta è impersonale; in p03637 «o sei sempre stato soltanto tu?».
+address	Siri -> un fante	tu	p03545	«Sei autonomo? Accetti ordini verbali?»
+address	la personalità senza nome -> l'equipaggio	voi	p03562,p03566
+address	Siri narratore -> il lettore	tu, voi	p02791,p03034,p03036,p03041,p03288,p03694	Voi in p03041-p03042 dove la lezione si rivolge alla specie, poi di nuovo tu da p03043.
+term	quarters (di Sarasti)	alloggio (3), alloggi (1)	p02977,p02989,p03417,p03512	Plurale solo in p03417 («nei suoi alloggi»); tent resta tenda (p02772, p02871, p03244).
+term	handpad	palmare (4)	p03518,p03624,p03628,p03638
+term	inflatable (il modulo laboratorio)	gonfiabile (3)	p03325,p03345,p03364
+term	headlamp, headlight	lampada frontale (4)	p03361,p03362,p03578,p03585
+term	cuticle (degli scrambler)	cuticola (4)	p02594,p02626,p02834,p02992
+term	maxillipeds	massillipedi (2)	p03571,p03624
+term	holding pattern	circuito d'attesa (2)	p02746,p03164
+term	overlay	sovrimpressione (3)	p02809,p03518,p03643
+term	preconditioning, preconditioned	precondizionamento, precondizionato, precondizionandomi	p03027,p03240,p03470
+term	object lesson	lezione pratica (2)	p03253,p03431
+term	noninterference	non interferenza (2); Nessuna interferenza (1)	p02450,p02999,p03209	p03221 noninterventionist: «da non intervento».
+term	the demon (Sarasti)	il demone (4)	p03076,p03084,p03087,p03416
+term	infirmary	infermeria (2)	p03545,p03547	Distinta da BioMed (p03560).
+term	airlock, locks (delle navette)	camera stagna, camere stagne delle navette	p03351,p03513,p03629,p03632
+term	telemetry	telemetria (3)	p02632,p02746,p03648
+term	cue	segnale d'entrata (2)	p03444,p03445
+term	holding tank	vasche di contenimento	p02998	Pens resta recinti (glossario), cages gabbie, cells celle.
+formula	think rings around	col pensiero ci stracciano; col pensiero straccia un vampiro; col pensiero ti surclassano	p02662,p02753,p03050	Terza resa diversa: rilievo nel file di coerenza.
+formula	Imagine you're a scrambler	Immagina di essere uno scrambler (3)	p03280,p03286,p03288
+formula	Imagine you're a synthesist / imagine being Siri Keeton	Immagina di essere un sintetista; Dovevo immaginare di essere anche Siri Keeton; Non ti resterà che immaginare di essere Siri Keeton	p02791,p02799,p03694
+formula	For once in your goddamned life, understand something	Per una volta nella tua maledetta vita, capisci qualcosa	p03033,p03139	Identica.
+formula	Are you listening, Keeton?	Mi stai ascoltando, Keeton?	p03033,p03144	Identica.
+formula	Understand that your life depends on it	Capisci che la tua vita dipende da questo	p03033,p03141	Identica.
+formula	Just observe. Don't interfere.	Limitati a osservare. Non interferire.; Osserva.	p03007,p03344,p03346,p03348	p02999 No interference. Just observation: «Nessuna interferenza. Solo osservazione».
+formula	flightless birds on a remote island	uccelli incapaci di volare su un'isola remota; gli uccelli incapaci di volare ... su qualche isola remota	p03081,p03309
+formula	Vampires don't go to Heaven / they see the pixels	Non vanno nemmeno in Paradiso ... vedono i pixel; I vampiri non vanno in Paradiso. Vedono i pixel.	p03401,p03683
+formula	U dislke ordrs frm mchnes. Happier ths way.	Nn v piaccno gli ordni dll mcchne. + felici csì.; Eravamo più felici così. Non ci piacevano gli ordini dalle macchine.	p03639,p03677
+formula	Like a torsion flare from an L-class dwarf	Come un brillamento da torsione di una nana di classe L	p03644	Ripresa di p00354 (blocco 05); la piccola variante segue la sorgente.
+formula	You just get a feeling of where to reach	Hai solo una sensazione di dove allungare la mano	p03218	Eco di Szpindel nel blocco 18 («Un senso di dove allungare la mano»).
+formula	If you could second-guess a vampire, you wouldn't need a vampire	Se sapessi prevedere un vampiro, non avresti bisogno di un vampiro	p02719	Eco di p00816 (blocco 09), che in inglese ha un'altra forma.
+formula	Multijointed arms from a central mass	Braccia pluriarticolate che partivano da una massa centrale	p03200	Coincide con p01785 (blocco 18).
+formula	official observer	osservatore ufficiale	p02988,p03211	Coincide (glossario).
+formula	postcard to posterity	cartolina ai posteri	p02810	Glossario.
+formula	the transient (Sarasti)	il transiente	p02773,p02809,p03020,p03082
+formula	like recognizes like	il simile riconosce il simile	p03453
+formula	Survive and bear witness	Sopravvivere e testimoniare	p03311,p03493	In p03311 bear constant witness: «testimoniare senza sosta».
+name	Theseus	la *Theseus*	p02412,p02697,p03380,p03643,p03676	Sempre in corsivo e al femminile.
+name	Rorschach	*Rorschach* (maschile, senza articolo)	p02419,p02685,p03373,p03383,p03646,p03675	In p02685-p02686 «*Rorschach* sono le api» (verbo accordato al predicato).
+name	Scylla, Charybdis	la *Scylla*, la *Charybdis*; Charybdis (titolo della parte, in tondo)	p03106,p03509,p03632,p03650,p03671
+name	Icarus	la schiera Icarus, il flusso di antimateria Icarus	p02881,p02980,p03671	Al femminile in p03671 («Icarus o è stata disallineata»).
+name	Big Ben, Ben	Big Ben, Ben	p02767,p03233,p03283,p03355,p03647
+name	Stretch, Clench	Stretch e Clench; *Stretch & Clench*; Stretch-o-Clench	p02624,p02822,p03368,p03383,p03674	Le tre forme seguono la sorgente.
+name	Gang of Four, the Gang	la Banda dei Quattro, la Banda (femminile)	p02413,p02739,p03225,p03347,p03385,p03595
+name	Robert Cunningham	Robert Cunningham, Cunningham, Robert, Rob	p02413,p02854,p03126,p03692	Rob solo in bocca a Sascha.
+name	Susan James	Susan James, Susan, James	p02421,p02622,p03256,p03564
+name	Michelle	Michelle, Meesh	p02911,p02928,p03227,p03343	Meesh in bocca a Cruncher.
+name	Cruncher	Cruncher (maschile)	p02921,p02925,p03236
+name	Sascha	Sascha (femminile)	p02451,p03111,p03276,p03567
+name	Amanda Bates	Amanda Bates, Bates, Amanda; maggiore	p02487,p03091,p03407,p03577
+name	Jukka Sarasti	Jukka Sarasti, Sarasti, Jukka; il vampiro, il demone, il transiente	p02546,p02853,p03084,p03431,p03686
+name	Isaac Szpindel	Isaac Szpindel, Szpindel, Isaac	p02463,p02660,p02810,p03206
+name	Chelsea	Chelsea, Chelse; Cygnus, Cyg (Siri)	p02550,p02562,p02932,p02948,p03653
+name	Siri Keeton	Siri, Keeton, Siri Keeton	p02450,p02799,p03283,p03694
+name	the Captain	il Capitano (maschile)	p02705,p03530,p03557,p03624,p03676
+name	Takamatsu	Takamatsu	p02912
+name	Uncle Predator	lo zio Predatore	p03444
+name	Helen; Dad	Helen; papà	p02561,p03662,p03664	Mom and Dad in p02561: «Mamma e papà».
+name	Pag	Pag	p03311
+name	Kesey Quartet	Quartetto di Kesey	p03295
+name	IAU	IAU	p03644
+name	O'Neills	gli O'Neill	p03680

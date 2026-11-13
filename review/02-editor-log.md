@@ -55,3 +55,9 @@ Ogni intervento è stato verificato sul paragrafo inglese.
 5. p00095, nuance, low: accettato («ne custodiva, eccome se ne custodiva»). Il rafforzativo resta dentro la frase come damn well, senza l'imprecazione in coda che l'inglese non ha.
 6. p00099, nuance, low: accettato con una variante («Se poi la nave parlava, parlava con lui»). «Se poi» dà l'enfasi contrastiva di did speak dopo «non rispondeva mai» senza aggiungere «le rare volte», che l'inglese non dice; toglie la lettura «parlava sul serio».
 7. p00102, meaning, medium: accettato («Lui ci aveva dato quattro ore per tornare in noi»): soggetto esplicito, Sarasti come nell'inglese.
+
+# Coerenza (sessione finale)
+
+1. p00115, I01: accettata. «Dopotutto sei vitale per la missione» diventa «Dopotutto sei critico per la missione», la stessa resa di mission-critical nel blocco 4, così l'etichetta ripresa con ironia più avanti resta riconoscibile; corsivo del pensiero non detto invariato.
+
+Ogni intervento è stato verificato sul paragrafo inglese.

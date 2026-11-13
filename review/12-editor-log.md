@@ -72,3 +72,9 @@ Ogni intervento è stato verificato sul paragrafo inglese.
 - p01133, omission, low: accettato («la cui stessa mezza luce riflessa»: rende own).
 
 Ogni intervento è stato verificato sul paragrafo inglese.
+
+# Coerenza (sessione finale)
+
+- p01127, I03: accettata («sovrapposizioni tattiche» diventa «sovrimpressioni tattiche», come in p02809; tactical overlays sono i dati sovrapposti all'immagine, e la resa unificata conserva il senso).
+
+Ogni intervento è stato verificato sul paragrafo inglese.

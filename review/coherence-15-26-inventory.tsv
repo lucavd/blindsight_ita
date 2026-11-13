@@ -1,0 +1,124 @@
+category	key	it	pids	note
+address	Siri -> Helen	tu	p01346,p01350,p01360,p01362	nessun cambio
+address	Helen -> Siri	tu	p01328,p01336,p01345,p01358,p01363	lo chiama Siri; nel ricordo di p02285 Siri la chiama mamma
+address	Jim -> Helen	tu	p01606,p01613	nessun cambio
+address	Helen -> Jim	tu	p01597,p01600,p01605,p01610	nessun cambio
+address	Siri -> Chelsea	tu	p01619,p01626,p02083,p02093,p02095	la chiama Chelse (p02095)
+address	Chelsea -> Siri	tu	p01571,p01584,p01627,p02082,p02098	nomignoli Cyggers, Cygnus, Cyg
+address	Siri -> Pag	tu	p02267,p02275,p02305	nessun cambio
+address	Pag -> Siri	tu	p02264,p02270,p02290,p02311,p02324,p02336	Ultracorpo, amico, vecchio mio
+address	Szpindel -> Siri	tu	p01395,p01643,p01767,p01782,p01800,p01833	commissario
+address	Siri -> Szpindel	tu	p01651,p01733,p01821,p01823	nessun cambio
+address	Szpindel -> Bates	tu	p01371,p01501,p01665,p01671,p01676,p01702	Mandy, maggiore Mandy, maggiore
+address	Bates -> Szpindel	tu	p01537	altrove senza pronome (p01705, vocativo Szpindel)
+address	Szpindel -> James e le personalità	tu	p01407,p01425,p01427,p01755,p01759,p01920	Suze
+address	James e le personalità -> Szpindel	tu	p01414,p01428,p01432,p01921	Isaac
+address	Bates -> Siri	tu	p01448,p01450,p01530,p01944,p02167,p02169	Siri fuori servizio (p01448), Keeton in campo (p01530, p02143)
+address	Siri -> Bates	tu	p01447	unico caso con pronome nella parte
+address	Siri -> James e le personalità	tu	p01477,p01484	nessun cambio
+address	Sascha -> Siri	impersonale	p01478	lo chiama Keeton; nessun pronome nella parte
+address	Sarasti -> Siri	tu	p01444	nessun cambio
+address	Siri -> Sarasti	impersonale	p01441,p01443	nessun pronome nella parte
+address	Sarasti -> Bates	tu	p02117	in p01436 ne parla in terza persona (Ad Amanda servono...)
+address	Bates -> Sarasti	lei	p02044,p02394	signore al vocativo in p02044 (pensiero); «Come fa a saperlo?» in p02394
+address	Sarasti -> Sascha, Cruncher, Michelle	tu	p01977,p01982,p01986,p01988,p01998,p02000	domande al presente sui fatti passati
+address	Michelle -> Sarasti	tu	p02009	nessun cambio
+address	Sarasti -> Cunningham	tu	p02208	nessun cambio
+address	Cunningham -> Sarasti	tu	p02019,p02209	nessun cambio
+address	Sarasti -> l'equipaggio	voi	p02016	nessun cambio
+address	Cunningham -> Siri	tu	p01966	nessun cambio
+address	Cunningham -> Bates	tu	p02200,p02223	nessun cambio
+address	Bates -> Cunningham	tu	p02205	lo chiama Cunningham
+address	Cunningham -> James e Sascha	tu	p02214,p02242	nessun cambio
+address	Cunningham -> l'equipaggio	voi	p02209,p02212,p02216,p02230,p02234,p02252	nessun cambio
+address	Bates -> l'equipaggio	voi	p01506,p01564,p01925,p02183	gente (p01506, p01701, p02129)
+address	Bates -> la Banda (James, Cruncher, Michelle)	tu	p01551,p01553,p01555,p01943,p01949	nessun cambio
+address	Cruncher -> Bates	tu	p01549	nessun cambio
+address	Michelle -> Bates	tu	p01950	nessun cambio
+address	Sascha -> Bates	tu	p02192	nessun cambio
+address	Bates -> Sascha	tu	p02358,p02377	nessun cambio
+address	Bates -> la prigioniera realista	lei	p01851,p01862,p01864,p01867,p01871	nessun cambio
+address	la prigioniera realista -> Bates	tu	p01856,p01866	nessun cambio
+address	Rorschach -> Susan	tu	p01928,p01929	ricordo della minaccia del blocco 12 (p01137, p01138)
+address	Siri narratore -> il lettore	tu	p01495,p01512,p01513,p02028	nessun cambio
+address	Siri narratore -> la prigioniera (racconto in seconda persona)	tu	p01837,p01845,p01866,p01875	nessun cambio
+address	Siri narratore -> Bates (racconto in seconda persona)	tu	p02398,p02401,p02405,p02409	in p02410 si torna alla terza persona
+term	sensor head(s)	teste sensoriali (2)	p01388,p01393
+term	ferroceramic	ferroceramica (2)	p01402,p01489
+term	base camp	campo base (6)	p01402,p01717,p02052,p02054,p02062,p02115
+term	tether, tethered, untethered	cavo (p01402, p01436 senza cavo, p02138, p02146, p02183); cordino (p01533); legato, legata (p02358, p02359)	p01402,p01436,p01533,p02138,p02146,p02358	resa a senso: cavo per i fanti, cordino per la pistola, legato per le persone
+term	leash	guinzaglio (3)	p01904,p02147,p02365
+term	postcard (immagine dei fanti)	cartolina (3)	p01494,p01498,p02130
+term	fistula	fistola (1)	p01498
+term	Klüver constant	costante di Klüver (1)	p01751	vedi la voce del glossario sulle costanti di forma (p01973)
+term	note-taker	prendiappunti (2)	p01730,p02365
+term	uncomprehender	incomprensore (1)	p02365	legato alla stanza cinese; uncomprehending in p01898 è reso incapace di capire
+term	affect	affettività (2)	p01562,p02222
+term	decon balloon; balloon	pallone di decontaminazione; pallone	p01721,p01955	in p02392 pallone di piombo è il vestibolo
+term	shroud, Shroud of Szpindel	sudario (2); Sindone di Szpindel (1)	p01966,p01968,p01969
+term	limpet tent	tenda-patella (2)	p02043,p02052
+term	iris (dei setti)	iride, iridi (3)	p01896,p01923,p02036
+term	sled	slitta (3)	p02123,p02127,p02128
+term	fiberop hub	concentratore della fibrottica; concentratore; tamburo	p02128,p02138,p02146	in p02146 drum è il concentratore, non il tamburo della nave
+term	nexus	crocevia (2)	p02140,p02146
+term	biopsy dart	dardo da biopsia (2)	p02358,p02359
+term	cannon net	rete a cannone (2)	p02379,p02387
+term	freakwire	freakwire (2, in tondo)	p02391,p02392	decisione del traduttore registrata nelle note del blocco 26
+term	methonia	metoniaca (1)	p02387	refuso dubbio della sorgente, vedi la guida di stile sezione 11
+term	white blood cell with waldoes; blood cell with waldoes; blood-cell-with-waldoes	globulo bianco con i manipolatori (p02248); globulo con i manipolatori (p02254); globulo-con-manipolatori (p02356)	p02248,p02254,p02356	segue la forma inglese; torna nel blocco 27 (blood-cells-with-waldoes)
+term	big picture; Big Picture; bigger picture	quadro d'insieme (p01446); Quadro Generale (p00777, p02253); quadro più ampio (p02401)	p00777,p01446,p02253,p02401	vedi il rilievo su p01446
+term	field initiative; command initiative	iniziativa sul campo (p02357); iniziativa di comando (p02401)	p02357,p02401	due espressioni diverse in inglese
+term	thorns (di Rorschach)	spine (p01896); spina (p01897)	p01896,p01897	come nel blocco 12 (thorns); spines di Rorschach sono aculei nel glossario
+term	MCC; MPD; multicore	CNM; DPM; multinucleo	p01463,p01466,p01468	la sigla CNM compare solo qui
+term	riding Mom	stare in groppa a mamma (2)	p01976,p01999
+formula	Predators run for their dinner. Prey run for their lives.	I predatori corrono per la cena. Le prede corrono per la vita. (p01633); Le prede corrono per salvarsi la vita. (p01840)	p01633,p01840	due rese: vedi rilievo
+formula	We're breaking and entering, Siri; It had always been breaking and entering	Stiamo facendo uno scasso (p01229, p01884); Era sempre stata un'effrazione (p02040)	p01229,p01884,p02040	due rese: vedi rilievo
+formula	Are you there, Susan? / We're taking you first.	Ci sei, Susan? (p01137, p01928); Prenderemo te per prima (p01138); Prendiamo te per prima (p01929)	p01137,p01138,p01928,p01929	due rese della seconda frase: vedi rilievo
+formula	I'm more of a safety precaution	Sono più che altro una misura di sicurezza (2)	p01215,p01829
+formula	semifinals	in semifinale (2)	p01187,p01952
+formula	You can't see it... it's in—visible	Non puoi vederla... è in– visibile	p01950,p02174	spaziatura della lineetta diversa: vedi rilievo
+formula	Not blind chance. Blindsight.	Non il caso cieco. Visione cieca.	p01655,p01656
+formula	postcards to posterity	cartoline ai posteri	p01833	voce del glossario
+formula	nature's trick	il trucco della natura (2)	p02105,p02298
+formula	dumb as a stick	stupido come un sasso (2)	p02244,p02254
+formula	There's someone home.	C'è qualcuno in casa.	p02022
+formula	decoy bought one-in-four odds; one in three	Un'esca comprava una probabilità su quattro; La probabilità che compravo era salita a una su tre	p01452,p02126,p02360	coerenti
+formula	Keeton, come forth	Keeton, vieni fuori	p01725	eco di Lazzaro
+formula	gift of happiness	il dono della felicità (2)	p01571,p01583
+name	Siri Keeton; Keeton; Siri	Siri Keeton, Keeton, Siri	p01324,p01530,p02196,p02365	Siri da Helen, Pag, Bates fuori servizio; Keeton da Sascha, Cunningham, Bates in campo
+name	Pod-man, pre-Pod	Ultracorpo, pre-Ultracorpo	p02322,p02335,p02339
+name	Cygnus, Cyggers, Cyg	Cygnus, Cyggers, Cyg	p01584,p01627,p02082
+name	Chelse	Chelse	p02095,p02294,p02318
+name	Robert Paglino; Pag	Robert Paglino; Pag	p02258,p02260,p02306
+name	Helen; Mom	Helen; mamma	p01323,p02285
+name	Jim; Dad	Jim; papà	p01338,p01357,p01600
+name	Isaac Szpindel; Isaac; Szpindel	Isaac Szpindel, Isaac, Szpindel	p01414,p01471,p01944,p01954
+name	Susan James; Susan; Suze; James	Susan James, Susan, Suze, James (femminile)	p01421,p01547,p01943,p02026
+name	Sascha	Sascha (femminile)	p01430,p01976,p02123,p02377
+name	Michelle	Michelle (femminile)	p01428,p01945,p01997,p02174
+name	Cruncher	Cruncher (maschile)	p01546,p01551,p01985,p01988
+name	Gang of Four; the Gang	la Banda dei Quattro; la Banda (femminile)	p01476,p01924,p01955,p02253
+name	Ringleader	Capobanda	p02029
+name	Amanda Bates; Bates; Mandy; Major Mandy; Lieutenant Amanda Bates	Amanda Bates, Bates, Mandy, maggiore Mandy, il tenente Amanda Bates	p01409,p01663,p01831,p01877,p01883	grado al maschile, accordi al femminile
+name	Jukka Sarasti; Sarasti	Jukka Sarasti, Sarasti	p01434,p01721
+name	Robert Cunningham; Cunningham	Robert Cunningham, Cunningham	p01967,p02205
+name	Theseus	la *Theseus*	p01472,p01719,p01721,p02043,p02064,p02198	sempre con l'articolo
+name	Scylla	*Scylla* (p01436, p01476, p01482); la *Scylla* (p02115, p02392)	p01436,p01476,p01482,p02115,p02392	vedi rilievo
+name	Rorschach	*Rorschach* (maschile, senza articolo)	p01389,p01411,p02063,p02187
+name	Jack	Jack	p01388,p01717,p02043,p02059
+name	Ben	Ben	p02031
+name	the Flying Dead	i Morti Volanti	p01721
+name	Leavenworth	Leavenworth	p01883
+name	Duluth Staging Grounds	l'Area di ammassamento di Duluth	p01879
+name	Great Grieving Ganga	Gran Ganga Gemente	p01839
+name	Phaistos disk	il disco di Festo	p01919
+name	QuBit's; the Qube	il QuBit's; il Qube	p02258,p02321
+name	Rickard's	la Rickard's	p02259
+name	Rio Spire	la Guglia di Rio	p02336
+name	Commons	la Sala comune	p01370,p02012
+name	Fab	il Fab	p01822
+name	BioMed	BioMed	p01741,p01772,p01972,p02021
+name	Kate Keogh, Grounds for Suicide	Kate Keogh, *Motivi di suicidio*	p01888
+name	Kenneth Lubin, Zero Sum	Kenneth Lubin, Somma zero (senza corsivo, come la sorgente)	p02355
+name	The r-selectors, Trunclade	The r-selectors, *Trunclade*	p02074
+name	Bondfast Formula IV	Bondfast™ Formula IV	p01607
