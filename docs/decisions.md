@@ -675,3 +675,12 @@ Decisione: nel blocco 38, p03639, U dislke ordrs frm mchnes. Happier ths way. si
 Motivazione: Siri ha appena chiesto «Abbiamo mai seguito i *suoi* ordini, o sei sempre stato soltanto tu?» (p03637), e il blocco 39 (p03677) scioglie il messaggio con We: «Eravamo più felici così. Non ci piacevano gli ordini dalle macchine.». U è l'equipaggio, non Siri. Voi è il plurale del tu, quindi non cambia la forma di cortesia, come nel blocco 32 (p02885), dove Sarasti passa al voi rivolgendosi alla specie. La prima stesura aveva il tu singolare («Nn t piaccno ... + felice»), che restringeva il messaggio a Siri e non si scioglieva nel blocco 39; l'ha segnalato la revisione bilingue con un rilievo medio.
 
 Deciso da: agente. Data: 2026-11-13. Stato: valida.
+
+## D-83 Time-lapse resta time-lapse
+
+Decisione: entra nel glossario, approvata dall'agente, G198 time-lapse, time-lapsed (blocchi 29 e 39): time-lapse invariato, «in time-lapse» come aggettivo. Nel blocco 39 la versione finale ha «brevi resurrezioni in time-lapse» (p03655) e «un time-lapse in avanti veloce verso l'oblio» (p03681), come i «poliedri quadridimensionali in time-lapse» del blocco 29 (p02648).
+
+Motivazione: il traduttore del blocco 39 aveva proposto nelle note «a intervalli» e «ripresa a intervalli», l'alternativa era time-lapse invariato. La revisione bilingue ha segnalato con due rilievi medi che il blocco 29, già nella versione finale, usa time-lapse, e il redattore li ha accolti. In italiano time-lapse è il nome corrente della ripresa accelerata; «a intervalli» dice la cadenza degli scatti ma non l'accelerazione, che è il senso delle due immagini (le resurrezioni di Siri a distanza di anni, i canti che cambiano a velocità accelerata). Il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi.
+
+Deciso da: agente. Data: 2026-11-13. Stato: valida.
+
