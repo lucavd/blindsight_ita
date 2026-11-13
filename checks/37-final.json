@@ -1,0 +1,28 @@
+{
+ "chunk": "37",
+ "stage": "final",
+ "file": "/home/user/blindsight_ita/translation/final/37.md",
+ "gates": {
+  "format": [],
+  "markers": [],
+  "empty": [],
+  "scene_breaks": [],
+  "forbidden_chars": [],
+  "placeholder_misuse": [],
+  "epigraph_decisions": []
+ },
+ "flags": {
+  "ratio_out_of_bounds": [],
+  "english_residue": [],
+  "glossary_misses": [
+   "p03469: trickle-charger, trickler -> atteso erogatore a rilascio lento"
+  ],
+  "emphasis_count_differs": [],
+  "identical_to_source": []
+ },
+ "placeholders": [],
+ "ratio_median": 1.114,
+ "paragraphs": 127,
+ "changed_share": 0.167,
+ "ok": true
+}
