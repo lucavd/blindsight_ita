@@ -73,3 +73,9 @@ Ogni intervento è stato verificato sul paragrafo inglese.
 - p02178, nuance, low, accettato con variante: «ebbro di un sollievo isterico»; «ebbro» tiene insieme l'euforia e il capogiro di «giddy», che «euforico» perderebbe a metà.
 
 Ogni modifica della seconda lettura è stata verificata sul paragrafo inglese.
+
+# Coerenza (sessione finale)
+
+- p02152, I06, accettata: «non tremolava» diventa «non guizzava ai margini del campo visivo», come in p01513 (blocco 16), dove l'inglese ha lo stesso flickering at the edge of vision; il resto del paragrafo e i corsivi restano invariati.
+
+Ogni intervento è stato verificato sul paragrafo inglese.
