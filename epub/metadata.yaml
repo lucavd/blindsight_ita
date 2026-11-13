@@ -8,6 +8,10 @@ contributor:
   - role: trl
     text: Traduzione italiana non ufficiale, per uso personale
 lang: it-IT
+# Fixed identifier, so that an e-reader treats a rebuilt EPUB (session C) as the same book (D-87).
+identifier:
+  - scheme: UUID
+    text: urn:uuid:a16cd47e-8f58-43f4-8247-dad9a8c4854e
 # Cover: epub/cover.jpg, if present, is passed to pandoc by the build script.
 date: "2026"
 rights: >-

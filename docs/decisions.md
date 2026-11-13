@@ -708,3 +708,11 @@ Decisione: nella sessione finale (F) la lettura di coerenza si fa in quattro gru
 Motivazione: la procedura scritta prevedeva un lettore per parte, ma un lettore che vede una parte sola non può accorgersi che un termine cambia da una parte all'altra, che è proprio ciò che questa sessione deve trovare; e Rorschach da sola è più di metà del libro. Gli inventari e i controlli meccanici coprono il confronto fra parti. I lettori in parallelo non si intralciano, perché non toccano la traduzione e scrivono ciascuno file propri; le correzioni restano un sotto-agente alla volta. La regola per contare va scritta prima di vedere i risultati.
 
 Deciso da: agente. Data: 2026-11-13. Stato: valida.
+
+## D-87 L'EPUB ha un identificativo fisso
+
+Decisione: i metadati dell'EPUB (`epub/metadata.yaml`) hanno un identificativo fisso, urn:uuid:a16cd47e-8f58-43f4-8247-dad9a8c4854e, che ogni costruzione riporta uguale.
+
+Motivazione: senza identificativo pandoc ne inventa uno nuovo a ogni costruzione. Alcuni lettori (per esempio Apple Libri) riconoscono un libro dall'identificativo: se dopo una sessione di correzioni (C) il PI carica l'EPUB rifatto, lo vedrebbero come un libro diverso, con un doppione e il segno di lettura perso. La prova con due costruzioni di fila dà lo stesso identificativo ed epubcheck resta senza errori né avvisi.
+
+Deciso da: agente. Data: 2026-11-13. Stato: valida.
