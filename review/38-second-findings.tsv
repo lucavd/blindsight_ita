@@ -1,0 +1,149 @@
+pid	verdict	type	severity	problem	proposal
+p03503	ok
+p03504	ok
+p03505	ok
+p03506	issue	calque	low	«con tante palline in aria» ricalca l'idioma inglese della giocoleria (balls in the air); in italiano le palline suonano infantili e l'immagine si legge a fatica.	con tanti birilli in aria
+p03507	ok
+p03508	ok
+p03509	ok
+p03510	issue	register	low	«shot up» è gergo da tossicodipendente; «si fece l'iniezione» è neutro e perde la sfumatura.	Si appoggiò l'ipodermica alla gola e si fece.
+p03511	ok
+p03512	ok
+p03513	ok
+p03514	ok
+p03515	ok
+p03516	ok
+p03517	ok
+p03518	issue	rhythm	low	«un quadrante equatoriale con elaborazione EM di appena qualche migliaio di chilometri di lato»: la misura sembra riferita all'elaborazione EM invece che al quadrante.	un quadrante equatoriale, in elaborazione EM, di appena qualche migliaio di chilometri di lato
+p03519	ok
+p03520	ok
+p03521	ok
+p03522	ok
+p03523	ok
+p03524	ok
+p03525	ok
+p03526	ok
+p03527	issue	nuance	low	«daisy-chain pendulum» indica due corpi appesi in serie (Siri appeso a Sarasti appeso al piolo); «pendolo a catena» perde l'idea dei due anelli collegati.	come un pendolo doppio
+p03528	ok
+p03529	ok
+p03530	issue	meaning	low	Dopo «capii», «con la voce che si alzava calma» può essere attribuito a Siri, soggetto della frase; in inglese «its voice» è chiaramente quella della nave.	*La nave*, capii: la sua voce si alzava calma sopra l'allarme.
+p03531	ok
+p03532	ok
+p03533	ok
+p03534	ok
+p03535	ok
+p03536	ok
+p03537	ok
+p03538	ok
+p03539	ok
+p03540	ok
+p03541	ok
+p03542	issue	nuance	low	«interlinked crosses»: le due croci formate dai bordi della griglia due per tre sono collegate (hanno un braccio in comune), non intrecciate.	due grandi croci unite
+p03543	issue	nuance	low	«This can't be happening» riguarda ciò che sta accadendo ora; «Non può succedere» suona come un'impossibilità generale o futura.	*Non può essere.*
+p03544	ok
+p03545	issue	nuance	low	«She should be linked» è un'aspettativa delusa; «Doveva essere collegata» si legge facilmente come supposizione (sarà stata collegata).	Avrebbe dovuto essere collegata ai fanti
+p03546	issue	addition	low	«laughed at me»: «ridermi in faccia» aggiunge una faccia che il Capitano non ha e rafforza l'idioma.	il Capitano si limitava a ridere di me, con la voce travestita da allarme.
+p03547	ok
+p03548	ok
+p03549	ok
+p03550	ok
+p03551	ok
+p03552	ok
+p03553	ok
+p03554	ok
+p03555	ok
+p03556	ok
+p03557	ok
+p03558	ok
+p03559	ok
+p03560	ok
+p03561	ok
+p03562	ok
+p03563	ok
+p03564	ok
+p03565	ok
+p03566	ok
+p03567	ok
+p03568	ok
+p03569	ok
+p03570	ok
+p03571	ok
+p03572	ok
+p03573	ok
+p03574	ok
+p03575	ok
+p03576	ok
+p03577	ok
+p03578	ok
+p03579	ok
+p03580	ok
+p03581	ok
+p03582	ok
+p03583	ok
+p03584	ok
+p03585	ok
+p03586	ok
+p03587	ok
+p03588	issue	addition	low	«pass between us»: «fra noi e lui» scioglie un riferimento che Bates lascia implicito.	ogni volta che uno di quegli scrematori ci passa in mezzo
+p03588	issue	calque	low	«fanno *arco*» non è italiano corrente per «they arc» (la scarica che scocca).	scoccano *archi*
+p03589	ok
+p03590	ok
+p03591	ok
+p03592	ok
+p03593	ok
+p03594	ok
+p03595	ok
+p03596	ok
+p03597	ok
+p03598	ok
+p03599	ok
+p03600	ok
+p03601	ok
+p03602	ok
+p03603	ok
+p03604	ok
+p03605	ok
+p03606	ok
+p03607	ok
+p03608	ok
+p03609	ok
+p03610	ok
+p03611	ok
+p03612	ok
+p03613	ok
+p03614	ok
+p03615	ok
+p03616	ok
+p03617	ok
+p03618	ok
+p03619	ok
+p03620	ok
+p03621	ok
+p03622	issue	calque	low	«Vanificherebbe tutto lo scopo» ricalca «defeats the whole purpose»; il condizionale attenua l'affermazione secca di Bates.	Vanifica lo scopo stesso.
+p03623	ok
+p03624	ok
+p03625	ok
+p03626	ok
+p03627	ok
+p03628	ok
+p03629	ok
+p03630	ok
+p03631	issue	omission	low	Manca «now» (faster now than they ever had before).	Ora sembravano muoversi più in fretta di quanto avessero mai fatto.
+p03632	ok
+p03633	ok
+p03634	ok
+p03635	ok
+p03636	ok
+p03637	ok
+p03638	ok
+p03639	ok
+p03640	ok
+p03641	ok
+p03642	ok
+p03643	ok
+p03644	ok
+p03645	ok
+p03646	ok
+p03647	ok
+p03648	issue	calque	low	«ogni ultima anima» ricalca «every last soul» e suona come «ogni anima finale»; nell'inglese «every last» vuol dire ognuna, nessuna esclusa.	ogni conto alla rovescia fino all'ultimo, ogni anima fino all'ultima
+p03649	issue	rhythm	low	«Non so cosa significhi nulla di tutto questo» è sintatticamente faticoso per la frase che chiude la parte.	Non so che cosa significhi, niente di tutto questo.
