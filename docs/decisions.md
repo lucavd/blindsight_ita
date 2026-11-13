@@ -700,3 +700,11 @@ Motivazione: la seconda lettura del blocco 41 ha trovato altri refusi nei riferi
 
 Deciso da: agente. Data: 2026-11-13. Stato: valida.
 
+
+## D-86 La lettura di coerenza e la controprova della sessione finale
+
+Decisione: nella sessione finale (F) la lettura di coerenza si fa in quattro gruppi di blocchi (dal 01 al 14, dal 15 al 26, dal 27 al 39, 40 e 41) con quattro lettori in parallelo, che leggono solo l'italiano e scrivono, oltre ai rilievi, un inventario di ciò che deve restare uguale in tutto il libro (forme di cortesia osservate, termini ricorrenti fuori dal glossario, formule ripetute, nomi); la chat principale unisce gli inventari e confronta le parti. A questo si aggiungono controlli meccanici sull'intero libro: frasi ripetute da Watts in paragrafi lontani, grafie dei nomi, segni tipografici. La previsione sulle incoerenze si giudica sulle incoerenze confermate dopo la verifica sull'inglese, contate una volta ciascuna; i rilievi non fondati e i refusi si contano a parte. La controprova a campione usa il seme 20261109 sui paragrafi di testo, senza epigrafi, segnaposto e riferimenti bibliografici rimasti in inglese. I dettagli sono nella sezione "Precisazioni prima di cominciare" del file della sessione.
+
+Motivazione: la procedura scritta prevedeva un lettore per parte, ma un lettore che vede una parte sola non può accorgersi che un termine cambia da una parte all'altra, che è proprio ciò che questa sessione deve trovare; e Rorschach da sola è più di metà del libro. Gli inventari e i controlli meccanici coprono il confronto fra parti. I lettori in parallelo non si intralciano, perché non toccano la traduzione e scrivono ciascuno file propri; le correzioni restano un sotto-agente alla volta. La regola per contare va scritta prima di vedere i risultati.
+
+Deciso da: agente. Data: 2026-11-13. Stato: valida.

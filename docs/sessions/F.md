@@ -3,7 +3,7 @@ type: Session
 title: "F: coerenza sull'intero libro ed EPUB"
 description: Controlla che termini, nomi, forme di cortesia e voce siano coerenti dall'inizio alla fine, fa una controprova a campione sull'originale e costruisce l'EPUB definitivo.
 model: opus
-status: todo
+status: open
 pi_approval: pending
 generated:
   by: blindsight-agent/protocollo-v1
@@ -30,6 +30,18 @@ Dalla sessione sulla sorgente (S0), da chiudere qui perché richiedono l'EPUB fi
 5. `python3 tools/blindsight.py build`: EPUB definitivo in `build/Blindsight-it.epub`, con `epubcheck`.
 6. Controllo dell'EPUB: indice con le parti nell'ordine giusto, epigrafi in originale al loro posto, nota sulla traduzione in fondo, nessun marcatore o segnaposto rimasto (`unzip -p build/Blindsight-it.epub | grep -c "ORIGINALE\|<!-- p"` deve dare 0).
 7. Riassunto e chiusura. Messaggio finale con il percorso dell'EPUB e come copiarlo sull'e-reader.
+
+# Precisazioni prima di cominciare
+
+Scritte e committate il 2026-11-13, prima della lettura di coerenza e della controprova (decisione sulla lettura di coerenza e sulla controprova di F, D-86).
+
+1. Lettura di coerenza in quattro gruppi di blocchi, non cinque parti: dal 01 al 14 (Prologue e Theseus), dal 15 al 26 (prima metà di Rorschach), dal 27 al 39 (seconda metà di Rorschach e Charybdis), 40 e 41 (Acknowledgments, Notes and References). Rorschach da sola è più di metà del libro, Prologue e Charybdis sono un blocco ciascuno. I quattro lettori lavorano in parallelo: leggono e scrivono solo file propri, la traduzione non la toccano.
+2. Ogni lettore legge solo l'italiano, come chiede la procedura, e scrive due file: `review/coherence-<blocchi>.tsv` con i rilievi (colonne `pid`, `type`, `severity`, `problem`, `related`, `proposal`) e `review/coherence-<blocchi>-inventory.tsv` con l'inventario di ciò che deve restare uguale in tutto il libro (forme di cortesia osservate, chi a chi, con i paragrafi; termini ricorrenti fuori dal glossario; formule ripetute; nomi e soprannomi). Per l'inventario dei termini il lettore può aprire l'inglese, solo per sapere quale parola inglese sta dietro una resa. Un lettore che vede una parte sola non può accorgersi che un termine cambia da una parte all'altra: il confronto fra parti lo fa la chat principale unendo i quattro inventari.
+3. Il lettore delle note (blocchi 40 e 41) controlla anche che i concetti e le frasi del romanzo citati nel saggio abbiano la stessa resa che hanno nel romanzo, cercandoli nella versione finale degli altri blocchi.
+4. Controlli meccanici della chat principale sull'intero libro, che completano la lettura: frasi e spezzoni di almeno sei parole che Watts ripete in paragrafi lontani (devono avere la stessa resa, salvo un motivo nel testo), grafie dei nomi propri, segni tipografici, caporali aperte e chiuse. Sono stati fatti prima di scrivere queste precisioni, e i loro rilievi entrano nel conto come quelli dei lettori.
+5. Conto della previsione sulle incoerenze. Si contano le incoerenze confermate dopo la verifica sull'inglese: la stessa cosa resa in due modi senza un motivo nel testo, o una resa che si discosta dalla scheda dei personaggi, dal glossario o dalla guida. Un'incoerenza che tocca più paragrafi conta una volta. I rilievi non fondati si contano a parte e si dicono nel riassunto. I refusi e gli errori di lingua trovati leggendo (accordi, lettere) si correggono ma non sono incoerenze e si contano a parte.
+6. Correzioni: un sotto-agente `editor` per ogni blocco con rilievi fondati, uno alla volta, che modifica solo i paragrafi indicati verificandoli sull'inglese e aggiunge al registro del redattore del blocco una sezione sulla coerenza; poi il controllo del blocco e il commit.
+7. Controprova a campione. Seme 20261109. Popolazione: i paragrafi di testo (tipo `t`) dei blocchi dal 01 al 41, senza titoli, separatori, epigrafi, segnaposto `[[ORIGINALE]]` e senza i paragrafi della versione finale identici all'inglese (i riferimenti bibliografici che restano in inglese per regola). Estrazione: `random.seed(20261109); random.sample(sorted(ids), 20)`. Errore di senso: l'italiano dice una cosa diversa dall'inglese, omette o aggiunge contenuto (la gravità alta della revisione bilingue); gli altri rilievi (sfumature, ritmo) si contano a parte. Se un paragrafo estratto cambia dopo per la coerenza, si rilegge nella versione nuova.
 
 # Cancelli
 
