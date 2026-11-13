@@ -1,0 +1,106 @@
+category	key	it	pids	note
+address	Siri -> Pag	tu	p00052,p00441,p00455,p00470,p00474,p00486
+address	Pag -> Siri	tu	p00040,p00055,p00405,p00438,p00443,p00479
+address	Siri -> Chelsea	tu	p00494,p00504,p01049,p01064,p01066
+address	Chelsea -> Siri	tu	p00194,p00501,p00511,p00523,p00540,p01050
+address	Siri -> Helen	tu	p00157,p00159	la chiama Helen
+address	Helen -> Siri	tu	p00149,p00158	voi quando parla a Siri e Jim insieme (p00152, p00154)
+address	Jim -> Helen	tu	p00151,p00155
+address	Siri -> Jim	tu	p00170,p00172,p00252,p00267,p00277,p00299	lo chiama papà
+address	Jim -> Siri	tu	p00161,p00249,p00268,p00275,p00296,p00302	figliolo
+address	Siri -> Szpindel	tu	p00584
+address	Szpindel -> Siri	tu	p00589,p00591,p00934	commissario
+address	Siri -> Bates	tu	p01214,p01231,p01244,p01248,p01254	in p01254 con il vocativo maggiore
+address	Bates -> Siri	tu	p01229,p01245,p01255,p01257,p01275,p01279	lo chiama Siri
+address	Siri -> Sascha	tu	p00663
+address	Sascha -> Siri	tu	p00664,p00678,p00680,p00684,p00686	in p00684 lo chiama Siri, come la sorgente
+address	Siri -> Sarasti	tu	p00115,p00116	pensiero non detto, vocativo Jukka
+address	Sascha -> Sarasti	tu	p00379	vocativo Jukka
+address	Susan -> Sarasti	tu	p00383,p00878	solo vocativo Jukka, nessuna forma verbale rivolta a lui nella parte
+address	Szpindel -> Sarasti	tu	p00394
+address	Bates -> Sarasti	lei	p00367,p00387	solo signore, nessuna forma verbale nella parte che mostri il pronome
+address	Sarasti -> Bates	tu	p00366,p01118
+address	Sarasti -> Banda	tu	p00873,p00971,p01084,p01087
+address	Sarasti -> equipaggio	voi	p00791,p01272	p01272 annuncio impersonale (Tutti al tamburo)
+address	Bates -> Szpindel	tu	p00907
+address	Szpindel -> Bates	tu	p00904,p01099	Mandy
+address	Bates -> Banda	tu	p01034,p01038	a Sascha; a Susan solo vocativo Suze (p00627)
+address	Sascha -> Bates	tu	p01002	vocativo maggiore
+address	Susan -> Szpindel	tu	p00910
+address	Szpindel -> Banda	tu	p00692,p00696,p00700,p01145	in p01145 voi alla Banda come gruppo e tu a Michelle nella stessa battuta
+address	Szpindel -> Michelle	tu	p00715,p00719,p00723,p00733,p01170,p01179	Meesh
+address	Michelle -> Szpindel	tu	p00718,p00720,p00722,p00732,p01161,p01186
+address	Sascha -> Szpindel	tu	p00697,p00699	Ike
+address	Rorschach -> equipaggio	voi	p00838,p00847,p00989,p01102,p01109,p01137
+address	Rorschach -> Susan	tu	p00862,p00867,p01137,p01138
+address	Banda -> Rorschach (protocollo)	impersonale	p00837,p00840,p00842,p00864,p00924,p00996
+address	Sascha -> Rorschach (fuori protocollo)	voi, poi tu	p00986,p01030,p01032	voi in p00986 (domanda agli alieni come gruppo), tu in p01030 e p01032 come da scheda
+address	Siri narratore -> lettore	tu	p00067,p00200,p00318,p00639,p01133
+term	mission-critical	vitale per la missione (1), critici per la missione (1), cruciali per la missione (1)	p00115,p00298,p00545	incoerenza segnalata; torna nel blocco 29
+term	subdwarf	oggetto subnano (1), subnana (1)	p00356,p00967
+term	subtitle, subtitles (verbo e nome)	sottotitolare; sottotitolo, sottotitoli	p00418,p00559,p00594,p00917,p00951,p01174
+term	morphometrics	morfometria	p00551,p00582,p00829
+term	affect (psicologia)	affettività	p00113,p00619,p00934	in p01095 casual affect è l'aria, reso a senso
+term	surfaces (lessico di Siri)	superfici	p00094,p00113,p00383,p00634,p01230
+term	scout (la sonda)	esploratore	p00545,p00554,p01203
+term	chaff	pula	p01089,p01097
+term	decoy	esca	p00363,p00896
+term	conceptual units	unità concettuali	p00916,p00917,p01150
+term	vat, vats (nascita in vasca)	vasca, vasche	p00115,p01004,p01005
+term	backups (equipaggio di riserva)	riserva, riserve	p00122,p00451
+term	sentry	sentinella	p00025,p00171
+term	Undead, Unwired (maiuscoli)	i Non morti, i Non cablati	p00087,p00146	maiuscola come in Watts; undead minuscolo resta non morto (p00074, p00348)
+formula	my best and only friend	il mio migliore e unico amico	p00022,p00057,p00466
+formula	half a light year from home	a mezzo anno luce da casa	p00135,p01023
+formula	Still.	Eppure.	p00027,p00059,p00086,p00556,p00969,p01164
+formula	Imagine you are... / Imagine...	Immagina di essere... / Immagina...	p00067,p00200,p01133,p01134
+formula	waiting for the rains (pesce polmonato)	in attesa delle piogge	p00076,p01286
+formula	son (Jim a Siri)	figliolo	p00150,p00161,p00175,p00249,p00286,p00306
+formula	big hairy dick	cazzone grosso e peloso	p01032,p01086
+formula	Uh huh	Mh-mh	p00684,p01191,p01241
+formula	ten Jupiters	dieci Giove	p00352,p00359,p00813,p00967
+formula	Holy shit	Porca puttana	p00561,p01106	in p01299 Porca puttana rende Son of a bitch
+formula	Rorschach to Theseus / Theseus to Rorschach	Rorschach a Theseus / Theseus a Rorschach	p00831,p00833,p01085,p01092,p01102,p01104
+formula	Request information about	Richiesta di informazioni su	p00840,p00842,p00844,p00852,p00924
+formula	Request clarification	Richiesta di chiarimento	p00864,p00866
+formula	I could have sworn	Avrei giurato	p00118,p01120,p01312
+formula	vampire glitch: Crucifix, right angles	glitch del Crocifisso; angoli retti; l'Angolo Retto	p00070,p00423,p00424,p00947,p00951
+name	Siri Keeton	Siri Keeton, Siri	p00067,p00149,p01229,p01251
+name	Robert Paglino, Pag	Robert Paglino, Pag	p00021,p00023,p00401,p00462,p00466
+name	Pod-man (Siri)	Ultracorpo; ultracorpo come nome comune	p00403,p00424,p00430,p00436,p00466,p00469
+name	Helen	Helen	p00059,p00140,p00149,p00157,p00179
+name	Jim, Jim Moore	Jim, Jim Moore	p00143,p00148,p00244,p00248
+name	Chelsea, Chelse	Chelsea, Chelse	p00072,p00157,p00479,p00492,p00674,p01048
+name	Cygnus	Cygnus; il Cigno	p00535,p00536,p00537
+name	Isaac Szpindel, Isaac, Ike	Isaac Szpindel, Isaac, Ike	p00077,p00085,p00699,p00720,p00907
+name	Susan James, James, Suze	Susan James, James, Suze	p00085,p00347,p00627,p00696,p00826
+name	Mom (Susan per le personalità)	mamma	p00714,p00730
+name	Sascha	Sascha	p00376,p00383,p00655,p00790,p01030
+name	Michelle, Meesh	Michelle, Meesh	p00615,p00692,p00702,p00996,p01170
+name	Cruncher	Cruncher	p01003
+name	Gang of Four, the Gang	la Banda dei Quattro, la Banda	p00347,p00667,p00703,p00790,p00829,p00837
+name	Amanda Bates, Mandy, the Major	Amanda Bates, Mandy, il maggiore	p00085,p00347,p00631,p01099,p01100,p01254
+name	Jukka Sarasti, Jukka	Jukka Sarasti, Jukka	p00112,p00116,p00347,p00379,p00878,p00939
+name	the Captain	il Capitano	p00091,p00099,p00550,p00794,p01074,p01077
+name	Theseus	la *Theseus*	p00020,p00095,p00097,p00346,p00637,p01212	in tondo dentro i messaggi di Rorschach (p00831, p00834) come nella sorgente
+name	Scylla, Charybdis	*Scylla*, *Charybdis*	p00111
+name	Rorschach	*Rorschach* (maschile); la voce femminile di p01085 è lei in p01086 e p01095, come in Watts	p00020,p00851,p00880,p00905,p00967,p01294
+name	Big Ben, Ben	Big Ben, Ben	p00020,p00360,p00545,p00813,p01200,p01294
+name	Burns-Caulfield, Burnsie	Burns-Caulfield (femminile), Burnsie	p00210,p00293,p00332,p00334,p00344,p00894
+name	Icarus	la schiera Icarus, il flusso Icarus, Icarus	p00097,p00106,p00191,p00254,p00360,p00572
+name	Jack, Jack-in-the-box	Jack (maschile), *Jack-in-the-box*	p01076,p01082,p01131,p01151,p01202,p01307	in p01076 battezzata concorda con la sonda
+name	Fireflies	le Lucciole	p00020,p00188,p00189,p00373,p00986
+name	Firefall	la Pioggia di fuoco	p00214,p00354,p00356,p00638,p00777
+name	Kurzweil Institute	l'Istituto Kurzweil, il Kurzweil	p00213,p00217,p00299
+name	Martian Loop	il Circuito marziano	p00215,p00880
+name	I-CAN, I-CANN	I-CAN, I-CANN	p00880,p00896	due grafie come nella sorgente, decisione già presa nella revisione del blocco 10
+name	SS Jaymie Matthews	la *SS Jaymie Matthews*	p00882
+name	QuBit's	QuBit's	p00455
+name	Mankoya	Mankoya	p00456
+name	Beth and Bear	Beth and Bear	p00488
+name	O'Neills	gli O'Neill	p00234
+name	Lagrange habitats	gli habitat di Lagrange	p00215
+name	Cassidy Survey	la Cassidy Survey	p00649
+name	Ursae Majoris Eridani	Ursae Majoris Eridani	p00649
+name	Gaza Glasslands	le Lande di vetro di Gaza	p00895
+name	Monahan	Monahan	p00495
