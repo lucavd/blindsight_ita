@@ -56,3 +56,13 @@
 Ogni intervento è stato verificato sul paragrafo inglese.
 
 Richiami di nota: in tutti i paragrafi cambiati i richiami in apice restano identici e attaccati alle stesse parole. Paragrafi cambiati rispetto alla prima stesura: p03696, p03697, p03699, p03701, p03705, p03710, p03715, p03717, p03718, p03719, p03721, p03722, p03730, p03733, p03734, p03738.
+
+# Seconda lettura
+
+- p03701, nuance, low, accettato con variante: «per intimidirvi e basta, così la piantate di parlarne» (intimidate into vale intimidire perché si smetta, senza la durata di «finché»; «così la piantate» tiene il registro sgarbato meglio di «così che la piantiate»).
+- p03709, rhythm, low, respinto: in italiano «da» esprime già il paragone («sonno da ghiro», «fame da lupo»), quindi «dormienza da pesce polmonato» rende lungfish-like; la proposta allunga la frase senza guadagno di senso.
+- p03714, nuance, medium, respinto: l'inglese del saggio cambia la frase di Sarasti del blocco 32 (wouldn't do anything to you that you don't already do to yourself): il condizionale si rivolge al lettore, che *Rorschach* non l'ha incontrato, e la subordinata resta al presente, mentre un riporto al passato di doesn't darebbe didn't. «Non vi farebbe» rende quel wouldn't, e il resto della frase è uguale al blocco 32.
+- p03724, rhythm, low, respinto: la ripetizione c'è già nell'inglese (ranging in mass ... Jovian masses) e la proposta («una massa compresa tra tre e tredici masse») la conserva comunque.
+- p03738, addition, low, accettato: tolto «anche» («molto dopo che l'ultimo mozzicone di canna è finito»), che l'inglese non ha.
+
+Paragrafi cambiati nella seconda lettura: p03701, p03738. Richiami di nota in apice invariati. Ogni intervento è stato verificato sul paragrafo inglese.
