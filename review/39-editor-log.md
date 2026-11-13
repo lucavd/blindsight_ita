@@ -50,3 +50,15 @@ Le frasi legate ad altri blocchi restano come nella prima stesura: p03677 («Era
 # Da segnalare
 
 - Termine proposto nelle note del blocco per time-lapse (p03655, p03681): la prima stesura proponeva «a intervalli» e «ripresa a intervalli»; accettando la revisione, la versione finale usa time-lapse invariato, come nel blocco 29 (poliedri in time-lapse). La proposta di termine nelle note va aggiornata di conseguenza prima di chiudere la sessione.
+
+# Seconda lettura
+
+- p03655, nuance, low, accettato: «un racconto senza strappi» (tiene l'immagine di tessuto di seamless, shatter, string out).
+- p03656, terminology, low, accettato: «il computer di bordo», come per the onboard nel blocco 30.
+- p03662, nuance, low, accettato: «sperando che mi investisse».
+- p03674, nuance, low, accettato: «Lo ammetto senza riserve.»
+- p03684, nuance, low, accettato: «con tanta smania...».
+- p03687, nuance, low, accettato: «non riesco a rimpiangere Jukka Sarasti», che riprende l'apertura di p03686.
+- p03692, calque, low, accettato con variante: «Perché non so se esista davvero un narratore attendibile.» (ordine più naturale, la frase chiude sul narratore come in Watts).
+
+Ogni modifica è stata verificata sul paragrafo inglese. Le parole che legano p03677 al blocco 38 e p03683 al blocco 37 restano invariate.
