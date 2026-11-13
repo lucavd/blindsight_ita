@@ -54,3 +54,9 @@ Richiami di nota: in tutti i paragrafi cambiati i richiami in apice restano iden
 - p03930, typo, low, accettato: «Pulsifer, M.B.» (punteggiatura dentro il nome).
 
 Ogni intervento è stato verificato sul paragrafo inglese. Richiami di nota invariati, nello stesso ordine. Paragrafi cambiati in questa lettura: p03741, p03745, p03756 nella prosa; p03814, p03816, p03827, p03871, p03930 nelle note.
+
+# Coerenza (sessione finale)
+
+- p03755, I17, accettata: «I potenziamenti in carboplatino di Bates» diventa «I potenziamenti di carboplatino di Bates», come nel romanzo (blocco 33, p03026) per carboplatinum augments; richiami di nota invariati.
+
+Ogni intervento è stato verificato sul paragrafo inglese.
