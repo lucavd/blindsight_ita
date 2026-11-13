@@ -140,3 +140,9 @@ Rilievi della tabella del confronto incrociato (oltre a quelli già sopra):
 Ogni correzione è stata verificata sul paragrafo inglese.
 
 Ripristino della chat principale (p01746): «Il wetware con cui Susan stessa riconosceva gli schemi» scioglieva in un verbo la voce approvata del glossario sul riconoscimento di schemi, che torna in tutto il libro e cita proprio questo paragrafo; il protocollo non ammette di cambiarla senza decisione. Ora «Il wetware di Susan stessa per il riconoscimento degli schemi reagiva»: tiene il termine e toglie la fila di tre complementi del rilievo.
+
+# Coerenza (sessione finale)
+
+- p01633, I07: accettata. «Le prede corrono per la vita» diventa «Le prede corrono per salvarsi la vita», come la ripresa del motto nel blocco 19 (p01840); run for their lives è fuggire per non morire, e «per la vita» si poteva leggere «per tutta la vita». Prima frase, virgolette e citazione invariate.
+
+Ogni intervento è stato verificato sul paragrafo inglese.
