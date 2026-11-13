@@ -71,3 +71,11 @@ Paragrafi cambiati rispetto alla prima stesura: 12 (11 per i rilievi; dei 3 inte
 | p00604 | calque | low | accettato | «Seme si arena e fa germogliare scrematori», telegrafico senza germogliare transitivo |
 
 Ogni modifica è stata verificata sul paragrafo inglese. Paragrafi cambiati nella seconda lettura: 6.
+
+# Coerenza (sessione finale)
+
+| pid | voce | esito | cosa è cambiato |
+|---|---|---|---|
+| p00545 | I01 | accettata | «critici per la missione» al posto di «cruciali per la missione»: mission-critical con la resa di p00298 (blocco 04), di cui la frase è un'eco ironica |
+
+Ogni intervento è stato verificato sul paragrafo inglese.
