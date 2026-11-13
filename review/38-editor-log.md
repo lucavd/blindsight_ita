@@ -67,3 +67,23 @@ Ogni intervento è stato verificato sul paragrafo inglese.
 # Da segnalare
 
 - Scheda dei personaggi, forme di cortesia, riga «il Capitano | Siri | tu»: cita p03639 fra i messaggi al tu. Ora p03639 è al voi, plurale del tu rivolto all'equipaggio (Siri compreso). La forma di cortesia non cambia; conviene aggiornare la citazione del paragrafo nella scheda, che non ho toccato.
+
+# Seconda lettura
+
+- p03506, calque, low, accettato con variante: «con tante palline da tenere in aria» (birilli fa pensare al bowling, come nel «come birilli» del blocco 16; le palline restano quelle del giocoliere e «da tenere in aria» rende leggibile la giocoleria).
+- p03510, register, low, accettato: «si fece.» (shot up è gergo da tossico, il farsi italiano è il suo equivalente).
+- p03518, rhythm, low, accettato con variante: «un quadrante equatoriale di appena qualche migliaio di chilometri di lato, con elaborazione EM» (la misura resta attaccata al quadrante senza la virgola doppia della proposta; «in elaborazione EM» si leggeva come «in corso di elaborazione»).
+- p03527, nuance, low, accettato: «come un pendolo doppio».
+- p03530, meaning, low, accettato: «*La nave*, capii: la sua voce si alzava calma sopra l'allarme.»
+- p03542, nuance, low, accettato: «due grandi croci unite».
+- p03543, nuance, low, accettato: «*Non può essere.*»
+- p03545, nuance, low, accettato: «Avrebbe dovuto essere collegata ai fanti» (la ripetizione con i due avrebbero dovuto seguenti ricalca i tre should dell'inglese).
+- p03546, addition, low, accettato: «si limitava a ridere di me».
+- p03588, addition, low, respinto: resta «fra noi e lui». In inglese between us viene subito dopo *Rorschach* come soggetto e si legge fra la nave e il manufatto; «ci passa in mezzo» si legge in italiano come fra i membri dell'equipaggio, cioè cambia il senso. La ragione della prima revisione regge.
+- p03588, calque, low, accettato: «scoccano *archi*» (scoccare è il verbo corrente dell'arco elettrico; corsivo mantenuto).
+- p03622, calque, low, accettato con variante: «Vanifica lo scopo.» (presente secco come Defeats; «stesso» della proposta è letterario per Bates; whole è il rafforzativo fisso della locuzione e la secchezza lo assorbe; scopo resta e risponde al «Che *senso* ha?» di Siri).
+- p03631, omission, low, accettato: «Ora sembravano muoversi».
+- p03648, calque, low, accettato: «ogni conto alla rovescia fino all'ultimo, ogni anima fino all'ultima».
+- p03649, rhythm, low, accettato: «Non so che cosa significhi, niente di tutto questo.»
+
+Ogni modifica della seconda lettura è stata verificata sul paragrafo inglese; nessun altro paragrafo è stato toccato.
