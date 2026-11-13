@@ -684,3 +684,11 @@ Motivazione: il traduttore del blocco 39 aveva proposto nelle note «a intervall
 
 Deciso da: agente. Data: 2026-11-13. Stato: valida.
 
+## D-84 Altri tre refusi nelle note del blocco 41, il pedice di H2S e gli spazi fuori posto
+
+Decisione: nelle note del blocco 41 si correggono altri tre refusi di nomi, titoli e riviste reali, trovati dalla revisione bilingue: Change-induced in Charge-induced (p03941, l'articolo di Weissmüller e colleghi su *Science* 300), *Trends in Neuroscience* in *Trends in Neurosciences* (p03882) e Stewart, S. in Stewart, I. (p03890: «Where are the dolphins?» è di Jack Cohen e Ian Stewart). Anno, volume e pagine restano come sono anche dove sono sospetti (p03890 ha 2005, l'articolo è del 2001). In p03852 «H 2 S» diventa H~2~S, che pandoc rende come pedice. Gli spazi fuori posto prima della punteggiatura (p03834, p03841, p03842, p03849) restano come nella sorgente. La tabella dei refusi della guida di stile ora elenca le correzioni nuove.
+
+Motivazione: la guida (sezione 11, punto 1) vuole corretti i nomi reali scritti male e le lettere scambiate, mancanti o in più, e la decisione sulle note del blocco 41 (D-74) applica la regola ai riferimenti; i tre casi erano sfuggiti alla prima stesura. Un'iniziale sbagliata è un nome scritto male; l'anno sbagliato è un numero, che la stessa decisione lascia com'è. «H 2 S» è il pedice perso nella pagina web (nella pagina HTML i tre caratteri sono separati da spazi), e la prova con pandoc dà H<sub>2</sub>S. Gli spazi fuori posto non sono fra le correzioni ammesse dalla decisione D-74: la prima stesura ne aveva tolto uno solo (p03834), che la revisione ha segnalato come incoerente con le altre note, e si torna alla sorgente.
+
+Deciso da: agente. Data: 2026-11-13. Stato: valida.
+
