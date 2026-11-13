@@ -1,0 +1,257 @@
+Blocco 01 (final): cancelli superati
+  paragrafi: 54; rapporto di lunghezza mediano IT/EN: 1.1
+  quota di paragrafi cambiati dalla bozza: 28%
+  da guardare, glossary_misses: 2
+    p00058: pod (resurrection, medical) -> atteso capsula
+    p00060: drum -> atteso tamburo
+Blocco 02 (final): cancelli superati
+  paragrafi: 71; rapporto di lunghezza mediano IT/EN: 1.128
+  quota di paragrafi cambiati dalla bozza: 26%
+  segnaposto [[ORIGINALE]]: p00066
+  da guardare, emphasis_count_differs: 1
+    p00088
+Blocco 03 (final): cancelli superati
+  paragrafi: 63; rapporto di lunghezza mediano IT/EN: 1.1
+  quota di paragrafi cambiati dalla bozza: 30%
+Blocco 04 (final): cancelli superati
+  paragrafi: 110; rapporto di lunghezza mediano IT/EN: 1.103
+  quota di paragrafi cambiati dalla bozza: 14%
+Blocco 05 (final): cancelli superati
+  paragrafi: 88; rapporto di lunghezza mediano IT/EN: 1.13
+  quota di paragrafi cambiati dalla bozza: 24%
+  segnaposto [[ORIGINALE]]: p00322, p00323
+  da guardare, glossary_misses: 1
+    p00339: burn (manovra) -> atteso accensione (sostantivo); accendere i motori o simili (verbo)
+  da guardare, emphasis_count_differs: 2
+    p00347
+    p00368
+Blocco 06 (final): cancelli superati
+  paragrafi: 145; rapporto di lunghezza mediano IT/EN: 1.103
+  quota di paragrafi cambiati dalla bozza: 13%
+  da guardare, glossary_misses: 1
+    p00466: pod (resurrection, medical) -> atteso capsula
+Blocco 07 (final): cancelli superati
+  paragrafi: 94; rapporto di lunghezza mediano IT/EN: 1.151
+  quota di paragrafi cambiati dalla bozza: 17%
+  da guardare, glossary_misses: 2
+    p00555: cores (of James) -> atteso nuclei
+    p00556: cores (of James) -> atteso nuclei
+Blocco 08 (final): cancelli superati
+  paragrafi: 120; rapporto di lunghezza mediano IT/EN: 1.074
+  quota di paragrafi cambiati dalla bozza: 17%
+  da guardare, glossary_misses: 1
+    p00640: bridge -> atteso plancia
+  da guardare, emphasis_count_differs: 1
+    p00642
+Blocco 09 (final): cancelli superati
+  paragrafi: 113; rapporto di lunghezza mediano IT/EN: 1.117
+  quota di paragrafi cambiati dalla bozza: 17%
+  da guardare, glossary_misses: 2
+    p00770: feed (data) -> atteso flusso
+    p00837: handshaking protocols, handshake -> atteso protocolli di handshake; handshake
+Blocco 10 (final): cancelli superati
+  paragrafi: 87; rapporto di lunghezza mediano IT/EN: 1.1
+  quota di paragrafi cambiati dalla bozza: 21%
+  da guardare, emphasis_count_differs: 1
+    p00947
+Blocco 11 (final): cancelli superati
+  paragrafi: 89; rapporto di lunghezza mediano IT/EN: 1.165
+  quota di paragrafi cambiati dalla bozza: 21%
+  da guardare, glossary_misses: 1
+    p00976: trickle-charger, trickler -> atteso erogatore a rilascio lento
+Blocco 12 (final): cancelli superati
+  paragrafi: 94; rapporto di lunghezza mediano IT/EN: 1.112
+  quota di paragrafi cambiati dalla bozza: 15%
+  da guardare, glossary_misses: 3
+    p01080: spike (field surge in Rorschach) -> atteso picco
+    p01103: spike (field surge in Rorschach) -> atteso picco
+    p01127: airspace (lo spazio fisico) -> atteso spazio aereo
+Blocco 13 (final): cancelli superati
+  paragrafi: 145; rapporto di lunghezza mediano IT/EN: 1.113
+  quota di paragrafi cambiati dalla bozza: 12%
+Blocco 14 (final): cancelli superati
+  paragrafi: 30; rapporto di lunghezza mediano IT/EN: 1.176
+  quota di paragrafi cambiati dalla bozza: 39%
+  da guardare, glossary_misses: 1
+    p01307: cores (of James) -> atteso nuclei
+Blocco 15 (final): cancelli superati
+  paragrafi: 139; rapporto di lunghezza mediano IT/EN: 1.096
+  quota di paragrafi cambiati dalla bozza: 14%
+  da guardare, glossary_misses: 4
+    p01328: feed (data) -> atteso flusso
+    p01385: baseline (human) -> atteso di serie (umano di serie, quelli di serie)
+    p01386: baseline (human) -> atteso di serie (umano di serie, quelli di serie)
+    p01449: cores (of James) -> atteso nuclei
+  da guardare, emphasis_count_differs: 1
+    p01429
+Blocco 16 (final): cancelli superati
+  paragrafi: 113; rapporto di lunghezza mediano IT/EN: 1.099
+  quota di paragrafi cambiati dalla bozza: 19%
+  da guardare, glossary_misses: 2
+    p01475: divers, high divers -> atteso tuffatori, tuffatori dalle grandi altezze
+    p01493: trickle-charger, trickler -> atteso erogatore a rilascio lento
+  da guardare, emphasis_count_differs: 3
+    p01466
+    p01469
+    p01472
+Blocco 17 (final): cancelli superati
+  paragrafi: 67; rapporto di lunghezza mediano IT/EN: 1.089
+  quota di paragrafi cambiati dalla bozza: 20%
+  da guardare, glossary_misses: 3
+    p01569: trickle-charger, trickler -> atteso erogatore a rilascio lento
+    p01575: tweak(s) -> atteso ritocco, ritoccare
+    p01575: transient (orca) -> atteso transiente (orca transiente, orche transienti e residenti)
+Blocco 18 (final): cancelli superati
+  paragrafi: 203; rapporto di lunghezza mediano IT/EN: 1.101
+  quota di paragrafi cambiati dalla bozza: 29%
+  da guardare, glossary_misses: 2
+    p01650: transient (orca) -> atteso transiente (orca transiente, orche transienti e residenti)
+    p01721: feed (data) -> atteso flusso
+Blocco 19 (final): cancelli superati
+  paragrafi: 51; rapporto di lunghezza mediano IT/EN: 1.067
+  quota di paragrafi cambiati dalla bozza: 35%
+Blocco 20 (final): cancelli superati
+  paragrafi: 66; rapporto di lunghezza mediano IT/EN: 1.119
+  quota di paragrafi cambiati dalla bozza: 25%
+  da guardare, glossary_misses: 2
+    p01893: headspace -> atteso spazio mentale
+    p01921: tweak(s) -> atteso ritocco, ritoccare
+  da guardare, emphasis_count_differs: 1
+    p01890
+Blocco 21 (final): cancelli superati
+  paragrafi: 77; rapporto di lunghezza mediano IT/EN: 1.085
+  quota di paragrafi cambiati dalla bozza: 20%
+  da guardare, glossary_misses: 1
+    p02028: bridge -> atteso plancia
+  da guardare, emphasis_count_differs: 1
+    p01955
+Blocco 22 (final): cancelli superati
+  paragrafi: 83; rapporto di lunghezza mediano IT/EN: 1.098
+  quota di paragrafi cambiati dalla bozza: 21%
+  da guardare, glossary_misses: 1
+    p02034: baseline (human) -> atteso di serie (umano di serie, quelli di serie)
+Blocco 23 (final): cancelli superati
+  paragrafi: 77; rapporto di lunghezza mediano IT/EN: 1.149
+  quota di paragrafi cambiati dalla bozza: 21%
+  da guardare, glossary_misses: 1
+    p02184: tweak(s) -> atteso ritocco, ritoccare
+Blocco 24 (final): cancelli superati
+  paragrafi: 66; rapporto di lunghezza mediano IT/EN: 1.099
+  quota di paragrafi cambiati dalla bozza: 28%
+  da guardare, glossary_misses: 1
+    p02228: pattern-matching -> atteso riconoscimento di schemi
+Blocco 25 (final): cancelli superati
+  paragrafi: 98; rapporto di lunghezza mediano IT/EN: 1.063
+  quota di paragrafi cambiati dalla bozza: 13%
+Blocco 26 (final): cancelli superati
+  paragrafi: 57; rapporto di lunghezza mediano IT/EN: 1.134
+  quota di paragrafi cambiati dalla bozza: 34%
+  da guardare, glossary_misses: 1
+    p02360: tweak(s) -> atteso ritocco, ritoccare
+  da guardare, emphasis_count_differs: 1
+    p02377
+Blocco 27 (final): cancelli superati
+  paragrafi: 111; rapporto di lunghezza mediano IT/EN: 1.118
+  quota di paragrafi cambiati dalla bozza: 17%
+  da guardare, glossary_misses: 2
+    p02442: feed (data) -> atteso flusso
+    p02482: burn (manovra) -> atteso accensione (sostantivo); accendere i motori o simili (verbo)
+  da guardare, emphasis_count_differs: 1
+    p02433
+Blocco 28 (final): cancelli superati
+  paragrafi: 86; rapporto di lunghezza mediano IT/EN: 1.11
+  quota di paragrafi cambiati dalla bozza: 23%
+  da guardare, glossary_misses: 1
+    p02559: burn (manovra) -> atteso accensione (sostantivo); accendere i motori o simili (verbo)
+Blocco 29 (final): cancelli superati
+  paragrafi: 83; rapporto di lunghezza mediano IT/EN: 1.102
+  quota di paragrafi cambiati dalla bozza: 26%
+  da guardare, glossary_misses: 3
+    p02630: baseline (human) -> atteso di serie (umano di serie, quelli di serie)
+    p02630: trickle-charger, trickler -> atteso erogatore a rilascio lento
+    p02648: facets -> atteso sfaccettature
+Blocco 30 (final): cancelli superati
+  paragrafi: 96; rapporto di lunghezza mediano IT/EN: 1.096
+  quota di paragrafi cambiati dalla bozza: 20%
+  da guardare, glossary_misses: 1
+    p02768: spike (field surge in Rorschach) -> atteso picco
+Blocco 31 (final): cancelli superati
+  paragrafi: 71; rapporto di lunghezza mediano IT/EN: 1.132
+  quota di paragrafi cambiati dalla bozza: 30%
+  segnaposto [[ORIGINALE]]: p02806, p02807
+  da guardare, glossary_misses: 1
+    p02811: cores (of James) -> atteso nuclei
+Blocco 32 (final): cancelli superati
+  paragrafi: 106; rapporto di lunghezza mediano IT/EN: 1.101
+  quota di paragrafi cambiati dalla bozza: 21%
+Blocco 33 (final): cancelli superati
+  paragrafi: 82; rapporto di lunghezza mediano IT/EN: 1.132
+  quota di paragrafi cambiati dalla bozza: 26%
+  da guardare, glossary_misses: 1
+    p03012: spike (field surge in Rorschach) -> atteso picco
+Blocco 34 (final): cancelli superati
+  paragrafi: 100; rapporto di lunghezza mediano IT/EN: 1.126
+  quota di paragrafi cambiati dalla bozza: 27%
+  da guardare, emphasis_count_differs: 1
+    p03077
+Blocco 35 (final): cancelli superati
+  paragrafi: 141; rapporto di lunghezza mediano IT/EN: 1.083
+  quota di paragrafi cambiati dalla bozza: 14%
+Blocco 36 (final): cancelli superati
+  paragrafi: 88; rapporto di lunghezza mediano IT/EN: 1.14
+  quota di paragrafi cambiati dalla bozza: 21%
+  da guardare, emphasis_count_differs: 1
+    p03373
+Blocco 37 (final): cancelli superati
+  paragrafi: 127; rapporto di lunghezza mediano IT/EN: 1.114
+  quota di paragrafi cambiati dalla bozza: 20%
+  da guardare, glossary_misses: 1
+    p03469: trickle-charger, trickler -> atteso erogatore a rilascio lento
+Blocco 38 (final): cancelli superati
+  paragrafi: 148; rapporto di lunghezza mediano IT/EN: 1.154
+  quota di paragrafi cambiati dalla bozza: 15%
+  da guardare, glossary_misses: 2
+    p03513: airspace (lo spazio fisico) -> atteso spazio aereo
+    p03626: spike (field surge in Rorschach) -> atteso picco
+Blocco 39 (final): cancelli superati
+  paragrafi: 45; rapporto di lunghezza mediano IT/EN: 1.126
+  quota di paragrafi cambiati dalla bozza: 37%
+Blocco 40 (final): cancelli superati
+  paragrafi: 45; rapporto di lunghezza mediano IT/EN: 1.114
+  quota di paragrafi cambiati dalla bozza: 40%
+  da guardare, glossary_misses: 1
+    p03698: Gang of Four, the Gang -> atteso la Banda dei Quattro, la Banda
+  da guardare, emphasis_count_differs: 1
+    p03710
+Blocco 41 (final): cancelli superati
+  paragrafi: 162; rapporto di lunghezza mediano IT/EN: 1.0
+  quota di paragrafi cambiati dalla bozza: 12%
+  da guardare, english_residue: 32
+    p03808: 4 parole inglesi frequenti
+    p03812: 3 parole inglesi frequenti
+    p03816: 3 parole inglesi frequenti
+    p03820: 3 parole inglesi frequenti
+    p03824: 3 parole inglesi frequenti
+    p03826: 5 parole inglesi frequenti
+    p03828: 3 parole inglesi frequenti
+    p03833: 4 parole inglesi frequenti
+  da guardare, glossary_misses: 31
+    p03812: conscious, consciousness -> atteso cosciente, coscienza
+    p03819: inattentional blindness -> atteso cecità da disattenzione
+    p03820: awareness -> atteso consapevolezza
+    p03823: conscious, consciousness -> atteso cosciente, coscienza
+    p03828: transcranial magnetic stimulation, TMS -> atteso stimolazione magnetica transcranica (TMS); magnete transcranico
+    p03829: transcranial magnetic stimulation, TMS -> atteso stimolazione magnetica transcranica (TMS); magnete transcranico
+    p03833: conscious, consciousness -> atteso cosciente, coscienza
+    p03834: awareness -> atteso consapevolezza
+  da guardare, identical_to_source: 108
+    p03803
+    p03805
+    p03806
+    p03809
+    p03810
+    p03811
+    p03812
+    p03813
+
+Riepilogo: 41 blocchi, cancelli tutti superati; mediana dei rapporti 1.110 (intervallo atteso 1.00-1.35).
