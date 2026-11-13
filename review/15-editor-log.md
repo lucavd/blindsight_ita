@@ -92,3 +92,11 @@ Ogni intervento è stato verificato sul paragrafo inglese.
 | p01450 | meaning | medium | accettato («E non sottovalutare nemmeno Sarasti.»: Sarasti solo complemento, registro diretto di Bates) | |
 
 Ogni modifica della seconda lettura è stata verificata sul paragrafo inglese.
+
+# Coerenza (sessione finale)
+
+| pid | voce | esito | cosa è cambiato o motivo del rifiuto |
+|---|---|---|---|
+| p01446 | I05 | accettata | «quadro d'insieme» diventa «quadro generale», la parola usata per the big picture negli altri due passi del libro; resta minuscolo come nell'inglese, senza la maiuscola ironica degli altri passi |
+
+Ogni intervento è stato verificato sul paragrafo inglese.
