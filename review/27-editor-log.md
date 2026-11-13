@@ -73,3 +73,9 @@ Ogni intervento è stato verificato sul paragrafo inglese.
 - p02510, calque, low, respinto: «essere, tenere nel giro» è un uso colloquiale italiano (stare dentro la cerchia di chi sa) e regge la ripresa «Un giro lungo» come in inglese keep in the loop / long loop; «delle informazioni» è un'esplicitazione che appesantisce la battuta senza renderla più corrente.
 - p02519, calque, low, accettato: «quella mente superiore da vampiro».
 - p02521, nuance, low, accettato con variante: «Ma non mi piace essere *giocato*, Keeton»; giocare qualcuno in italiano vuol dire raggirarlo, quindi recupera la manipolazione di being played e tiene l'eco con «sto al gioco» (play along) del paragrafo p02519, che «manovrato» perdeva.
+
+# Coerenza (sessione finale)
+
+- p02437, I11, accettata: «Scorregge armoniche» diventa «Scoregge armoniche» (Harmonic farts), la grafia dei blocchi 07 e 25.
+
+Ogni intervento è stato verificato sul paragrafo inglese.
