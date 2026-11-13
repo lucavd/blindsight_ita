@@ -1,0 +1,104 @@
+pid	verdict	type	severity	problem	proposal
+p03047	issue	addition	low	«a piccoli incrementi di fitness»: piccoli non c'è nell'inglese (in increments of fitness), e incrementi dice già la gradualità.	andavano *guadagnati* a incrementi di fitness
+p03047	issue	nuance	low	«sorge non richiesta» per rise unbidden suona burocratico (richiesta come modulo); unbidden è senza essere chiamata, spontanea.	L'estetica sorge spontanea da mille miliardi di recettori della dopamina
+p03047	issue	calque	low	«chiamano se stessi *Io*» ricalca call themselves; l'italiano usa il riflessivo.	e si chiamano *Io*
+p03047	issue	doubt	low	Dubbio 1: concordo con fini propri (agende sarebbe calco, programmi ambiguo), con «I cervelli– barano», mille miliardi e *Io* maiuscolo in corsivo.
+p03049	ok
+p03050	issue	doubt	low	Dubbio 2 e 4: concordo con *Io* senza articolo e verbo alla terza persona (stride come I wastes) e con «col pensiero ti surclassano»; l'articolo normalizzerebbe.
+p03051	issue	doubt	low	Dubbio 5: concordo con vedi, che tiene il tono della lezione al tu; «Io non esisto» tra caporali va bene.
+p03052	issue	doubt	low	Dubbio 6: concordo con la caporale d'apertura: la virgoletta che chiude senza compagna è un refuso tipografico da correggere (guida, sezione 11, punto 1; scheda delle epigrafi).
+p03053	ok
+p03054	ok
+p03055	issue	doubt	low	Dubbio 7: «Sarasti, succhiasangue» si legge come un'apposizione neutra; you bloodsucker è un insulto diretto. Razza di rende la costruzione you + insulto senza aggiungere contenuto.	*Sarasti, razza di succhiasangue.*
+p03056	ok
+p03057	ok
+p03058	ok
+p03059	issue	typo	low	«tutto quello che avessi mai avuto per toccare qualcuno»: il congiuntivo imperfetto stona in una relativa al passato prossimo; e let me touch è permettere, non scopo.	tutto quello che mi avesse mai permesso di toccare* qualcuno
+p03059	issue	nuance	low	«poi tu mi riduci a una specie di animale»: strip me down riprende stripped me naked di poche righe prima (mi hai denudato); ridurre perde l'eco dello spogliare.	e poi tu mi spogli fino a ridurmi a una specie di* animale *scorticato con mezzo cervello e senza difese
+p03059	issue	doubt	low	Dubbio 9: concordo con verme della notte e fottibambini (stessa forza), con i tratti in tondo come in sorgente, con l'inciso – non ancora – spaziato e con la virgola passata al tondo per ragioni di Markdown.
+p03060	ok
+p03061	issue	calque	low	«nessun altro poteva essere sottratto al proprio lavoro»: passivo ricalcato su could be spared; l'italiano preferisce l'attivo o il si.	e nessun altro si poteva togliere dal suo lavoro
+p03062	ok
+p03063	ok
+p03064	issue	rhythm	low	«Le cinghie mi premettero contro la curva della schiena» si può leggere come le cinghie mi spinsero contro la schiena; inoltre pressed è uno stato che precede gli eventi (bounced, caught). Dubbio 11: cinghie e carapace concordo.	Le cinghie premevano contro la curva della mia schiena, mi spinsero avanti con la dolcezza di una brezza, mi ripresero.
+p03065	ok
+p03066	issue	doubt	low	Dubbio 12: concordo con aggiustato, che tiene l'immagine dell'oggetto rotto (le tools spezzate di p03059).
+p03067	issue	nuance	low	«Spezzarmi» aggiunge un riflessivo con il pronome di prima persona; Breaking è intransitivo e impersonale, contrapposto a Being broken.	Spezzarsi. Essere spezzato.
+p03068	issue	rhythm	low	«Sembrò volerci ore» è sgrammaticato in italiano (volerci non regge un soggetto sottinteso così).	Sembrò che ci volessero ore.
+p03069	ok
+p03070	ok
+p03071	issue	doubt	low	Dubbio 13: concordo con restituita alla sua condizione di persona e con riconoscevo nei tre punti.
+p03072	ok
+p03073	ok
+p03074	ok
+p03075	ok
+p03076	ok
+p03077	issue	calque	low	«che si levava compatta all'opposizione»: all'opposizione evoca il partito di opposizione; in opposition qui è nel senso di opporsi.	la Banda al completo, che insorgeva compatta
+p03077	issue	doubt	low	Dubbio 16: concordo con eccome per damn well (cazzo sarebbe più forte); il corsivo sulla citazione di Sarasti tiene.
+p03078	ok
+p03079	ok
+p03080	ok
+p03081	ok
+p03082	ok
+p03083	ok
+p03084	ok
+p03085	issue	doubt	low	Dubbio 20: concordo con «Eccoti di ritorno» e «Hai dato un'occhiata»: la scheda dei personaggi chiede costruzioni che non mostrino il genere quando parla Cunningham.
+p03086	ok
+p03087	ok
+p03088	issue	nuance	medium	«sono soddisfatta che tu ne sia fuori» si legge come sono contenta che tu ne sia fuori; I'm satisfied qui vale ho verificato, mi sono accertata (Bates ha controllato i fanti). Mi ritengo soddisfatta tiene la formula del controllo superato e l'eco di «Soddisfatta?». Il tu cade correttamente qui per la prima volta.	«Se intendi i fanti, mi ritengo soddisfatta: ne sei fuori», disse Bates.
+p03089	ok
+p03090	ok
+p03091	ok
+p03092	ok
+p03093	issue	doubt	low	Dubbio 25: concordo con il punto finale (refuso evidente della sorgente) e con ponte.
+p03094	ok
+p03095	ok
+p03096	ok
+p03097	ok
+p03098	ok
+p03100	ok
+p03101	ok
+p03102	ok
+p03103	ok
+p03104	issue	doubt	low	Dubbio 30: disgrace è la vergogna o il disonore di chi è caduto in basso; umiliazione sposta sull'atto subito. Vergogna è più vicina e si appaia meglio a riservatezza.	per rispetto della mia riservatezza e della mia vergogna
+p03105	ok
+p03106	ok
+p03107	ok
+p03108	issue	omission	low	«e così piccolo»: so very small perde l'intensificatore very.	l'universo era chiuso, e tanto, tanto piccolo
+p03109	issue	meaning	medium	«Non succedeva più spesso» si legge facilmente come non succedeva più spesso di prima; any more è non più tanto spesso.	Non succedeva più tanto spesso.
+p03110	issue	nuance	low	When they did speak: l'enfasi del did (quelle rare volte) si perde in «Quando parlavano».	Quando pure parlavano, non facevano mai il mio nome.
+p03111	ok
+p03112	ok
+p03113	issue	nuance	low	because those *feel* right: Watts insiste sul sentire (feel due volte), contrapposto a guardare; «*sembrano*» sposta sull'apparenza.	perché le *sente* giuste, perché le sente naturali
+p03114	issue	terminology	medium	«la mamma aveva ragione»: Mom detto dalla Banda è un nome proprio e nei blocchi precedenti è reso senza articolo («Mamma aveva ragione», blocco 08; «mamma non lo ammetterebbe»).	Lo sai meglio di tutti che mamma aveva ragione.
+p03115	ok
+p03116	ok
+p03117	issue	calque	low	«Forse l'ha fatto» ricalca Maybe it did; in italiano fare non riprende bene estirpare.	«Forse è successo.»
+p03118	ok
+p03119	ok
+p03120	ok
+p03121	ok
+p03122	ok
+p03123	issue	rhythm	low	«Per tutto il tempo del tutto inconsapevole» ripete tutto due volte; e comportamento / si comporterebbe sono attaccati.	ne imiterebbe il comportamento, agirebbe esattamente come tutti gli altri. E intanto, completamente inconsapevole di quello che stava facendo.
+p03124	ok
+p03125	ok
+p03126	issue	register	low	I dunno di Sascha è più colloquiale di «Non lo so» (scheda dei personaggi: contrazioni, I dunno).	«Boh, Rob. È solo che sembra–»
+p03127	ok
+p03128	ok
+p03129	issue	calque	low	«Il che rende interessante notare» ricalca makes it interesting to note.	Il che fa venire in mente quanti sociopatici compaiano nelle alte sfere del mondo, hmm?
+p03130	ok
+p03131	ok
+p03132	ok
+p03133	ok
+p03134	issue	doubt	low	Dubbio 46: play-actor sottolinea la finzione; commediante la tiene meglio di attore, che è neutro.	«Wow. Il commediante perfetto.»
+p03135	ok
+p03136	ok
+p03137	issue	doubt	low	Dubbio 48: in the loop è essere al corrente; nel giro suggerisce la cerchia di complici. Al corrente è più esatto.	Il che voleva dire che mi voleva ancora al corrente.
+p03138	ok
+p03139	ok
+p03140	issue	meaning	high	«O qualcosa.» in italiano si legge come o qualcosa del genere; Or something had dice che a parlare era stata una cosa, non lui (il vampiro come cosa, la voce di Dio di p03032).	Era stato lui a dirmelo. O era stato qualcosa. Durante l'aggressione.
+p03141	ok
+p03142	ok
+p03143	ok
+p03144	ok
+p03145	ok

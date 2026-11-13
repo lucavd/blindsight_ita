@@ -8,7 +8,17 @@ generated:
   at: "2026-11-09T23:30:00+01:00"
 ---
 
+## 2026-11-13
+
+La quinta sessione di revisione (R5) è chiusa: il PI ha approvato il riassunto senza dubbi nuovi. Prossima sessione: la sesta di revisione (R6), blocchi dal 37 al 41, con Opus 5.5.
+
 ## 2026-11-12
+
+La quinta sessione di revisione (R5) è chiusa, senza decisioni per il PI; aspetta la sua lettura del riassunto. Versione finale dei blocchi dal 30 al 36, 666 paragrafi esaminati, cancelli tutti superati; rapporto di lunghezza mediano 1,126, quota di paragrafi cambiati mediana 0,155, un rilievo alto nel blocco 34: previsioni confermate, i blocchi 30, 35 e 36 sotto l'intervallo della quota, spiegati. Seconda lettura: 55 correzioni accolte su 666 paragrafi, 8,3 ogni 100, previsione confermata; 6 rilievi medi fondati. Spike nel blocco 30 reso «spuntone» (dubbio ricevuto); un'eco possibile con lo spike del blocco 38 passata nei dubbi ricevuti della sesta sessione di revisione (R6). Tempi aggiunti al piano. Prossima sessione: la sesta di revisione (R6), blocchi dal 37 al 41, con Opus 5.5.
+
+Aperta la quinta sessione di revisione (R5) sui blocchi dal 30 al 36, con Opus 5.5, nella chat cloud svuotata e sul ramo `sessione-R5` (decisione sulla chat cloud riaperta, D-27). Sorgente integra (50 file), epubcheck 4.2.6 presente, nessuna pull request aperta, lavoro della quarta sessione di revisione già unito nel ramo principale.
+
+La quarta sessione di revisione (R4) è chiusa: il PI ha approvato il riassunto senza dubbi nuovi. Prossima sessione: la quinta di revisione (R5), blocchi dal 30 al 36, con Opus 5.5.
 
 La quarta sessione di revisione (R4) è chiusa, senza decisioni per il PI; aspetta la sua lettura del riassunto. Versione finale dei blocchi dal 22 al 29, 649 paragrafi esaminati, cancelli tutti superati; rapporto di lunghezza mediano 1,106, quota di paragrafi cambiati mediana 0,176, nessun rilievo alto: previsioni confermate, i blocchi 25 e 27 sotto l'intervallo della quota, spiegati. Seconda lettura: 47 correzioni accolte su 649 paragrafi, 7,2 ogni 100, previsione confermata; 3 rilievi medi fondati. Tweak dei getti reso «breve impulso» nei blocchi 23 e 26 (decisione su tweak per la pistola e i getti, D-79). Il tu generico di Cunningham può avere l'accordo al maschile (decisione sul tu generico di Cunningham, D-80), scheda dei personaggi aggiornata; blister detto di una ferita resta vescica (decisione su blister detto di una ferita, D-81), nota della voce del glossario aggiornata. Tempi aggiunti al piano. Prossima sessione: la quinta di revisione (R5), blocchi dal 30 al 36, con Opus 5.5.
 
