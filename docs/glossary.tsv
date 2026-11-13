@@ -76,7 +76,7 @@ G074	nicknames: Mandy, Meesh, Suze, Ike, Chelse, Rob, Burnsie	(?-i:\b(Mandy|Mees
 G075	Mom (Susan for her personalities; Siri's mother)	(?-i:\bMom\b)	mamma	[Mm]amma	approved	08	Siri chiama la madre Helen; quando dice Mom, mamma.
 G076	QuBit's, the Qube	QuBit|\bQube\b	QuBit's, il Qube (invariati)	QuBit|Qube	approved	06	Il locale dove Pag porta Siri.
 G077	Golem (disease)	(?-i:\bGolem\b)	Golem (invariato)	Golem	approved	32	La malattia ingegnerizzata che uccide Chelsea.
-G078	Hadzane	Hadzane	hadza (la lingua hadza)	hadza	approved	21	
+G078	Hadzane	Hadzane	hadza (la lingua hadza)	hadza(?!ne)	approved	21	L'espressione di controllo esclude hadzane, che conteneva hadza e il controllo non lo vedeva (con hadza\b il richiamo di nota attaccato, l'hadza^12^, dava un falso allarme) (blocco 41, p03814; decisione sulle correzioni nelle note del blocco 41, D-85).
 G079	topology	\btopolog	topologia	topolog	approved	02	Lessico di Siri per leggere le persone; da tenere fisso.
 G080	facets	\bfacets?\b	sfaccettature	sfaccettatur	approved	09	Lessico di Siri; anche le personalità di James. Facet detto di un poliedro (blocco 29, p02648, twenty-six-faceted, one facet) è la faccia, resa facce: falso allarme (decisione sui termini del blocco 29, D-64).
 G081	rotate (synthesist jargon)	\brotat	ruotare, rotazione	ruot|rotaz	approved	05	Gergo del sintetista per elaborare informazioni; vale anche il senso fisico.

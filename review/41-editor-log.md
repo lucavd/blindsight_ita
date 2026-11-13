@@ -37,3 +37,20 @@
 Ogni intervento è stato verificato sul paragrafo inglese.
 
 Richiami di nota: in tutti i paragrafi cambiati i richiami in apice restano identici e nella stessa posizione. Paragrafi della prosa cambiati rispetto alla prima stesura: p03740, p03742, p03743, p03746, p03748, p03754 (6 su 19 tradotti). Note cambiate rispetto alla prima stesura: p03834 (sorgente ripristinata), p03882, p03890, p03941.
+
+# Seconda lettura
+
+- p03741, rhythm, low, accettato: «gioca a lungo con questo tema» (plays with that issue; toglie l'eco questa/questione, senso invariato).
+- p03745, typography, low, accettato: «a una relativa *frammentazione* neurologica^4^»; il richiamo resta lo stesso e va in fondo al sintagma, come in fondo alla frase nella sorgente.
+- p03756, nuance, low, accettato: «quei volti urlanti che Sarasti usò verso la fine del libro» (un episodio solo, coerente con «usò» in p03754).
+- p03808, typography, low, accettato senza modifiche: «Affara» resta; è un numero attaccato al cognome, correzione ammessa dalla decisione sulle note del blocco 41 (D-74).
+- p03814, terminology, medium, accettato: «dei fonemi a clic dell'hadza», come la voce approvata del glossario e il blocco 40.
+- p03816, typo, low, accettato: «Why We See What We Do: An Empirical Theory of Vision» (i due punti sono dentro il titolo).
+- p03827, typo, medium, accettato: *J Neuropsychiatry & Clinical Neurosciences*, al plurale come la rivista reale.
+- p03863, typography, low, accettato senza modifiche: «*Discover* 23(8)» resta; due parole attaccate sono un refuso secondo la guida (sezione 11, punto 1).
+- p03871, typography, low, accettato: «Brown Dwarfs – Faint at Heart», lineetta media spaziata come in p03910, p03925 e p03926 (il doppio trattino della sorgente sta per una lineetta lunga).
+- p03901, typo, low, respinto: il punto che manca è fra il titolo e l'editore, cioè fra due campi del riferimento, e resta come nella sorgente.
+- p03902, typography, low, accettato senza modifiche: l'apostrofo dritto resta; la guida (sezione 4, punto 4) lo vuole dritto nei file di lavoro e lo script dell'EPUB lo rende tipografico.
+- p03930, typo, low, accettato: «Pulsifer, M.B.» (punteggiatura dentro il nome).
+
+Ogni intervento è stato verificato sul paragrafo inglese. Richiami di nota invariati, nello stesso ordine. Paragrafi cambiati in questa lettura: p03741, p03745, p03756 nella prosa; p03814, p03816, p03827, p03871, p03930 nelle note.
