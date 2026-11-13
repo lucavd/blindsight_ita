@@ -14,6 +14,8 @@ generated:
 
 Il PI legge il libro e annota ciò che non lo convince in `docs/reading-notes.md`, una nota per riga, nella forma più comoda: la frase italiana (o un pezzo riconoscibile) e il commento. Questa sessione trova ogni passo, lo verifica sull'inglese e corregge.
 
+Se il PI legge sul Kindle, porta le evidenziazioni e le note esportate dal Kindle (il contenuto del file `My Clippings.txt`, incollato in chat). La sessione, come primo passo, le trascrive in `docs/reading-notes.md`, una per riga, tenendo solo quelle di Blindsight; un'evidenziazione senza nota vale «rivedere questo passo» (decisione sulle note di lettura dal Kindle, D-90).
+
 # Procedura
 
 1. Per ogni nota: trovare il paragrafo con `grep` nei blocchi finali; leggere inglese e italiano.

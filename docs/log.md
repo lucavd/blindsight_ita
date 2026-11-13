@@ -10,6 +10,8 @@ generated:
 
 ## 2026-11-13
 
+README riscritto su richiesta del PI, senza note tecniche: a che punto è il lavoro, come è stato fatto, come annotare la lettura sul Kindle ed esportare le note, come chiedere la sessione di correzioni. La sessione di correzioni (C) accetta le note esportate dal Kindle (decisione sulle note di lettura dal Kindle, D-90).
+
 La sessione finale (F) è chiusa e approvata dal PI, che ha deciso di tenere la copertina di adesso (decisione sulla copertina di 606 per 897 pixel, D-89). La traduzione è finita; resta facoltativa la sessione di correzioni dalle note di lettura del PI (C), con Opus 5.5.
 
 La sessione finale (F) è chiusa e aspetta la lettura del PI, con una decisione: la copertina. Cancelli superati: sorgente integra, controlli su tutti i 41 blocchi prima e dopo le correzioni, EPUB senza errori né avvisi di epubcheck, nessun marcatore o segnaposto nell'EPUB. Lettura di coerenza in quattro gruppi di blocchi più controlli meccanici sull'intero libro (decisione D-86): 17 incoerenze confermate in 21 paragrafi di 14 blocchi, 4 medie e 13 basse, previsione confermata (attesa 15); tutte corrette dal redattore, nessuna respinta (rese di riferimento nella decisione D-88). Forme di cortesia coerenti in tutto il libro. Controprova su 20 paragrafi estratti con il seme 20261109: nessun errore di senso, previsione confermata. Identificativo fisso dell'EPUB (D-87). Segnalazioni dei controlli identiche a quelle già spiegate. Tempi aggiunti al piano.

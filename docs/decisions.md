@@ -732,3 +732,11 @@ Decisione: la copertina dell'EPUB resta `epub/cover.jpg`, il fronte della sovrac
 Motivazione: alla chiusura della sessione finale (F) il PI ha visto l'EPUB e il riassunto, dove l'agente raccomandava di tenerla: nitida in miniatura, un po' morbida a tutto schermo su un lettore ad alta densità. Il PI ha risposto che va bene così. Chiude il dubbio sulla copertina ricevuto dalla sessione sulla sorgente (S0).
 
 Deciso da: PI. Data: 2026-11-13. Stato: valida.
+
+## D-90 Le note di lettura possono arrivare dal Kindle
+
+Decisione: il PI legge l'EPUB sul Kindle. Le note per la sessione facoltativa di correzioni (C) possono arrivare come evidenziazioni e note del Kindle, esportate con il file `My Clippings.txt` e incollate in chat; la sessione le trascrive in `docs/reading-notes.md`, una per riga, tenendo solo quelle di Blindsight. Un'evidenziazione senza nota vale «rivedere questo passo». Il passo si ritrova cercando il testo evidenziato, non con le posizioni del Kindle, che non corrispondono ai paragrafi del progetto. Il README spiega al PI come annotare ed esportare, senza note tecniche.
+
+Motivazione: il file delle evidenziazioni è il modo più semplice e sicuro per avere tutte le note dal Kindle, anche per un libro caricato dal PI; annotare sempre sullo stesso dispositivo evita che una parte delle note resti fuori dal file. Il README aggiornato toglie le istruzioni tecniche di installazione e di lancio, che non servono più a lavoro finito e nel cloud.
+
+Deciso da: agente, su richiesta del PI di aggiornare il README. Data: 2026-11-13. Stato: valida.
