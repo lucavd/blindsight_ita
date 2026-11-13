@@ -62,3 +62,9 @@ Nessuna voce del glossario o forma di cortesia da cambiare. Il passaggio di Bate
 Nota su p03125, senza modifica: would be able è un condizionale e il testo ha «sarà in grado»; lo si lascia perché fuori dal rilievo, e il futuro regge con «Sarà perfino in grado» della frase dopo (It'll).
 
 Ogni modifica della seconda lettura è stata verificata sul paragrafo inglese.
+
+# Coerenza (sessione finale)
+
+- p03050, I12, accettata: «col pensiero ti surclassano» diventa «col pensiero ti stracciano»; think rings around you prende la stessa resa dei blocchi 29 e 30 (p02662, p02753), e Sarasti riprende la tesi di Susan; ti rende you, corsivi invariati.
+
+Ogni intervento è stato verificato sul paragrafo inglese.
