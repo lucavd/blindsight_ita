@@ -56,3 +56,9 @@ Ogni intervento è stato verificato sul paragrafo inglese.
 - p02052, nuance, low, accettato: «A causa nostra», senza la colpa che on our account non contiene.
 - p02062, calque, low, accettato: «che guizzava lungo le linee ad alto contrasto» al posto del calco «giocava».
 - p02064, nuance, low, respinto: All downhill from here contiene anche il senso di declino, e qui lo chiude la caduta «di ritorno in territorio nemico»; «si va solo giù» tiene la discesa letterale e il presagio (la ragione per cui la prima revisione l'aveva scelto), mentre «è tutta discesa» in italiano vale solo «da qui è facile» e perderebbe il presagio, cambiando il tono della chiusa.
+
+# Coerenza (sessione finale)
+
+- p02040, I09, accettata: «Era sempre stata un'effrazione» diventa «Era sempre stato uno scasso», con l'accordo del participio al maschile; riprende la battuta di Bates (We're breaking and entering, Siri) resa «Stiamo facendo uno scasso» nei blocchi 13 e 19, eco che l'inglese costruisce di proposito.
+
+Ogni intervento è stato verificato sul paragrafo inglese.
