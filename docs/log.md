@@ -10,6 +10,8 @@ generated:
 
 ## 2026-11-13
 
+La sesta sessione di revisione (R6) è chiusa, senza decisioni per il PI; aspetta la sua lettura del riassunto. Versione finale dei blocchi dal 37 al 41, 520 paragrafi esaminati, cancelli tutti superati su tutti i 41 blocchi del libro; rapporto di lunghezza mediano 1,114, quota di paragrafi cambiati mediana 0,167, un rilievo alto nei blocchi 37 e 38: previsioni confermate, i blocchi 38 e 41 sotto l'intervallo della quota, spiegati. Seconda lettura: 37 correzioni su 520 paragrafi, 7,1 ogni 100, previsione confermata; 2 rilievi medi fondati, nelle note del blocco 41. L'ultimo messaggio del Capitano è al voi (decisione sul messaggio del Capitano all'equipaggio, D-82), scheda dei personaggi aggiornata; time-lapse nel glossario (decisione su time-lapse, D-83); altri refusi corretti nelle note del blocco 41 e una regola unica per le correzioni nei riferimenti (D-84 e D-85), tabella dei refusi della guida aggiornata; il controllo del glossario su Hadzane ora vede «hadzane». Lo spike del blocco 38 resta «punta». Tempi aggiunti al piano. Prossima sessione: quella finale di coerenza ed EPUB (F), con Opus 5.5.
+
 Aperta la sesta sessione di revisione (R6) sui blocchi dal 37 al 41, con Opus 5.5, nella chat cloud svuotata e sul ramo `sessione-R6` (decisione sulla chat cloud riaperta, D-27). Sorgente integra (50 file), epubcheck 4.2.6 presente, nessuna pull request aperta, lavoro della quinta sessione di revisione già unito nel ramo principale.
 
 La quinta sessione di revisione (R5) è chiusa: il PI ha approvato il riassunto senza dubbi nuovi. Prossima sessione: la sesta di revisione (R6), blocchi dal 37 al 41, con Opus 5.5.
