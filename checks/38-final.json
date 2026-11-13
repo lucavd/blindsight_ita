@@ -1,0 +1,29 @@
+{
+ "chunk": "38",
+ "stage": "final",
+ "file": "/home/user/blindsight_ita/translation/final/38.md",
+ "gates": {
+  "format": [],
+  "markers": [],
+  "empty": [],
+  "scene_breaks": [],
+  "forbidden_chars": [],
+  "placeholder_misuse": [],
+  "epigraph_decisions": []
+ },
+ "flags": {
+  "ratio_out_of_bounds": [],
+  "english_residue": [],
+  "glossary_misses": [
+   "p03513: airspace (lo spazio fisico) -> atteso spazio aereo",
+   "p03626: spike (field surge in Rorschach) -> atteso picco"
+  ],
+  "emphasis_count_differs": [],
+  "identical_to_source": []
+ },
+ "placeholders": [],
+ "ratio_median": 1.154,
+ "paragraphs": 148,
+ "changed_share": 0.15,
+ "ok": true
+}

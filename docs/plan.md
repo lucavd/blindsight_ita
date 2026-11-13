@@ -59,6 +59,8 @@ Tempi misurati nella quarta sessione di revisione (R4), su 8 blocchi (dal 22 al 
 
 Tempi misurati nella quinta sessione di revisione (R5), su 7 blocchi (dal 30 al 36, 18.159 parole), con Opus 5.5 e la seconda lettura fissa. Revisore da 3,4 a 4,5 minuti per blocco, redattore da 2,2 a 3,4: insieme 49,5 minuti, 2,72 minuti per mille parole. Seconda lettura (revisore e redattore) 30,4 minuti, 1,67 minuti per mille parole. Sotto-agenti 79,8 minuti, 4,4 minuti per mille parole; dal primo lancio all'ultimo controllo circa 89 minuti. L'ultima sessione di revisione (16.356 parole, con i blocchi 40 e 41 fatti in gran parte di note) dovrebbe quindi durare circa un'ora e mezza.
 
+Tempi misurati nella sesta sessione di revisione (R6), su 5 blocchi (dal 37 al 41, 16.356 parole, di cui buona parte dei blocchi 40 e 41 sono note bibliografiche), con Opus 5.5 e la seconda lettura fissa. Revisore da 3,4 a 5,7 minuti per blocco, redattore da 2,6 a 3,5: insieme 38,1 minuti, 2,33 minuti per mille parole. Seconda lettura (revisore e redattore) 19,7 minuti, 1,20 minuti per mille parole. Sotto-agenti 57,8 minuti, 3,5 minuti per mille parole; dal primo lancio all'ultimo controllo circa 68 minuti, meno della stima perché le note si controllano senza tradurle. Con questa la revisione del libro è finita.
+
 # Perché questi modelli
 
 Sonnet 5.5 solo per S0, che è lavoro meccanico (scaricare, dividere, contare) dove un modello più grande non cambia il risultato.

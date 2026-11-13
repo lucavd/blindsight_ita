@@ -668,3 +668,35 @@ Motivazione: la seconda lettura del blocco 22 aveva segnalato «vescica» come v
 
 Deciso da: agente. Data: 2026-11-12. Stato: valida.
 
+## D-82 Il messaggio del Capitano all'equipaggio è al voi
+
+Decisione: nel blocco 38, p03639, U dislke ordrs frm mchnes. Happier ths way. si rende al plurale, «Nn v piaccno gli ordni dll mcchne. + felici csì.». La scheda dei personaggi resta al tu fra il Capitano e Siri e ora indica questa eccezione.
+
+Motivazione: Siri ha appena chiesto «Abbiamo mai seguito i *suoi* ordini, o sei sempre stato soltanto tu?» (p03637), e il blocco 39 (p03677) scioglie il messaggio con We: «Eravamo più felici così. Non ci piacevano gli ordini dalle macchine.». U è l'equipaggio, non Siri. Voi è il plurale del tu, quindi non cambia la forma di cortesia, come nel blocco 32 (p02885), dove Sarasti passa al voi rivolgendosi alla specie. La prima stesura aveva il tu singolare («Nn t piaccno ... + felice»), che restringeva il messaggio a Siri e non si scioglieva nel blocco 39; l'ha segnalato la revisione bilingue con un rilievo medio.
+
+Deciso da: agente. Data: 2026-11-13. Stato: valida.
+
+## D-83 Time-lapse resta time-lapse
+
+Decisione: entra nel glossario, approvata dall'agente, G198 time-lapse, time-lapsed (blocchi 29 e 39): time-lapse invariato, «in time-lapse» come aggettivo. Nel blocco 39 la versione finale ha «brevi resurrezioni in time-lapse» (p03655) e «un time-lapse in avanti veloce verso l'oblio» (p03681), come i «poliedri quadridimensionali in time-lapse» del blocco 29 (p02648).
+
+Motivazione: il traduttore del blocco 39 aveva proposto nelle note «a intervalli» e «ripresa a intervalli», l'alternativa era time-lapse invariato. La revisione bilingue ha segnalato con due rilievi medi che il blocco 29, già nella versione finale, usa time-lapse, e il redattore li ha accolti. In italiano time-lapse è il nome corrente della ripresa accelerata; «a intervalli» dice la cadenza degli scatti ma non l'accelerazione, che è il senso delle due immagini (le resurrezioni di Siri a distanza di anni, i canti che cambiano a velocità accelerata). Il criterio del glossario (decisione sulle voci tecniche, D-21) vuole una voce per i termini che ricorrono in blocchi diversi.
+
+Deciso da: agente. Data: 2026-11-13. Stato: valida.
+
+## D-84 Altri tre refusi nelle note del blocco 41, il pedice di H2S e gli spazi fuori posto
+
+Decisione: nelle note del blocco 41 si correggono altri tre refusi di nomi, titoli e riviste reali, trovati dalla revisione bilingue: Change-induced in Charge-induced (p03941, l'articolo di Weissmüller e colleghi su *Science* 300), *Trends in Neuroscience* in *Trends in Neurosciences* (p03882) e Stewart, S. in Stewart, I. (p03890: «Where are the dolphins?» è di Jack Cohen e Ian Stewart). Anno, volume e pagine restano come sono anche dove sono sospetti (p03890 ha 2005, l'articolo è del 2001). In p03852 «H 2 S» diventa H~2~S, che pandoc rende come pedice. Gli spazi fuori posto prima della punteggiatura (p03834, p03841, p03842, p03849) restano come nella sorgente. La tabella dei refusi della guida di stile ora elenca le correzioni nuove.
+
+Motivazione: la guida (sezione 11, punto 1) vuole corretti i nomi reali scritti male e le lettere scambiate, mancanti o in più, e la decisione sulle note del blocco 41 (D-74) applica la regola ai riferimenti; i tre casi erano sfuggiti alla prima stesura. Un'iniziale sbagliata è un nome scritto male; l'anno sbagliato è un numero, che la stessa decisione lascia com'è. «H 2 S» è il pedice perso nella pagina web (nella pagina HTML i tre caratteri sono separati da spazi), e la prova con pandoc dà H<sub>2</sub>S. Gli spazi fuori posto non sono fra le correzioni ammesse dalla decisione D-74: la prima stesura ne aveva tolto uno solo (p03834), che la revisione ha segnalato come incoerente con le altre note, e si torna alla sorgente.
+
+Deciso da: agente. Data: 2026-11-13. Stato: valida.
+
+## D-85 Nelle note si corregge dentro i nomi e i titoli, non fra i campi
+
+Decisione: nei riferimenti bibliografici del blocco 41 si corregge ciò che è sbagliato dentro un nome, un titolo o il nome di una rivista reali: lettere scambiate, mancanti o in più, parole attaccate, punteggiatura interna al titolo o al nome. La punteggiatura e gli spazi fra un campo e l'altro del riferimento restano come nella sorgente. Dopo la seconda lettura: *Clinical Neurosciences* al plurale (p03827), i due punti nel titolo di Purves e Lotto (p03816), «Pulsifer, M.B.» (p03930), il doppio trattino di un titolo reso con la lineetta media spaziata come le lineette lunghe delle altre note (p03871); resta senza il punto il riferimento di Koch, fra il titolo e l'editore (p03901). Restano le correzioni della prima stesura che la seconda lettura chiedeva di registrare: Affara1 in Affara (p03808, un numero attaccato al cognome), *Discover*23 in *Discover* 23 (p03863, due parole attaccate), l'apostrofo dritto (p03902, la guida vuole l'apostrofo dritto nei file di lavoro e lo script dell'EPUB lo rende tipografico). La nota 12, tradotta, rende Hadzane con hadza come la voce approvata del glossario (p03814).
+
+Motivazione: la seconda lettura del blocco 41 ha trovato altri refusi nei riferimenti e alcune correzioni della prima stesura che non stavano nell'elenco della decisione sulle note del blocco 41 (D-74). Serve una regola sola, che non lasci correzioni fatte a metà: quella della guida (sezione 11, punto 1) applicata ai nomi e ai titoli, che sono ciò che un lettore cerca, e la sorgente intatta per il resto, come gli spazi fuori posto (decisione sui refusi aggiunti nelle note del blocco 41, D-84). Il doppio trattino resterebbe tale nell'EPUB (prova con pandoc). L'espressione di controllo della voce del glossario su Hadzane ora esclude hadzane, che conteneva hadza e il controllo non lo vedeva; la parola intera (hadza\b) non va, perché il controllo toglie i segni dell'apice e nel blocco 40 «l'hadza^12^» diventava hadza12, un falso allarme.
+
+Deciso da: agente. Data: 2026-11-13. Stato: valida.
+
