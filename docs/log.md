@@ -8,6 +8,10 @@ generated:
   at: "2026-11-09T23:30:00+01:00"
 ---
 
+## 2026-11-13
+
+La quinta sessione di revisione (R5) è chiusa: il PI ha approvato il riassunto senza dubbi nuovi. Prossima sessione: la sesta di revisione (R6), blocchi dal 37 al 41, con Opus 5.5.
+
 ## 2026-11-12
 
 La quinta sessione di revisione (R5) è chiusa, senza decisioni per il PI; aspetta la sua lettura del riassunto. Versione finale dei blocchi dal 30 al 36, 666 paragrafi esaminati, cancelli tutti superati; rapporto di lunghezza mediano 1,126, quota di paragrafi cambiati mediana 0,155, un rilievo alto nel blocco 34: previsioni confermate, i blocchi 30, 35 e 36 sotto l'intervallo della quota, spiegati. Seconda lettura: 55 correzioni accolte su 666 paragrafi, 8,3 ogni 100, previsione confermata; 6 rilievi medi fondati. Spike nel blocco 30 reso «spuntone» (dubbio ricevuto); un'eco possibile con lo spike del blocco 38 passata nei dubbi ricevuti della sesta sessione di revisione (R6). Tempi aggiunti al piano. Prossima sessione: la sesta di revisione (R6), blocchi dal 37 al 41, con Opus 5.5.
