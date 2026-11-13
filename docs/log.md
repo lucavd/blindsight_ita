@@ -10,6 +10,8 @@ generated:
 
 ## 2026-11-13
 
+Aperta la sesta sessione di revisione (R6) sui blocchi dal 37 al 41, con Opus 5.5, nella chat cloud svuotata e sul ramo `sessione-R6` (decisione sulla chat cloud riaperta, D-27). Sorgente integra (50 file), epubcheck 4.2.6 presente, nessuna pull request aperta, lavoro della quinta sessione di revisione già unito nel ramo principale.
+
 La quinta sessione di revisione (R5) è chiusa: il PI ha approvato il riassunto senza dubbi nuovi. Prossima sessione: la sesta di revisione (R6), blocchi dal 37 al 41, con Opus 5.5.
 
 ## 2026-11-12
